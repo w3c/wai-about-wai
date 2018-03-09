@@ -2,7 +2,7 @@
 title: Group Task Forces
 order: 7
 group: groups
-permalink: /about-wai/groups/taskforces/
+permalink: /about/groups/taskforces/
 ---
 
 Task Forces operate under specific Working Groups.

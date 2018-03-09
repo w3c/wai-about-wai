@@ -3,7 +3,7 @@ title: Accessibility Guidelines Working Group (AGWG)
 nav_title: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
 order: 2
 group: groups
-permalink: /about-wai/groups/agwg/
+permalink: /about/groups/agwg/
 ---
 
 {::options toc_levels="2" /}

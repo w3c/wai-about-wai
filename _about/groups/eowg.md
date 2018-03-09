@@ -3,7 +3,7 @@ title: Education and Outreach Working Group (EOWG)
 nav_title: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
 order: 5
 group: groups
-permalink: /about-wai/groups/eowg/
+permalink: /about/groups/eowg/
 ---
 
 {::options toc_levels="2" /}

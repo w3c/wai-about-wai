@@ -3,7 +3,7 @@ title: Accessible Rich Internet Applications (ARIA) Working Group
 nav_title: 'ARIA: Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
 order: 4
 group: groups
-permalink: /about-wai/groups/ariawg/
+permalink: /about/groups/ariawg/
 ---
 
 {::options toc_levels="2" /}

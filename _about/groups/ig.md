@@ -3,7 +3,7 @@ title: WAI Interest Group (WAIIG)
 nav_title: 'WAIIG: WAI Interest Group'
 order: 6
 group: groups
-permalink: /about-wai/groups/waiig/
+permalink: /about/groups/waiig/
 ---
 
 {::options toc_levels="2" /}

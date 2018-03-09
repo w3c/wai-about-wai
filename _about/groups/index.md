@@ -3,7 +3,7 @@ nav_title: "Overview"
 title: WAI Working Groups and Interest Groups
 order: 1
 group: groups
-permalink: /about-wai/groups/
+permalink: /about/groups/
 ---
 
 WAI has Working Groups developing accessibility guidelines and related

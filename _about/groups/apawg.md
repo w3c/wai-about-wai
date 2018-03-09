@@ -3,7 +3,7 @@ title: Accessible Platform Architectures (APA) Working Group
 nav_title: 'APA: Accessible Platform <abbr title="Working Group">WG</abbr>'
 order: 3
 group: groups
-permalink: /about-wai/groups/apawg/
+permalink: /about/groups/apawg/
 ---
 
 {::options toc_levels="2" /}
