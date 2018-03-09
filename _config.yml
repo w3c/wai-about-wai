@@ -62,7 +62,7 @@ collections:
 defaults:
   -
     scope:
-      path: "_abouts"
+      path: "_about"
     values:
       layout: "sidenav"
 
