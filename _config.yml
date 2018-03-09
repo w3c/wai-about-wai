@@ -36,7 +36,7 @@ ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 remote_theme: w3c/wai-website-theme
 
 collections:
-  about-wai:
+  about:
     area: "About WAI"
     name: "About WAI"
     shortname: "About WAI"
@@ -62,7 +62,7 @@ collections:
 defaults:
   -
     scope:
-      path: "_about-wai"
+      path: "_abouts"
     values:
       layout: "sidenav"
 

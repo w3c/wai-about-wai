@@ -1,3 +1,3 @@
 ---
-redirect_to: about-wai
+redirect_to: about
 ---
