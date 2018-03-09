@@ -1,7 +1,7 @@
 ---
 title: "About WAI"
 order: 1
-permalink: /about-wai/
+permalink: /about/
 ---
 
 {::options toc_levels="2" /}
