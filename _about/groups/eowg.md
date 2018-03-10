@@ -117,13 +117,13 @@ Archive](https://www.w3.org/WAI/highlights/archive) and **** include:
     [March 2015 Tutorials
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2015JanMar/0188.html))
 -   [**Tips for Getting
-    Started**](https://www.w3.org/WAI/gettingstarted/tips/) with Web
+    Started**]({{ "/tips/" | relative_url }}) with Web
     Accessibility ([Oct 2015 Tips
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2015OctDec/0000.html))
 -   Web Accessibility [**Laws and
     Policies**](https://www.w3.org/WAI/Policy/) ([June 2017 Policy
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2017AprJun/0195.html))
--   [**Planning and Managing**](https://www.w3.org/WAI/impl/) Web
+-   [**Planning and Managing**]({{ "/planning-and-managing/" | relative_url }}/) Web
     Accessibility update ([Dec 2016 Planning announcement on 3
     updates](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016OctDec/0164.html))
 -   **[How People with Disabilities Use the

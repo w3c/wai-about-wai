@@ -209,7 +209,7 @@ translation now, or wait until the document is updated.
 
 -   **Involving Users in Web Projects for Better, Easier Accessibility**
     -   status: stable (updated 7 April 2010)
-    -   [www.w3.org/WAI/users/involving](http://www.w3.org/WAI/users/involving.html)
+    -   [www.w3.org/WAI/users/involving]({{ "/plan/involving-users/" | relative_url }})
 -   **Improving the Accessibility of Your Web Site**
     -   status: stable
     -   [www.w3.org/WAI/impl/improving.html](http://www.w3.org/WAI/impl/improving.html)
@@ -231,7 +231,7 @@ translation now, or wait until the document is updated.
     -   [www.w3.org/WAI/eval/selectingtools.html](http://www.w3.org/WAI/eval/selectingtools.html)
 -   **Involving Users in Evaluating Web Accessibility**
     -   status: stable (updated 7 April 2010)
-    -   [www.w3.org/WAI/eval/users.html](http://www.w3.org/WAI/eval/users.html)
+    -   [www.w3.org/WAI/eval/users.html]({{ "/test-evaluate/involving-users/" | relative_url }})
 -   **Evaluation Resource Suite**
     -   status: most material outdated, although some still useful
     -   [www.w3.org/WAI/eval/](/WAI/eval/)
