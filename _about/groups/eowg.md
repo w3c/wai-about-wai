@@ -127,7 +127,7 @@ Archive](https://www.w3.org/WAI/highlights/archive) and **** include:
     Accessibility update ([Dec 2016 Planning announcement on 3
     updates](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016OctDec/0164.html))
 -   **[How People with Disabilities Use the
-    Web](https://www.w3.org/WAI/intro/people-use-web/)** updated in May
+    Web]({{ "/people-use-web/" | relative_url }})** updated in May
     2017
 -   WCAG-EM **[Report Tool](http://www.w3.org/WAI/eval/report-tool/)**:
     Web Accessibility Evaluation Report Generator ([March 2015 Report
