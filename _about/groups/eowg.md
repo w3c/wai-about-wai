@@ -105,7 +105,7 @@ Archive](https://www.w3.org/WAI/highlights/archive) and **** include:
     2016 Easy Checks updated
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016OctDec/0165.html))
 -   Web Accessibility [**Perspectives -
-    videos**](https://www.w3.org/WAI/perspectives/): Explore the Impact
+    videos**]({{ "/perspective-videos/" | relative_url }}/): Explore the Impact
     and Benefits for Everyone ([Sept 2016 Perspectives updated
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016JulSep/0274.html),
     [May 2016 Perspectives
