@@ -47,8 +47,8 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
 
 -   **European Commission (EC) [Horizon 2020]( https://ec.europa.eu/programmes/horizon2020/)** (780057) ([WAI-Tools Project](https://www.w3.org/WAI/Tools/))
 
--   **[IBM Corporation](http://www.ibm.com/able) (Gold Sponsor)
-    ![]**(https://w3.org/Icons/ibm_screen_blue_2px.gif)
+-   **[IBM Corporation](http://www.ibm.com/able) (Gold Sponsor)**
+    ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
 
 -   **[Bocoup](https://bocoup.com/) (Silver Sponsor)**
 
