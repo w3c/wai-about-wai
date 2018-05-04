@@ -45,6 +45,7 @@ collections:
     output: true
     acknowledgements: false
     permalink: /:collection/:path/
+    parent: "/"
     groups:
       - name: index # Note: index is a magic word, it links to the index of the resource
         title: About WAI
