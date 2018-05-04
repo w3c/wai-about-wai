@@ -1,6 +1,6 @@
 ---
 title: Education and Outreach Working Group (EOWG)
-nav_title: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
+nav_title: '<span>EOWG: Education and Outreach <abbr title="Working Group">WG</abbr></span>'
 order: 5
 group: groups
 permalink: /about/groups/eowg/
