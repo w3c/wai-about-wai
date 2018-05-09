@@ -3,7 +3,7 @@ title: "About W3C WAI"
 order: 1
 permalink: /about/
 footer: > # Text in footer in HTML
-  <!-- <p><strong>Date:</strong> Updated 27 April 2018.</p> -->
+  <p><strong>Date:</strong> Updated 9 May 2018.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
