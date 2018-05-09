@@ -50,17 +50,14 @@ accessibility of the Web through five primary activities:
 -   coordinating with research and development that can affect future
     accessibility of the Web
 
-## How WAI is Organized
+## WAI Groups
 
-WAI is an initiative of the W3C, with the following Working Groups and
-Interest Group:
+WAI is an initiative of the W3C. It includes the following Working Groups and Interest Group:
 
--   [Accessible Platform Architectures (APA) Working
-    Group](https://www.w3.org/WAI/APA/)
--   [Accessible Rich Internet Applications (ARIA) Working
-    Group](https://www.w3.org/WAI/ARIA/)
--   [Education and Outreach Working Group (EOWG)](/WAI/EO/)
--   [Evaluation and Repair Tools Working Group (ERT WG)](/WAI/ER/)
--   [WAI Interest Group (WAI IG)](/WAI/IG/)
--   [Web Content Accessibility Guidelines Working Group (WCAG
-    WG)](/WAI/GL/)
+-   [Accessibility Guidelines Working Group (AG WG)](https://www.w3.org/WAI/GL/) (formerly the Web Content Accessibility Guidelines Working Group)
+-   [Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/)
+-   [Accessible Rich Internet Applications (ARIA) Working Group](https://www.w3.org/WAI/ARIA/)
+-   [Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/)
+-   [WAI Interest Group (WAI IG)](https://www.w3.org/WAI/IG/)
+
+Within the Working Groups, there are also [Task Forces](https://www.w3.org/WAI/grouptf).
