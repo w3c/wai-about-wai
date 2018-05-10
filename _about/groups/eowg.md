@@ -19,8 +19,7 @@ permalink: /about/groups/eowg/
 {% include_cached toc.html type="end" %}
 {:/}
 
-*[**Current Work**](#deliv) and **recent
-[Publications](#pubs)**[](#pubs) are listed lower on this page.*
+*[**Current Work**](#deliv) and **recent [Publications](#pubs)** are listed lower on this page.*
 
 ## Announcements and Meetings for EOWG Participants
 
@@ -203,7 +202,7 @@ EOWG primarily conducts work through:
     Statement](http://www.w3.org/WAI/EO/2004/lexicon) and
     [Lexicon/Glossary Requirements](/WAI/EO/changelogs/cl-lexicon)
 6.  \[drafted\] [Evaluation Resource Suite Task Force (ERS TF) Work
-    Statement](2005/erstf) and [ERSTF Requirements](2005/ers-req)
+    Statement](https://www.w3.org/WAI/EO/2005/erstf) and [ERSTF Requirements](https://www.w3.org/WAI/EO/2005/ers-req)
 7.  \[closed\] [Web Accessibility and Ageing Task Force (WAI-AGE TF)
     Work Statement](http://www.w3.org/WAI/EO/2008/wai-age-tf.html)
 8.  \[closed\] [WAI Site Task Force (WSTF) Work
@@ -216,7 +215,7 @@ EOWG primarily conducts work through:
     archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are
     publicly available for the EOWG main mailing list
 -   Instructions for [subscribing to the EOWG mailing
-    list](participation.html#mail)
+    list](https://www.w3.org/WAI/EO/participation.html#mail)
 -   [EO-Editors mailing list
     archives](http://lists.w3.org/Archives/Public/wai-eo-editors/) are
     publicly available for edits of specific documents

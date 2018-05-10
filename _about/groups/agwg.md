@@ -41,7 +41,7 @@ comment by **16 January 2018**.
 ## Current Work
 
 The Working Group maintains a comprehensive list of
-[publications](deliverables), which include:
+[publications](https://www.w3.org/WAI/GL/deliverables), which include:
 
 -   WCAG 2.1,
 -   Understanding WCAG 2.0,
@@ -49,7 +49,7 @@ The Working Group maintains a comprehensive list of
 -   Errata for WCAG 2.0, and
 -   Accessibility Guidelines 3.0 ("Silver").
 
-The [Project Plan](project) details intended timeline and milestones for
+The [Project Plan](https://www.w3.org/WAI/GL/project) details intended timeline and milestones for
 this work. A [list of
 publications](https://www.w3.org/TR/tr-groups-all#tr_Web_Content_Accessibility_Guidelines_Working_Group)
 on the W3C Technical Reports page includes completed deliverables that
@@ -57,7 +57,7 @@ are no longer worked on by the Working Group.
 
 ## Task Forces
 
-The AG WG uses [task forces](task-forces) to focus work on specific
+The AG WG uses [task forces](https://www.w3.org/WAI/GL/task-forces) to focus work on specific
 projects. Current task forces include:
 
 -   [Accessibility Conformance Testing (ACT) Task
@@ -69,14 +69,14 @@ projects. Current task forces include:
     operated with the Accessible Platform Architectures WG to improve
     Web accessibility for people with cognitive and learning
     disabilities;
--   [Low Vision Accessibility Task Force](low-vision-a11y-tf/): identify
+-   [Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/): identify
     issues and specify solutions to web accessibility issues specific to
     users with low vision;
--   [Mobile Accessibility Task Force](mobile-a11y-tf/): produce
+-   [Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/): produce
     techniques, understanding and guidance documents as well as updates
     to existing related W3C / WAI material that addresses the mobile
     space;
--   [Silver Task Force](task-forces/silver/): perform preliminary
+-   [Silver Task Force](https://www.w3.org/WAI/GL/task-forces/silver/): perform preliminary
     development of a new version of Accessibility Guidelines following a
     research-focused, user-centered design methodology. Also see the
     [Silver Community Group](https://www.w3.org/community/silver/).
@@ -86,28 +86,26 @@ projects. Current task forces include:
 The Accessibility Guidelines Working Group engages with stakeholders in
 a variety of ways. See the following resources for information on:
 
--   [How to contribute to the Working Group and file
-    comments](/WAI/WCAG20/comments/);
--   [How to contribute to the source repository
-    directly](https://github.com/w3c/wcag/);
--   [How to participate in (join) the Working Group](participation).
+-   [How to contribute to the Working Group and file comments](/WAI/WCAG20/comments/);
+-   [How to contribute to the source repository directly](https://github.com/w3c/wcag/);
+-   [How to participate in (join) the Working Group](https://www.w3.org/WAI/GL/participation).
 
 ## Meetings and Communication
 
 The AG WG conducts its work using a variety of synchronous and
-asynchronous tools. The [communication](communication) page provides
+asynchronous tools. The [communication](https://www.w3.org/WAI/GL/communication) page provides
 details about:
 
 -   Teleconferences of the Working Group and its task forces (also see
-    [meeting minutes](minutes));
+    [meeting minutes](https://www.w3.org/WAI/GL/minutes));
 -   Face to face meetings (also see face to face [meeting
-    pages](wiki/Meetings));
+    pages](https://www.w3.org/WAI/GL/wiki/Meetings));
 -   Email lists;
 -   [WCAG 2.0 source repository](https://github.com/w3c/wcag/) and [WCAG
     2.1 source repository](https://github.com/w3c/wcag21/);
 -   [Wiki](wiki/);
 -   [Web-Based Surveys (WBS)](/2002/09/wbs/35422/);
--   [Issue Tracker](track/);
+-   [Issue Tracker](https://www.w3.org/WAI/GL/track/);
 -   [WCAG 2.0 source repository issue
     tracker](https://github.com/w3c/wcag/issues) and [WCAG 2.1 source
     repository issue tracker](https://github.com/w3c/wcag21/issues).
@@ -115,8 +113,6 @@ details about:
 These tools are used by participants of the Working Group. For ways
 non-participants can contribute, see [How to contribute to the Working
 Group and file comments](/WAI/WCAG20/comments/).
-
-</div>
 
 {::nomarkdown}
 {% include box.html type="start" title="Administrative Information" class="large" h="2" %}
@@ -138,9 +134,9 @@ inquiries may be sent to <group-ag-chairs@w3.org>.
 
 The AG WG maintains the following operational resources:
 
--   [Decision policy](decision-policy);
--   [Record of decisions made by the WG](wiki/Decisions);
--   [meeting minutes](minutes-history).
+-   [Decision policy](https://www.w3.org/WAI/GL/decision-policy);
+-   [Record of decisions made by the WG](https://www.w3.org/WAI/GL/wiki/Decisions);
+-   [meeting minutes](https://www.w3.org/WAI/GL/minutes-history).
 
 W3C maintains a [public list of any patent
 disclosures](http://www.w3.org/2004/01/pp-impl/35422/status) made in

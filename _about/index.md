@@ -12,13 +12,13 @@ footer: > # Text in footer in HTML
 {% include box.html type="start" h="2" title="Brief" class="full" %}
 {:/}
 
-**[WAI develops...](Resources/Overview)**
+**[WAI develops…](https://www.w3.org/WAI/Resources/Overview)**
 
 -   guidelines which are widely regarded as the international standard for Web accessibility
 -   support materials to help understand and implement Web accessibility
 -   resources, through international collaboration
 
-**[WAI welcomes...](participation)**
+**[WAI welcomes…]({{ "/get-involved/" | relative_url }})**
 
 -   participation from around the world
 -   volunteers to review, implement, and promote guidelines
@@ -60,10 +60,10 @@ WAI, in partnership with organizations around the world, pursues accessibility o
 
 WAI includes the following Working Groups and Interest Group:
 
--   [Accessibility Guidelines Working Group (AG WG)](https://www.w3.org/WAI/GL/) (formerly the Web Content Accessibility Guidelines Working Group)
--   [Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/)
--   [Accessible Rich Internet Applications (ARIA) Working Group](https://www.w3.org/WAI/ARIA/)
--   [Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/)
--   [WAI Interest Group (WAI IG)](https://www.w3.org/WAI/IG/)
+-   [Accessibility Guidelines Working Group (AG WG)]({{ "/about/groups/agwg/" | relative_url }}) (formerly the Web Content Accessibility Guidelines Working Group)
+-   [Accessible Platform Architectures (APA) Working Group]({{ "/about/groups/apa/" | relative_url }})
+-   [Accessible Rich Internet Applications (ARIA) Working Group]({{ "/about/groups/aria/" | relative_url }})
+-   [Education and Outreach Working Group (EOWG)]({{ "/about/groups/eowg/" | relative_url }})
+-   [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
 
-Within the Working Groups, there are also [Task Forces](https://www.w3.org/WAI/grouptf).
+Within the Working Groups, there are also [Task Forces]({{ "/about/groups/taskforces/" | relative_url }}).

@@ -192,7 +192,7 @@ translation now, or wait until the document is updated.
 -   **Developing a Web Accessibility Business Case for Your
     Organization**
     -   status: stable (updated September 2010)
-    -   [www.w3.org/WAI/bcase/](bcase/)
+    -   [www.w3.org/WAI/bcase/](https://www.w3.org/WAI/bcase/)
 -   **Web Accessibility and Older People: Meeting the Needs of Ageing
     Web Users**
     -   status: stable
@@ -215,7 +215,7 @@ translation now, or wait until the document is updated.
     -   [www.w3.org/WAI/impl/improving.html](http://www.w3.org/WAI/impl/improving.html)
 -   **Implementation Plan for Web Accessibility**
     -   status: stable
-    -   [www.w3.org/WAI/impl/](impl/expanded.html)
+    -   [www.w3.org/WAI/impl/](https://www.w3.org/WAI/impl/expanded.html)
     -   [translations of Implementation Planning for Web
         Accessibility](/2003/03/Translations/byTechnology?technology=expanded)
     -   Note that the link above is to the "expanded" version of the

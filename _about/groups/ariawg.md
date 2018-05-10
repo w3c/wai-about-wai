@@ -55,12 +55,12 @@ status](deliverables), which include:
     SVG, and
 -   WAI-ARIA Authoring Practices.
 
-The [ARIA Project Plan](project) details intended timeline and
+The [ARIA Project Plan](https://www.w3.org/WAI/ARIA/project) details intended timeline and
 milestones for this work.
 
 ## Task Forces
 
-The ARIA WG uses [task forces](task-forces) to focus work on specific
+The ARIA WG uses [task forces](https://www.w3.org/WAI/ARIA/task-forces) to focus work on specific
 projects. Current task forces include:
 
 -   [User Agent Implementation Task
@@ -80,7 +80,7 @@ projects. Current task forces include:
     assistive technologies, easy reusability. and native validation;
 -   ARIA Authoring Practices sub-group: focuses on ARIA Authoring
     Practices.
--   [Personalization Task Force](task-forces/personalization/): refine
+-   [Personalization Task Force](https://www.w3.org/WAI/ARIA/task-forces/personalization/): refine
     the [Personalization
     Semantics](https://www.w3.org/TR/personalization-semantics-1.0/)
     specification.
@@ -92,12 +92,12 @@ See the following resources for information on:
 
 -   [How to contribute to the Working Group, file comments, and
     contribute to the source code repositories](contribute);
--   [How to participate in (join) the Working Group](participation).
+-   [How to participate in (join) the Working Group](https://www.w3.org/WAI/ARIA/participation).
 
 ## Meetings and Communication
 
 The ARIA WG conducts its work using a variety of synchronous and
-asynchronous tools. The [communication](communication) page provides
+asynchronous tools. The [communication](https://www.w3.org/WAI/ARIA/communication) page provides
 details about:
 
 -   Teleconferences of the Working Group and its task forces (also see
@@ -106,9 +106,9 @@ details about:
     pages](wiki/Meetings));
 -   Email lists;
 -   [ARIA source repository](https://github.com/w3c/aria/);
--   [Wiki](wiki/);
+-   [Wiki](https://www.w3.org/WAI/ARIA/wiki/);
 -   [Web-Based Surveys (WBS)](/2002/09/wbs/83726/);
--   [Issue Tracker](track/);
+-   [Issue Tracker](https://www.w3.org/WAI/ARIA/track/);
 -   [ARIA source repository issue
     tracker](https://github.com/w3c/aria/issues).
 
@@ -133,10 +133,10 @@ general support, is [Michael Cooper](http://www.w3.org/People/cooper/).
 The Accessible Rich Internet Architectures maintains the following
 operational resources:
 
--   [Decision policy](decision-policy);
--   [Record of decisions made by the WG](wiki/Decisions);
--   [Archives of past activity](archive);
--   [meeting minutes](minutes).
+-   [Decision policy](https://www.w3.org/WAI/ARIA/decision-policy);
+-   [Record of decisions made by the WG](https://www.w3.org/WAI/ARIA/wiki/Decisions);
+-   [Archives of past activity](https://www.w3.org/WAI/ARIA/archive);
+-   [meeting minutes](https://www.w3.org/WAI/ARIA/minutes).
 
 W3C maintains a [public list of any patent
 disclosures](http://www.w3.org/2004/01/pp-impl/83726/status) made in

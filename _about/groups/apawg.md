@@ -45,7 +45,7 @@ comment by **16 January 2018**.
 The APA WG is engaged on the following work:
 
 -   Publications: The Working Group maintains a comprehensive list of
-    [publications and status](deliverables), which include:
+    [publications and status](https://www.w3.org/WAI/APA/deliverables), which include:
     -   Media Accessibility User Requirements,
     -   Payment Accessibility User Requirements,
     -   Web Technology Accessibility Guidelines plus checklist, and
@@ -65,22 +65,22 @@ The APA WG is engaged on the following work:
         to other Working Groups, to ensure that comments are resolved
         and for history when later comments are filed.
 
-The [APA Project Plan](project) details intended timeline and milestones
+The [APA Project Plan](https://www.w3.org/WAI/APA/project) details intended timeline and milestones
 for this work.
 
 ## Task Forces
 
-The APA WG uses [task forces](task-forces) to focus work on specific
+The APA WG uses [task forces](https://www.w3.org/WAI/APA/task-forces) to focus work on specific
 projects. Current task forces include:
 
 -   [Cognitive Accessibility Task Force](/WAI/PF/cognitive-a11y-tf/):
     jointly operated with the Accessibility Guidelines WG to improve Web
     accessibility for people with cognitive and learning disabilities;
--   [CSS Accessibility Task Force](task-forces/css-a11y/): jointly
+-   [CSS Accessibility Task Force](https://www.w3.org/WAI/APA/task-forces/css-a11y/): jointly
     operated with the ARIA WG and CSS WG to identify accessibility
     problems that can be created by use of Cascading Style Sheets (CSS),
     and to develop solutions;
--   [Research Questions Task Force](task-forces/research-questions/):
+-   [Research Questions Task Force](https://www.w3.org/WAI/APA/task-forces/research-questions/):
     works to identify accessibility knowledge gaps and barriers in
     emerging and future web technologies.
 -   [HTML Accessibility Task Force](/WAI/PF/html-task-force) (inactive):
@@ -108,18 +108,18 @@ See the following resources for information on:
 ## Meetings and Communication
 
 The APA WG conducts its work using a variety of synchronous and
-asynchronous tools. The [communication](communication) page provides
+asynchronous tools. The [communication](https://www.w3.org/WAI/APA/communication) page provides
 details about:
 
 -   Teleconferences of the Working Group and its task forces (also see
-    [meeting minutes](minutes));
+    [meeting minutes](https://www.w3.org/WAI/APA/minutes));
 -   Face to face meetings (also see face to face [meeting
     pages](wiki/Meetings));
 -   Email lists;
 -   [apa source repository](https://github.com/w3c/apa/);
 -   [Wiki](wiki/);
 -   [Web-Based Surveys (WBS)](/2002/09/wbs/83907/);
--   [Issue Tracker](track/);
+-   [Issue Tracker](https://www.w3.org/WAI/APA/track/);
 -   [Bugzilla](https://www.w3.org/Bugs/Public/);
 -   [apa source repository issue
     tracker](https://github.com/w3c/apa/issues).

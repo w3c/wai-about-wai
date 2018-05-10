@@ -154,9 +154,9 @@ Sponsors](http://www.w3.org/WAI/Sponsor).
 
 ### Past WAI IG Meetings
 
--   [March 19, 2005, Los Angeles, California, USA](2005/03-agenda.html)
+-   [March 19, 2005, Los Angeles, California, USA](https://www.w3.org/WAI/EO/s2005/03-agenda.html)
 -   [March 19, 2004, Los Angeles, California,
-    USA](http://www.w3.org/WAI/IG/2004/03-agenda.html)
+    USA](c2004/03-agenda.html)
 -   [March 22, 2003, Los Angeles, California,
     USA](http://www.w3.org/WAI/IG/2003/03-agenda.html)
 -   [March 25, 2002, Los Angeles, California,
