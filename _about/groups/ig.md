@@ -45,6 +45,11 @@ Meetings of other WAI groups are listed on the [WAI
 Events](http://www.w3.org/WAI/events.html#upcoming) page. [Past WAI IG
 meetings](#past_meetings) are listed below.
 
+## Other Working Group Pages
+
+-   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/IG/charter5)
+-   [E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
+
 ## Mailing List
 
 [**Archives of the WAI Interest Group mailing

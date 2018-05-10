@@ -24,6 +24,21 @@ guidelines to make Web content accessible for people with disabilities
 and to develop and maintain implementation support materials for the Web
 Content Accessibility Guidelines.
 
+## Other Working Group Pages
+
+-   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/GL/charter)
+-   [Decision Policy](https://www.w3.org/WAI/GL/decision-policy)
+-   [Task Forces](https://www.w3.org/WAI/GL/task-forces)
+-   [Communication](https://www.w3.org/WAI/GL/communication)
+-   [Deliverables](https://www.w3.org/WAI/GL/deliverables)
+-   [Project Plan](https://www.w3.org/WAI/GL/project)
+-   [Comment on Deliverables](/WAI/WCAG20/comments/)
+-   [How to Join (Participation)](https://www.w3.org/WAI/GL/participation)
+-   [Current Participants ![External](//www.w3.org/Icons/tr.png)](/2000/09/dbwg/details?group=35422&public=1)
+-   [Minutes ![External](//www.w3.org/Icons/tr.png)](/WAI/GL/minutes-history)
+-   [E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-gl/)
+
+
 ## Announcements
 
 *2017-12-07* - **Cognitive Accessibility Roadmap and Gap Analysis First

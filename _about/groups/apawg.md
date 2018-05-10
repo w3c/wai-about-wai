@@ -26,6 +26,21 @@ of W3C specifications, development of technical support materials,
 collaboration with other Working Groups, and coordination of harmonized
 accessibility strategies within W3C.
 
+## Other Working Group Pages
+
+-   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/APA/charter)
+-   [Task Forces](https://www.w3.org/WAI/APA/task-forces)
+-   [Contribute](https://www.w3.org/WAI/APA/contribute)
+-   [Participation](https://www.w3.org/WAI/APA/participation)
+-   [Current Participants ![External](//www.w3.org/Icons/tr.png)](/2000/09/dbwg/details?group=83907&public=1)
+-   [Deliverables](https://www.w3.org/WAI/APA/deliverables)
+-   [Timelines](https://www.w3.org/WAI/APA/project)
+-   [Meeting Minutes](https://www.w3.org/WAI/APA/minutes)
+-   [Decision Policy](https://www.w3.org/WAI/APA/decision-policy)
+-   [APA E-mail Archives ![External](//www.w3.org/Icons/tr.png)](https://lists.w3.org/Archives/Public/public-apa/)
+-   [APA Admin E-mail Archives ![External](//www.w3.org/Icons/tr.png)](https://lists.w3.org/Archives/Public/public-apa-admin/)
+-   [XTECH E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/wai-xtech/)
+
 ## Announcements
 
 *2017-12-07* - **Cognitive Accessibility Roadmap and Gap Analysis First

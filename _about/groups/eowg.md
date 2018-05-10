@@ -88,6 +88,17 @@ addition to teleconferences. We use a
 developing requirements and organizing project documentation. (We don't
 use e-mail much.)
 
+## Other Working Group Pages
+
+-   [Wiki ![External](//www.w3.org/Icons/tr.png)](/WAI/EO/wiki/Main_Page)
+-   [Minutes](https://www.w3.org/WAI/EO/Minutes)
+-   [Deliverables](https://www.w3.org/WAI/EO/EO-Deliverables)
+-   [Current Participants](https://www.w3.org/WAI/EO/EOWG-members)
+-   [How to Join (Participation)](https://www.w3.org/WAI/EO/participation)
+-   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/EO/charter2017)
+-   [E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-eo/)
+-   [Redesign Project](../redesign/project)
+
 ## Publications
 
 EOWG deliverables announcements since 2005 are listed in the [Highlights
