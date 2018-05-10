@@ -209,7 +209,7 @@ translation now, or wait until the document is updated.
 
 -   **Involving Users in Web Projects for Better, Easier Accessibility**
     -   status: stable (updated 7 April 2010)
-    -   [www.w3.org/WAI/users/involving]({{ "/plan/involving-users/" | relative_url }})
+    -   [www.w3.org/WAI/users/involving]({{ "/planning/involving-users/" | relative_url }})
 -   **Improving the Accessibility of Your Web Site**
     -   status: stable
     -   [www.w3.org/WAI/impl/improving.html](http://www.w3.org/WAI/impl/improving.html)
