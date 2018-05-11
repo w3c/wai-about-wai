@@ -1,7 +1,6 @@
 ---
 title: Participating in WAI
 nav_title: "Participating"
-layout: default
 order: 2
 ---
 
