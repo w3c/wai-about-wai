@@ -41,17 +41,7 @@ Content Accessibility Guidelines.
 
 ## Announcements
 
-*2017-12-07* - **Cognitive Accessibility Roadmap and Gap Analysis First
-Public Working Draft**: The [Cognitive and Learning Disabilities
-Accessibility Task Force](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
-has published a first public Working Draft of [Cognitive Accessibility
-Roadmap and Gap
-Analysis](https://www.w3.org/TR/2017/WD-coga-gap-analysis-20171207/). It
-explores user needs for people with cognitive or learning disabilities
-and identifies where additional web content authoring guidance is needed
-to help authors meet these needs. This information is important to new
-guidance being added to Web Content Accessibility Guidelines 2.1. Please
-comment by **16 January 2018**.
+No announcements at the moment.
 
 ## Current Work
 

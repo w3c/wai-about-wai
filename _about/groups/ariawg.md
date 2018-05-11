@@ -47,21 +47,7 @@ bridge known gaps.
 
 ## Announcements
 
-*2017-12-14* - **WAI-ARIA 1.1, Core-AAM 1.1, DPub-ARIA 1.0, and DPub-AAM
-1.0 are Recommendations and APG is Note**: The [Accessible Rich Internet
-Applications Working Group](https://www.w3.org/WAI/ARIA/) has published
-[Accessible Rich Internet Applications (WAI-ARIA)
-1.1](https://www.w3.org/TR/wai-aria/), [Core Accessibility API Mappings
-1.1](https://www.w3.org/TR/core-aam/), [Digital Publishing WAI-ARIA
-Module 1.0](https://www.w3.org/TR/dpub-aria/), and [Digital Publishing
-Accessibility API Mappings 1.0](https://www.w3.org/TR/dpub-aam/) as W3C
-Recommendations plus [WAI-ARIA Authoring Practices
-1.1](https://www.w3.org/TR/wai-aria-practices/) as a Working Group Note.
-More information about these publications is available in the [WAI-ARIA
-1.1 is Recommendation
-email](https://lists.w3.org/Archives/Public/w3c-wai-ig/2017OctDec/0239.html)
-and the [WAI-ARIA 1.1 Authoring Practices Note blog
-post](https://www.w3.org/blog/2017/12/wai-aria-authoring-practices-note).
+No announcements at the moment.
 
 ## Current Work
 
