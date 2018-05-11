@@ -1,7 +1,7 @@
 ---
 title: "Sponsoring WAI"
 nav_title: "Sponsoring"
-order: 4
+order: 5
 ---
 
 {::options toc_levels="2" /}

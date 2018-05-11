@@ -1,7 +1,7 @@
 ---
 title: "WAI Projects"
 nav_title: "Projects"
-order: 5
+order: 6
 ---
 
 [WAI-Core 2015 Project Reference](/WAI/CORE2015/)
