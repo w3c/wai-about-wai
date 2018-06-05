@@ -8,7 +8,7 @@ permalink: /about/groups/
 
 WAI has Working Groups developing accessibility guidelines and related
 work, and Interest Groups providing a forum for discussing Web
-accessibility issues. **[Participating in WAI](participation)**
+accessibility issues. **[Participating in WAI]({{ "/get-involved/" | relative_url }})**
 describes generally how to participate in WAI work. To find out more
 about participating in a specific WAI group, see the group's home page
 linked below. WAI working groups often have Task Forces operating under
