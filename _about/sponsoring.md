@@ -54,8 +54,6 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
 
 -   **[HP Inc.](http://www.hp.com/) (Silver Sponsor)**
 
--   [Dealslands UK](http://www.dealslands.co.uk/) (Contributor)
-
 ## Previous Sponsors and Funding
 
 ### Previous Grants and Contracts
