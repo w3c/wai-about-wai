@@ -19,12 +19,12 @@ them; see Task Force link below.
     with disabilities, and develops implementation support materials for
     the Web Content Accessibility Guidelines.
 
-[Accessible Platform Architectures (APA)]({{ "/about/groups/apa/" | relative_url }})
+[Accessible Platform Architectures (APA)]({{ "/about/groups/apawg/" | relative_url }})
 :   APA reviews specifications, develops technical support materials,
     collaborates with other Working Groups on technology accessibility,
     and coordinates harmonized accessibility strategies within W3C.
 
-[Accessible Rich Internet Applications (ARIA)]({{ "/about/groups/aria/" | relative_url }})
+[Accessible Rich Internet Applications (ARIA)]({{ "/about/groups/ariawg/" | relative_url }})
 :   ARIA develops the Accessible Rich Internet Applications (WAI-ARIA)
     suite of technologies and other technical specifications when needed
     to bridge known gaps.
