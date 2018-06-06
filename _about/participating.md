@@ -65,7 +65,7 @@ that tell you how to meet the guidelines, such as [Techniques for WCAG
 or updated techniques. There is a [form for submitting WCAG 2.0
 Techniques](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/). To submit
 techniques for other guidelines, contact the Working Group's [Team
-Contact](contacts.html#team).
+Contact](https://www.w3.org/WAI/about/contacting/#wai-staff-contacts).
 
 ### Participating in Interest Groups
 
@@ -103,8 +103,8 @@ archives.
 WAI's work is supported in part by sponsorship from industry,
 disability, and government organizations interested in contributing to
 WAI's efforts to make the Web more accessible. Please see the list of
-current sponsors on the [WAI home page](/WAI/), and [Sponsoring
-WAI](Sponsor) for more information on WAI sponsorship.
+current sponsors on the [WAI home page]({{"/" | relative_url }}), and [Sponsoring
+WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI sponsorship.
 
 ## Promoting and Implementing Web Accessibility
 
