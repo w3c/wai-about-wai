@@ -66,7 +66,7 @@ The AG WG uses [task forces](https://www.w3.org/WAI/GL/task-forces) to focus wor
 projects. Current task forces include:
 
 -   [Accessibility Conformance Testing (ACT) Task
-    Force](task-forces/conformance-testing/): develop a framework and
+    Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/): develop a framework and
     repository of test rules, to promote a unified interpretation of
     WCAG 2.0 among different web accessibility test tools;
 -   [Cognitive Accessibility Task
@@ -102,13 +102,13 @@ asynchronous tools. The [communication](https://www.w3.org/WAI/GL/communication)
 details about:
 
 -   Teleconferences of the Working Group and its task forces (also see
-    [meeting minutes](https://www.w3.org/WAI/GL/minutes));
+    [meeting minutes](https://www.w3.org/WAI/GL/minutes-history));
 -   Face to face meetings (also see face to face [meeting
     pages](https://www.w3.org/WAI/GL/wiki/Meetings));
 -   Email lists;
 -   [WCAG 2.0 source repository](https://github.com/w3c/wcag/) and [WCAG
     2.1 source repository](https://github.com/w3c/wcag21/);
--   [Wiki](wiki/);
+-   [Wiki](/WAI/GL/wiki/);
 -   [Web-Based Surveys (WBS)](/2002/09/wbs/35422/);
 -   [Issue Tracker](https://www.w3.org/WAI/GL/track/);
 -   [WCAG 2.0 source repository issue
