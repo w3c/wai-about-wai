@@ -50,7 +50,7 @@ meetings](#past_meetings) are listed below.
 -   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/IG/charter5)
 -   [E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
 
-## Mailing List
+## Mailing List {#mailinglist}
 
 [**Archives of the WAI Interest Group mailing
 list**](http://lists.w3.org/Archives/Public/w3c-wai-ig/) are useful for
