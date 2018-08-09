@@ -67,9 +67,9 @@ about joining EOWG.*
 
 ### Meeting Minutes with Agendas
 
--   [](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2017) Agendas,
+-   Agendas,
     summaries, and links to minutes: [EOWG Meetings
-    2017](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2017),
+    2018](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2018),, [EOWG 2017](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2017),
     [2016](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2016),
     [2015](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2015),
     [2014](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2014)
