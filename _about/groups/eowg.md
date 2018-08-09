@@ -68,12 +68,13 @@ about joining EOWG.*
 ### Meeting Minutes with Agendas
 
 -   Agendas,
-    summaries, and links to minutes: [EOWG Meetings
-    2018](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2018),, [EOWG 2017](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2017),
-    [2016](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2016),
-    [2015](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2015),
-    [2014](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2014)
--   Links to minutes from 2001-2013: [EOWG Minutes
+    summaries, and links to minutes: 
+    [EOWG Meetings 2018](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2018), 
+    [2017](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2017){: aria-label="2017 Minutes"},
+    [2016](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2016){: aria-label="2016 Minutes"},
+    [2015](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2015){: aria-label="2015 Minutes"},
+    [2014](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2014){: aria-label="2017 Minutes"}
+-   Links to minutes from [2001-2013: EOWG Minutes
     Archive](http://www.w3.org/WAI/EO/Minutes.html)
 
 ## Current and Upcoming Work
