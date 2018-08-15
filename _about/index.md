@@ -18,7 +18,7 @@ footer: > # Text in footer in HTML
 -   support materials to help understand and implement Web accessibility
 -   resources, through international collaboration
 
-**[WAI welcomes…]({{ "/get-involved/" | relative_url }})**
+**[WAI welcomes…]({{ "/about/participating/" | relative_url }})**
 
 -   participation from around the world
 -   volunteers to review, implement, and promote guidelines
