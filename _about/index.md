@@ -60,9 +60,9 @@ WAI, in partnership with organizations around the world, pursues accessibility o
 
 WAI includes the following Working Groups and Interest Group:
 
--   [Accessibility Guidelines Working Group (AG WG)]({{ "/about/groups/agwg/" | relative_url }}) (formerly the Web Content Accessibility Guidelines Working Group)
--   [Accessible Platform Architectures (APA) Working Group]({{ "/about/groups/apa/" | relative_url }})
--   [Accessible Rich Internet Applications (ARIA) Working Group]({{ "/about/groups/aria/" | relative_url }})
+-   [Accessibility Guidelines Working Group (AG WG)]({{ "/GL/" | relative_url }}) (formerly the Web Content Accessibility Guidelines Working Group)
+-   [Accessible Platform Architectures (APA) Working Group]({{ "/APA/" | relative_url }})
+-   [Accessible Rich Internet Applications (ARIA) Working Group]({{ "/ARIA/" | relative_url }})
 -   [Education and Outreach Working Group (EOWG)]({{ "/about/groups/eowg/" | relative_url }})
 -   [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
 
