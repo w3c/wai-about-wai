@@ -74,8 +74,8 @@ Within the Working Groups, there are also [Task Forces]({{ "/about/groups/taskfo
 <ul class="paragraph-like">
   <li><strong>WAI Announcement e-mail list</strong> - This list is for announcements from WAI.
     <ul>
-      <li>To subscribe to the list, send e-mail to <a href="mailto:public-wai-announce-request@w3.org">public-wai-announce-request@w3.org</a> with &ldquo;subscribe&rdquo; as the subject.</li>
-      <li>To unsubscribe from the list, send e-mail to <a href="mailto:public-wai-announce-request@w3.org">public-wai-announce-request@w3.org</a> with &ldquo;unsubscribe&rdquo; as the subject.</li>
+      <li>To subscribe, send e-mail to <a href="mailto:public-wai-announce-request@w3.org">public-wai-announce-request@w3.org</a> with subject: &ldquo;subscribe&rdquo;.</li>
+      <li>To unsubscribe, send e-mail to <a href="mailto:public-wai-announce-request@w3.org">public-wai-announce-request@w3.org</a> with subject: &ldquo;unsubscribe&rdquo;.</li>
       <li>You can also see the <a href="https://lists.w3.org/Archives/Public/public-wai-announce/">WAI Announce List Archives</a>.</li>
     </ul>
   </li>
