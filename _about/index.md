@@ -67,3 +67,21 @@ WAI includes the following Working Groups and Interest Group:
 -   [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
 
 Within the Working Groups, there are also [Task Forces]({{ "/about/groups/taskforces/" | relative_url }}).
+
+## Get WAI News
+
+<p><strong>You can get announcements of new WAI resources, draft documents for review, etc. from:</strong></p>
+<ul class="paragraph-like">
+  <li><strong>WAI Announcement e-mail list</strong> - This list is for announcements from WAI.
+    <ul>
+      <li>To subscribe to the list, send e-mail to <a href="mailto:public-wai-announce-request@w3.org">public-wai-announce-request@w3.org</a> with &ldquo;subscribe&rdquo; as the subject.</li>
+      <li>To unsubscribe from the list, send e-mail to <a href="mailto:public-wai-announce-request@w3.org">public-wai-announce-request@w3.org</a> with &ldquo;unsubscribe&rdquo; as the subject.</li>
+      <li>You can also see the <a href="https://lists.w3.org/Archives/Public/public-wai-announce/">WAI Announce List Archives</a>.</li>
+    </ul>
+  </li>
+  <li><strong>WAI IG e-mail list</strong> - This list is open to the public for discussing web accessibility issues. For information on subscribing and posting messages, see <a href="http://www.w3.org/WAI/IG/#mailinglist">WAI IG Mailing List</a>.</li>
+  <li><strong><a href="http://twitter.com/w3c_wai">W3C_WAI on Twitter</a></strong></li>
+  <li><strong><a href="https://www.w3.org/WAI/news/">WAI News </a></strong></li>
+</ul>
+<p>(The WAI RSS feed was retired in 2016. If you would like us to re-instate an RSS feed it in the future, please let us know via e-mail to <a href="mailto:wai-eo-editors@w3.org?subject=[RSS%20Feed]">wai-eo-editors@w3.org</a>.)</p>
+
