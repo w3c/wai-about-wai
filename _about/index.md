@@ -1,6 +1,5 @@
 ---
 title: "About W3C WAI"
-order: 1
 permalink: /about/
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 9 May 2018.</p>

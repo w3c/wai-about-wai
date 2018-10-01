@@ -1,7 +1,6 @@
 ---
 title: Participating in WAI
 nav_title: "Participating"
-order: 2
 ---
 
 {::nomarkdown}

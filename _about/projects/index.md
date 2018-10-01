@@ -1,7 +1,9 @@
 ---
 title: "WAI Projects"
-nav_title: "Projects"
-order: 6
+nav_title: "Overview"
+permalink: /about/projects/
+order: 1
+group: projects
 ---
 
 [WAI-Core 2015 Project Reference](/WAI/CORE2015/)
