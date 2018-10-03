@@ -81,7 +81,7 @@ searching for past messages and getting a feel for the list.
 -   **Send any questions about the WAI IG mailing list to
     <shawn@w3.org>**, not to the whole list.
 
-#### Subscribing to the Discussion List
+### Subscribing to the Discussion List
 
 -   **To subscribe** to the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=subscribe">public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
 -   **To unsubscribe** from the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=unsubscribe">public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
@@ -95,7 +95,7 @@ to <w3c-wai-ig-d-request@w3.org> with "subscribe" as the subject. To
 unsubscribe from the digest, send e-mail to
 <w3c-wai-ig-d-request@w3.org> with "unsubscribe" as the subject.
 
-#### Sending Messages to the Discussion list
+### Sending Messages to the Discussion list
 
 To send a message to the list, first subscribe to the list (instructions
 above), then send your message to
