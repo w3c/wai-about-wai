@@ -26,14 +26,14 @@ The Web Accessibility Initiative Interest Group (WAI IG) promotes awareness of a
 ### Other Working Group Pages
 
 -   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/IG/charter6)
--   [Discussion E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
--   [Announcements E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-announce/)
+-   [Discussion E-mail List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
+-   [Announcements E-mail List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-announce/)
 
 ## Mailing Lists {#mailinglist}
 
 There are two mailing lists:
-1. '''Announcements list (public-wai-announce)''' &mdash; for WAI announcements only.
-2. '''Discussion list (w3c-wai-ig)''' &mdash; for WAI announcements and public discussion. All announcements will also go to this discussion list, so you don't need to subscribe to both lists. In order to send messages to the list, you must send them from an e-mail address that is subscribed to the list.
+1. **Announcements list (public-wai-announce)** &mdash; for WAI announcements only.
+2. **Discussion list (w3c-wai-ig)** &mdash; for WAI announcements and public discussion. All announcements will also go to this discussion list, so you don't need to subscribe to both lists. In order to send messages to the list, you must send them from an e-mail address that is subscribed to the list.
 
 Details are below.
 
@@ -81,7 +81,7 @@ searching for past messages and getting a feel for the list.
 -   **Send any questions about the WAI IG mailing list to
     <shawn@w3.org>**, not to the whole list.
 
-### Subscribing to the Discussion List
+#### Subscribing to the Discussion List
 
 -   **To subscribe** to the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=subscribe">public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
 -   **To unsubscribe** from the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=unsubscribe">public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
@@ -95,7 +95,7 @@ to <w3c-wai-ig-d-request@w3.org> with "subscribe" as the subject. To
 unsubscribe from the digest, send e-mail to
 <w3c-wai-ig-d-request@w3.org> with "unsubscribe" as the subject.
 
-### Sending Messages to the Discussion list
+#### Sending Messages to the Discussion list
 
 To send a message to the list, first subscribe to the list (instructions
 above), then send your message to
