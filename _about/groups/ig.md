@@ -33,7 +33,7 @@ The Web Accessibility Initiative Interest Group (WAI IG) promotes awareness of a
 
 There are two mailing lists:
 1. **Announcements list (public-wai-announce)** &mdash; for WAI announcements only.
-2. **Discussion list (w3c-wai-ig)** &mdash; for WAI announcements and public discussion. All announcements will also go to this discussion list, so you don't need to subscribe to both lists. In order to send messages to the list, you must send them from an e-mail address that is subscribed to the list.
+2. **Discussion list (w3c-wai-ig)** &mdash; for WAI announcements and public discussion. All e-mails sent to the Announcements list will also go to this Discussion list, so you don't need to subscribe to both lists. If you want to send messages to the list, you must send them from an e-mail address that is subscribed to the list.
 
 Details are below.
 
