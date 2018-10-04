@@ -23,7 +23,7 @@ permalink: /about/groups/waiig/
 
 The Web Accessibility Initiative Interest Group (WAI IG) promotes awareness of and engagement in World Wide Web Consortium (W3C) accessibility work. More details are in [About WAI IG below](#about-wai-ig).
 
-### Other Working Group Pages
+**Other Working Group Pages:**
 
 -   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/IG/charter6)
 -   [Discussion E-mail List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
@@ -95,7 +95,7 @@ to <w3c-wai-ig-d-request@w3.org> with "subscribe" as the subject. To
 unsubscribe from the digest, send e-mail to
 <w3c-wai-ig-d-request@w3.org> with "unsubscribe" as the subject.
 
-### Sending Messages to the Discussion list
+### Sending Messages to the Discussion List
 
 To send a message to the list, first subscribe to the list (instructions
 above), then send your message to
