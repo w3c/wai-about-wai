@@ -1,7 +1,6 @@
 ---
 title: Contacting WAI
 nav_title: "Contacting"
-order: 4
 ---
 
 {::options toc_levels="2" /}

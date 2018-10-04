@@ -1,7 +1,6 @@
 ---
 title: Translating WAI Documents
 nav_title: Translating
-order: 3
 ---
 
 {::options toc_levels="2" /}
