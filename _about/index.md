@@ -2,7 +2,7 @@
 title: "About W3C WAI"
 permalink: /about/
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 3 October 2018.</p>
+  <p><strong>Date:</strong> Updated 5 October 2018.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -66,3 +66,9 @@ WAI includes the following Working Groups and Interest Group:
 -   [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
 
 Within the Working Groups, there are also [Task Forces]({{ "/about/groups/taskforces/" | relative_url }}).
+
+## WAI News
+
+New WAI publications, draft documents for review, and other WAI announcements are listed on the [News page](https://www.w3.org/WAI/news/).
+
+You can subscribe to get news announcements via e-mail, Atom/RSS feed, or Twitter from [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
