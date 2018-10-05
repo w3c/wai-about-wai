@@ -32,6 +32,12 @@ participation in a working group.
 like more information, please contact Shawn at +1-617-395-7664 or
 <shawn@w3.org>.**
 
+## WAI News
+
+New WAI publications, draft documents for review, and other WAI announcements are listed on the [News page](https://www.w3.org/WAI/news/).
+
+You can subscribe to get news announcements via e-mail, Atom/RSS feed, or Twitter from [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
+
 ## Participating in Guidelines and Groups
 
 See [**How WAI Develops Accessibility Guidelines through the W3C
