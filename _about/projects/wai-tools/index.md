@@ -75,7 +75,7 @@ Project Updates
 ## About the Project
 {:#about}
 
-WAI-Tools, Advanced Decision Support Tools for Scalable Web Accessibility Assessments, is an Innovation Action, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 780057). The project started on 1 November 2017 for a duration of three years. WAI-Tools drives web accessibility evaluation and repair through:
+WAI-Tools, Advanced Decision Support Tools for Scalable Web Accessibility Assessments, is an Innovation Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 780057). The project started on 1 November 2017 for a duration of three years. WAI-Tools drives web accessibility evaluation and repair through:
 
 -   Building on the on-going W3C efforts on [WCAG Accessibility Conformance Testing (ACT)](http://www.w3.org/wai/gl/task-forces/conformance-testing/);
 -   Ensuring consistent accuracy across automated, semi-automated, and manual testing;
