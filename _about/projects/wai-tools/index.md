@@ -1,5 +1,5 @@
 ---
-title: "WAI Tools"
+title: "WAI-Tools"
 permalink: /about/projects/wai-tools/
 ---
 
