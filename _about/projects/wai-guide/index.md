@@ -63,7 +63,7 @@ See also [Participating in WAI](http://www.w3.org/WAI/participation). If you hav
 ## About the Project
 {:#about}
 
-WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, is an Innovation Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project will start on 1 January 2019 for a duration of three years. WAI-Guide aims to:
+WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, is an Support Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project will start on 1 January 2019 for a duration of three years. WAI-Guide aims to:
 
 -   Provide authoritative implementation guidance and training, thereby growing capacities of available accessibility experts;
 -   Accelerate tooling support for accessible content authoring, thereby making it more cost efficient to create accessible content;
