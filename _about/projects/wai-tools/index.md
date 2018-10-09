@@ -55,7 +55,7 @@ These deliverables are complemented by project management, dissemination, and en
 
 Most of the project work listed above is developed through or in coordination with:
 
--   [auto-WCAG Community Group {% include_cached different.html %}](https://www.w3.org/community/auto-wcag/)
+-   [auto-WCAG Community Group {% include_cached different.html %}](https://auto-wcag.github.io/auto-wcag/)
 -   [Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/wai/gl/task-forces/conformance-testing/)
 -   [Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/)
 
@@ -77,7 +77,7 @@ Project Updates
 
 WAI-Tools, Advanced Decision Support Tools for Scalable Web Accessibility Assessments, is an Innovation Action, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 780057). The project started on 1 November 2017 for a duration of three years. WAI-Tools drives web accessibility evaluation and repair through:
 
--   Building on the on-going W3C efforts on [WCAG Accessibility Conformance Testing(ACT)](http://www.w3.org/wai/gl/task-forces/conformance-testing/);
+-   Building on the on-going W3C efforts on [WCAG Accessibility Conformance Testing (ACT)](http://www.w3.org/wai/gl/task-forces/conformance-testing/);
 -   Ensuring consistent accuracy across automated, semi-automated, and manual testing;
 -   Pursuing leading edge technologies testing, including dynamic and mobile applications;
 -   Leveraging the existing market of commercial, free, and open source evaluation tools;
