@@ -98,5 +98,5 @@ WAI-Tools project partners include:
 -   [Accessibility Foundation {% include_cached external.html %}](https://www.accessibility.nl/), Netherlands
 -   [Agency for Public Management and eGovernment (Difi) {% include_cached external.html %}](https://uu.difi.no/), Norway
 -   [Foundation for Science and Technology {% include_cached external.html %}](http://www.fct.pt/), Portugal
--   [University of Lisbon, Faculty of Sciences Association for Research and Development % include_cached external.html %](http://www.fciencias-id.pt/), Portugal
+-   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
 
