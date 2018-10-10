@@ -1,6 +1,9 @@
 ---
 title: "Sponsoring WAI"
 nav_title: "Sponsoring"
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/sponsoring.md'
 ---
 
 {::options toc_levels="2" /}

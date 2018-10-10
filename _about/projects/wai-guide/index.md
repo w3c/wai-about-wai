@@ -1,6 +1,9 @@
 ---
 title: "WAI-Guide"
 permalink: /about/projects/wai-guide/
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/pojects/wai-guide/index.md'
 ---
 
 {::nomarkdown}

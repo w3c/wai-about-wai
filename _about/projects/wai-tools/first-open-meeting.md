@@ -3,6 +3,9 @@ title: "WAI-Tools Open Meeting — 29 November 2017, Brussels, Belgium"
 title_html: "WAI-Tools Open Meeting<br>29 November 2017, Brussels, Belgium"
 nav_title: Open Meeting
 permalink: /about/projects/wai-tools/first-open-meeting/
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/pojects/wai-tools/first-open-meeting.md'
 ---
 
 {::nomarkdown}

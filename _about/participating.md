@@ -1,6 +1,9 @@
 ---
 title: Participating in WAI
 nav_title: "Participating"
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/participating.md'
 ---
 
 {::nomarkdown}

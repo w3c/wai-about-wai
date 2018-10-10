@@ -1,6 +1,9 @@
 ---
 title: Contacting WAI
 nav_title: "Contacting"
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/contacting.md'
 ---
 
 {::options toc_levels="2" /}

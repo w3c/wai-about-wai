@@ -2,8 +2,9 @@
 title: "WAI Projects"
 nav_title: "Overview"
 permalink: /about/projects/
-order: 1
-group: projects
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/pojects/index.md'
 ---
 
 ## Current Projects
