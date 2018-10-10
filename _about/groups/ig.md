@@ -6,7 +6,7 @@ group: groups
 permalink: /about/groups/waiig/
 ---
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" %}
@@ -19,44 +19,35 @@ permalink: /about/groups/waiig/
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Announcements and Meetings
+## Introduction
 
-WAI encourages you to implement, promote, and review guidelines and
-documents; join mailing list discussions; and other ways of
-[participating in WAI](http://www.w3.org/WAI/participation).
+The Web Accessibility Initiative Interest Group (WAI IG) promotes awareness of and engagement in World Wide Web Consortium (W3C) accessibility work. More details are in [About WAI IG below](#about-wai-ig).
 
-### Documents Under Review by WAI IG
+**Other Working Group Pages:**
 
-**The [Highlights section of the WAI home
-page](http://www.w3.org/WAI/#highlights) lists current documents under
-review by WAI IG.**
+-   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/IG/charter6)
+-   [Discussion E-mail List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
+-   [Announcements E-mail List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-announce/)
 
-Documents for review are announced on the [WAI IG e-mail
-list](#mailinglist), [Twitter](http://twitter.com/w3c_wai), [WAI's RSS
-feed](http://www.w3.org/WAI/highlights/rssfeed.rss), the [W3C home
-page](http://www.w3.org/), and the [WAI home
-page](http://www.w3.org/WAI/).
+## Mailing Lists {#mailinglist}
 
-### Meetings
+There are two mailing lists:
+1. **Announcements list (public-wai-announce)** &mdash; for WAI announcements only.
+2. **Discussion list (w3c-wai-ig)** &mdash; for WAI announcements and public discussion. All e-mails sent to the Announcements list will also go to this Discussion list, so you don't need to subscribe to both lists. If you want to send messages to the list, you must send them from an e-mail address that is subscribed to the list.
 
-Currently no WAI IG meetings are scheduled.
+Details are below.
 
-Meetings of other WAI groups are listed on the [WAI
-Events](http://www.w3.org/WAI/events.html#upcoming) page. [Past WAI IG
-meetings](#past_meetings) are listed below.
+### Announcements List - Subscribing and Unsubscribing
 
-## Other Working Group Pages
+* To subscribe, send e-mail to <a href="mailto:public-wai-announce-request@w3.org?subject=subscribe">public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
+* To unsubscribe, send e-mail to <a href="mailto:public-wai-announce-request@w3.org?subject=unsubscribe">public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
 
--   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/IG/charter5)
--   [E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
+You can also see the [Announcements List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-announce/).
 
-## Mailing List {#mailinglist}
+### Using the Discussion List
 
-[**Archives of the WAI Interest Group mailing
-list**](http://lists.w3.org/Archives/Public/w3c-wai-ig/) are useful for
+[Discussion List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/) are useful for
 searching for past messages and getting a feel for the list.
-
-### Using the WAI Interest Group (IG) mailing list
 
 -   E-mail messages should **contribute to a comfortable, constructive
     exchange** of ideas to advance web accessibility. Before you write
@@ -90,12 +81,10 @@ searching for past messages and getting a feel for the list.
 -   **Send any questions about the WAI IG mailing list to
     <shawn@w3.org>**, not to the whole list.
 
-### Subscribing to the WAI IG mailing list
+### Subscribing to the Discussion List
 
--   **To subscribe** to the list, send e-mail to
-    <w3c-wai-ig-request@w3.org> with "subscribe" as the subject.
--   **To unsubscribe** from the list, send e-mail to
-    <w3c-wai-ig-request@w3.org> with "unsubscribe" as the subject.
+-   **To subscribe** to the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=subscribe">public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
+-   **To unsubscribe** from the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=unsubscribe">public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
 
 **Please note**: The subscription e-mail addresses are different from
 the e-mail address to send an e-mail message, which is in the next
@@ -106,7 +95,7 @@ to <w3c-wai-ig-d-request@w3.org> with "subscribe" as the subject. To
 unsubscribe from the digest, send e-mail to
 <w3c-wai-ig-d-request@w3.org> with "unsubscribe" as the subject.
 
-### Sending messages to the WAI IG list
+### Sending Messages to the Discussion List
 
 To send a message to the list, first subscribe to the list (instructions
 above), then send your message to
@@ -120,15 +109,15 @@ do it again in the future.
 
 ## About WAI IG
 
-The [mission of the WAI Interest
-Group](https://www.w3.org/WAI/IG/charter5) (WAI IG) is to provide a
+The mission of the WAI Interest
+Group (WAI IG) is to provide a
 forum for reviewing, discussing, and providing input into deliverables
 being developed by WAI Working Groups, including accessibility aspects
 of specification reviews, research topics identified during
 accessibility reviews, and educational materials development; also for
 exploring web accessibility issues and solutions, and sharing
 information about web accessibility activities around the world.<br>
-The [scope of the WAI IG](https://www.w3.org/WAI/IG/charter5#scope)
+The [scope of the WAI IG](https://www.w3.org/WAI/IG/charter6#scope)
 includes:
 
 -   reviewing and discussing deliverables being developed by [WAI
@@ -155,7 +144,7 @@ Sponsors](http://www.w3.org/WAI/Sponsor).
 ### Charter
 
 -   [WAI IG
-    Charter](http://www.w3.org/WAI/IG/charter5 "current WAI IG charter")
+    Charter](http://www.w3.org/WAI/IG/charter6 "current WAI IG charter")
 
 ### Past WAI IG Meetings
 

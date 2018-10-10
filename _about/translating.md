@@ -1,7 +1,9 @@
 ---
 title: Translating WAI Documents
 nav_title: Translating
-order: 3
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/translating.md'
 ---
 
 {::options toc_levels="2" /}
