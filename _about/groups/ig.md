@@ -83,8 +83,8 @@ searching for past messages and getting a feel for the list.
 
 ### Subscribing to the Discussion List
 
--   **To subscribe** to the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=subscribe">public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
--   **To unsubscribe** from the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=unsubscribe">public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
+-   **To subscribe** to the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=subscribe">w3c-wai-ig-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
+-   **To unsubscribe** from the list, send e-mail to <a href="mailto:w3c-wai-ig-request@w3.org?subject=unsubscribe">w3c-wai-ig-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
 
 **Please note**: The subscription e-mail addresses are different from
 the e-mail address to send an e-mail message, which is in the next
