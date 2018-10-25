@@ -6,8 +6,8 @@ github:
   path: '_about/translating.md'
 
 doc-note-message: >
-  <strong>This page is outdated. It will be updated by early 2019.<br>
-  The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations list</a> is updated.</strong>
+  <p><strong>This page is outdated. It will be updated by early 2019.</strong></p>
+  <p>An updated list of translations of Web Content Accessibility Guidelines (WCAG) is at: <strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong>.</p>
 ---
 
 {::options toc_levels="2" /}
