@@ -7,7 +7,7 @@ github:
 
 doc-note-message: >
   <p><strong>This page is outdated. It will be updated by early 2019.</strong></p>
-  <p>An updated list of translations of Web Content Accessibility Guidelines (WCAG) is at: <strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong>.</p>
+  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
 ---
 
 {::options toc_levels="2" /}
