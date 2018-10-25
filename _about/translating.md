@@ -4,6 +4,9 @@ nav_title: Translating
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating.md'
+
+doc-note-message: >
+  This page is outdated. It will be updated by early 2019.
 ---
 
 {::options toc_levels="2" /}
