@@ -7,6 +7,7 @@ github:
 
 doc-note-message: >
   This page is outdated. It will be updated by early 2019.
+  The [WCAG Translations list](https://www.w3.org/WAI/standards-guidelines/wcag/translations/) is updated.
 ---
 
 {::options toc_levels="2" /}
