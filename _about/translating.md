@@ -6,8 +6,8 @@ github:
   path: '_about/translating.md'
 
 doc-note-message: >
-  This page is outdated. It will be updated by early 2019.
-  The [WCAG Translations list](https://www.w3.org/WAI/standards-guidelines/wcag/translations/) is updated.
+  <strong>This page is outdated. It will be updated by early 2019.<br>
+  The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations list</a> is updated.</strong>
 ---
 
 {::options toc_levels="2" /}
