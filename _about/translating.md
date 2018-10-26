@@ -4,6 +4,10 @@ nav_title: Translating
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating.md'
+
+doc-note-message: >
+  <p><strong>This page is outdated. It will be updated by early 2019.</strong></p>
+  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and WCAG 2.1.</p>
 ---
 
 {::options toc_levels="2" /}
