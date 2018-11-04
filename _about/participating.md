@@ -93,11 +93,11 @@ and to get information on participation and links to the mailing list
 archives.
 
 -   [ARIA Working
-    Group](https://www.w3.org/WAI/ARIA/ "link to ARIA WG home page")
+    Group](https://www.w3.org/WAI/ARIA/)
     develops a suite of Accessible Rich Internet Applications resources,
     and accessible APIs and mappings.
--   [[Accessible Platform Architectures (APA) Working
-    Group]{style="text-decoration: underline;"}](https://www.w3.org/WAI/APA/)
+-   [Accessible Platform Architectures (APA) Working
+    Group](https://www.w3.org/WAI/APA/)
     reviews and comments on support for accessibility throughout W3C's
     other working groups.
 -   [Education and Outreach Working Group](/WAI/EO) develops awareness,
