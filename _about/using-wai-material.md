@@ -4,7 +4,26 @@ nav_title: Using WAI Material
 github:
   repository: w3c/wai-about-wai
   path: '_about/using-wai-material.md'
+footer: > # Text in footer in HTML
+  <p><strong>Date:</strong> Updated 5 November 2018.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with the <a href="http://www.w3.org/People/domain?domain=Web+Accessibility+Initiative">WAI staff</a> and <a href="https://www.w3.org/People/functions/comm">W3C Communications staff</a>..</p>
 ---
+
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+You can generally use WAI material for free, with two conditions:
+1.  Clearly attribute the original source as specified below, and
+2.  Not modify the content.
+
+[W3C usage policies apply to all WAI material.](https://www.w3.org/Consortium/Legal/ipr-notice)
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2" /}
 
@@ -29,7 +48,7 @@ W3C Web Accessibility Initiative (WAI) develops material to help make the web ac
 1.  Clearly attribute the original source as specified below, and
 2.  Not modify the content.
 
-Please read this page for more details, including [**some material that is specially-marked content that you can modify**](#cc).
+Please read below for more details, including [**some material that is specially-marked content that you can modify**](#cc).
 
 ## Official W3C Document License
 
