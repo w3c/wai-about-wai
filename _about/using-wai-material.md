@@ -18,7 +18,7 @@ You can generally use WAI material for free, with two conditions:
 1.  Clearly attribute the original source as specified below, and
 2.  Not modify the content.
 
-[W3C usage policies apply to all WAI material.](https://www.w3.org/Consortium/Legal/ipr-notice)
+[W3C usage policies apply](https://www.w3.org/Consortium/Legal/ipr-notice) to all WAI material.
 
 {::nomarkdown}
 {% include box.html type="end" %}
