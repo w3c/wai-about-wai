@@ -96,17 +96,16 @@ Initiative](/People/all?pictures=yes#WebAccessibilityInitiative).
 
 WAI is part of W3C, which is hosted at:
 
--   [MIT/CSAIL](/Consortium/Contact#Cambridge) in the United States
-    ([directions](/Consortium/Directions.html#mit))
--   [ERCIM](/Consortium/Contact#Sophia) in France
-    ([directions](/Consortium/Directions.html#sophia))
--   [Keio University](/Consortium/Contact#Fujisawa) in Japan
-    ([directions](/Consortium/Directions.html#keio))
--   [Beihang University](http://ev.buaa.edu.cn/) in China
+-   [MIT/CSAIL](https://www.w3.org/Consortium/contact-mit) in the United States
+-   [ERCIM](https://www.w3.org/Consortium/contact-ercim) in France
+-   [Keio University](https://www.w3.org/Consortium/contact-keio) in Japan
+-   [Beihang University](http://www.chinaw3c.org/contact-en.html) in China
+
+<em>The links above provide addresses and phone numbers for each location.</em>
 
 The main WAI office contact information is:
 
-W3C Web Accessibility Initiative<br>
+W3C Web Accessibility Initiative (WAI)<br>
 MIT/CSAIL, Building 32-G530<br>
 32 Vassar St<br>
 Cambridge, MA 02139<br>
