@@ -4,10 +4,9 @@ permalink: /about/accessibility-statement/
 doc-note-type: draft
 doc-note-message-md: This is a draft statement.
 footer: > # Text in footer in HTML
-  <p>This statement was created on 21 Nov 2018.</p>
-  <!--<p><strong>Date:</strong> Updated 5 October 2018.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>-->
+  <p><strong>This statement was created on 28 November 2018 using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
+  <p><strong>Contributors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
+
 github:
   repository: w3c/wai-about-wai
   path: '_about/accessibility-statement.md'
@@ -17,67 +16,59 @@ github:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-W3C Web Accessibility Initiative (WAI) is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.
-
+The Web Accessibility Initiative (WAI) website content posted since May 2018 meets Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA. Most content also meets Level AAA. Older content meets earlier versions of WCAG.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2,3" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## Measures to support accessibility
 
-W3C’s Web Accessibility Initiative (WAI) takes the following measures to ensure accessibility of the WAI Website:
+Web Accessibility Initiative (WAI) takes the following measures to ensure accessibility of the WAI website:
 
--   Include accessibility as part of our mission statement.
--   Include accessibility throughout our internal policies.
--   Integrate accessibility into our procurement practices.
+-  Include accessibility as a requirement for all web content.
+-  Assign clear accessibility targets and responsibilities.
+-  Ensure content authors have accessibility knowledge and skills.
+-  Include accessibility as part of our mission statement.
+-  Include accessibility throughout our internal policies.
+-  Employ people with disabilities.
+-  Usability test with participants with disabilities.
 
 ## Conformance status
 
-The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. WAI Website is fully conformant with WCAG 2.1 level AA. Fully conformant means that the content fully conforms to the accessibility standard without any exceptions.
+The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. Fully conformant means that the content fully conforms to the accessibility standard without any exceptions.
 
-### Additional accessibility considerations
+*WAI website content posted since May 2018 is fully conformant with WCAG 2.1 Level AA.* Most content is also conformant with Level AAA.
 
-This accessibility statement mainly covers current documents and resources, published in the current WAI design. Older documents and resources, usually available for archival, might only comply with earlier versions of the WCAG standard.
+Older content is conformant with earlier versions of WCAG. Most of the older content is archived and will not be updated.
 
 ## Feedback
 
-We welcome your feedback on the accessibility of the WAI Website. Please let us know if you encounter accessibility barriers on the WAI Website:
+We welcome your feedback on the accessibility of the WAI website. Please let us know if you encounter accessibility barriers on the WAI website:
 
--   E-mail: <wai@w3.org>
--   Visitor address: W3C/MIT - 32 Vassar Street - Room 32-386 -
-    Cambridge, MA 02139 USA
+-   E-mail: <a href=mailto:wai@w3.org?subject=%5BWebsite%20Conformance%5D%20>wai@w3.org</a>
+-   Phone numbers and physical addresses are in the <a href="https://www.w3.org/WAI/about/contacting/#locations-and-address">"Locations and Addresses" section of the Contacting WAI page</a>.
 
 We try to respond to feedback within 5 business days.
 
 ## Compatibility with browsers and assistive technology
 
-The WAI Website is designed to be compatible with assistive technologies working with the following browsers:
+The WAI website is designed to be compatible with assistive technologies working with the following browsers:
 
--   Last two versions of major browsers (with lower-fidelity support for
-    older browsers)
--   Internet Explorer 10 (low fidelity)
+-   Last two versions of major browsers
+-   Internet Explorer 10
 
-The WAI Website is not compatible with:
+In Internet Explorer 10 and in older browsers, some aspects of the user interface are simplified.  [[@@ee: trying for clearer than "low fidelity" –how's that?]]
 
--   Internet Explorer 9 and less
+The WAI website is not compatible with:
+
+-   Internet Explorer 9 and earlier versions
+
+[[@@ee: not at all? or ?]]
 
 ## Technical specifications
 
-Accessibility of WAI Website relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:
+Accessibility of WAI website relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:
 
 -   HTML
 -   WAI-ARIA
@@ -85,31 +76,18 @@ Accessibility of WAI Website relies on the following technologies to work with t
 -   Javascript
 -   SVG
 
-These technologies are relied upon for conformance with the accessibility standards used.
+These technologies are "relied upon" for conformance with WCAG 2.1.
+
+[[@@ee: are all of those actually *replied upon* for conformance, or are some just nice to have?]]
 
 ## Limitations and alternatives
 
-Despite our best efforts to ensure accessibility of the WAI Website, there may be some limitations. Below is a description of known limitations, and potential solutions. Please contact us if you observe an issue not listed below.
-
-Known limitations for WAI Website:
-
-1.  **External tools, such as WebEx and GitHub**: May present accessibility barriers because we do not control their quality assurance. We are in contact with the tool vendors to request improvements. Please refer to our information on [W3C tools](https://www.w3.org/2006/tools/wiki/Main_Page) and let us know about any barriers you encounter.
-
-    We provide alternatives to such tools, for example you can send in feedback through email instead of using GitHub.
+The WAI website links to GitHub for providing input on resources and documents in development. As an alternative, input can be provided by e-mail.
 
 ## Assessment approach
 
-W3C’s Web Accessibility Initiative (WAI) assessed the accessibility of the WAI
-Website by the following approaches:
-
--   Self-evaluation
+WAI assessed the accessibility of the WAI website by self-evaluation.
 
 ## Formal approval of this accessibility statement
 
-This Accessibility Statement is approved by:
-
-W3C’s Web Accessibility Initiative (WAI)
-
-## Formal Complaints
-
-We aim to respond to accessibility feedback within 5 business days. You may escalate a complaint to the legal department of the World Wide Web Consortium (W3C), should you be dissatisfied with our response to you. Please, do so in writing to <site-policy@w3.org>.
+This Accessibility Statement is approved by WAI Staff: Judy Brewer, Shawn Lawton Henry, Eric Eggert, and Shadi Abou-Zahra.
