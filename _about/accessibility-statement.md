@@ -5,7 +5,7 @@ doc-note-type: draft
 doc-note-message-md: This is a draft statement.
 footer: > # Text in footer in HTML
   <p><strong>This statement was created on 28 November 2018 using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
-  <p><strong>Contributors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
+  <p>Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
 
 github:
   repository: w3c/wai-about-wai
@@ -38,7 +38,7 @@ Web Accessibility Initiative (WAI) takes the following measures to ensure access
 
 The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. Fully conformant means that the content fully conforms to the accessibility standard without any exceptions.
 
-*WAI website content posted since May 2018 is fully conformant with WCAG 2.1 Level AA.* Most content is also conformant with Level AAA.
+<strong>WAI website content posted since May 2018 is fully conformant with WCAG 2.1 Level AA.</strong> Most content is also conformant with Level AAA.
 
 Older content is conformant with earlier versions of WCAG. Most of the older content is archived and will not be updated.
 
@@ -46,7 +46,7 @@ Older content is conformant with earlier versions of WCAG. Most of the older con
 
 We welcome your feedback on the accessibility of the WAI website. Please let us know if you encounter accessibility barriers on the WAI website:
 
--   E-mail: <a href=mailto:wai@w3.org?subject=%5BWebsite%20Conformance%5D%20>wai@w3.org</a>
+-   E-mail: <a href="mailto:wai@w3.org?subject=%5BWebsite%20Conformance%5D%20">wai@w3.org</a>
 -   Phone numbers and physical addresses are in the <a href="https://www.w3.org/WAI/about/contacting/#locations-and-address">"Locations and Addresses" section of the Contacting WAI page</a>.
 
 We try to respond to feedback within 5 business days.
@@ -81,6 +81,8 @@ These technologies are "relied upon" for conformance with WCAG 2.1.
 [[@@ee: are all of those actually *replied upon* for conformance, or are some just nice to have?]]
 
 ## Limitations and alternatives
+
+Currently access to YouTube is required to view some videos. We are looking into providing those in an alternative method. [@@ee: is it true that YouTube is required?]] 
 
 The WAI website links to GitHub for providing input on resources and documents in development. As an alternative, input can be provided by e-mail.
 
