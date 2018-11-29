@@ -84,7 +84,7 @@ The WAI website links to GitHub for providing input on resources and documents i
 
 WAI assessed the accessibility of the WAI website by self-evaluation.
 
-## Formal Complaints
+## Formal complaints
 
 We try to respond to accessibility feedback within 5 business days. If you are not satisfied with our response, you can escalate a complaint to the World Wide Web Consortium (W3C) senior management via e-mail to: <a href="mailto: site-policy@w3.org">site-policy@w3.org</a>.
 
