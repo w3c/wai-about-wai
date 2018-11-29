@@ -90,4 +90,4 @@ We try to respond to accessibility feedback within 5 business days. If you are n
 
 ## Formal approval of this accessibility statement
 
-This Accessibility Statement is approved by Judy Brewer, WAI Director, and Shawn Lawton Henry, WAI Outreach Coordinator.
+This Accessibility Statement {@@will be|is} approved by <!-- @@ Judy Brewer, WAI Director, and -->Shawn Lawton Henry, WAI Outreach Coordinator.
