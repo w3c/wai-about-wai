@@ -86,8 +86,8 @@ WAI assessed the accessibility of the WAI website by self-evaluation.
 
 ## Formal Complaints
 
-We try to respond to accessibility feedback within 5 business days. If you are not satisfied with our response, you can escalate a complaint to the World Wide Web Consortium (W3C) senior management via e-mail to: <a href="mailto:site-policy@w3.org?subject=%5BWebsite%20Accessibility%5D%20">site-policy@w3.org</a>.
+We try to respond to accessibility feedback within 5 business days. Some times it can take 2 weeks or more. If you are not satisfied with our response, you can escalate a complaint to the World Wide Web Consortium (W3C) senior management via e-mail to: <a href="mailto:@@ @w3.org?subject=%5BWebsite%20Accessibility%5D%20">@@</a>.
 
 ## Formal approval of this accessibility statement
 
-This Accessibility Statement {@@will be|is} approved by <!-- @@ Judy Brewer, WAI Director, and -->Shawn Lawton Henry, WAI Outreach Coordinator.
+{After the draft is complete,} This Accessibility Statement <strong>will be</strong>{@@is} approved by <!-- @@ Judy Brewer, WAI Director, and -->Shawn Lawton Henry, WAI Outreach Coordinator.
