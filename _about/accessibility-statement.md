@@ -4,7 +4,7 @@ permalink: /about/accessibility-statement/
 doc-note-type: draft
 doc-note-message-md: This is a draft statement.
 footer: > # Text in footer in HTML
-  <p><strong>This statement was created on 28 November 2018 using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
+  <p><strong>This statement was created on 29 November 2018 using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
   <p>Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
 
 github:
@@ -62,15 +62,17 @@ In Internet Explorer 10 and in older browsers, some aspects of the website may n
 
 ## Technical specifications
 
-Accessibility of WAI website relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:
+The WAI website relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer. These technologies are "relied upon" for conformance with WCAG 2.1:
 
 -   HTML
 -   WAI-ARIA
 -   CSS
--   Javascript
 -   SVG
 
-These technologies are "relied upon" for conformance with WCAG 2.1.
+These technologies are used to improve the user experience and accessibility:
+
+-   Javascript
+
 
 ## Limitations and alternatives
 
@@ -84,9 +86,8 @@ WAI assessed the accessibility of the WAI website by self-evaluation.
 
 ## Formal Complaints
 
-We try to respond to accessibility feedback within 5 business days. If you are not satisfied with our response, you can escalate a complaint to the legal department of the World Wide Web Consortium (W3C).
--   E-mail: <a href="mailto: site-policy@w3.org">site-policy@w3.org</a>
+We try to respond to accessibility feedback within 5 business days. If you are not satisfied with our response, you can escalate a complaint to the World Wide Web Consortium (W3C) senior management via e-mail to: <a href="mailto: site-policy@w3.org">site-policy@w3.org</a>.
 
 ## Formal approval of this accessibility statement
 
-This Accessibility Statement is approved by WAI Staff: Judy Brewer, Shawn Lawton Henry, Eric Eggert, and Shadi Abou-Zahra.
+This Accessibility Statement is approved by Judy Brewer, WAI Director, and Shawn Lawton Henry, WAI Outreach Coordinator.
