@@ -22,49 +22,58 @@ Web Accessibility Initiative (WAI) website content posted since May 2018 meets W
 {% include box.html type="end" %}
 {:/}
 
-    <h2 id="measures-to-support-accessibility">Measures to support accessibility</h2>
-    <p>Web Accessibility Initiative (WAI) takes the following measures to ensure accessibility of the WAI website:</p>
-    <ul>
-      <li>Include accessibility as a requirement for all web content. Content must meet WCAG 2.1 AA and should meet AAA as feasible.</li>
-      <li>Assign clear accessibility targets and responsibilities.</li>
-      <li>Ensure content authors have accessibility knowledge and skills.</li>
-      <li>Include accessibility as part of our mission.</li>
-      <li>Include accessibility throughout our internal policies.</li>
-      <li>Employ people with disabilities.</li>
-      <li>Usability test with participants with disabilities.</li>
-    </ul>
-    <h2 id="conformance-status">Conformance status</h2>
-    <p>The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG)</a> standard defines requirements to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. &quot;Fully conforms&quot; means that the content meets all of the WCAG requirements at the specified Level without  exceptions.</p>
-    <p><strong>WAI website content posted since May 2018 fully conforms to WCAG 2.1 Level AA.</strong> Most content also conforms to Level AAA.</p>
-    <p>Older content conforms to earlier versions of WCAG, for example, WCAG 2.0. Most of the older content is archived and will not be updated.</p>
-    <h2 id="feedback">Feedback</h2>
-    <p>We welcome your feedback on the accessibility of the WAI website. Please let us know if you encounter accessibility barriers.</p>
-    <ul>
-      <li>E-mail: <a href="mailto:wai@w3.org?subject=%5BWAI%20site%20accessibility%5D%20">wai@w3.org</a></li>
-      <li>Phone numbers and physical addresses are in the <a href="https://www.w3.org/WAI/about/contacting/#locations-and-address">“Locations and Addresses” section of the Contacting WAI page</a>.</li>
-    </ul>
-    <p>We  usually respond to accessibility feedback from e-mail within 3-5 business days. Sometimes it can take up to 3 weeks. If you do not receive a reply to e-mail within 10 business days, you can contact Shawn Henry at +1-617-395-7664.</p>
-    <h2 id="compatibility-with-browsers-and-assistive-technology">Compatibility with browsers and assistive technology</h2>
-    <p>The WAI website is designed to be compatible with assistive technologies and the last two versions of major browsers.</p>
-    <p>In Internet Explorer 10 and in older browsers, some aspects of the website may not display optimally. The website is not designed for Internet Explorer 9 and earlier versions.</p>
-    <h2 id="technical-specifications">Technical specifications</h2>
-    <p>The WAI website relies upon the following technologies  for conformance with WCAG 2.1:</p>
-    <ul>
-      <li>HTML</li>
-      <li>WAI-ARIA</li>
-      <li>CSS</li>
-      <li>SVG</li>
-    </ul>
-    <p>The following technologies are used to improve accessibility and the user experience for everyone:</p>
-    <ul>
-      <li>JavaScript</li>
-    </ul>
-    <h2 id="limitations-and-alternatives">Limitations and alternatives</h2>
-    <p>Currently access to YouTube is required to view some videos on the WAI website. We are looking into providing those videos through an alternative method.</p>
-    <p>The WAI website links to GitHub for providing input on resources and documents in development. As an alternative, input can be provided by e-mail.</p>
-    <h2 id="assessment-approach">Assessment approach</h2>
-    <p>WAI assessed the accessibility of the WAI website by self-evaluation.</p>
-    <h2 id="formal-complaints">Formal complaints</h2>
-    <p>Please first send any complaints to <a href="mailto:wai@w3.org?subject=%5BWAI%20site%20accessibility%5D%20">wai@w3.org</a> per <a href="#feedback"><em>Feedback</em> above</a>.  If you are not satisfied with the response, you can escalate a formal complaint to the <abbr title="World Wide Web Consortium">W3C</abbr> Web Accessibility Initiative (WAI) Director, Judy Brewer, via e-mail to: <a href="mailto:jbrewer@w3.org?subject=%5BWAI%20site%20Accessibility%20Complaint%5D%20">jbrewer@w3.org</a>, or phone: +1-617-258-9741.</p>
-    <h2 id="formal-approval-of-this-accessibility-statement">Formal approval of this accessibility statement</h2>
-    <p>This Accessibility Statement <em>will be </em>{is}@@ approved by Shawn Lawton Henry, WAI Outreach Coordinator.</p>
+    
+<h2 id="measures-to-support-accessibility">Measures to support accessibility</h2>
+<p>Web Accessibility Initiative (WAI) takes the following measures to ensure accessibility of the WAI website:</p>
+<ul>
+<li>Include accessibility as a requirement for all web content. Content must meet WCAG 2.1 AA and should meet AAA as feasible.</li>
+<li>Assign clear accessibility targets and responsibilities.</li>
+<li>Ensure content authors have accessibility knowledge and skills.</li>
+<li>Include accessibility as part of our mission.</li>
+<li>Include accessibility throughout our internal policies.</li>
+<li>Employ people with disabilities.</li>
+<li>Usability test with participants with disabilities.</li>
+</ul>
+
+<h2 id="conformance-status">Conformance status</h2>
+<p>The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG)</a> standard defines requirements to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. &quot;Fully conforms&quot; means that the content meets all of the WCAG requirements at the specified Level without  exceptions.</p>
+<p><strong>WAI website content posted since May 2018 fully conforms to WCAG 2.1 Level AA.</strong> Most content also conforms to Level AAA.</p>
+<p>Older content conforms to earlier versions of WCAG, for example, WCAG 2.0. Most of the older content is archived and will not be updated.</p>
+
+<h2 id="feedback">Feedback</h2>
+<p>We welcome your feedback on the accessibility of the WAI website. Please let us know if you encounter accessibility barriers.</p>
+<ul>
+<li>E-mail: <a href="mailto:wai@w3.org?subject=%5BWAI%20site%20accessibility%5D%20">wai@w3.org</a></li>
+<li>Phone numbers and physical addresses are in the <a href="https://www.w3.org/WAI/about/contacting/#locations-and-address">“Locations and Addresses” section of the Contacting WAI page</a>.</li>
+</ul>
+<p>We  usually respond to accessibility feedback from e-mail within 3-5 business days. Sometimes it can take up to 3 weeks. If you do not receive a reply to e-mail within 10 business days, you can contact Shawn Henry at +1-617-395-7664.</p>
+
+<h2 id="compatibility-with-browsers-and-assistive-technology">Compatibility with browsers and assistive technology</h2>
+<p>The WAI website is designed to be compatible with assistive technologies and the last two versions of major browsers.</p>
+<p>In Internet Explorer 10 and in older browsers, some aspects of the website may not display optimally. The website is not designed for Internet Explorer 9 and earlier versions.</p>
+
+<h2 id="technical-specifications">Technical specifications</h2>
+<p>The WAI website relies upon the following technologies  for conformance with WCAG 2.1:</p>
+<ul>
+<li>HTML</li>
+<li>WAI-ARIA</li>
+<li>CSS</li>
+<li>SVG</li>
+</ul>
+<p>The following technologies are used to improve accessibility and the user experience for everyone:</p>
+<ul>
+<li>JavaScript</li>
+</ul>
+
+<h2 id="limitations-and-alternatives">Limitations and alternatives</h2>
+<p>Currently access to YouTube is required to view some videos on the WAI website. We are looking into providing those videos through an alternative method.</p>
+<p>The WAI website links to GitHub for providing input on resources and documents in development. As an alternative, input can be provided by e-mail.</p>
+
+<h2 id="assessment-approach">Assessment approach</h2>
+<p>WAI assessed the accessibility of the WAI website by self-evaluation.</p>
+
+<h2 id="formal-complaints">Formal complaints</h2>
+<p>Please first send any complaints to <a href="mailto:wai@w3.org?subject=%5BWAI%20site%20accessibility%5D%20">wai@w3.org</a> per <a href="#feedback"><em>Feedback</em> above</a>.  If you are not satisfied with the response, you can escalate a formal complaint to the <abbr title="World Wide Web Consortium">W3C</abbr> Web Accessibility Initiative (WAI) Director, Judy Brewer, via e-mail to: <a href="mailto:jbrewer@w3.org?subject=%5BWAI%20site%20Accessibility%20Complaint%5D%20">jbrewer@w3.org</a>, or phone: +1-617-258-9741.</p>
+
+<h2 id="formal-approval-of-this-accessibility-statement">Formal approval of this accessibility statement</h2>
+<p>This Accessibility Statement <em>will be </em>{is}@@ approved by Shawn Lawton Henry, WAI Outreach Coordinator.</p>
