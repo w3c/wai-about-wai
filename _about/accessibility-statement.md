@@ -4,7 +4,7 @@ permalink: /about/accessibility-statement/
 doc-note-type: draft
 doc-note-message-md: This is an unapproved, in-progress draft.
 footer: > # Text in footer in HTML
-  <p><strong>This statement was created on 29 November 2018 using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
+  <p><strong>This statement was updated on 3 December 2018. It as generated using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
   <p>Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
 
 github:
@@ -16,7 +16,7 @@ github:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Web Accessibility Initiative (WAI) website content posted since May 2018 meets Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA. Most content also meets Level AAA. Older content meets earlier versions of WCAG.
+Web Accessibility Initiative (WAI) website content posted since May 2018 meets Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA. Older content meets earlier versions of WCAG. Parts of the content meets Level AAA.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -37,7 +37,7 @@ Web Accessibility Initiative (WAI) website content posted since May 2018 meets W
 
 <h2 id="conformance-status">Conformance status</h2>
 <p>The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG)</a> standard defines requirements to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. &quot;Fully conforms&quot; means that the content meets all of the WCAG requirements at the specified Level without  exceptions.</p>
-<p><strong>WAI website content posted since May 2018 fully conforms to WCAG 2.1 Level AA.</strong> Most content also conforms to Level AAA.</p>
+<p><strong>WAI website content posted since May 2018 fully conforms to WCAG 2.1 Level AA.</strong> It partially conforms to Level AAA.</p>
 <p>Older content conforms to earlier versions of WCAG, for example, WCAG 2.0. Most of the older content is archived and will not be updated.</p>
 
 <h2 id="feedback">Feedback</h2>
