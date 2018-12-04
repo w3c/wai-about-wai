@@ -1,10 +1,8 @@
 ---
 title: "Accessibility Statement for WAI Website"
 permalink: /about/accessibility-statement/
-doc-note-type: draft
-doc-note-message-md: This is an unapproved, in-progress draft.
 footer: > # Text in footer in HTML
-  <p><strong>This statement was updated on 3 December 2018. It as generated using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
+  <p><strong>This statement was updated on 4 December 2018. It was generated using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
   <p>Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
 
 github:
@@ -26,12 +24,11 @@ Web Accessibility Initiative (WAI) website content posted since May 2018 meets W
 <h2 id="measures-to-support-accessibility">Measures to support accessibility</h2>
 <p>Web Accessibility Initiative (WAI) takes the following measures to ensure accessibility of the WAI website:</p>
 <ul>
-<li>Include accessibility as a requirement for all web content. Content must meet WCAG 2.1 AA and should meet AAA as feasible.</li>
-<li>Assign clear accessibility targets and responsibilities.</li>
+<li>Include accessibility as a requirement for all web content. Content must meet WCAG 2.1 AA, and should meet AAA as feasible.</li>
+<li>Assign clear accessibility goals and responsibilities.</li>
 <li>Ensure content authors have accessibility knowledge and skills.</li>
 <li>Include accessibility as part of our mission.</li>
 <li>Include accessibility throughout our internal policies.</li>
-<li>Employ people with disabilities.</li>
 <li>Usability test with participants with disabilities.</li>
 </ul>
 
@@ -72,8 +69,5 @@ Web Accessibility Initiative (WAI) website content posted since May 2018 meets W
 <h2 id="assessment-approach">Assessment approach</h2>
 <p>WAI assessed the accessibility of the WAI website by self-evaluation.</p>
 
-<h2 id="formal-complaints">Formal complaints</h2>
-<p>Please first send any complaints to <a href="mailto:wai@w3.org?subject=%5BWAI%20site%20accessibility%5D%20">wai@w3.org</a> per <a href="#feedback"><em>Feedback</em> above</a>.  If you are not satisfied with the response, you can escalate a formal complaint to the <abbr title="World Wide Web Consortium">W3C</abbr> Web Accessibility Initiative (WAI) Director, Judy Brewer, via e-mail to: <a href="mailto:jbrewer@w3.org?subject=%5BWAI%20site%20Accessibility%20Complaint%5D%20">jbrewer@w3.org</a>, or phone: +1-617-258-9741.</p>
-
 <h2 id="formal-approval-of-this-accessibility-statement">Formal approval of this accessibility statement</h2>
-<p>This Accessibility Statement <em>will be </em>{is}@@ approved by Shawn Lawton Henry, WAI Outreach Coordinator.</p>
+<p>This Accessibility Statement is approved by Shawn Lawton Henry, WAI Outreach Coordinator.</p>
