@@ -52,7 +52,7 @@ Please read below for more details, including [**some material that is specially
 
 ## Official W3C Document License
 
-**Most WAI material** (including the standards and guidelines) is provided under the [W3C Document License](http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you include URL, copyright, and status. This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
+**Most WAI material** (including the standards and guidelines) is provided under the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license.html) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you include URL, copyright, and status. This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
 
 ## Creative Commons Licensed (CC) Material for You to Adapt
 {:#cc}
