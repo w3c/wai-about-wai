@@ -85,12 +85,10 @@ use e-mail much.)
 
 ## Publications
 
-EOWG deliverables announcements since 2005 are listed in the [News Archive](https://www.w3.org/WAI/news/all/) and [Highlights
+EOWG deliverables announcements since 2005 are listed in the [News Archive](https://www.w3.org/WAI/news/all/) or the older [Highlights
 Archive](https://www.w3.org/WAI/highlights/archive) and include:
 
--   [**title**]({{ "/planning-and-managing/" | relative_url }}/) ([date resource announcement](https://lists.w3.org/Archives/Public/@@@))
-
--   [**The Business Case for Digital Accessibility**](https://www.w3.org/WAI/business-case/) ([Nov 2018 Business Case announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2018OctDec/0001.html))
+-   [**The Business Case for Digital Accessibility**](https://www.w3.org/WAI/business-case/) ([November 2018 Business Case announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2018OctDec/0001.html))
 -   [**Developing an Accessibility Statement**](https://www.w3.org/WAI/planning/statements/) ([November 2018 Statement announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2018OctDec/0002.html))
 -   EOWG Resources updated with WAI site redesign ([May 2018 update announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2018AprJun/0069.html))
 -   **[How to Meet WCAG 2.0: Customizable Quick
@@ -195,26 +193,25 @@ EOWG primarily conducts work through:
 
 ### EOWG Task Forces
 
-1.  \[inactive\] WAI Site (Redesign) Task Force
-2.  \[inactive\] [Before/After Demo Task Force (BADTF) Work
+-   \[drafted\] [Evaluation Resource Suite Task Force (ERS TF) Work
+    Statement](https://www.w3.org/WAI/EO/2005/erstf) and [ERSTF Requirements](https://www.w3.org/WAI/EO/2005/ers-req)
+-   \[inactive\] [Before/After Demo Task Force (BADTF) Work
     Statement](http://www.w3.org/WAI/EO/2005/badtf.html) and [BAD
     Requirements](http://www.w3.org/WAI/EO/Drafts/retrofit/requ-basite.html)
-3.  \[inactive\] [User Materials Task Force Work
+-   \[inactive\] [User Materials Task Force Work
     Statement](/WAI/EO/2006/users_tf)
-4.  \[inactive\] [WCAG 2.0 Materials Support Task Force Work
+-   \[inactive\] [WCAG 2.0 Materials Support Task Force Work
     Statement](/WAI/EO/2006/wcag2eowg_tf)
-5.  \[inactive\] [Lexicon Task Force Work Statement (LTF) Work
+-   \[inactive\] [Lexicon Task Force Work Statement (LTF) Work
     Statement](http://www.w3.org/WAI/EO/2004/lexicon) and
     [Lexicon/Glossary Requirements](/WAI/EO/changelogs/cl-lexicon)
-6.  \[drafted\] [Evaluation Resource Suite Task Force (ERS TF) Work
-    Statement](https://www.w3.org/WAI/EO/2005/erstf) and [ERSTF Requirements](https://www.w3.org/WAI/EO/2005/ers-req)
-7.  \[closed\] [Web Accessibility and Ageing Task Force (WAI-AGE TF)
-    Work Statement](http://www.w3.org/WAI/EO/2008/wai-age-tf.html)
-8.  \[closed\] [WAI Site Task Force (WSTF) Work
+-   \[closed\] [WAI Site Task Force (WSTF) Work
     Statement](http://www.w3.org/WAI/EO/2003/wstf) and [WAI Web Site
     Redesign Project page](/WAI/redesign/project.html)
+-   \[closed\] [Web Accessibility and Ageing Task Force (WAI-AGE TF)
+    Work Statement](http://www.w3.org/WAI/EO/2008/wai-age-tf.html)
 
 ### Participation, Contributing to EOWG Work
 
--   [Participating in EOWG](/WAI/EO/participation) includes instructions for joining the EOWG mailing list, contributing through GitHub and other venues, and becoming an active participant
+-   **[Participating in EOWG](/WAI/EO/participation) includes instructions for joining the EOWG mailing list, contributing through GitHub and other venues, and becoming an active participant.**
 -   [EOWG participants](/WAI/EO/EOWG-members.html)
