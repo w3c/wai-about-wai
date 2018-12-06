@@ -6,7 +6,7 @@ group: groups
 permalink: /about/groups/eowg/
 ---
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2,3,4" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" %}
