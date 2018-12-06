@@ -6,7 +6,7 @@ group: groups
 permalink: /about/groups/eowg/
 ---
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" %}
@@ -19,7 +19,7 @@ permalink: /about/groups/eowg/
 {% include_cached toc.html type="end" %}
 {:/}
 
-*[**Current Work**](#deliv) and **recent [Publications](#pubs)** are listed lower on this page.*
+*[**Current Work**](#deliv), **recent [Publications](#pubs)**, and [**Participation**](#participation) are listed lower on this page.*
 
 ## Announcements and Meetings for EOWG Participants
 
@@ -83,15 +83,6 @@ addition to teleconferences. We use a
 developing requirements and organizing project documentation. (We don't
 use e-mail much.)
 
-## Other Working Group Pages
-
--   [Wiki ![External](//www.w3.org/Icons/tr.png)](/WAI/EO/wiki/Main_Page)
--   [Current Participants](https://www.w3.org/WAI/EO/EOWG-members)
--   [How to Join (Participation)](https://www.w3.org/WAI/EO/participation)
--   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/EO/charter2017)
--   [E-mail Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-eo/)
--   [Redesign Project](../redesign/project)
-
 ## Publications
 
 EOWG deliverables announcements since 2005 are listed in the [News Archive](https://www.w3.org/WAI/news/all/) and [Highlights
@@ -145,7 +136,7 @@ Archive](https://www.w3.org/WAI/highlights/archive) and include:
     ([Dec 2014 Tools
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2014OctDec/0221.html))
 
-### Additional infomation on deliverables:
+**Additional infomation on deliverables:**
 
 -   [**EOWG
     Deliverables**](https://www.w3.org/WAI/EO/wiki/EOWG_Deliverables)
@@ -182,6 +173,25 @@ EOWG primarily conducts work through:
 
 (EOWG does not use e-mail or W3C Tracker much.)
 
+**Mailing Lists
+
+-   [EOWG mailing list
+    archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are
+    publicly available for the EOWG main mailing list
+-   Instructions for [subscribing to the main EOWG mailing
+    list](https://www.w3.org/WAI/EO/participation.html#mail)
+-   [Additional EOWG mailing lists](https://www.w3.org/WAI/EO/wiki/EOWG_Participation_Info#E-mail_Lists)
+
+### Mailing Lists
+
+-   [EOWG mailing list
+    archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are
+    publicly available for the EOWG main mailing list
+-   Instructions for [subscribing to the main EOWG mailing
+    list](https://www.w3.org/WAI/EO/participation.html#mail)
+-   [Additional EOWG mailing lists](https://www.w3.org/WAI/EO/wiki/EOWG_Participation_Info#E-mail_Lists)
+
+
 ### Chair and Contacts
 
 -   EOWG Co-Chairs: Sharron Rush, Brent Bakken
@@ -192,7 +202,7 @@ EOWG primarily conducts work through:
 
 -   [**EOWG Charter 2017**](http://www.w3.org/WAI/EO/charter2017)
 
-#### EOWG Task Forces
+### EOWG Task Forces
 
 1.  \[inactive\] WAI Site (Redesign) Task Force
 2.  \[inactive\] [Before/After Demo Task Force (BADTF) Work
@@ -213,16 +223,7 @@ EOWG primarily conducts work through:
     Statement](http://www.w3.org/WAI/EO/2003/wstf) and [WAI Web Site
     Redesign Project page](/WAI/redesign/project.html)
 
-### Mailing Lists
-
--   [EOWG mailing list
-    archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are
-    publicly available for the EOWG main mailing list
--   Instructions for [subscribing to the main EOWG mailing
-    list](https://www.w3.org/WAI/EO/participation.html#mail)
--   [Additional EOWG mailing lists](https://www.w3.org/WAI/EO/wiki/EOWG_Participation_Info#E-mail_Lists)
-
 ### Participation
 
--   [How to join EOWG](/WAI/EO/participation)
+-   [Participating in EOWG](/WAI/EO/participation) includes instructions for joining the EOWG mailing list, contributing through GitHub and other venues, and becoming an active participant
 -   [EOWG participants](/WAI/EO/EOWG-members.html)
