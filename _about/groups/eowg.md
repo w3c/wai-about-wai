@@ -173,15 +173,6 @@ EOWG primarily conducts work through:
 
 (EOWG does not use e-mail or W3C Tracker much.)
 
-**Mailing Lists
-
--   [EOWG mailing list
-    archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are
-    publicly available for the EOWG main mailing list
--   Instructions for [subscribing to the main EOWG mailing
-    list](https://www.w3.org/WAI/EO/participation.html#mail)
--   [Additional EOWG mailing lists](https://www.w3.org/WAI/EO/wiki/EOWG_Participation_Info#E-mail_Lists)
-
 ### Mailing Lists
 
 -   [EOWG mailing list
@@ -223,7 +214,7 @@ EOWG primarily conducts work through:
     Statement](http://www.w3.org/WAI/EO/2003/wstf) and [WAI Web Site
     Redesign Project page](/WAI/redesign/project.html)
 
-### Participation
+### Participation, Contributing to EOWG Work
 
 -   [Participating in EOWG](/WAI/EO/participation) includes instructions for joining the EOWG mailing list, contributing through GitHub and other venues, and becoming an active participant
 -   [EOWG participants](/WAI/EO/EOWG-members.html)
