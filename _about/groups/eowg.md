@@ -173,7 +173,7 @@ EOWG primarily conducts work through:
 
 (EOWG does not use e-mail or W3C Tracker much.)
 
-### Mailing Lists
+#### Mailing Lists
 
 -   [EOWG mailing list
     archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are
