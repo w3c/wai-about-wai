@@ -67,13 +67,7 @@ about joining EOWG.*
 
 ### Meeting Minutes with Agendas
 
--   Agendas,
-    summaries, and links to minutes: 
-    [EOWG Meetings 2018](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2018), 
-    [2017](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2017){: aria-label="2017 Minutes"},
-    [2016](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2016){: aria-label="2016 Minutes"},
-    [2015](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2015){: aria-label="2015 Minutes"},
-    [2014](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2014){: aria-label="2017 Minutes"}
+-   Agendas, summaries, and links to minutes from 2014-present are linked from the top of [EOWG Meetings wiki page](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings) after "Meeting summaries:"
 -   Links to minutes from [2001-2013: EOWG Minutes
     Archive](http://www.w3.org/WAI/EO/Minutes.html)
 
@@ -92,8 +86,6 @@ use e-mail much.)
 ## Other Working Group Pages
 
 -   [Wiki ![External](//www.w3.org/Icons/tr.png)](/WAI/EO/wiki/Main_Page)
--   [Minutes](https://www.w3.org/WAI/EO/Minutes)
--   [Deliverables](https://www.w3.org/WAI/EO/EO-Deliverables)
 -   [Current Participants](https://www.w3.org/WAI/EO/EOWG-members)
 -   [How to Join (Participation)](https://www.w3.org/WAI/EO/participation)
 -   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/EO/charter2017)
@@ -102,9 +94,14 @@ use e-mail much.)
 
 ## Publications
 
-EOWG deliverables announcements since 2005 are listed in the [Highlights
-Archive](https://www.w3.org/WAI/highlights/archive) and **** include:
+EOWG deliverables announcements since 2005 are listed in the [News Archive](https://www.w3.org/WAI/news/all/) and [Highlights
+Archive](https://www.w3.org/WAI/highlights/archive) and include:
 
+-   [**title**]({{ "/planning-and-managing/" | relative_url }}/) ([date resource announcement](https://lists.w3.org/Archives/Public/@@@))
+
+-   [**The Business Case for Digital Accessibility**](https://www.w3.org/WAI/business-case/) ([Nov 2018 Business Case announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2018OctDec/0001.html))
+-   [**Developing an Accessibility Statement**](https://www.w3.org/WAI/planning/statements/) ([November 2018 Statement announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2018OctDec/0002.html))
+-   EOWG Resources updated with WAI site redesign ([May 2018 update announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2018AprJun/0069.html))
 -   **[How to Meet WCAG 2.0: Customizable Quick
     Reference](https://www.w3.org/WAI/WCAG20/quickref/)** redesign
     ([March 2016 QuickRef
@@ -180,12 +177,8 @@ EOWG primarily conducts work through:
 
 -   Weekly surveys on active topics ([all EOWG
     surveys](https://www.w3.org/2002/09/wbs/35532/all))
--   Github (for example,
-    [tutorials](https://github.com/w3c/wai-tutorials),
-    [quickref](https://github.com/w3c/wai-wcag-quickref),
-    [tips](https://github.com/w3c/wai-quick-start))
--   Teleconference discussions ([2017
-    Minutes](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings_2017))
+-   [Github](https://github.com/orgs/w3c/teams/wai-eo/repositories)
+-   [Teleconference discussions](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings)
 
 (EOWG does not use e-mail or W3C Tracker much.)
 
@@ -201,8 +194,7 @@ EOWG primarily conducts work through:
 
 #### EOWG Task Forces
 
-1.  WAI Site (Redesign) Task Force - [WSTF main page
-    (wiki)](https://www.w3.org/WAI/EO/wiki/WAI_Website_Redesign)
+1.  \[inactive\] WAI Site (Redesign) Task Force
 2.  \[inactive\] [Before/After Demo Task Force (BADTF) Work
     Statement](http://www.w3.org/WAI/EO/2005/badtf.html) and [BAD
     Requirements](http://www.w3.org/WAI/EO/Drafts/retrofit/requ-basite.html)
@@ -226,13 +218,9 @@ EOWG primarily conducts work through:
 -   [EOWG mailing list
     archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are
     publicly available for the EOWG main mailing list
--   Instructions for [subscribing to the EOWG mailing
+-   Instructions for [subscribing to the main EOWG mailing
     list](https://www.w3.org/WAI/EO/participation.html#mail)
--   [EO-Editors mailing list
-    archives](http://lists.w3.org/Archives/Public/wai-eo-editors/) are
-    publicly available for edits of specific documents
--   Some of the task forces have mailing lists, which are available from
-    the links in the "EOWG Task Forces" section above.
+-   [Additional EOWG mailing lists](https://www.w3.org/WAI/EO/wiki/EOWG_Participation_Info#E-mail_Lists)
 
 ### Participation
 
