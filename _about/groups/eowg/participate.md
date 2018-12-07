@@ -16,16 +16,22 @@ permalink: /about/groups/eowg/participate/
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Contributing to EOWG {#contribute}
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-Options for contributing to the work of the Education and Outreach Working Group (EOWG) include:
+Options for contributing to EOWG work include:
 
 -   Commenting through GitHub and/or the EOWG mailing list
 -   Becoming an active participant
 
 If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](https://www.w3.org/People/Shawn/).
 
-### Commenting on EOWG Resources {#comment}
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Commenting on EOWG Resources {#comment}
 
 We especially encourage contributions on open issues and resources-in-progress. You are welcome to comment on other EOWG resources, although we might not be able to address your comments right away.
 - To see open issues and resources-in-progress: **Read [Work for this Week]( https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week), messages to the EOWG mailing list**, and surveys. (You can see the results of surveys, although not access the surveys themselves. To see the results, add “/results” to the end of the URL.)
