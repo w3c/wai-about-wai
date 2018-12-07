@@ -12,8 +12,6 @@ Options for contributing to EOWG work include:
 -   Commenting through GitHub and/or the EOWG mailing list
 -   Becoming an active participant
 
-If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](https://www.w3.org/People/Shawn/).
-
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -30,6 +28,8 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
+
+If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](https://www.w3.org/People/Shawn/).
 
 ## Commenting on EOWG Resources {#comment}
 
@@ -66,7 +66,7 @@ If you do not receive confirmation that you have been added to the mailing list 
 Participant status requires you to commitment to support the work of the group. Active participants are expected to contribute at least 4 hours per week towards the Working Group. Editors are expected to contribute at least 8 hours per week.
 
 Active participants are expected to contribute to the development of deliverables by:
--   attending most meetings of the Working Group that are in reasonable working hours in their timezone.
+-   attending most meetings of the Working Group that are in reasonable working hours in their time zone.
 -   being familiar with the relevant documents of the Working Group, including minutes of past meetings.
 -   commenting on open issues.
 -   responding to e-mails sent to the EOWG mailing list.
@@ -102,7 +102,7 @@ If you do **not** work for a [W3C Member organization](http://www.w3.org/Consort
 
 2.  Explain your interest in contributing to EOWG work in an e-mail to EOWG Co-Chairs Sharron and Brent, and W3C Staff Contact Shawn, at [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20Contribution).
 
-3.  Demonstrate your understanding of EOWG and your contributions by commenting on open issues and resources-in-progress per [Commenting on EOWG Resources above](#contribute).<br>If you have questions, e-mail [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20 Contribution).
+3.  Demonstrate your understanding of EOWG and your contributions by commenting on open issues and resources-in-progress per [Commenting on EOWG Resources above](#comment).<br>If you have questions, e-mail [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20 Contribution).
 
 4.  After you are comfortable that you understand EOWG and have demonstrated contributions, e-mail [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20participation) with ideas on how you can contribute more as an active EOWG participant. We will probably schedule a time to talk via phone.
 
