@@ -29,11 +29,11 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 
 We especially encourage contributions on open issues and resources-in-progress. You are welcome to comment on other EOWG resources, although we might not be able to address your comments right away.
 - To see open issues and resources-in-progress: **Read [Work for this Week]( https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week), messages to the EOWG mailing list**, and surveys. (You can see the results of surveys, although not access the surveys themselves. To see the results, add “/results” to the end of the URL.)
-- We prefer comments in GitHub. You can comments on existing issues; opne new issues; fork and edit, and submit pull requests; etc. Links to GitHub are at the bottom of each resource page.<br>Alternatively, you can send comments to the EOWG mailing list.
+- We prefer comments in GitHub. You can comment on existing issues; open new issues; fork and edit, and submit pull requests; etc. Links to GitHub are at the bottom of each resource page.<br>Alternatively, you can send comments to the EOWG mailing list.
 
 ## Subscribing to the mailing list {#mail}
 
-The [EOWG mailing list archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are publicly available and can be read by anyone. Subscribing to the EOWG mailing list is open to anyone who wants to follow the work of the group. Subscribing to the mailing list does not make you an active participant; however, it does allow you to comment and contribute through the mailing list.
+The [EOWG mailing list archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are publicly available and can be read by anyone. Subscribing to the EOWG mailing list is open to anyone who wants to follow the work of the group. Subscribing to the mailing list does not make you an active participant.
 
 To subscribe to the EOWG mailing list:
 
@@ -48,28 +48,22 @@ To subscribe to the EOWG mailing list:
 2.  After you receive your W3C login name, request to be added to the EOWG mailing list by sending an e-mail:
     -   including your W3C login in the e-mail body
     -   with subject line "Request for EOWG mailing list"
-    -   to: <a href=mailto:wai-eo-call@w3.org?subject=Request%20for%20EOWG%20mailing%20list&body=W3C%20login%3A%20%5B...put%20yours%20here...%5D>wai-eo-call@w3.org</a>
+    -   to: [wai-eo-call@w3.org](mailto:wai-eo-call@w3.org?subject=Request%20for%20EOWG%20mailing%20list&body=W3C%20login%3A%20%5B...put%20yours%20here...%5D)
 
 If you do not receive confirmation that you have been added to the mailing list with in one week, contact the W3C Team contact for EOWG, [Shawn Henry](https://www.w3.org/people/shawn/).
 
 ## Becoming an Active Participant {#participant}
 
-Participant status requires a commitment on your behalf to support the
-work of the group. The [EOWG
-Charter]( https://www.w3.org/WAI/EO/charter2017#participation)
-explains expectations of active participants:
+Participant status requires you to commitment to support the work of the group. Active participants are expected to contribute at least 4 hours per week towards the Working Group. Editors are expected to contribute at least 8 hours per week.
 
-> Effective participation to Education and Outreach Working Group is expected to consume a **minimum of 4 hours per week for each participant**, and a minimum of 8 hours per week for editors. Active participants are expected to contribute to the development of deliverables by:
->
-> -   attending most meetings of the Working Group that are in reasonable working hours in their timezone.
-> -   being familiar with the relevant documents of the Working Group, including minutes of past meetings.
-> -   commenting on open issues.
-> -   responding to e-mails sent to the EOWG mailing list.
-> -   completing [EOWG surveys/questionnaires](http://www.w3.org/2002/09/wbs/35532/all) in a timely manner.
->
-> With permission of the Chairs, an individual may contribute only to a
-> specific deliverable, and thus only needs to meet the participation
-> expectations related to that deliverable.
+Active participants are expected to contribute to the development of deliverables by:
+-   attending most meetings of the Working Group that are in reasonable working hours in their timezone.
+-   being familiar with the relevant documents of the Working Group, including minutes of past meetings.
+-   commenting on open issues.
+-   responding to e-mails sent to the EOWG mailing list.
+-   completing [EOWG surveys/questionnaires](http://www.w3.org/2002/09/wbs/35532/all) in a timely manner.
+
+With permission of the Chairs, an individual may contribute only to a specific deliverable, and thus only needs to meet the participation expectations related to that deliverable.
 
 ### If you work for a W3C Member organization: {#member-steps}
 
