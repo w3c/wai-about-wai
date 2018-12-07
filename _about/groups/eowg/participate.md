@@ -3,19 +3,6 @@ title: Participating in the Education and Outreach Working Group (EOWG)
 permalink: /about/groups/eowg/participate/
 ---
 
-{::options toc_levels="2,3,4" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
@@ -31,10 +18,26 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 {% include box.html type="end" %}
 {:/}
 
+{::options toc_levels="2,3,4" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
 ## Commenting on EOWG Resources {#comment}
 
-We especially encourage contributions on open issues and resources-in-progress. You are welcome to comment on other EOWG resources, although we might not be able to address your comments right away.
-- To see open issues and resources-in-progress: **Read [Work for this Week]( https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week), messages to the EOWG mailing list**, and surveys. (You can see the results of surveys, although not access the surveys themselves. To see the results, add “/results” to the end of the URL.)
+**We especially encourage contributions on open issues and resources-in-progress.** You are welcome to comment on other EOWG resources, although we might not be able to address your comments right away.
+- To see open issues and resources-in-progress, read:
+   -  **[Work for this Week]( https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week)**.
+   - EOWG mailing list messages.
+   - EOWG surveys. (You can see the results of surveys, although not access the surveys themselves. To see the results, add “/results” to the end of the URL.)
 - We prefer comments in GitHub. You can comment on existing issues; open new issues; fork and edit, and submit pull requests; etc. Links to GitHub are at the bottom of each resource page.<br>Alternatively, you can send comments to the EOWG mailing list.
 
 ## Subscribing to the mailing list {#mail}
