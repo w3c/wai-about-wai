@@ -33,16 +33,17 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 
 ## Commenting on EOWG Resources {#comment}
 
-**We especially encourage contributions on open issues and resources-in-progress.** You are welcome to comment on other EOWG resources, although we might not be able to address your comments right away.
-- To see open issues and resources-in-progress, read:
+**We especially encourage contributions on resources-in-progress and open issues.** You are welcome to comment on other EOWG resources. It might some time to address comments on inactive resources.
+- To find out about resources-in-progress and open issues, see:
    -  **[Work for this Week]( https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week)**.
    - EOWG mailing list messages.
    - EOWG surveys. (You can see the results of surveys, although not access the surveys themselves. To see the results, add “/results” to the end of the URL.)
-- We prefer comments in GitHub. You can comment on existing issues; open new issues; fork and edit, and submit pull requests; etc. Links to GitHub are at the bottom of each resource page.<br>Alternatively, you can send comments to the EOWG mailing list.
+- We prefer comments in GitHub. You can comment on existing issues; open new issues; fork and edit, and submit pull requests; etc. Links to GitHub are at the bottom of each resource page.
+   - Alternatively, you can send comments to the EOWG mailing list. You need to subscribe to the list _(instructions below)_ before sending messages.
 
 ## Subscribing to the mailing list {#mail}
 
-The [EOWG mailing list archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are publicly available and can be read by anyone. Subscribing to the EOWG mailing list is open to anyone who wants to follow the work of the group. Subscribing to the mailing list does not make you an active participant.
+The [EOWG mailing list archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are publicly available and can be read by anyone. Subscribing to the EOWG mailing list is open to anyone who wants to follow the work of the group. Subscribing to the mailing list does not make you a Working Group participant.
 
 To subscribe to the EOWG mailing list:
 
@@ -66,7 +67,7 @@ If you do not receive confirmation that you have been added to the mailing list 
 Participant status requires you to commitment to support the work of the group. Active participants are expected to contribute at least 4 hours per week towards the Working Group. Editors are expected to contribute at least 8 hours per week.
 
 Active participants are expected to contribute to the development of deliverables by:
--   attending most meetings of the Working Group that are in reasonable working hours in their time zone.
+-   attending most of the Working Group teleconferences that are in reasonable working hours in your time zone.
 -   being familiar with the relevant documents of the Working Group, including minutes of past meetings.
 -   commenting on open issues.
 -   responding to e-mails sent to the EOWG mailing list.
