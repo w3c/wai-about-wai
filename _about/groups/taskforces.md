@@ -44,6 +44,9 @@ ones, are listed on each Working Group's home page.
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the mobile space.
+    
+[**Personalization Task Force**](https://www.w3.org/WAI/APA/task-forces/personalization/) under the [APA Working Group](https://www.w3.org/WAI/APA/)
+:   Personalization involves tailoring aspects of the user experience to meet the needs and preferences of the individual user.
 
 **[Research Question Task Force](https://www.w3.org/WAI/APA/task-forces/research-questions/)** under the [APA Working Group]({{ "/about/groups/apa/" | relative_url }})
 :   Identify accessibility knowledge gaps and barriers in emerging and
@@ -62,7 +65,8 @@ ones, are listed on each Working Group's home page.
     cultural web accessibility requirements and provide a base for
     continued evolution of the guidelines.
 
-**[Specification Accessibility Task Force](http://www.w3.org/WAI/PF/Group/spec-review-tf)** under the [APA Working Group]({{ "/about/groups/apa/" | relative_url }})\
+**[Specification Accessibility Task Force](http://www.w3.org/WAI/PF/Group/spec-review-tf)** under the [APA Working Group]({{ "/about/groups/apa/" | relative_url }})
+
 **[SVG Accessibility Task Force](http://www.w3.org/WAI/PF/svg-a11y-tf/)** under the [ARIA Working Group]({{ "/about/groups/ariawg/" | relative_url }}) and the [SVG Working Group](http://www.w3.org/Graphics/SVG/WG/)
 :   Identifying accessibility requirements and managing the progress of
     accessibility solutions in SVG2.
