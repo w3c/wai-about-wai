@@ -99,7 +99,7 @@ unsubscribe from the digest, send e-mail to
 
 To send a message to the list, first subscribe to the list (instructions
 above), then send your message to
-[w3c-wai-ig@w3.org](mailto:w3c-wai-ig-request@w3.org)
+[w3c-wai-ig@w3.org](mailto:w3c-wai-ig@w3.org)
 
 **The first time you send a message to a public W3C mailing list**, you
 will get a reply e-mail asking if you will give permission for your
