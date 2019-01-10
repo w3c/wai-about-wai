@@ -4,7 +4,7 @@ nav_title: "Overview"
 permalink: /about/projects/
 github:
   repository: w3c/wai-about-wai
-  path: '_about/pojects/index.md'
+  path: '_about/projects/index.md'
 ---
 
 ## Current Projects
