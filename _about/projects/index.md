@@ -10,7 +10,7 @@ github:
 ## Current Projects
 
 [WAI-Guide Project Reference]({{ "/about/projects/wai-guide/" | relative_url}})
-:   Information in support of **soon-to-start WAI project.**
+:   Information in support of **current WAI project.**
 
 [WAI-Tools Project Reference]({{ "/about/projects/wai-tools/" | relative_url}})
 :   Information in support of **current WAI project.**
