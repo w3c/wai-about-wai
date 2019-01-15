@@ -9,40 +9,18 @@ github:
 
 ## Current Projects
 
-[WAI-Guide]({{ "/about/projects/wai-guide/" | relative_url}})
-:   Information in support of **current WAI project.**
-
-[WAI-Tools]({{ "/about/projects/wai-tools/" | relative_url}})
-:   Information in support of **current WAI project.**
-
-[WAI-Core 2015 {% include_cached different.html %}](/WAI/CORE2015/)
-:   Information in support of **current WAI project.**
+   * [WAI-Guide]({{ "/about/projects/wai-guide/" | relative_url}})
+   * [WAI-Tools]({{ "/about/projects/wai-tools/" | relative_url}})
+   * [WAI-Core 2015 {% include_cached different.html %}](/WAI/CORE2015/)
 
 ## Previous Projects
 
-[WAI-ACT Project Reference {% include_cached different.html %}](/WAI/ACT)
-:   Information in support of previous WAI project.
-
-[WAI-Core 2010 Project Reference {% include_cached different.html %}](/WAI/CORE/)
-:   Information in support of previous WAI project.
-
-[WCAG TA Project Reference {% include_cached different.html %}](/WAI/WCAGTA/)
-:   Information in support of previous WAI project.
-
-[WAI-DEV Project Reference {% include_cached different.html %}](/WAI/DEV)
-:   Information in support of previous WAI project.
-
-[WAI-ACT Project Reference {% include_cached different.html %}](/WAI/ACT/)
-:   Information in support of previous WAI project.
-
-[WAI-AGE Project Reference {% include_cached different.html %}](/WAI/WAI-AGE/)
-:   Information in support of previous WAI project.
-
-[WAI-TIES Project Reference {% include_cached different.html %}](/WAI/TIES/)
-:   Information in support of previous WAI project.
-
-[WAI-DA (IST 13470) Project Reference Guide {% include_cached different.html %}](/WAI/WAIDA/)
-:   Information in support of previous WAI project.
-
-[WAI-DE / WAI-TIDE Final report {% include_cached different.html %}](/WAI/TIDE/FR2.htm)
-:   Information in support of previous WAI project.
+   * [WAI-ACT Project Reference {% include_cached different.html %}](/WAI/ACT)
+   * [WAI-Core 2010 Project Reference {% include_cached different.html %}](/WAI/CORE/)
+   * [WCAG TA Project Reference {% include_cached different.html %}](/WAI/WCAGTA/)
+   * [WAI-DEV Project Reference {% include_cached different.html %}](/WAI/DEV)
+   * [WAI-ACT Project Reference {% include_cached different.html %}](/WAI/ACT/)
+   * [WAI-AGE Project Reference {% include_cached different.html %}](/WAI/WAI-AGE/)
+   * [WAI-TIES Project Reference {% include_cached different.html %}](/WAI/TIES/)
+   * [WAI-DA (IST 13470) Project Reference Guide {% include_cached different.html %}](/WAI/WAIDA/)
+   * [WAI-DE / WAI-TIDE Final report {% include_cached different.html %}](/WAI/TIDE/FR2.htm)
