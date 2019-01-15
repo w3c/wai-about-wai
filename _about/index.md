@@ -58,7 +58,7 @@ WAI, in partnership with organizations around the world, pursues accessibility o
 -   conducting education and outreach
 -   coordinating with research and development that can affect future accessibility of the Web
 
-Learn more about [How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/),
+Learn more about [How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 ## WAI Groups
 
