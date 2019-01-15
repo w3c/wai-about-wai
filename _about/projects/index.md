@@ -9,19 +9,19 @@ github:
 
 ## Current Projects
 
-[WAI-Guide Project Reference]({{ "/about/projects/wai-guide/" | relative_url}})
+[WAI-Guide]({{ "/about/projects/wai-guide/" | relative_url}})
 :   Information in support of **current WAI project.**
 
-[WAI-Tools Project Reference]({{ "/about/projects/wai-tools/" | relative_url}})
+[WAI-Tools]({{ "/about/projects/wai-tools/" | relative_url}})
 :   Information in support of **current WAI project.**
 
-[WAI-Core 2015 Project Reference {% include_cached different.html %}](/WAI/CORE2015/)
-:   Information in support of **current WAI project.**
-
-[WAI-ACT Project Reference {% include_cached different.html %}](/WAI/ACT)
+[WAI-Core 2015 {% include_cached different.html %}](/WAI/CORE2015/)
 :   Information in support of **current WAI project.**
 
 ## Previous Projects
+
+[WAI-ACT Project Reference {% include_cached different.html %}](/WAI/ACT)
+:   Information in support of previous WAI project.
 
 [WAI-Core 2010 Project Reference {% include_cached different.html %}](/WAI/CORE/)
 :   Information in support of previous WAI project.
