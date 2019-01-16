@@ -3,7 +3,7 @@ title: "WAI-Guide"
 permalink: /about/projects/wai-guide/
 github:
   repository: w3c/wai-about-wai
-  path: '_about/pojects/wai-guide/index.md'
+  path: '_about/projects/wai-guide/index.md'
 ---
 
 {::nomarkdown}
@@ -29,7 +29,7 @@ github:
 
 ## Announcements
 
--   WAI-Guide Project will formally start on 1 January 2019
+-   WAI-Guide Project started on 1 January 2019
 
 ## Project Deliverables
 {:#deliverables}
@@ -66,7 +66,7 @@ See also [Participating in WAI](http://www.w3.org/WAI/participation). If you hav
 ## About the Project
 {:#about}
 
-WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, is an Support Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project will start on 1 January 2019 for a duration of three years. WAI-Guide aims to:
+WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, is an Support Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project started on 1 January 2019 for a duration of three years. WAI-Guide aims to:
 
 -   Provide authoritative implementation guidance and training, thereby growing capacities of available accessibility experts;
 -   Accelerate tooling support for accessible content authoring, thereby making it more cost efficient to create accessible content;

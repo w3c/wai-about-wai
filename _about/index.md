@@ -2,7 +2,7 @@
 title: "About W3C WAI"
 permalink: /about/
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 5 October 2018.</p>
+  <p><strong>Date:</strong> Updated 14 January 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 github:
@@ -58,6 +58,8 @@ WAI, in partnership with organizations around the world, pursues accessibility o
 -   conducting education and outreach
 -   coordinating with research and development that can affect future accessibility of the Web
 
+Learn more about [How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+
 ## WAI Groups
 
 WAI includes the following Working Groups and Interest Group:
@@ -69,6 +71,8 @@ WAI includes the following Working Groups and Interest Group:
 -   [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
 
 Within the Working Groups, there are also [Task Forces]({{ "/about/groups/taskforces/" | relative_url }}).
+
+Learn more about [Participating in WAI](https://www.w3.org/WAI/about/participating/).
 
 ## WAI News
 
