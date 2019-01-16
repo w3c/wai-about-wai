@@ -41,7 +41,7 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 - We prefer comments in GitHub. You can comment on existing issues; open new issues; fork and edit, and submit pull requests; etc. Links to GitHub are at the bottom of each resource page.
    - Alternatively, you can send comments to the EOWG mailing list. You need to subscribe to the list _(instructions below)_ before sending messages.
 
-## Getting a W3C Account {#w3c-account}
+## Getting a W3C Account
 
 Anyone can get a public W3C account. To get an account with W3C Member access, we will need verification of your affiliation.
 
@@ -57,7 +57,7 @@ The [EOWG mailing list archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/
 
 To subscribe to the EOWG mailing list:
 
-1.  [Request a W3C Account, per the instructions above](#w3c-account).
+1.  [Request a W3C Account, per the instructions above](#getting-a-w3c-account).
 
 2.  After you receive your W3C login name, request to be added to the EOWG mailing list by sending an e-mail:
     -   including your W3C login in the e-mail body
@@ -83,7 +83,7 @@ With permission of the Chairs, an individual may contribute only to a specific d
 
 1.  Read the [EOWG Charter]( https://www.w3.org/WAI/EO/charter2017).
 
-2.  If you do not have a W3C Account login and password, [request a W3C Account, per the instructions above](#w3c-account).
+2.  If you do not have a W3C Account login and password, [request a W3C Account, per the instructions above](#getting-a-w3c-account).
 
 3.  *After* you receive your W3C Account login, ask your [W3C Advisory Committee (AC) Representative](http://www.w3.org/Member/ACList.html) to:
 
