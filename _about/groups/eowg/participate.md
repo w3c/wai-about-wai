@@ -41,19 +41,23 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 - We prefer comments in GitHub. You can comment on existing issues; open new issues; fork and edit, and submit pull requests; etc. Links to GitHub are at the bottom of each resource page.
    - Alternatively, you can send comments to the EOWG mailing list. You need to subscribe to the list _(instructions below)_ before sending messages.
 
+## Getting a W3C Account
+
+Anyone can get a public W3C account. To get an account with W3C Member access, we will need to verify your affiliation.
+
+To get a W3C account, complete the [Account Request Form]( https://www.w3.org/accounts/request). After you submit it: 
+- **If your e-mail address is tied to a W3C Member**, you will receive e-mail to confirm your W3C account. <br>After you use the link in the e-mail to complete the request, your W3C account will be set up with member access.
+- **If your e-mail address is _not_ tied to a W3C Member**, the next form asks about your employment affiliation. <br>After you submit it, you will receive e-mail to confirm your W3C account. <br>After you use the link in the e-mail to complete the request:
+   - If you are _not_ affiliated with a W3C Member, your public W3C account will be set up.
+   - If you are affiliated with a W3C Member, it may take some time to get confirmation of your member account access from your organization's W3C Representative.
+
 ## Subscribing to the mailing list {#mail}
 
 The [EOWG mailing list archives](http://lists.w3.org/Archives/Public/w3c-wai-eo/) are publicly available and can be read by anyone. Subscribing to the EOWG mailing list is open to anyone who wants to follow the work of the group. Subscribing to the mailing list does not make you a Working Group participant.
 
 To subscribe to the EOWG mailing list:
 
-1.  If you do not have a W3C Access Account login and password, request a W3C Access Account:
-
-    -   **If you work for a [W3C Member organization](https://www.w3.org/Consortium/Member/List)**, complete the [Member Access Request Form](http://cgi.w3.org/MemberAccess/). In the "Additional information that might be helpful in processing your request (optional):" field, fill in: "*To subscribe to the WAI EOWG mailing list.*"
-
-    -   **If you do *not* work for W3C Member organization**, complete the [Public Access Request Form](http://cgi.w3.org/MemberAccess/Public). In the "Describe the specific purpose for this public access name and password:" field, fill in: "*To subscribe to the WAI EOWG mailing list.*"
-    
-    You should receive your W3C login name and password within 2 business days.
+1.  [Request a W3C Account, per the instructions above](#getting-a-w3c-account).
 
 2.  After you receive your W3C login name, request to be added to the EOWG mailing list by sending an e-mail:
     -   including your W3C login in the e-mail body
@@ -79,9 +83,9 @@ With permission of the Chairs, an individual may contribute only to a specific d
 
 1.  Read the [EOWG Charter]( https://www.w3.org/WAI/EO/charter2017).
 
-2.  If you do not have a W3C Access Account login and password, complete the [Member Access Request Form](http://cgi.w3.org/MemberAccess/). In the "Describe the specific purpose for this public access name and password:" field, fill in: "*For participation in the WAI EOWG.*" You should receive your W3C login name and password within 2 business days.
+2.  If you do not have a W3C Account login and password, [request a W3C Account, per the instructions above](#getting-a-w3c-account).
 
-3.  *After* you receive your W3C login name, ask your [W3C Advisory Committee (AC) Representative](http://www.w3.org/Member/ACList.html) to:
+3.  *After* you receive your W3C Account login, ask your [W3C Advisory Committee (AC) Representative](http://www.w3.org/Member/ACList.html) to:
 
     -   Select you as a participant in the Working Group by completing the [Joining the EOWG WG Form](/2004/01/pp-impl/35532/join).
 
@@ -101,6 +105,8 @@ If you do **not** work for a [W3C Member organization](http://www.w3.org/Consort
 
     -   Read the [invited expert and collaborators agreement](http://www.w3.org/Consortium/Legal/collaborators-agreement).
 
+    -   Get a W3C Account and subscribe to the mailing list, per the instructions above.
+
 2.  Explain your interest in contributing to EOWG work in an e-mail to EOWG Co-Chairs Sharron and Brent, and W3C Staff Contact Shawn, at [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20Contribution).
 
 3.  Demonstrate your understanding of EOWG and your contributions by commenting on open issues and resources-in-progress per [Commenting on EOWG Resources above](#comment).<br>If you have questions, e-mail [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20 Contribution).
@@ -111,4 +117,4 @@ If you do **not** work for a [W3C Member organization](http://www.w3.org/Consort
 
 6.  You should receive a reply within 10 business days. If you are accepted as an Invited Expert, you will receive confirmation with additional instructions on one more form to complete.
 
-  If you do not receive a reply within 10 days, contact the W3C Team contact for EOWG, [Shawn Henry](https://www.w3.org/People/Shawn/).
+ If you do not receive a reply within 10 days, contact the W3C Team contact for EOWG, [Shawn Henry](https://www.w3.org/People/Shawn/).
