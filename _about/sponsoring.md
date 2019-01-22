@@ -47,12 +47,12 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
     HHSP23301500054 ([WAI-Core 2015
     Project](https://www.w3.org/WAI/Core2015/))
 
--   **European Commission (EC) [Horizon 2020]( https://ec.europa.eu/programmes/horizon2020/)** (780057) ([WAI-Tools Project](https://www.w3.org/WAI/Tools/))
+-   **European Commission (EC) [Horizon 2020]( https://ec.europa.eu/programmes/horizon2020/)** (780057) ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
+
+-   **European Commission (EC) [Horizon 2020]( https://ec.europa.eu/programmes/horizon2020/)** (822245) ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/))
 
 -   **[IBM Corporation](http://www.ibm.com/able) (Gold Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
-
--   **[Bocoup](https://bocoup.com/) (Silver Sponsor)**
 
 -   **[HP Inc.](http://www.hp.com/) (Silver Sponsor)**
 
@@ -103,13 +103,13 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
 -   [Assistive Devices Industry
     Office](http://strategis.ic.gc.ca/epic/internet/inadio-biaaf.nsf/vwGeneratedInterE/home),
     Industry Canada, Government of Canada
+-   [Bocoup](https://bocoup.com/)
 -   [CA](http://www.ca.com/)
--   [Deque Systems](http://www.deque.com/) (Silver Sponsor)
+-   [Deque Systems](http://www.deque.com/)
 -   [ETS](http://www.ets.org/)
 -   [Fundación ONCE](http://www.fundaciononce.es/)
 -   [Hewlett Packard Development Company](http://www.hp.com/)
--   [HP Enterprise](https://www.hpe.com/us/en/home.html) (Silver
-    Sponsor)
+-   [HP Enterprise](https://www.hpe.com/us/en/home.html)
 -   [Lotus Development Corporation](http://www.lotus.com)
 -   [SAP](http://www.sap.com/)
 -   [Verizon
