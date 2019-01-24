@@ -11,6 +11,7 @@ github:
 
    * [WAI-Guide]({{ "/about/projects/wai-guide/" | relative_url}})
    * [WAI-Tools]({{ "/about/projects/wai-tools/" | relative_url}})
+   * WAI Expanding Access
    * [WAI-Core 2015 {% include_cached different.html %}](/WAI/CORE2015/)
 
 ## Previous Projects
