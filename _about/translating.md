@@ -195,7 +195,7 @@ translation now, or wait until the document is updated.
 
 #### Business case, Mobile Web overlap, older users overlpa:
 
--   **Developing a Web Accessibility Business Case for Your
+-   **Developing a Digital Accessibility Business Case for Your
     Organization**
     -   status: stable (updated September 2010)
     -   [www.w3.org/WAI/bcase/](https://www.w3.org/WAI/bcase/)
