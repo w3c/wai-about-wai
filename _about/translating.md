@@ -1,14 +1,30 @@
 ---
-title: Translating WAI Documents
+title: "Translating WAI Documents"
 nav_title: Translating
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating.md'
-
+  
+feedbackmail: wai@w3.org
 doc-note-message: >
-  <p><strong>This page is outdated. It will be updated by early 2019.</strong></p>
-  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and WCAG 2.1.</p>
+  <p><strong>This page is being updated in February 2019. To get notification of substantive updates, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></strong></p>
+  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
+footer: |
+  <p><strong>Date:</strong> Updated 13 February 2019.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
 ---
+
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This page provides guidance on translating WAI resources.<br>For a list of existing translations, see [All WAI Translations _(link coming in February)_](@@).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2" /}
 
@@ -23,309 +39,146 @@ doc-note-message: >
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Translation Assistance Welcome
+Thank you for your interest in translating resources from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
 
-We welcome your assistance translating documents developed by the World
-Wide Web Consortium (W3C) Web Accessibility Initiative (WAI). This page
-includes information on the W3C translation policy, how to coordinate
-with W3C and WAI when translating documents, and [priorities for
-translations of WAI documents](#priorities).
+You are welcome to translate any WAI resource. For suggestions on which to translate first, see [Priorities for Translations below](#priorities).
 
-### Existing Translations
+## Translation Instructions
 
-[A list of all WAI document
-translations](http://www.w3.org/2005/11/Translations/Query?lang=any&translator=any&date=any&docSelection=choose&rec=none&note=none&tut=none&wai=any&i18n=none&qa=none&misc=none&sorting=byTechnology&output=FullHTML&submit=Submit)
-is available from the W3C translations database.
+**Scope:**
+* These instructions cover web pages with a URI that begins with www.w3.org/WAI
+* For web pages that begin with www.w3.org/TR/ or something else, there is a different process that is being updated in 2019. Some information is in [TR Translations below](#tr).
 
-To get a list of WAI documents already translated in a specific
-language, use the [advanced
-search](http://www.w3.org/2005/11/Translations/TranslationSearch.html)
-and "Choose a language", and under "Web Accessibility Documents" select
--- Any WAI Documents --.
+**If you want to translate a WAI resource:**
 
-## W3C Translation Policy
+1. Check that there is not already a completed translation listed in [All WAI Translations _(link coming in February)_](@@). <!-- in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
+2. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
+   * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
 
-**Please read [Translations at
-W3C](http://www.w3.org/Consortium/Translation/) for the overall policy,
-procedures, and support on translating W3C documents.**
+## Important Translations Guidance {#important}
 
-More detailed information is available in W3C's [intellectual rights
-FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620), particularly
-under the question [can I translate one of your specifications into
-another
-language?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate)
-There is also useful information in the section on [W3C
-Documents](http://www.w3.org/Consortium/Legal/IPR-FAQ.html#Documents) in
-the FAQ, including the "[can I change
-it?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#really)"
-question; the "[is it
-official?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#official)"
-question, and the "[can I annotate
-it?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate)"
-question. It is also important to read the information on [W3C document
-use](http://www.w3.org/Consortium/Legal/copyright-documents.html).
+* **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the "Help improve this page" box near the bottom of the page.
+* Check if there is any translation guidance for the specific language. _{@@link}_
+* Make sure to translate image alts.
+* Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
+* If you have any questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org).
 
-### Authorized W3C Translations
+By submitting a translation, you agree:
+* To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
+* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate).)
 
-Most translations are informative and unofficial. In cases where
-standards translations are meant for official purposes, they may be
-developed as Authorized W3C Translations according to the **[Policy for
-Authorized W3C
-Translations](http://www.w3.org/2005/02/TranslationPolicy.html)**.
-**Generally only completed W3C Recommendations and Working Group Notes
-are candidates for Authorized W3C Translations**, including the WAI
-guidelines, techniques, and other documents listed under "[WAI Technical
-Activity](http://www.w3.org/TR/tr-activity#WAITechnicalActivity)" on the
-W3C Technical Reports and Publications page. The authorized translations
-policy is designed to ensure transparency and community accountability
-in the development of authorized translations under the oversight of
-W3C.
+### Updating Resources
 
-## Coordinating with W3C and WAI
+When the English version of a resource is updated, we will inform translators what has changed <!-- by GitHub &/or e-mail -->, and request that translators update their translation.
 
-If you are translating a WAI document, please follow the instructions
-in [the W3C Translations page on how to help translate a W3C
-document](http://www.w3.org/Consortium/Translation/#volunteer), and be
-sure to notify the [w3c-translators@w3.org mailing
-list](mailto:w3c-translators@w3.org) when you first plan to translate a
-document, and then again when you have finished a translation. You can
-also [subscribe to the translations
-list](http://www.w3.org/Consortium/Translation/#discussions) and ask
-questions about translation on that list. If you have additional
-questions specifically related to WAI documents, you can contact us at
-<wai@w3.org>.
+If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
 
-## Priorities for Translating WAI Documents
+### Additional Information
 
-People frequently ask us which WAI documents they should translate. Four
-lists are below:
+More information is available in W3C's <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
 
-1.  Top priority WCAG 2.0 materials
-2.  High priority introductory and short materials
-3.  Secondary priority introductory and short materials
-4.  Secondary priority technical materials
+General information about [W3C Translations](http://www.w3.org/Consortium/Translation/) is being updated in 2019.
 
-These lists are **suggested** priorities only. They are not meant to
-prevent people from translating documents for which they have a specific
-need. If you are interested in translating WAI documents that are not
-listed on this page or on the [W3C Technical
-Reports](http://www.w3.org/TR/) page, please inquire first by contacting
-us at <wai@w3.org>.
+## WAI Translations Mailing List {#mailinglist}
 
-**See the status information for each document.** Some documents are
-available now, but will be updated soon. You might choose to provide a
-translation now, or wait until the document is updated.
+* To subscribe, send e-mail to [public-wai-translations-request@w3.org with subject: subscribe](mailto:public-wai-translations-request@w3.org?subject=subscribe).
+* To unsubscribe, send e-mail to [public-wai-translations-request@w3.org with subject: unsubscribe](mailto:mailto:public-wai-translations-request@w3.org?subject=unsubscribe).
 
-### Top priority WCAG 2.0 materials
+You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
 
-#### WCAG 2.0 Web Standard / W3C Recommendation
+## Priorities for Translating WAI Resources {#priorities}
 
--   **Web Content Accessibility Guidelines (WCAG) 2.0**
-    -   status: completed, stable document
-    -   [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/)
-    -   note: this document may be developed as an [Authorized W3C
-        Translation](http://www.w3.org/2005/02/TranslationPolicy.html)
-    -   [WCAG 2.0
-        Translations](http://www.w3.org/WAI/WCAG20/translations)
+<p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are suggested priorities.</p>
+<ol>
+<li>High priority <strong>introductory</strong> resources</li>
+<li>High priority <strong>WCAG</strong> resources</li>
+<li>Main navigation overview pages</li>
+<li>Other priority resources</li>
+<li>To be updated</li>
+</ol>
 
-#### WCAG 2.0 short materials
+<h3>High priority introductory resources</h3>
+<ul>
+<li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including VTT file)</li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> (minor edits planned for 2019 Q1)</li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a> (minor edits possible in 2019 Q1)</li>
+</ul>
 
--   **Web Content Accessibility Guidelines (WCAG) Overview**
-    -   status: stable
-    -   [www.w3.org/WAI/intro/wcag.html](/WAI/intro/wcag)
--   **WCAG 2.0 at a Glance**
-    -   status: mostly stable, one minor edit possible in late 2011
-    -   [www.w3.org/WAI/WCAG20/glance/](http://www.w3.org/WAI/WCAG20/glance/)
--   **The WCAG 2.0 Documents**
-    -   status: stable
-    -   [www.w3.org/WAI/intro/wcag20.php](http://www.w3.org/WAI/intro/wcag20.php)
+<h3>High priority WCAG resources</h3>
+<ul>
+<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation ([TR](#tr))
+<ul>
+<li><a href="http://www.w3.org/WAI/WCAG20/translations">WCAG 2 Translations</a> lists translations in-progress and completed.</li>
+<li>This document may be developed as an <a href="http://www.w3.org/2005/02/TranslationPolicy.html">Authorized W3C Translation.</a></li>
+<li>To get the latest update with errata included, use the <a href="https://w3c.github.io/wcag/21/guidelines/">Editor's Draft</a>.</li>
+</ul>
+</li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG Overview</a></strong> </li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 at a Glance</a></li>
+</ul>
 
-#### WCAG 2.0 longer technical materials
+<h3>Main navigation overview pages</h3>
+<p>If you translate these pages, then users will get the main navigation in the language. In most cases, we will wait to publish these until all of them are tranlated.</p>
+<ul>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> <em>(repeat from above)</em></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> <em>(repeat from above)</em></li>
+<li><a href="https://www.w3.org/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a></li>
+<li><a href="https://www.w3.org/WAI/design-develop/">Design and Develop Overview</a></li>
+<li><a href="https://www.w3.org/WAI/planning/">Planning and Policies Overview</a></li>
+<li><a href="https://www.w3.org/WAI/teach-advocate/">Teach and Advocate Overview</a></li>
+<li><a href="https://www.w3.org/WAI/">WAI home page</a> (see notes on which parts to translate)</li>
+</ul>
 
--   **Understanding WCAG 2.0**
-    -   status: completed, updates planned every year or two
-    -   [www.w3.org/TR/UNDERSTANDING-WCAG20/](http://www.w3.org/TR/UNDERSTANDING-WCAG20/)
--   **Techniques for WCAG 2.0**
-    -   status: completed, updates planned every year or two
-    -   [www.w3.org/TR/WCAG20-TECH](http://www.w3.org/TR/WCAG20-TECHS/)
+<h3>Other priority resources</h3>
+<ul>
+<li><strong><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a></strong> &mdash; 4 pages</li>
+<li><strong>Other standards overviews:</strong>
+<ul>
+<li><a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a><em> (this page will be updated in the future; however, it could be many months before it is updated)</em></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/uaag/">User Agent Accessibility Guidelines (UAAG) Overview</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/uaag/">Authoring Tool Accessibility Guidelines (ATAG) Overview</a></li>
+</ul>
+</li>
+<li><strong>Advocating and teaching resources:</strong>
+<ul>
+<li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> &mdash; main page, 10 sub-pages including transcripts</li>
+<li><a href="https://www.w3.org/WAI/business-case/">The Business Case for Digital Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">How to Make Your Presentations Accessible to All</a></li>
+<li><a href="https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/">Contacting Organizations about Inaccessible Websites</a></li>
+</ul>
+</li>
+<li><strong>Planning and managing resources:</strong>
+<ul>
+<li><a href="https://www.w3.org/WAI/planning/interim-repairs/">Web Accessibility First Aid: Approaches for Interim Repairs</a></li>
+<li><a href="https://www.w3.org/WAI/planning/involving-users/">Involving Users in Web Projects for Better, Easier Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/test-evaluate/tools/selecting/">Selecting Web Accessibility Evaluation Tools </a></li>
+</ul>
+</li>
+<li><strong>Design and development resources:</strong>
+<ul>
+<li><a href="https://www.w3.org/WAI/tips/developing/">Tips for Getting Started    Developing for Web Accessibility </a></li>
+<li><a href="https://www.w3.org/WAI/tips/designing/">Tips for Getting Started Designing for Web Accessibility </a></li>
+<li><a href="https://www.w3.org/WAI/tips/writing/">Tips for Getting Started    Writing for Web Accessibility </a></li>
+<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> ([TR](#tr))</li>
+</ul>
+</li>
+</ul>
+<p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.</strong></p>
 
-### High priority introductory and short materials
+<h3>To be updated <em>(you might want to wait to translate, or be prepared to update your translation)</em></h3>
+<p>The following pages will be updated, and you might want to wait to translate them until after they are updated. To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the [WAI Translations maling list, per above](#mailinglist).</p>
+<ul class="old">
+<li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/">About W3C WAI </a>&mdash; minor update planned for 2019</li>
+<li><a href="https://www.w3.org/WAI/about/participating/">Participating in WAI</a> (see notes on which parts to translate) &mdash; minor update planned for 2019</li>
+<li><a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a> &mdash; significant update planned for 2019</li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> (no date set for the update to be completed)</li>
+</ul>
 
-***WCAG 2.0 materials listed above.***
+## TR Translations & Authorized W3C Translations {#tr}
 
--   **Accessibility - W3C**
-    -   status: stable
-    -   [www.w3.org/standards/webdesign/accessibility](http://www.w3.org/standards/webdesign/accessibility)
--   **Introduction to Web Accessibility**
-    -   status: stable (although outdated)
-    -   [www.w3.org/WAI/intro/accessibility.php](/WAI/intro/accessibility)
-    -   [translations of Introduction to WAI
-        Accessibility](/2003/03/Translations/byTechnology?technology=wai_intro)
--   **Essential Components of Web Accessibility**
-    -   status: Version 1.3 complete
-    -   [www.w3.org/WAI/intro/components.php](/WAI/intro/components)
-    -   [translations of Essential Components of
-        Accessibility](/2003/03/Translations/byTechnology?technology=wai_intro_components)
--   **Accessible Rich Internet Applications (WAI-ARIA) Suite Overview**
-    -   status: complete, will be updated with future release of
-        WAI-ARIA drafts in 2011
-    -   [www.w3.org/WAI/intro/aria.ph](http://www.w3.org/WAI/intro/aria.php)
+For web pages at URIs that begin with www.w3.org/TR/ there is a different process that is being updated in early 2019. Previous information is available in [W3C Translations](https://www.w3.org/Consortium/Translation/).
 
-### Secondary priority Introductory and short materials
-
-#### WCAG 2.0 short materials (secondary priority):
-
--   **WCAG 2 FAQ**
-    -   status: stable
-    -   [www.w3.org/WAI/WCAG20/wcag2faq](http://www.w3.org/WAI/WCAG20/wcag2faq)
--   **How WCAG 2.0 Differs from WCAG 1.0**
-    -   status: stable
-    -   [www.w3.org/WAI/WCAG20/from10/diff](http://www.w3.org/WAI/WCAG20/from10/diff.php)
-
-#### Other guidelines overview documents:
-
--   **User Agent Accessibility Guidelines (UAAG) Overview**
-    -   status: stable (minor updates planned in 2011 with document
-        publications)
-    -   [www.w3.org/WAI/intro/uaag.html](/WAI/intro/uaag)
--   **Authoring Tool Accessibility Guidelines (ATAG) Overview**
-    -   status: stable (minor updates planned in 2011 with document
-        publications)
-    -   [www.w3.org/WAI/intro/atag.html](/WAI/intro/atag)
-
-#### Business case, Mobile Web overlap, older users overlpa:
-
--   **Developing a Digital Accessibility Business Case for Your
-    Organization**
-    -   status: stable (updated September 2010)
-    -   [www.w3.org/WAI/bcase/](https://www.w3.org/WAI/bcase/)
--   **Web Accessibility and Older People: Meeting the Needs of Ageing
-    Web Users**
-    -   status: stable
-    -   [www.w3.org/WAI/older-users/](http://www.w3.org/WAI/older-users/Overview.php)
--   **Web Content Accessibility and Mobile Web**
-    -   status: stable
-    -   [www.w3.org/WAI/mobile/](http://www.w3.org/WAI/mobile/)
--   **Shared Web Experiences: Barriers Common to Mobile Device Users and
-    People with Disabilities**
-    -   status: stable
-    -   [www.w3.org/WAI/mobile/experiences](http://www.w3.org/WAI/mobile/experiences)
-
-#### Managing and evaluating accessibility:
-
--   **Involving Users in Web Projects for Better, Easier Accessibility**
-    -   status: stable (updated 7 April 2010)
-    -   [www.w3.org/WAI/users/involving]({{ "/planning/involving-users/" | relative_url }})
--   **Improving the Accessibility of Your Web Site**
-    -   status: stable
-    -   [www.w3.org/WAI/impl/improving.html](http://www.w3.org/WAI/impl/improving.html)
--   **Implementation Plan for Web Accessibility**
-    -   status: stable
-    -   [www.w3.org/WAI/impl/](https://www.w3.org/WAI/impl/expanded.html)
-    -   [translations of Implementation Planning for Web
-        Accessibility](/2003/03/Translations/byTechnology?technology=expanded)
-    -   Note that the link above is to the "expanded" version of the
-        document. A translation of this expanded document need not
-        include "\[outline\]" under the &lt;h1&gt;, nor "To return to
-        the outline version of this page, select "outline" here or
-        above" in the Introduction section.
--   **Selecting and Using Authoring Tools for Web Accessibility**
-    -   status: stable
-    -   [www.w3.org/WAI/impl/software](http://www.w3.org/WAI/impl/software)
--   **Selecting Web Accessibility Evaluation Tools**
-    -   status: stable
-    -   [www.w3.org/WAI/eval/selectingtools.html](http://www.w3.org/WAI/eval/selectingtools.html)
--   **Involving Users in Evaluating Web Accessibility**
-    -   status: stable (updated 7 April 2010)
-    -   [www.w3.org/WAI/eval/users.html]({{ "/test-evaluate/involving-users/" | relative_url }})
--   **Evaluation Resource Suite**
-    -   status: most material outdated, although some still useful
-    -   [www.w3.org/WAI/eval/](/WAI/eval/)
-
-#### Others:
-
--   **Contacting Organizations about Inaccessible Websites**
-    -   status: stable, updated 21 April 2010
-    -   [www.w3.org/WAI/users/inaccessible](http://www.w3.org/WAI/users/inaccessible)
--   **How WAI Develops Accessibility Guidelines through the W3C Process:
-    Milestones and Opportunities to Contribute**
-    -   status: stable
-    -   [www.w3.org/WAI/intro/w3c-process](http://www.w3.org/WAI/intro/w3c-process)
--   **Referencing and Linking to WAI Guidelines and Technical
-    Documents**
-    -   status: stable
-    -   [www.w3.org/WAI/intro/linking](http://www.w3.org/WAI/intro/linking.html)
-
-### Secondary priority technical materials
-
--   **Authoring Tool Accessibility Guidelines 1.0 (ATAG 1.0)**
-    -   status: stable. will be superseded by ATAG 2.0, which may be
-        completed in 2012
-    -   [www.w3.org/TR/ATAG10/](http://www.w3.org/TR/ATAG10/)
-    -   [translations of ATAG
-        1.0](http://www.w3.org/WAI/AU/ATAG-TRANSLATIONS)
--   **User Agent Accessibility Guidelines 1.0 (UAAG 1.0)**
-    -   status: stable. will be superseded by UAAG 2.0, which may be
-        completed in 2012
-    -   [www.w3.org/TR/UAAG10](http://www.w3.org/TR/UAAG10/)
-
-### To be completed or updated in 2011 (not yet ready for translation):
-
--   Why Standards Harmonization is Essential to Web Accessibility
-    -   status: being updated in 2011
-    -   [www.w3.org/WAI/Policy/harmon](http://www.w3.org/WAI/Policy/harmon)
--   How to Make Presentations Accessible to All
-    -   status: draft available, final expected in 2011
-    -   [www.w3.org/WAI/training/accessible](http://www.w3.org/WAI/training/accessible)
--   Web Accessibility is Smart Business presentation
-    -   status: mostly complete, a few edits planned for 2011
-    -   draft:
-        [http://www.w3.org/WAI/presentations/bcase/bcase-presentation-format.ppt
-        (12MB)](http://www.w3.org/WAI/presentations/bcase/bcase-presentation-format.ppt)
-    -   related document: [Instructions for the "Web Accessibility is
-        Smart Business"
-        Presentation](http://www.w3.org/WAI/presentations/bcase/)[](http://www.w3.org/WAI/presentations/WCAG20_benefits/)
--   Benefits of WCAG 2.0 presentation
-    -   status: mostly complete, a few design updates planned for 2011
-    -   draft:
-        [www.w3.org/WAI/presentations/WCAG20\_benefits/WCAG20\_benefits-presentation-format.ppt](http://www.w3.org/WAI/presentations/WCAG20_benefits/WCAG20_benefits-presentation-format.ppt)(.ppt,
-        500KB),
-        [www.w3.org/WAI/presentations/WCAG20\_benefits/WCAG20\_benefits.html](http://www.w3.org/WAI/presentations/WCAG20_benefits/WCAG20_benefits.html)
-    -   related document: [Instructions for the "Benefits of WCAG 2"
-        Presentation](http://www.w3.org/WAI/presentations/WCAG20_benefits/)
--   How People with Disabilities Use the Web
-    -   status: significant updates in-progress, expected completion is
-        late 2011
-    -   draft:
-        [www.w3.org/WAI/EO/Drafts/PWD-Use-Web/20040302.html](/WAI/EO/Drafts/PWD-Use-Web/20040302)
--   Handouts
-    -   status: out-of-date, last updated date listed in [WAI Handouts
-        page](http://www.w3.org/WAI/flyer/)
--   **Developing Organizational Policies for Web Accessibility**
-    -   status: stable, minor updates planned for 2011
-    -   [www.w3.org/WAI/impl/pol](http://www.w3.org/WAI/impl/pol)
--   Overview of the Web Accessibility Initiative
-    -   status: out-of-date
-    -   all slide content in a single file:
-        [www.w3.org/Talks/WAI-Intro/all.htm](/Talks/WAI-Intro/all)
-    -   related document: [Overview of the Web Accessibility Initiative
-        (WAI) Slides](/WAI/intro/wai-overview-slides)
-
-### Out-dated, superceded, or soon-to-be superceded documents
-
-**The following documents are *not* recommended for translation:**
-
--   **[WAI Quick Tips](http://www.w3.org/WAI/References/QuickTips/)**
-    -   status: outdated. See [WCAG 2.0 at a
-        Glance](http://www.w3.org/WAI/WCAG20/glance/)
--   **[Checklist of Checkpoints for Web Content Accessibility Guidelines
-    1.0](http://www.w3.org/TR/WCAG10/full-checklist.html)**
-    -   status: superseded by WCAG 2.0
--   **[Web Content Accessibility Guidelines (WCAG)
-    1.0](http://www.w3.org/TR/WCAG10/)**
-    -   status: superseded by WCAG 2.0
--   **[Techniques for WCAG 1.0](http://www.w3.org/TR/WCAG-TECHS/)**
-    -   status: superseded by Techniques for WCAG 2.0
-
-**The complete list of WAI documents is available on the [WAI Site
-Map](http://www.w3.org/WAI/sitemap.html).**
+Most translations are informative and unofficial. In cases where standards translations are meant for official purposes, they may be developed as Authorized W3C Translations according to the **[Policy for Authorized W3C Translations]( http://www.w3.org/2005/02/TranslationPolicy.html)**. Generally only completed W3C Recommendations and Working Group Notes are candidates for Authorized W3C Translations, including the WAI guidelines. The authorized translations policy is designed to ensure transparency and community accountability in the development of authorized translations under the oversight of W3C.
