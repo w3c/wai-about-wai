@@ -51,7 +51,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 
 **If you want to translate a WAI resource:**
 
-1. Check that there is not already a completed translation listed in [All WAI Translations _(link coming in February)_](@@). <!-- in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
+1. Check that there is not already a completed translation listed in [All WAI Translations _(link coming in February)_](@@). <!-- @@in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
 2. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
    * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
 
@@ -69,7 +69,7 @@ By submitting a translation, you agree:
 
 ### Updating Resources
 
-When the English version of a resource is updated, we will inform translators what has changed <!-- by GitHub &/or e-mail -->, and request that translators update their translation.
+When the English version of a resource is updated, we will inform translators what has changed<!-- @@by GitHub &/or e-mail -->, and request that translators update their translation.
 
 If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
 
@@ -88,7 +88,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 ## Priorities for Translating WAI Resources {#priorities}
 
-<p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are suggested priorities.</p>
+<p>You are welcome to translate any current WAI resource that you think would be useful in your language. The lists below are suggested priorities.</p>
 <ol>
 <li>High priority <strong>introductory</strong> resources</li>
 <li>High priority <strong>WCAG</strong> resources</li>
@@ -166,7 +166,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 </ul>
 </li>
 </ul>
-<p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.</strong></p>
+<p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.<!-- @@ change to resources list when that's done --></strong></p>
 
 <h3>To be updated</h3>
 <p>The following pages will be updated. <strong>You might want to wait to translate them until after they are updated, or be prepared to update your translation.</strong> To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the <a href="#mailinglist">WAI Translations maling list, per above</a>.</p>
