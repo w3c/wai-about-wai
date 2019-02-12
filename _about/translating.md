@@ -108,14 +108,14 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 <h3>High priority WCAG resources</h3>
 <ul>
-<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation ([TR](#tr))
+<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation (<a href="#tr">TR</a>)
 <ul>
 <li><a href="http://www.w3.org/WAI/WCAG20/translations">WCAG 2 Translations</a> lists translations in-progress and completed.</li>
 <li>This document may be developed as an <a href="http://www.w3.org/2005/02/TranslationPolicy.html">Authorized W3C Translation.</a></li>
 <li>To get the latest update with errata included, use the <a href="https://w3c.github.io/wcag/21/guidelines/">Editor's Draft</a>.</li>
 </ul>
 </li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG Overview</a></strong> </li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG Overview</a></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 at a Glance</a></li>
 </ul>
 
@@ -162,14 +162,14 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/tips/developing/">Tips for Getting Started    Developing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/designing/">Tips for Getting Started Designing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/writing/">Tips for Getting Started    Writing for Web Accessibility </a></li>
-<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> [TR](#tr)</li>
+<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> (<a href="#tr">TR</a>)</li>
 </ul>
 </li>
 </ul>
 <p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.</strong></p>
 
 <h3>To be updated</h3>
-<p>The following pages will be updated. <strong>You might want to wait to translate them until after they are updated, or be prepared to update your translation.</strong> To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the [WAI Translations maling list, per above](#mailinglist).</p>
+<p>The following pages will be updated. <strong>You might want to wait to translate them until after they are updated, or be prepared to update your translation.</strong> To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the <a href="#mailinglist">WAI Translations maling list, per above</a>.</p>
 <ul class="old">
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/">About W3C WAI </a>&mdash; minor update planned for 2019</li>
 <li><a href="https://www.w3.org/WAI/about/participating/">Participating in WAI</a> (see notes on which parts to translate) &mdash; minor update planned for 2019</li>
