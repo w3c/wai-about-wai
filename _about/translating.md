@@ -7,7 +7,7 @@ github:
   
 feedbackmail: wai@w3.org
 doc-note-message: >
-  <p><strong>This page is being updated in February 2019. To get notification of substantive updates, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></strong></p>
+  <p><strong>This page is being updated in February 2019.</strong> <br>To get notification of substantive updates, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></p>
   <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
 footer: |
   <p><strong>Date:</strong> Updated 13 February 2019.</p>
@@ -168,8 +168,8 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 </ul>
 <p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.</strong></p>
 
-<h3>To be updated <em>(you might want to wait to translate, or be prepared to update your translation)</em></h3>
-<p>The following pages will be updated, and you might want to wait to translate them until after they are updated. To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the [WAI Translations maling list, per above](#mailinglist).</p>
+<h3>To be updated</h3>
+<p>The following pages will be updated. <strong>You might want to wait to translate them until after they are updated, or be prepared to update your translation.</strong> To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the [WAI Translations maling list, per above](#mailinglist).</p>
 <ul class="old">
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/">About W3C WAI </a>&mdash; minor update planned for 2019</li>
 <li><a href="https://www.w3.org/WAI/about/participating/">Participating in WAI</a> (see notes on which parts to translate) &mdash; minor update planned for 2019</li>
