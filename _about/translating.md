@@ -162,7 +162,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/tips/developing/">Tips for Getting Started    Developing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/designing/">Tips for Getting Started Designing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/writing/">Tips for Getting Started    Writing for Web Accessibility </a></li>
-<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> ([TR](#tr))</li>
+<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> [TR](#tr)</li>
 </ul>
 </li>
 </ul>
