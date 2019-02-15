@@ -10,7 +10,7 @@ doc-note-message: >
   <p><strong>This page is being updated in February 2019.</strong> <br>To get notification of substantive updates, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></p>
   <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
 footer: |
-  <p><strong>Date:</strong> Updated 13 February 2019.</p>
+  <p><strong>Date:</strong> Updated 15 February 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
 ---
@@ -19,7 +19,11 @@ footer: |
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on translating WAI resources.<br>For a list of existing translations, see [All WAI Translations _(link coming in February)_](@@).
+This page provides guidance on translating WAI resources.
+
+For a list of existing translations, see [All WAI Translations _(link coming in February)_](@@).
+
+To get announcements related to WAI translations, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>
 
 {::nomarkdown}
 {% include box.html type="end" %}
