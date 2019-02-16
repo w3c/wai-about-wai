@@ -75,7 +75,9 @@ When you are done with the translation, we encourage you to use GitHub to fork, 
 
 #### Reviews
 
-Translations will be reviewed before they are published. Please include the names of people who already reviewed the translation, and contact information for other people who might be interested in reviewing it.
+Translations will be reviewed before they are published. Please include in GitHub or e-mail:
+*  Names of people who already reviewed the translation.
+* Contact information for other people who might be interested in reviewing the translation.
 
 #### Links
 
@@ -87,7 +89,7 @@ Translations can include:
 * Organization name - translator's employer &/or other sponsor/funder of the translation.
 
 Cannot include:
-* Links to organizations. (Exception: Qualifying accessibility/disability or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).
+* Links to organizations. (Exception: Qualifying accessibility/disability or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
 
 #### W3C Translations Information
 
