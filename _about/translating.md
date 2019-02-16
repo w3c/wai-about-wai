@@ -59,24 +59,6 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 2. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
    * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
 
-## Important Translations Guidance {#important}
-
-* **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the "Help improve this page" box near the bottom of the page.
-* Check if there is any translation guidance for the specific language. _{@@link}_
-* Make sure to translate image alts.
-* Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
-* If you have any questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org).
-
-By submitting a translation, you agree:
-* To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
-* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate).)
-
-### Updating Resources
-
-When the English version of a resource is updated, we will inform translators what has changed<!-- @@by GitHub &/or e-mail -->, and request that translators update their translation.
-
-If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
-
 {% include_cached excol.html type="start" id="more-instructions" %}
 
 ### More Translation Instructions
@@ -97,14 +79,15 @@ Translations will be reviewed before they are published. Please include the name
 
 #### Links
 
-This policy is based on [https://www.w3.org/International/2004/06/translation.en.html#linkingrules i18n Link Rules], which provides some background.
+This policy is based on [i18n Link Rules]([https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
 
 Translations can include:
 * Translator's formal name, common name used online, &/or Twitter handle.
-** Link to translator's individual page, such as personal blog, personal home page, bio page, or acceptable social media page.
+   * Link to translator's individual page, such as personal blog, personal home page, bio page, or acceptable social media page.
 * Organization name - translator's employer &/or other sponsor/funder of the translation.
+
 Cannot include:
-* Links to organizations. (Exception: Qualifying accessibility/disability or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D.).
+* Links to organizations. (Exception: Qualifying accessibility/disability or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).
 
 #### W3C Translations Information
 
@@ -113,6 +96,24 @@ More information is available in W3C's <a href="http://www.w3.org/Consortium/Leg
 General information about [W3C Translations](http://www.w3.org/Consortium/Translation/) is being updated in 2019.
 
 {% include_cached excol.html type="end" %}
+
+## Important Translations Guidance {#important}
+
+* **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the "Help improve this page" box near the bottom of the page.
+* Check if there is any translation guidance for the specific language. _{@@link}_
+* Make sure to translate image alts.
+* Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
+* If you have any questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org).
+
+By submitting a translation, you agree:
+* To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
+* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate).)
+
+### Updating Resources
+
+When the English version of a resource is updated, we will inform translators what has changed<!-- @@by GitHub &/or e-mail -->, and request that translators update their translation.
+
+If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
 
 ## WAI Translations Mailing List {#mailinglist}
 
