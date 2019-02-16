@@ -77,11 +77,42 @@ When the English version of a resource is updated, we will inform translators wh
 
 If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
 
-### Additional Information
+{% include_cached excol.html type="start" id="more-instructions" %}
+
+### More Translation Instructions
+
+{% include_cached excol.html type="middle" %}
+
+#### Next Steps
+Before starting your translation, please read:
+* [Important Translations Guidance](https://www.w3.org/WAI/about/translating/#important)
+* [Translation Notes for this resource](@@link)
+* [Translation Notes for your language, if available](@@link)
+
+When you are done with the translation, we encourage you to use GitHub to fork, edit, and submit a pull request. If you are not comfortable with GitHub, you can e-mail the translated file to [public-wai-translations@w3.org with the subject: Completed Translation – [language] – [resource title]](mailto:public-wai-translations@w3.org?subject=Completed Translation – [language] – [resource title])
+
+#### Reviews
+
+Translations will be reviewed before they are published. Please include the names of people who already reviewed the translation, and contact information for other people who might be interested in reviewing it.
+
+#### Links
+
+This policy is based on [https://www.w3.org/International/2004/06/translation.en.html#linkingrules i18n Link Rules], which provides some background.
+
+Translations can include:
+* Translator's formal name, common name used online, &/or Twitter handle.
+** Link to translator's individual page, such as personal blog, personal home page, bio page, or acceptable social media page.
+* Organization name - translator's employer &/or other sponsor/funder of the translation.
+Cannot include:
+* Links to organizations. (Exception: Qualifying accessibility/disability or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D.).
+
+#### W3C Translations Information
 
 More information is available in W3C's <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
 
 General information about [W3C Translations](http://www.w3.org/Consortium/Translation/) is being updated in 2019.
+
+{% include_cached excol.html type="end" %}
 
 ## WAI Translations Mailing List {#mailinglist}
 
