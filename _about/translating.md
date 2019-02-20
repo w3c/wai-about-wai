@@ -89,7 +89,7 @@ Translations can include:
 * Organization name - translator's employer &/or other sponsor/funder of the translation.
 
 Cannot include:
-* Links to organizations. (Exception: Qualifying accessibility/disability or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
+* Links to organizations. (Exception: Qualifying accessibility/disability organizations or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
 
 #### W3C Translations Information
 
