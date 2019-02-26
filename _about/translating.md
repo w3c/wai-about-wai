@@ -124,7 +124,12 @@ If the changes are only small changes, such as a new paragraph or a new short se
 
 You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
 
+{% include_cached excol.html type="start" id="more-instructions" %}
+
 ## Priorities for Translating WAI Resources {#priorities}
+
+{% include_cached excol.html type="middle" %}
+
 
 <p>You are welcome to translate any current WAI resource that you think would be useful in your language. The lists below are suggested priorities.</p>
 <ol>
@@ -215,6 +220,8 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a> &mdash; significant update planned for 2019</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> (no date set for the update to be completed)</li>
 </ul>
+
+{% include_cached excol.html type="end" %}
 
 ## TR Translations & Authorized W3C Translations {#tr}
 
