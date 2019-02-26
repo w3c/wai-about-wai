@@ -10,7 +10,7 @@ doc-note-message: >
   <p><strong>This page is being updated in February 2019.</strong> <br>To get notification of substantive updates, subscribe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></p>
   <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
 footer: |
-  <p><strong>Date:</strong> Updated 15 February 2019.</p>
+  <p><strong>Date:</strong> Updated 25 February 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
 ---
@@ -68,8 +68,8 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 #### Next Steps
 Before starting your translation, please read:
 * [Important Translations Guidance](https://www.w3.org/WAI/about/translating/#important)
-* [Translation Notes for this resource](@@link)
-* [Translation Notes for your language, if available](@@link)
+* Translation Notes for the specific resource in the README file in GitHub
+* [Translation Notes for your language, if available](https://github.com/w3c/translation-glossaries/blob/master/README.md)
 
 When you are done with the translation, we encourage you to use GitHub to fork, edit, and submit a pull request. If you are not comfortable with GitHub, you can e-mail the translated file to [public-wai-translations@w3.org with the subject: Completed Translation – [language] – [resource title]](mailto:public-wai-translations@w3.org?subject=Completed Translation – [language] – [resource title])
 
