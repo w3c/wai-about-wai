@@ -34,6 +34,20 @@ github:
 -   [Online Symosium on ACT Rules for Manual Methodologies]({{"/about/projects/wai-tools/symposium/" | relative_url }}), on 14 March 2018
 -   [First Open Meeting]({{"/about/projects/wai-tools/first-open-meeting/" | relative_url }}) was held on 29 November 2017 in Brussels, Belgium
 
+## Project Results
+{:#results}
+
+Current project results include:
+
+**[Developing an Accessibility Statement {% include_cached different.html %}](https://www.w3.org/WAI/planning/statements/)**
+:  Includes guidance on how to develop accessibility statements for websites, mobile applications, and other digital content, as well as a free and open source accessibility statements generator tool. More information in the blog post [How to Create Accessibility Statements {% include_cached different.html %}](https://www.w3.org/blog/2018/11/how-to-create-accessibility-statements/). This is the result of project deliverable D3.1, which was developed through the [W3C Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
+
+**[Accessibility Conformance Testing (ACT) Rules {% include_cached different.html %}](https://auto-wcag.github.io/auto-wcag/pages/rules.html)**
+:  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 30 rules were developed during the first project year, with another 25 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C Auto-WCAG Community Group](https://auto-wcag.github.io/auto-wcag/).
+
+**[Open Format for Accessibility Test Results {% include_cached different.html %}](https://github.com/w3c/earl)**
+:  Includes the definition of an open data format to express accessibility test results. It is a [JSON-LD 1.0](https://www.w3.org/TR/json-ld/) serialization of the [EARL 1.0 Schema](https://www.w3.org/TR/EARL10-Schema/), and is implemented by the open source [Alfa](https://github.com/siteimprove/alfa) and [aXe Core](https://github.com/dequelabs/axe-reporter-earl) accessibility testing engines. This is the result of project deliverable D2.1.
+
 ## Project Deliverables
 {:#deliverables}
 
@@ -48,25 +62,11 @@ Technical project deliverables include:
     -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the Portuguese national observatory.
     -   **D2.3: Applying to Norwegian Observatory** — applying the test rules and tooling developed by the project in the Norwegian national observatory.
 -   **Integration of Test Rules**
-    -   **D3.1: Accessibility Statement Generator** — open source tool, possibly extending the [WCAG-EM Report Tool {% include_cached different.html %}](https://www.w3.org/WAI/eval/report-tool/), to assist the creation of accessibility statements.
+    -   **D3.1: Accessibility Statement Generator** — open source tool, to assist help [create accessibility statements {% include_cached different.html %}](https://www.w3.org/WAI/planning/statements/).
     -   **D3.2: Extended Accessibility Report Tool** — extending the [WCAG-EM Report Tool {% include_cached different.html %}](https://www.w3.org/WAI/eval/report-tool/) with functionality to import fully- and semi-automated test results.
     -   **D3.3: Large-Scale Test Data Browser** — open source prototype, based on existing standards and tools, to browse large amounts of accessibility test results.
 
 These deliverables are complemented by project management, dissemination, and engagement efforts.
-
-## Project Results
-{:#results}
-
-Current project results include:
-
-**[Developing an Accessibility Statement {% include_cached different.html %}](https://www.w3.org/WAI/planning/statements/)**
-:  Includes guidance on how to develop accessibility statements for websites, mobile applications, and other digital content, as well as a free and open source accessibility statements generator tool. More information in the blog post [How to Create Accessibility Statements {% include_cached different.html %}](https://www.w3.org/blog/2018/11/how-to-create-accessibility-statements/). This is the result of project deliverable D3.1, which was developed through the [W3C Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
-
-**[Accessibility Conformance Testing (ACT) Rules {% include_cached different.html %}](https://auto-wcag.github.io/auto-wcag/pages/rules.html)**
-:  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 30 rules were developed during the first project year, with another 25 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C Auto-WCAG Community Group](https://auto-wcag.github.io/auto-wcag/).
-
-**[Open Format for Accessibility Test Results {% include_cached different.html %}](https://github.com/w3c/earl)**
-:  Includes the definition of an open data format to express accessibility test results. It is a [JSON-LD 1.0](https://www.w3.org/TR/json-ld/) serialization of the [EARL 1.0 Schema](https://www.w3.org/TR/EARL10-Schema/), and is implemented by the open source [Alfa](https://github.com/siteimprove/alfa) and [aXe Core](https://github.com/dequelabs/axe-reporter-earl) accessibility testing engines. This is the result of project deliverable D2.1.
 
 ## How To Participate
 {:#participate}
