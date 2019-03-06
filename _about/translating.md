@@ -138,9 +138,9 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <h3>High priority introductory resources</h3>
 <ul>
 <li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including VTT file)</li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> (minor edits planned for 2019 Q1)</li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> (minor edits planned for 2019 Q2)</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a> (minor addition planned for 2019 Q2)</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a></li>
 </ul>
 
@@ -158,10 +158,9 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 </ul>
 
 <h3>Main navigation overview pages</h3>
-<p>If you translate these pages, then users will get the main navigation in the languagmalin
-  e. In most cases, we will wait to publish these until all of them are translated.</p>
+<p>If you translate these pages, then users will get the main navigation in your language. In most cases, we will wait to publish these until all of them are translated.</p>
 <ul>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> <em>(repeat from above)</em></li>
+<li>Accessibility Fundamentals Overview <em>(new page coming in 2019)</em></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> <em>(repeat from above)</em></li>
 <li><a href="https://www.w3.org/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a></li>
 <li><a href="https://www.w3.org/WAI/design-develop/">Design and Develop Overview</a></li>
