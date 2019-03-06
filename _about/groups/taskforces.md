@@ -19,7 +19,7 @@ ones, are listed on each Working Group's home page.
     it provides more consistency and comparability of the resulting test
     rules.
 
-[**Cognitive and Learning Disabilities Accessibility Task Force**](http://www.w3.org/WAI/PF/cognitive-a11y-tf/) (Cognitive A11Y TF) under the [Accessible Platform Architectures Working Group]({{ "/about/groups/apa/" | relative_url }}) and the [WCAG Working Group]({{ "/about/groups/agwg/" | relative_url }})
+[**Cognitive and Learning Disabilities Accessibility Task Force**](https://www.w3.org/WAI/GL/task-forces/coga/) (Cognitive A11Y TF) under the [Accessible Platform Architectures Working Group]({{ "/about/groups/apa/" | relative_url }}) and the [WCAG Working Group]({{ "/about/groups/agwg/" | relative_url }})
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the cognitive space.
