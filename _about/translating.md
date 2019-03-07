@@ -6,11 +6,8 @@ github:
   path: '_about/translating.md'
   
 feedbackmail: wai@w3.org
-doc-note-message: >
-  <p><strong>This page will be updated in March 2019.</strong> <br>To get notification of substantive updates, subscribe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></p>
-  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
 footer: |
-  <p><strong>Date:</strong> Updated 21 March 2019.</p>
+  <p><strong>Date:</strong> Updated 6 March 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
 ---
@@ -21,7 +18,7 @@ footer: |
 
 This page provides guidance on translating WAI resources.
 
-For a list of existing translations, see [All WAI Translations _(link coming in March)_](@@).
+For a list of existing translations, see {% include link.html to="/translations/" text="All WAI Translations" %}.
 
 To get announcements related to WAI translations, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>
 
@@ -55,7 +52,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 
 **If you want to translate a WAI resource:**
 
-1. Check that there is not already a completed translation listed in [All WAI Translations _(link coming in March)_](@@). <!-- @@in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
+1. Check that there is not already a completed translation listed in {% include link.html to="/translations/" text="All WAI Translations" %}. <!-- @@in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
 2. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
    * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
 
@@ -67,9 +64,9 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 
 #### Next Steps
 Before starting your translation, please read:
-* [Important Translations Guidance](https://www.w3.org/WAI/about/translating/#important)
+* [Important Translations Guidance](https://www.w3.org/WAI/about/translating/#important) below
 * Translation Notes for the specific resource in the README file in GitHub
-* [Translation Notes for your language, if available](https://github.com/w3c/translation-glossaries/blob/master/README.md)
+* [Translation Glossaries](https://github.com/w3c/translation-glossaries/blob/master/README.md) - the General one and if there's one for your language.
 
 When you are done with the translation, we encourage you to use GitHub to fork, edit, and submit a pull request. If you are not comfortable with GitHub, you can e-mail the translated file to [public-wai-translations@w3.org with the subject: Completed Translation – [language] – [resource title]](mailto:public-wai-translations@w3.org?subject=Completed Translation – [language] – [resource title])
 
@@ -101,11 +98,10 @@ General information about [W3C Translations](http://www.w3.org/Consortium/Transl
 
 ## Important Translations Guidance {#important}
 
-* **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the "Help improve this page" box near the bottom of the page.
-* Check if there is any translation guidance for the specific language. _{@@link}_
+* **Do not _change_ or _adapt_ or _add to_ the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the "Help improve this page" box near the bottom of the page.
 * Make sure to translate image alts.
 * Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
-* If you have any questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org).
+* If you have **any** questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org). We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into chosing the wording for the English page.
 
 By submitting a translation, you agree:
 * To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
@@ -119,7 +115,7 @@ If the changes are only small changes, such as a new paragraph or a new short se
 
 ## WAI Translations Mailing List {#mailinglist}
 
-* To subscribe, send e-mail to [public-wai-translations-request@w3.org with subject: subscribe](mailto:public-wai-translations-request@w3.org?subject=subscribe).
+* **To subscribe**, send e-mail to [public-wai-translations-request@w3.org with subject: subscribe](mailto:public-wai-translations-request@w3.org?subject=subscribe).
 * To unsubscribe, send e-mail to [public-wai-translations-request@w3.org with subject: unsubscribe](mailto:mailto:public-wai-translations-request@w3.org?subject=unsubscribe).
 
 You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
@@ -129,7 +125,6 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 ## Priorities for Translating WAI Resources {#priorities}
 
 {% include_cached excol.html type="middle" %}
-
 
 <p>You are welcome to translate any current WAI resource that you think would be useful in your language. The lists below are suggested priorities.</p>
 <ol>
@@ -143,9 +138,9 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <h3>High priority introductory resources</h3>
 <ul>
 <li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including VTT file)</li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> (minor edits planned for 2019 Q1)</li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> (minor edits planned for 2019 Q2)</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a> (minor addition planned for 2019 Q2)</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a></li>
 </ul>
 
@@ -163,10 +158,9 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 </ul>
 
 <h3>Main navigation overview pages</h3>
-<p>If you translate these pages, then users will get the main navigation in the languagmalin
-  e. In most cases, we will wait to publish these until all of them are translated.</p>
+<p>If you translate these pages, then users will get the main navigation in your language. In most cases, we will wait to publish these until all of them are translated.</p>
 <ul>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> <em>(repeat from above)</em></li>
+<li>Accessibility Fundamentals Overview <em>(new page coming in 2019)</em></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> <em>(repeat from above)</em></li>
 <li><a href="https://www.w3.org/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a></li>
 <li><a href="https://www.w3.org/WAI/design-develop/">Design and Develop Overview</a></li>
