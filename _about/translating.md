@@ -78,7 +78,7 @@ Translations will be reviewed before they are published. Please include in GitHu
 
 #### Links
 
-This policy is based on [i18n Link Rules](https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
+This policy is based on [Internationalization Links](https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
 
 Translations can include:
 * Translator's formal name, common name used online, &/or Twitter handle.
