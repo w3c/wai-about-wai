@@ -8,8 +8,8 @@ lang: en   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2022-00-00   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translator: " "   # Within quote marks, put name or names separated with a comma
 contributors: " "   # Within quote marks, put name(s) or delete this line
-permalink: /about/projects/wai-expand-access/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /about/projects/wai-expand-access/   # Do not change this
+permalink: /expand-access/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /expand-access/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-about-wai
