@@ -7,9 +7,9 @@ github:
   
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 6 March 2019.</p>
+  <p><strong>Date:</strong> Updated 23 March 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 ---
 
 {::nomarkdown}
@@ -48,7 +48,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 
 **Scope:**
 * These instructions cover web pages with a URI that begins with www.w3.org/WAI
-* For web pages that begin with www.w3.org/TR/ or something else, there is a different process that is being updated in 2019. Some information is in [TR Translations below](#tr).
+* For web pages that begin with www.w3.org/TR/ or something else, there is a different process that is introduced in [TR & Authorized W3C Translations below](#tr).
 
 **If you want to translate a WAI resource:**
 
@@ -66,7 +66,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 Before starting your translation, please read:
 * [Important Translations Guidance](https://www.w3.org/WAI/about/translating/#important) below
 * Translation Notes for the specific resource in the README file in GitHub
-* [Translation Glossaries](https://github.com/w3c/translation-glossaries/blob/master/README.md) - the General one and if there's one for your language.
+* [Translation Glossaries](https://github.com/w3c/translation-glossaries/blob/master/README.md) - the General glossary and if there's a glossary for your language
 
 When you are done with the translation, we encourage you to use GitHub to fork, edit, and submit a pull request. If you are not comfortable with GitHub, you can e-mail the translated file to [public-wai-translations@w3.org with the subject: Completed Translation – [language] – [resource title]](mailto:public-wai-translations@w3.org?subject=Completed Translation – [language] – [resource title])
 
@@ -78,7 +78,7 @@ Translations will be reviewed before they are published. Please include in GitHu
 
 #### Links
 
-This policy is based on [i18n Link Rules](https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
+This policy is based on [Internationalization Links](https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
 
 Translations can include:
 * Translator's formal name, common name used online, &/or Twitter handle.
@@ -90,9 +90,7 @@ Cannot include:
 
 #### W3C Translations Information
 
-More information is available in W3C's <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
-
-General information about [W3C Translations](http://www.w3.org/Consortium/Translation/) is being updated in 2019.
+More information is available in [W3C Translations](http://www.w3.org/Consortium/Translation/) and in <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">W3C Intellectual Rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
 
 {% include_cached excol.html type="end" %}
 
@@ -217,8 +215,8 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 {% include_cached excol.html type="end" %}
 
-## TR Translations & Authorized W3C Translations {#tr}
+## TR & Authorized W3C Translations {#tr}
 
-For web pages at URIs that begin with www.w3.org/TR/ there is a different process that is being updated in early 2019. Previous information is available in [W3C Translations](https://www.w3.org/Consortium/Translation/).
+Web pages at URIs that begin with www.w3.org/TR/ (for "Technical Report") follow a different process described in [W3C Translations](https://www.w3.org/Consortium/Translation/).
 
 Most translations are informative and unofficial. In cases where standards translations are meant for official purposes, they may be developed as Authorized W3C Translations according to the **[Policy for Authorized W3C Translations]( http://www.w3.org/2005/02/TranslationPolicy.html)**. Generally only completed W3C Recommendations and Working Group Notes are candidates for Authorized W3C Translations, including the WAI guidelines. The authorized translations policy is designed to ensure transparency and community accountability in the development of authorized translations under the oversight of W3C.
