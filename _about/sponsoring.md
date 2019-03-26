@@ -47,14 +47,14 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
     HHSP23301500054 ([WAI-Core 2015
     Project](https://www.w3.org/WAI/Core2015/))
 
--   **European Commission (EC) [Horizon 2020]( https://ec.europa.eu/programmes/horizon2020/)** (780057) ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
+-   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (780057) ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
 
--   **European Commission (EC) [Horizon 2020]( https://ec.europa.eu/programmes/horizon2020/)** (822245) ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/))
+-   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (822245) ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/))
 
--   **[IBM Corporation](http://www.ibm.com/able) (Gold Sponsor)**
+-   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/))
+
+-   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
-
--   **[HP Inc.](http://www.hp.com/) (Silver Sponsor)**
 
 ## Previous Sponsors and Funding
 
@@ -66,7 +66,7 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
     Research](http://www.ed.gov/about/offices/list/osers/nidrr/index.html),
     contract EDOSE10C0067 ([WAI-Core 2010
     Project](https://www.w3.org/WAI/Core/Overview.html))
--   US Access Board ([WCAG TA
+-   US Department of Interior, [US Access Board](https://www.access-board.gov/) ([WCAG TA
     Project](https://www.w3.org/WAI/WCAGTA/Overview.html))
 -   European Commission [Information Society Technologies
     Programme](http://cordis.europa.eu/ist/), 7th Framework, IST 611612
