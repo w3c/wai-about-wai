@@ -16,7 +16,7 @@ footer: > # Text in footer in HTML
 
 You can generally use WAI material for free, with two conditions:
 1.  Clearly attribute the original source as specified below, and
-2.  Not modify the content.
+2.  Not modify the content (with few exceptions noted below).
 
 [W3C usage policies apply](https://www.w3.org/Consortium/Legal/ipr-notice) to all WAI material.
 
@@ -46,7 +46,7 @@ W3C Web Accessibility Initiative (WAI) develops material to help make the web ac
 **There are two conditions for using most WAI material**; you must:
 
 1.  Clearly attribute the original source as specified below, and
-2.  Not modify the content.
+2.  Not modify the content (with few exceptions noted below).
 
 Please read below for more details, including [**some material that is specially-marked content that you can modify**](#cc).
 
