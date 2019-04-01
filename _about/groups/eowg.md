@@ -10,7 +10,7 @@ permalink: /about/groups/eowg/
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides information for those interested in EOWG. **Please see the [EOWG wiki](https://www.w3.org/WAI/EO/wiki/Main_Page) for more information.**
+This page provides basic information about EOWG.<br>**For more detailed information, see the [EOWG wiki](https://www.w3.org/WAI/EO/wiki/Main_Page).**
 
 {::nomarkdown}
 {% include box.html type="end" %}
