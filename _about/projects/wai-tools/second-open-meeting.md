@@ -59,18 +59,18 @@ WAI-Tool staff will present will project deliverables and highlight particular p
 The following times are in CET:
 
 -   **10:00 - 11:00** Registration and coffee
--   **11:00 - 12:30** Session 1 TBA
+-   **11:00 - 12:30** Session 1: Using Accessibility Conformance Testing (ACT) Rules
 -   **12:30 - 13:30** Lunch
--   **13:30 - 15:00** Session 2 TBA
+-   **13:30 - 15:00** Session 2: Portuguese and Norwegian National Observatories
 -   **15:00 - 15:30** Coffee break
--   **15:30 - 17:00** Session 3 TBA
+-   **15:30 - 17:00** Session 3: Accessibility Statements and Conformance Evaluation
 -   **17:00** End of meeting
 
 ## Venue
 {:#venue}
 
-[Hotel Metropole {% include_cached external.html %}](https://www.metropolehotel.com/)<br>
-31, place de Brouckère<br>
+[Marriott Grand Place {% include_cached external.html %}](https://www.marriott.com/hotels/travel/brudt-brussels-marriott-hotel-grand-place/)<br>
+Rue Auguste 3-7 / Grand Place<br>
 B-1000 Brussels, Belgium
 
 ## Registration
