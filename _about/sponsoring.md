@@ -32,12 +32,9 @@ with disabilities.
 
 ### Additional Sponsors and Contributors Welcome
 
-WAI welcomes additional sponsors to support its technical and
-educational activities to increase accessibility of the Web.
-
-Information regarding [WAI sponsorship
-opportunities](http://www.w3.org/Consortium/sponsor/webforall#wai) is
-available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
+WAI welcomes additional sponsors to support its technical and educational activities to increase accessibility of the Web. For information:
+* See [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)
+* Contact [Judy Brewer](https://www.w3.org/People/Brewer/), Director of WAI, at <jbrewer@w3.org>
 
 ## Current Sponsors and Funding
 
@@ -55,6 +52,12 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
 
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
+    
+### Current Fellow Supporters
+
+WAI also welcomes organizations to support [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows).
+
+-  [Knowbility, Inc](https://knowbility.org/)
 
 ## Previous Sponsors and Funding
 
@@ -115,6 +118,11 @@ available, or contact Judy Brewer, Director of WAI, at <jbrewer@w3.org>.
 -   [Verizon
     Foundation](http://www22.verizon.com/content/verizonglobalhome/ghp_landing.aspx)
 -   [Wells Fargo](http://www.wellsfargo.com/home.htm)
+
+### Previous Fellow Supporters
+
+-  [Elisa Communications](https://www.elisa.com/)
+-  RITT
 
 <!--
 Contributors
