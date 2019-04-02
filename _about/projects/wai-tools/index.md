@@ -10,7 +10,7 @@ github:
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-**Web Accessibility Initiative - Advanced Decision Support Tools for Scalable Web Accessibility Assessments (WAI-Tools) — European Commission (EC) co-funded project, Horizon 2020 Program (780057)**
+This page provides information on the Web Accessibility Initiative - Advanced Decision Support Tools for Scalable Web Accessibility Assessments **(WAI-Tools) Project**, a European Commission (EC) co-funded project, Horizon 2020 Program (780057).
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
