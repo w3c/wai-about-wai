@@ -121,7 +121,7 @@ WAI also welcomes organizations to contribute through the [W3C Fellows Program](
 
 ### Previous Fellow Contributors
 
--  [Elisa Communications](https://www.elisa.com/)
+-  [Elisa Communications](http://www.elisa.fi/)
 -  RITT
 
 <!--
