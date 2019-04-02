@@ -36,6 +36,8 @@ WAI welcomes additional sponsors to support its technical and educational activi
 * See [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)
 * Contact [Judy Brewer](https://www.w3.org/People/Brewer/), Director of WAI, at <jbrewer@w3.org>
 
+WAI also welcomes organizations to contribute through the [W3C Fellows Program](https://www.w3.org/Consortium/Recruitment/Fellows).
+
 ## Current Sponsors and Funding
 
 -   **US Department of Health and Human Services, [National Institute for
@@ -53,9 +55,7 @@ WAI welcomes additional sponsors to support its technical and educational activi
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
     
-### Current Fellow Supporters
-
-WAI also welcomes organizations to support [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows).
+### Current Fellow Contributors
 
 -  [Knowbility, Inc](https://knowbility.org/)
 
@@ -119,7 +119,7 @@ WAI also welcomes organizations to support [W3C Fellows](https://www.w3.org/Cons
     Foundation](http://www22.verizon.com/content/verizonglobalhome/ghp_landing.aspx)
 -   [Wells Fargo](http://www.wellsfargo.com/home.htm)
 
-### Previous Fellow Supporters
+### Previous Fellow Contributors
 
 -  [Elisa Communications](https://www.elisa.com/)
 -  RITT
