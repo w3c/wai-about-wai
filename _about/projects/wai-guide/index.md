@@ -10,7 +10,7 @@ github:
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-**Web Accessibility Initiative - Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building (WAI-Guide) — European Commission (EC) co-funded project, Horizon 2020 Program (822245)**
+This page provides information on the Web Accessibility Initiative - Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building **(WAI-Guide) Project**, a European Commission (EC) co-funded project, Horizon 2020 Program (822245).
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
