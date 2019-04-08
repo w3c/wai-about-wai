@@ -42,7 +42,7 @@ We encourage participation from people interested in:
 -   Large-scale web accessibility monitoring
 -   Managing the quality assurance process
 
-We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. **Meeting is on Monday 20 May 2017 at 11:00 to 17:00 in Brussels, Belgium.**
+We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. **Meeting is on Monday 20 May 2017 at 10:00 to 17:00 in Brussels, Belgium.**
 
 ## Background
 {:#background}
