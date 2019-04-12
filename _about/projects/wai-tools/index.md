@@ -57,11 +57,11 @@ Technical project deliverables include:
 -   **Development of Test Rules**
     -   **D1.1: Development of Test Rules** — development of accessibility conformance test rules according to the [ACT Rules Format 1.0 {% include_cached different.html %}](https://www.w3.org/TR/act-rules-format/) standard from W3C.
     -   **D1.2: Implementation of Test Rules** — implementation of the test rules developed by the project in at least two open source testing engines.
-    -   **D1.3: Validation of Test Rules** — validate and refine test rules developed by the project, to meet the requirements for authoritative [ACT Rules {% include_cached different.html %}](https://w3c.github.io/wcag-act-rules/).
+    -   **D1.3: Validation of Test Rules** — validate and refine test rules developed by the project, to meet the requirements for authoritative [ACT Rules {% include_cached different.html %}](https://auto-wcag.github.io/auto-wcag/pages/rules.html).
 -   **Deployment of Test Rules**
     -   **D2.1: Open Format for Test Results** — develop open format built on [Evaluation and Report Language (EARL) {% include_cached different.html %}](https://www.w3.org/WAI/intro/earl) and [Test Case Description Language (TCDL) {% include_cached different.html %}](https://www.w3.org/WAI/ER/tests/).
-    -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the Portuguese national observatory.
-    -   **D2.3: Applying to Norwegian Observatory** — applying the test rules and tooling developed by the project in the Norwegian national observatory.
+    -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the [Portuguese national observatory {% include_cached different.html %}](http://accessmonitor.acessibilidade.gov.pt/observatorio/).
+    -   **D2.3: Applying to Norwegian Observatory** — applying the test rules and tooling developed by the project in the [Norwegian national observatory {% include_cached different.html %}](https://uu.difi.no/om-oss/english).
 -   **Integration of Test Rules**
     -   **D3.1: Accessibility Statement Generator** — open source tool, to assist help [create accessibility statements {% include_cached different.html %}](https://www.w3.org/WAI/planning/statements/).
     -   **D3.2: Extended Accessibility Report Tool** — extending the [WCAG-EM Report Tool {% include_cached different.html %}](https://www.w3.org/WAI/eval/report-tool/) with functionality to import fully- and semi-automated test results.
