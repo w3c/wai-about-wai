@@ -44,10 +44,10 @@ Current project results include:
 :  Includes guidance on how to develop accessibility statements for websites, mobile applications, and other digital content, as well as a free and open source accessibility statements generator tool. More information in the blog post [How to Create Accessibility Statements {% include_cached different.html %}](https://www.w3.org/blog/2018/11/how-to-create-accessibility-statements/). This is the result of project deliverable D3.1, which was developed through the [W3C Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
 
 **[Accessibility Conformance Testing (ACT) Rules {% include_cached different.html %}](https://auto-wcag.github.io/auto-wcag/pages/rules.html)**
-:  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 30 rules were developed during the first project year, with another 25 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C Auto-WCAG Community Group](https://auto-wcag.github.io/auto-wcag/).
+:  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 30 rules were developed during the first project year, with another 25 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed).
 
 **[Open Format for Accessibility Test Results {% include_cached different.html %}](https://github.com/w3c/earl)**
-:  Includes the definition of an open data format to express accessibility test results. It is a [JSON-LD 1.0](https://www.w3.org/TR/json-ld/) serialization of the [EARL 1.0 Schema](https://www.w3.org/TR/EARL10-Schema/), and is implemented by the open source [Alfa](https://github.com/siteimprove/alfa) and [aXe Core](https://github.com/dequelabs/axe-reporter-earl) accessibility testing engines. This is the result of project deliverable D2.1.
+:  Includes the definition of an open data format to express accessibility test results. It is a [JSON-LD 1.0](https://www.w3.org/TR/json-ld/) serialization of the [EARL 1.0 Schema](https://www.w3.org/TR/EARL10-Schema/), and is implemented by the open source [Alfa](https://github.com/siteimprove/alfa) and [aXe Reporter](https://github.com/dequelabs/axe-reporter-earl) accessibility testing engines. This is the result of project deliverable D2.1.
 
 ## Project Deliverables
 {:#deliverables}
@@ -56,8 +56,8 @@ Technical project deliverables include:
 
 -   **Development of Test Rules**
     -   **D1.1: Development of Test Rules** — development of accessibility conformance test rules according to the [ACT Rules Format 1.0 {% include_cached different.html %}](https://www.w3.org/TR/act-rules-format/) standard from W3C.
-    -   **D1.2: Implementation of Test Rules** — implementation of the test rules developed by the project in at least two open source testing engines.
-    -   **D1.3: Validation of Test Rules** — validate and refine test rules developed by the project, to meet the requirements for authoritative [ACT Rules {% include_cached different.html %}](https://auto-wcag.github.io/auto-wcag/pages/rules.html).
+    -   **D1.2: Implementation of Test Rules** — implementation of the test rules developed by the project in at least two open source testing engines, [Alfa](https://github.com/siteimprove/alfa) and [aXe Core](https://github.com/dequelabs/axe-core).
+    -   **D1.3: Validation of Test Rules** — validate and refine test rules developed by the project, to meet the requirements for authoritative [ACT Rules {% include_cached different.html %}](https://act-rules.github.io//pages/rules.html).
 -   **Deployment of Test Rules**
     -   **D2.1: Open Format for Test Results** — develop open format built on [Evaluation and Report Language (EARL) {% include_cached different.html %}](https://www.w3.org/WAI/intro/earl) and [Test Case Description Language (TCDL) {% include_cached different.html %}](https://www.w3.org/WAI/ER/tests/).
     -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the [Portuguese national observatory {% include_cached different.html %}](http://accessmonitor.acessibilidade.gov.pt/observatorio/).
@@ -74,7 +74,7 @@ These deliverables are complemented by project management, dissemination, and en
 
 Most of the project work listed above is developed through or in coordination with:
 
--   [auto-WCAG Community Group {% include_cached different.html %}](https://auto-wcag.github.io/auto-wcag/)
+-   [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed)
 -   [Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/wai/gl/task-forces/conformance-testing/)
 -   [Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/)
 
