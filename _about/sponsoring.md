@@ -34,6 +34,7 @@ with disabilities.
 
 WAI welcomes additional sponsors to support its technical and educational activities to increase accessibility of the Web.
 * **For sponsorship information, see [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)**
+* * If you might want to support a fellow, see [W3C Fellows Program](https://www.w3.org/Consortium/Recruitment/Fellows)
 * **Contact [Judy Brewer](https://www.w3.org/People/Brewer/), Director of WAI, at <jbrewer@w3.org>**
 
 ## Current Sponsors and Funding
@@ -54,8 +55,6 @@ WAI welcomes additional sponsors to support its technical and educational activi
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
     
 ### Current Fellow Supporters
-
-W3C WAI thanks organizations that support [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) in WAI.
 
 -  **[Knowbility, Inc](https://knowbility.org/)**
 
