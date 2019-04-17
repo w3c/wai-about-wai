@@ -32,7 +32,7 @@ with disabilities.
 
 ### Additional Sponsors and Contributors Welcome
 
-WAI welcomes additional sponsors to support its technical and educational activities to increase accessibility of the Web.
+WAI welcomes additional sponsors and contributors to support its technical and educational activities to increase accessibility of the Web.
 * **For sponsorship information, see [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)**
 * **Contact [Judy Brewer](https://www.w3.org/People/Brewer/), Director of WAI, at <jbrewer@w3.org>**
 
