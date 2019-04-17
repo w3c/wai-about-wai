@@ -54,7 +54,7 @@ WAI welcomes additional sponsors to support its technical and educational activi
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
     
-### Current Fellow Supporters
+### Current Fellow Contributors
 
 -  **[Knowbility, Inc](https://knowbility.org/)**
 
@@ -118,7 +118,7 @@ WAI welcomes additional sponsors to support its technical and educational activi
     Foundation](http://www22.verizon.com/content/verizonglobalhome/ghp_landing.aspx)
 -   [Wells Fargo](http://www.wellsfargo.com/home.htm)
 
-### Previous Fellow Supporters
+### Previous Fellow Contributors
 
 -  [Elisa Communications](http://www.elisa.fi/)
 -  RITT
