@@ -3,6 +3,8 @@ title: "WAI-Tools Open Meeting — 29 November 2017, Brussels, Belgium"
 title_html: "WAI-Tools Open Meeting<br>29 November 2017, Brussels, Belgium"
 nav_title: Open Meeting
 permalink: /about/projects/wai-tools/first-open-meeting/
+ref: /about/projects/wai-tools/first-open-meeting/
+lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/pojects/wai-tools/first-open-meeting.md'
@@ -32,7 +34,7 @@ github:
 ## Invitation
 {:#invitation}
 
-[WAI-Tools Project]({{ "/about/projects/wai-tools/" | relative_url }}) invited web accessibility practitioners, evaluation and quality assurance tools vendors, researchers, and users to participate in an Open Meeting to:
+[WAI-Tools Project](/about/projects/wai-tools/) invited web accessibility practitioners, evaluation and quality assurance tools vendors, researchers, and users to participate in an Open Meeting to:
 
 -   Learn more about the WAI-Tools Project
 -   Provide input into project developments
@@ -49,7 +51,7 @@ We particularly invited participants involved in related efforts in Europe and i
 ## Background
 {:#background}
 
-The [WAI-Tools Project]({{ "/about/projects/wai-tools/" | relative_url }}) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
+The [WAI-Tools Project](/about/projects/wai-tools/) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
 
 This Open Meeting was held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants learned about the objectives and deliverables of the project, and about potential opportunities for participation and collaboration.
 
@@ -85,4 +87,4 @@ Registration is now closed. Please contact Shadi Abou-Zahra if you have question
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project]({{ "/about/projects/wai-tools/" | relative_url }}). Contact [Shadi Abou-Zahra {% include_cached different.html %}](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.
+This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra {% include_cached different.html %}](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.

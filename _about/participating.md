@@ -4,6 +4,8 @@ nav_title: "Participating"
 github:
   repository: w3c/wai-about-wai
   path: '_about/participating.md'
+ref: /about/participating/
+lang: en
 ---
 
 {::nomarkdown}
@@ -131,26 +133,26 @@ WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI spons
 ### Implementing Guidelines
 
 -   Use the [Web Content Accessibility Guidelines
-    (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}) documents to help make your website
+    (WCAG)](/standards-guidelines/wcag/) documents to help make your website
     accessible.
 -   If you develop authoring tools—any software or service that people
     use to create or modify Web content, including content management
     systems—implement the [Authoring Tool Accessibility Guidelines
-    (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }}).
+    (ATAG)](/standards-guidelines/atag/).
 -   If you develop Web browsers, media players, assistive technologies,
     or other user agents—implement the [User Agent Accessibility
-    Guidelines (UAAG)]({{ "/standards-guidelines/uaag/" | relative_url }}).
+    Guidelines (UAAG)](/standards-guidelines/uaag/).
 
 ### Encouraging Accessibility
 
 -   [Encourage authoring tools](/WAI/impl/software) to meet
-    [ATAG]({{ "/standards-guidelines/atag/" | relative_url }}) by directly contacting
+    [ATAG](/standards-guidelines/atag/) by directly contacting
     vendors and requesting increased accessibility support in future
     versions, and by purchasing tools that provide the best support for
     accessibility.
 -   Encourage Web browsers, media players, assistive technologies, and
     other user agents to meet
-    [UAAG]({{ "/standards-guidelines/uaag/" | relative_url }}).
+    [UAAG](/standards-guidelines/uaag/).
 -   Encourage organizations to [adopt an accessibility
     policy](/WAI/impl/pol) for their organization that defines their
     commitment to Web accessibility.

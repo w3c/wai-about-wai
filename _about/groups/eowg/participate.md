@@ -1,6 +1,11 @@
 ---
 title: Participating in the Education and Outreach Working Group (EOWG)
 permalink: /about/groups/eowg/participate/
+ref: /about/groups/eowg/participate/
+lang: en
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/groups/eowg/participate.md'
 ---
 
 {::nomarkdown}
@@ -45,7 +50,7 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 
 Anyone can get a public W3C account. To get an account with W3C Member access, we will need to verify your affiliation.
 
-To get a W3C account, complete the [Account Request Form]( https://www.w3.org/accounts/request). After you submit it: 
+To get a W3C account, complete the [Account Request Form](https://www.w3.org/accounts/request). After you submit it: 
 - **If your e-mail address is tied to a W3C Member**, you will receive e-mail to confirm your W3C account. <br>After you use the link in the e-mail to complete the request, your W3C account will be set up with member access.
 - **If your e-mail address is _not_ tied to a W3C Member**, the next form asks about your employment affiliation. <br>After you submit it, you will receive e-mail to confirm your W3C account. <br>After you use the link in the e-mail to complete the request:
    - If you are _not_ affiliated with a W3C Member, your public W3C account will be set up.

@@ -4,6 +4,9 @@ nav_title: Using WAI Material
 github:
   repository: w3c/wai-about-wai
   path: '_about/using-wai-material.md'
+permalink: /about/using-wai-material/
+ref: /about/using-wai-material/
+lang: en
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 5 November 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>

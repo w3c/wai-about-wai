@@ -3,6 +3,8 @@ title: "Captions from ACT Rules for Manual Web Accessibility Evaluation Methodol
 title_html: "Captions from ACT Rules for Manual Web Accessibility Evaluation Methodologies<br>Online Symposium, 14 March 2018"
 nav_title: Record
 permalink: /about/projects/wai-tools/symposium/record/
+ref: /about/projects/wai-tools/symposium/record/
+lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/pojects/wai-tools/open-symposium-record.md'

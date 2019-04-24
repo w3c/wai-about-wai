@@ -3,6 +3,8 @@ title: "ACT Rules for Manual Web Accessibility Evaluation Methodologies – Onli
 title_html: "ACT Rules for Manual Web Accessibility Evaluation Methodologies<br>Online Symposium, 14 March 2018"
 nav_title: Online Symposium
 permalink: /about/projects/wai-tools/symposium/
+ref: /about/projects/wai-tools/symposium/
+lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/pojects/wai-tools/open-symposium.md'
@@ -21,7 +23,7 @@ This online symposium was organized with support of the [WAI-Tools Project ](htt
 ## Invitation
 {:#invitation}
 
-[WAI-Tools Project]({{ "/about/projects/wai-tools/" | relative_url }}) invited developers of manual web accessibility evaluation methodologies, to participate in an online symposium on W3C Accessibility Conformance Testing (ACT) Rules, to:
+[WAI-Tools Project](/about/projects/wai-tools/) invited developers of manual web accessibility evaluation methodologies, to participate in an online symposium on W3C Accessibility Conformance Testing (ACT) Rules, to:
 
 -   **Learn** about the W3C ACT Rules
 -   **Exchange** your perspectives

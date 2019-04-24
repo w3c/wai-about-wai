@@ -8,6 +8,9 @@ footer: > # Text in footer in HTML
 github:
   repository: w3c/wai-about-wai
   path: '_about/accessibility-statement.md'
+permalink: /about/accessibility-statement/
+ref: /about/accessibility-statement/
+lang: en
 ---
 
 {::nomarkdown}

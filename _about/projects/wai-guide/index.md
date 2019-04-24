@@ -1,6 +1,8 @@
 ---
 title: "WAI-Guide"
 permalink: /about/projects/wai-guide/
+ref: /about/projects/wai-guide/
+lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/projects/wai-guide/index.md'

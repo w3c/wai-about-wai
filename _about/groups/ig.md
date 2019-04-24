@@ -4,6 +4,11 @@ nav_title: 'WAI IG: WAI Interest Group'
 order: 6
 group: groups
 permalink: /about/groups/waiig/
+ref: /about/groups/waiig/
+lang: en
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/groups/waiig.md'
 ---
 
 {::options toc_levels="2,3" /}

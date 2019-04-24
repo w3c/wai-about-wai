@@ -4,6 +4,9 @@ nav_title: "Contacting"
 github:
   repository: w3c/wai-about-wai
   path: '_about/contacting.md'
+permalink: /about/contacting/
+ref: /about/contacting/
+lang: en
 ---
 
 {::options toc_levels="2" /}
@@ -37,8 +40,8 @@ Many questions are addressed in documents on the WAI site. For example,
 guidance on making Web sites accessible, including the intent of
 guidelines and success criteria; how they help people with different
 disabilities, browser and assistive technology support notes, examples,
-and resources. The [WAI site map]({{ "/sitemap/" | relative_url }}) lists all documents and
-[search]({{ "/search/" | relative_url }}) is available to look for specific information.
+and resources. The [WAI site map](/sitemap/) lists all documents and
+[search](/search/) is available to look for specific information.
 
 Current Web accessibility issues are discussed through the WAI mailing
 lists, which are archived and visible to the public. The [WAI Interest

@@ -1,6 +1,11 @@
 ---
 title: Education and Outreach Working Group (EOWG) Participants
 permalink: /about/groups/eowg/participants/
+ref: /about/groups/eowg/participants/
+lang: en
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/groups/eowg/participants.md'
 ---
 
 {::comment}
@@ -20,7 +25,7 @@ permalink: /about/groups/eowg/participants/
 
 This page links to participants in EOWG. It does not list all subscribers to the EOWG mailing list, nor all past EOWG participants. Please send corrections or changes to Shawn Henry (shawn@w3.org).
 
-Information on [how to join the EOWG]({{ "/about/groups/eowg/participate/" | relative_url}}) is available.
+Information on [how to join the EOWG](/about/groups/eowg/participate/) is available.
 
 ## Current Participants
 

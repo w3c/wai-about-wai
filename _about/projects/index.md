@@ -2,6 +2,8 @@
 title: "WAI Projects"
 nav_title: "Overview"
 permalink: /about/projects/
+ref: /about/projects/
+lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/projects/index.md'
@@ -9,8 +11,8 @@ github:
 
 ## Current Projects
 
-   * [WAI-Guide]({{ "/about/projects/wai-guide/" | relative_url}})
-   * [WAI-Tools]({{ "/about/projects/wai-tools/" | relative_url}})
+   * [WAI-Guide](/about/projects/wai-guide/)
+   * [WAI-Tools](/about/projects/wai-tools/)
    * [WAI Expanding Access {% include_cached different.html %}](https://www.w3.org/WAI/expand-access/)
    * [WAI-Core 2015 {% include_cached different.html %}](https://www.w3.org/WAI/CORE2015/)
 

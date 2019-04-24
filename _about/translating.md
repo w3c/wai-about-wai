@@ -4,7 +4,9 @@ nav_title: Translating
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating.md'
-  
+permalink: /about/translating/
+ref: /about/translating/
+lang: en
 feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 23 March 2019.</p>

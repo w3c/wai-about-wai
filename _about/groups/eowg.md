@@ -4,6 +4,11 @@ nav_title: '<span>EOWG: Education and Outreach <abbr title="Working Group">WG</a
 order: 5
 group: groups
 permalink: /about/groups/eowg/
+ref: /about/groups/eowg/
+lang: en
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/groups/eowg.md'
 ---
 
 {::nomarkdown}
@@ -109,11 +114,11 @@ Archive](https://www.w3.org/WAI/highlights/archive) and include:
     [Nov 2015 QuickRef
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2015OctDec/0017.html))
 -   [**Easy Checks** - A First Review of Web
-    Accessibility]({{ "/test-evaluation/preliminary/" | relative_url }}) update ([Dec
+    Accessibility](/test-evaluation/preliminary/) update ([Dec
     2016 Easy Checks updated
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016OctDec/0165.html))
 -   Web Accessibility [**Perspectives -
-    videos**]({{ "/perspective-videos/" | relative_url }}/): Explore the Impact
+    videos**](/perspective-videos/): Explore the Impact
     and Benefits for Everyone ([Sept 2016 Perspectives updated
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016JulSep/0274.html),
     [May 2016 Perspectives
@@ -125,23 +130,23 @@ Archive](https://www.w3.org/WAI/highlights/archive) and include:
     [March 2015 Tutorials
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2015JanMar/0188.html))
 -   [**Tips for Getting
-    Started**]({{ "/tips/" | relative_url }}) with Web
+    Started**](/tips/) with Web
     Accessibility ([Oct 2015 Tips
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2015OctDec/0000.html))
 -   Web Accessibility [**Laws and
     Policies**](https://www.w3.org/WAI/Policy/) ([June 2017 Policy
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2017AprJun/0195.html))
--   [**Planning and Managing**]({{ "/planning-and-managing/" | relative_url }}/) Web
+-   [**Planning and Managing**](/planning-and-managing/) Web
     Accessibility update ([Dec 2016 Planning announcement on 3
     updates](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016OctDec/0164.html))
 -   **[How People with Disabilities Use the
-    Web]({{ "/people-use-web/" | relative_url }})** updated in May
+    Web](/people-use-web/)** updated in May
     2017
 -   WCAG-EM **[Report Tool](http://www.w3.org/WAI/eval/report-tool/)**:
     Web Accessibility Evaluation Report Generator ([March 2015 Report
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2015JanMar/0189.html))
 -   Web Accessibility **[Evaluation
-    Tools](http://www.w3.org/WAI/ER/tools/)[database](http://www.w3.org/WAI/ER/tools/)**
+    Tools](http://www.w3.org/WAI/ER/tools/) [database](http://www.w3.org/WAI/ER/tools/)**
     ([Dec 2014 Tools
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2014OctDec/0221.html))
 

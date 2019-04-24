@@ -4,6 +4,9 @@ nav_title: "Sponsoring"
 github:
   repository: w3c/wai-about-wai
   path: '_about/sponsoring.md'
+permalink: /about/sponsoring/
+ref: /about/sponsoring/
+lang: en
 ---
 
 {::options toc_levels="2" /}

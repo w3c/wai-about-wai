@@ -1,6 +1,8 @@
 ---
 title: "WAI-Tools"
 permalink: /about/projects/wai-tools/
+ref: /about/projects/wai-tools/
+lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/projects/wai-tools/index.md'

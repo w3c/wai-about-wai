@@ -30,7 +30,7 @@ github:
 ## Invitation
 {:#invitation}
 
-[WAI-Tools Project]({{ "/about/projects/wai-tools/" | relative_url }}) invites web accessibility practitioners, evaluation and quality assurance tools vendors, researchers, and users to participate in an Open Meeting to:
+[WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tools vendors, researchers, and users to participate in an Open Meeting to:
 
 -   Learn more about the WAI-Tools Project
 -   Provide input into project developments
@@ -47,7 +47,7 @@ We particularly invite participants involved in related efforts in Europe and in
 ## Background
 {:#background}
 
-The [WAI-Tools Project]({{ "/about/projects/wai-tools/" | relative_url }}) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
+The [WAI-Tools Project](/about/projects/wai-tools/) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
 
 This Open Meeting will be held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants will learn about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
 
@@ -81,4 +81,4 @@ Participation is free, but spaces are limited. **[Registration until 3 May 2019 
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project]({{ "/about/projects/wai-tools/" | relative_url }}). Contact [Shadi Abou-Zahra {% include_cached different.html %}](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.
+This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra {% include_cached different.html %}](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.

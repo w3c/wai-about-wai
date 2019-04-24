@@ -1,6 +1,8 @@
 ---
 title: "About W3C WAI"
 permalink: /about/
+ref: /about/
+lang: en
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 14 January 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
@@ -20,7 +22,7 @@ github:
 -   support materials to help understand and implement Web accessibility
 -   resources, through international collaboration
 
-**[WAI welcomes…]({{ "/about/participating/" | relative_url }})**
+**[WAI welcomes…](/about/participating/)**
 
 -   participation from around the world
 -   volunteers to review, implement, and promote guidelines
@@ -64,13 +66,13 @@ Learn more about [How WAI Develops Accessibility Standards through the W3C Proce
 
 WAI includes the following Working Groups and Interest Group:
 
--   [Accessibility Guidelines Working Group (AG WG)]({{ "/GL/" | relative_url }}) (formerly the Web Content Accessibility Guidelines Working Group)
--   [Accessible Platform Architectures (APA) Working Group]({{ "/APA/" | relative_url }})
--   [Accessible Rich Internet Applications (ARIA) Working Group]({{ "/ARIA/" | relative_url }})
--   [Education and Outreach Working Group (EOWG)]({{ "/about/groups/eowg/" | relative_url }})
--   [WAI Interest Group (WAI IG)]({{ "/about/groups/waiig/" | relative_url }})
+-   [Accessibility Guidelines Working Group (AG WG)](/GL/) (formerly the Web Content Accessibility Guidelines Working Group)
+-   [Accessible Platform Architectures (APA) Working Group](/APA/)
+-   [Accessible Rich Internet Applications (ARIA) Working Group](/ARIA/)
+-   [Education and Outreach Working Group (EOWG)](/about/groups/eowg/)
+-   [WAI Interest Group (WAI IG)](/about/groups/waiig/)
 
-Within the Working Groups, there are also [Task Forces]({{ "/about/groups/taskforces/" | relative_url }}).
+Within the Working Groups, there are also [Task Forces](/about/groups/taskforces/).
 
 Learn more about [Participating in WAI](https://www.w3.org/WAI/about/participating/).
 
