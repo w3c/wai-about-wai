@@ -4,6 +4,7 @@ nav_title: "Participating"
 github:
   repository: w3c/wai-about-wai
   path: '_about/participating.md'
+permalink: /about/participating/
 ref: /about/participating/
 lang: en
 ---
