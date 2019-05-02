@@ -72,8 +72,8 @@ WAI-Guide, Authoritative Implementation Guidance and International Cooperation t
 
 -   Provide authoritative implementation guidance and training, thereby growing capacities of available accessibility experts;
 -   Accelerate tooling support for accessible content authoring, thereby making it more cost efficient to create accessible content;
--   Identify and address gaps in accessibility standardisation, thereby increasing the coverage of digital accessibility requirements.
+-   Identify and address gaps in accessibility standardization, thereby increasing the coverage of digital accessibility requirements.
 
-WAI-Guide achieves this by conducting its work as an integral part of the vendor-neutral environment of the World Wide Web Consortium (W3C). WAI-Guide draws together expertise from industry, end-user representation, public bodies, research, and other fields, to develop core accessibility solutions that are internationally consensed and recognised as authoritative references.
+WAI-Guide achieves this by conducting its work as an integral part of the vendor-neutral environment of the World Wide Web Consortium (W3C). WAI-Guide draws together expertise from industry, end-user representation, public bodies, research, and other fields, to develop core accessibility solutions that are internationally consensed and recognized as authoritative references.
 
 See [project deliverables](#deliverables) above and contact [Shadi Abou-Zahra {% include_cached different.html %}](http://www.w3.org/People/shadi/) (Scientific Coordinator) for more information.
