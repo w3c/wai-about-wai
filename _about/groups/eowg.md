@@ -81,13 +81,13 @@ about joining EOWG.*
 -   Upcoming face-to-face meetings are linked from the [EOWG
     F2F](https://www.w3.org/WAI/EO/wiki/EOWG_F2F) wiki page
 
-### Meeting Minutes with Agendas
+### Meeting Minutes with Agendas {#minutes}
 
 -   Agendas, summaries, and links to minutes from 2014-present are linked from the top of [EOWG Meetings wiki page](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings) after "Meeting summaries:"
 -   Links to minutes from [2001-2013: EOWG Minutes
     Archive](http://www.w3.org/WAI/EO/Minutes.html)
 
-## Current and Upcoming Work
+## Current and Upcoming Work {#current}
 
 -   **[EOWG Current
     Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects)
@@ -99,7 +99,7 @@ addition to teleconferences. We use a
 developing requirements and organizing project documentation. (We don't
 use e-mail much.)
 
-## Publications
+## Publications {#pubs}
 
 EOWG deliverables announcements since 2005 are listed in the [News Archive](https://www.w3.org/WAI/news/all/) or the older [Highlights
 Archive](https://www.w3.org/WAI/highlights/archive) and include:
@@ -227,7 +227,7 @@ EOWG primarily conducts work through:
 -   \[closed\] [Web Accessibility and Ageing Task Force (WAI-AGE TF)
     Work Statement](http://www.w3.org/WAI/EO/2008/wai-age-tf.html)
 
-### Participation, Contributing to EOWG Work
+### Participation, Contributing to EOWG Work {#participation}
 
 -   **[Participating in EOWG](/WAI/EO/participation) includes instructions for joining the EOWG mailing list, contributing through GitHub and other venues, and becoming an active participant.**
 -   [EOWG participants](/WAI/EO/EOWG-members.html)
