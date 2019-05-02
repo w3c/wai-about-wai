@@ -22,7 +22,7 @@ This page provides guidance on translating WAI resources.
 
 For a list of existing translations, see {% include link.html to="/translations/" text="All WAI Translations" %}.
 
-To get announcements related to WAI translations, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>
+To get announcements related to WAI translations, subscribe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -102,7 +102,7 @@ More information is available in [W3C Translations](http://www.w3.org/Consortium
 * **Do not _change_ or _adapt_ or _add to_ the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the "Help improve this page" box near the bottom of the page.
 * Make sure to translate image alts.
 * Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
-* If you have **any** questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org). We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into chosing the wording for the English page.
+* If you have **any** questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org). We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
 
 By submitting a translation, you agree:
 * To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
