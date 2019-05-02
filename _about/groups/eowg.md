@@ -71,7 +71,7 @@ about joining EOWG.*
     below](#minutes))*
 -   **[Teleconference
     logistics](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Teleconference_Logistics)**
-    inclues WebEx and IRC connections
+    includes WebEx and IRC connections
 -   **[EOWG Participation
     Info](https://www.w3.org/WAI/EO/wiki/EOWG_Participation_Info)** wiki
     page has additional information on teleconferences, IRC, and more.
@@ -150,7 +150,7 @@ Archive](https://www.w3.org/WAI/highlights/archive) and include:
     ([Dec 2014 Tools
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2014OctDec/0221.html))
 
-**Additional infomation on deliverables:**
+**Additional information on deliverables:**
 
 -   [**EOWG
     Deliverables**](https://www.w3.org/WAI/EO/wiki/EOWG_Deliverables)
@@ -182,7 +182,7 @@ EOWG primarily conducts work through:
 
 -   Weekly surveys on active topics ([all EOWG
     surveys](https://www.w3.org/2002/09/wbs/35532/all))
--   [Github](https://github.com/orgs/w3c/teams/wai-eo/repositories)
+-   [GitHub](https://github.com/orgs/w3c/teams/wai-eo/repositories)
 -   [Teleconference discussions](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings)
 
 (EOWG does not use e-mail or W3C Tracker much.)
