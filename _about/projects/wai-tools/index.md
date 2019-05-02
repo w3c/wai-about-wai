@@ -34,7 +34,7 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 -   **[Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}) on 20 May 2019 in Brussels, Belgium**
 -   **Sign-up:** to receive [WAI-Tools Project Updates {% include_cached different.html %}](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
 -   [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/), published on 29 November 2018
--   [Online Symosium on ACT Rules for Manual Methodologies]({{"/about/projects/wai-tools/symposium/" | relative_url }}), on 14 March 2018
+-   [Online Symposium on ACT Rules for Manual Methodologies]({{"/about/projects/wai-tools/symposium/" | relative_url }}), on 14 March 2018
 -   [First Open Meeting]({{"/about/projects/wai-tools/first-open-meeting/" | relative_url }}) was held on 29 November 2017 in Brussels, Belgium
 
 ## Project Results
