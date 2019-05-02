@@ -114,7 +114,7 @@ Archive](https://www.w3.org/WAI/highlights/archive) and include:
     [Nov 2015 QuickRef
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2015OctDec/0017.html))
 -   [**Easy Checks** - A First Review of Web
-    Accessibility](/test-evaluation/preliminary/) update ([Dec
+    Accessibility](/test-evaluate/preliminary/) update ([Dec
     2016 Easy Checks updated
     announcement](https://lists.w3.org/Archives/Public/w3c-wai-ig/2016OctDec/0165.html))
 -   Web Accessibility [**Perspectives -
