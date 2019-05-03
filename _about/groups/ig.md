@@ -8,7 +8,7 @@ ref: /about/groups/waiig/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/groups/waiig.md'
+  path: '_about/groups/ig.md'
 ---
 
 {::options toc_levels="2,3" /}
@@ -30,9 +30,9 @@ The Web Accessibility Initiative Interest Group (WAI IG) promotes awareness of a
 
 **Other Working Group Pages:**
 
--   [Charter ![External](//www.w3.org/Icons/tr.png)](/WAI/IG/charter6)
--   [Discussion E-mail List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
--   [Announcements E-mail List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-announce/)
+-   [Charter](/WAI/IG/charter6)
+-   [Discussion E-mail List Archives](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
+-   [Announcements E-mail List Archives](http://lists.w3.org/Archives/Public/public-wai-announce/)
 
 ## Mailing Lists {#mailinglist}
 
@@ -47,11 +47,11 @@ Details are below.
 * To subscribe, send e-mail to <a href="mailto:public-wai-announce-request@w3.org?subject=subscribe">public-wai-announce-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
 * To unsubscribe, send e-mail to <a href="mailto:public-wai-announce-request@w3.org?subject=unsubscribe">public-wai-announce-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
 
-You can also see the [Announcements List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-announce/).
+You can also see the [Announcements List Archives](http://lists.w3.org/Archives/Public/public-wai-announce/).
 
 ### Using the Discussion List
 
-[Discussion List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/w3c-wai-ig/) are useful for
+[Discussion List Archives](http://lists.w3.org/Archives/Public/w3c-wai-ig/) are useful for
 searching for past messages and getting a feel for the list.
 
 -   E-mail messages should **contribute to a comfortable, constructive
