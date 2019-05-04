@@ -7,7 +7,7 @@ ref: /about/projects/wai-tools/symposium/record/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/pojects/wai-tools/open-symposium-record.md'
+  path: '_about/projects/wai-tools/open-symposium-record.md'
 ---
 
 {::nomarkdown}
@@ -517,7 +517,7 @@ things that need to get agreed on. Step 4 is the implementation of these
 rules. Every rule needs to have at least two independent implementations
 before it can even be considered by the Working Group for acceptance.
 This is how we try to do this work in the community process, outside the
-Working Group, so that we are more scaleable. We do that work through
+Working Group, so that we are more scalable. We do that work through
 community development and demonstrate that these rules are broadly
 accepted and agreed on, and there are implementations for them.
 
