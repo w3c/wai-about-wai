@@ -76,7 +76,7 @@ B-1000 Brussels, Belgium
 ## Registration
 {:#register}
 
-Participation is free, but spaces are limited. **[Registration until 3 May 2019 is required {% include_cached different.html %}](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting2/)** and will be confirmed. Please contact Shadi Abou-Zahra if you have questions.
+<!--// Participation is free, but spaces are limited. **[Registration until 3 May 2019 is required {% include_cached different.html %}](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting2/)** and will be confirmed. //-->Registration is now closed. Please contact [Shadi Abou-Zahra {% include_cached different.html %}](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions.
 
 ## Contacts
 {:#contacts}
