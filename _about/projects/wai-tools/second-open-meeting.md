@@ -59,13 +59,13 @@ WAI-Tool staff will present will project deliverables and highlight particular p
 The following times are in CET:
 
 -   **10:00 - 11:00** Registration and coffee
--   **11:00 - 11:30** WAI-Tools Project Overview
--   **11:30 - 11:45** WADcher Project Overview
--   **11:45 - 12:45** Session 1: Using Accessibility Conformance Testing (ACT) Rules
+-   **11:00 - 11:30** WAI-Tools Project Overview ([slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/01%20WAI-Tools%20Project%20Overview.pptx))
+-   **11:30 - 11:45** WADcher Project Overview ([slides 02 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/02%20WADcher%20Project%20Overview.pptx))
+-   **11:45 - 12:45** Session 1: Using Accessibility Conformance Testing (ACT) Rules ([slides 03 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/03%20ACT%20Rules%20Overview.pptx) and  [slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/04%20ACT%20Rules%20in%20Practice.pptx))
 -   **12:45 - 13:45** Lunch
--   **13:45 - 15:00** Session 2: Portuguese and Norwegian National Observatories
+-   **13:45 - 15:00** Session 2: Portuguese and Norwegian National Observatories ([slides 05 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/05%20PT%20Observatory.pptx) and [slides 06 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/06%20NO%20Observatory.pptx))
 -   **15:00 - 15:30** Coffee break
--   **15:30 - 16:30** Session 3: Accessibility Statements and Conformance Evaluation
+-   **15:30 - 16:30** Session 3: Accessibility Statements and Conformance Evaluation ([slides 07 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/07%20Support%20Tools.pptx))
 -   **16:30 - 17:00** Summary, Discussion, and Wrap-Up
 -   **17:00** End of meeting
 
