@@ -9,7 +9,7 @@ ref: /about/translating/
 lang: en
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 23 March 2019.</p>
+  <p><strong>Date:</strong> Updated 28 May 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 ---
@@ -56,7 +56,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 
 1. Check that there is not already a completed translation listed in {% include link.html to="/translations/" text="All WAI Translations" %}. <!-- @@in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
 2. [Get a W3C account](https://www.w3.org/accounts/request) if you do not already have one. (This will allow us to associate your translations with your W3C profile.)
-3. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
+3. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AMy%20W3C%20Account%20name%20is%3A%20%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
    * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
 
 {% include_cached excol.html type="start" id="more-instructions" %}
