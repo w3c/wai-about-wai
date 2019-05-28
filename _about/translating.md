@@ -9,7 +9,7 @@ ref: /about/translating/
 lang: en
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 23 March 2019.</p>
+  <p><strong>Date:</strong> Updated 28 May 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 ---
@@ -139,10 +139,10 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <h3>High priority introductory resources</h3>
 <ul>
 <li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including VTT file)</li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> (minor edits planned for 2019 Q2)</li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> &mdash; translation on hold for minor edits planned for June 2019</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a></li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a> (minor addition planned for 2019 Q2)</li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
 </ul>
 
 <h3>High priority WCAG resources</h3>
