@@ -14,7 +14,7 @@ github:
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-**[WAI-Tools Project slides {% include_cached different.html %}](https://www.w3.org/WAI/Tools/slides/WAI-Tools_Meeting1.pptx)** from this Open Meeting are available. This meeting was held as part of an EC-funded project.
+**[WAI-Tools Project slides](https://www.w3.org/WAI/Tools/slides/WAI-Tools_Meeting1.pptx)** from this Open Meeting are available. This meeting was held as part of an EC-funded project.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
@@ -87,4 +87,4 @@ Registration is now closed. Please contact Shadi Abou-Zahra if you have question
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra {% include_cached different.html %}](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.
+This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.

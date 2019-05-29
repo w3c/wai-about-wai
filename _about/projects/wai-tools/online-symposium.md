@@ -35,10 +35,10 @@ This online symposium was held on 14 March 2018 at [14:00 to 16:00 UTC {% includ
 ## Background
 {:#background}
 
-The [W3C Accessibility Conformance Testing ACT Rules {% include_cached different.html %}](https://w3c.github.io/wcag-act-rules/) provide transparent and vetted checks for accessibility conformance of web content to the [W3C
+The [W3C Accessibility Conformance Testing ACT Rules](https://w3c.github.io/wcag-act-rules/) provide transparent and vetted checks for accessibility conformance of web content to the [W3C
 Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/intro/wcag). They are intended to help align conformance evaluation across accessibility testing tools and manual evaluation methodologies, to provide more reliability and trust.
 
-ACT Rules are contributed by volunteer organizations and individuals using the [ACT Rules Format {% include_cached different.html %}](https://www.w3.org/TR/act-rules-format/) specification and following the [ACT Review Process {% include_cached different.html %}](https://w3c.github.io/wcag-act-rules/review-process.html). However, these resources and processes are currently in development, with more input needed to refine them. In particular, more input is need to optimize the relevance of ACT Rules for manual evaluation methodologies.
+ACT Rules are contributed by volunteer organizations and individuals using the [ACT Rules Format](https://www.w3.org/TR/act-rules-format/) specification and following the [ACT Review Process](https://w3c.github.io/wcag-act-rules/review-process.html). However, these resources and processes are currently in development, with more input needed to refine them. In particular, more input is need to optimize the relevance of ACT Rules for manual evaluation methodologies.
 
 ## Objective
 {:#objective}
