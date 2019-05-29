@@ -119,7 +119,7 @@ If the changes are only small changes, such as a new paragraph or a new short se
 * **To subscribe**, send e-mail to [public-wai-translations-request@w3.org with subject: subscribe](mailto:public-wai-translations-request@w3.org?subject=subscribe).
 * To unsubscribe, send e-mail to [public-wai-translations-request@w3.org with subject: unsubscribe](mailto:mailto:public-wai-translations-request@w3.org?subject=unsubscribe).
 
-You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
+You can also see the [WAI Translations List Archives](http://lists.w3.org/Archives/Public/public-wai-translations/).
 
 {% include_cached excol.html type="start" id="more-instructions" %}
 
