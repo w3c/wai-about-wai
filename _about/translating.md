@@ -59,11 +59,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 3. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
    * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
 
-{% include_cached excol.html type="start" id="more-instructions" %}
-
-### More Translator Information
-
-{% include_cached excol.html type="middle" %}
+### Translator Information
 
 #### Translation Agreement
 
@@ -96,8 +92,6 @@ If the changes are only small changes, such as a new paragraph or a new short se
 #### W3C Translations Information
 
 More information is available in [W3C Translations](http://www.w3.org/Consortium/Translation/) and in <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">W3C Intellectual Rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
-
-{% include_cached excol.html type="end" %}
 
 ## WAI Translations Mailing List {#mailinglist}
 
