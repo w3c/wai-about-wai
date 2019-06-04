@@ -57,27 +57,21 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 1. Check that there is not already a completed translation listed in {% include link.html to="/translations/" text="All WAI Translations" %}. <!-- @@in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
 2. [Get a W3C account](https://www.w3.org/accounts/request) if you do not already have one. (This will allow us to associate your translations with your W3C profile.)
 3. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
-   * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
+   * WAI staff will send you an e-mail when the resource is ready to be translated.
+   
+### Translator Information
 
-{% include_cached excol.html type="start" id="more-instructions" %}
+Detailed instructions are in the [Translation Instructions wiki page](https://www.w3.org/wiki/WAI/Translation_Instructions).
 
-### More Translation Instructions
+#### Translation Agreement
 
-{% include_cached excol.html type="middle" %}
-
-#### Next Steps
-Before starting your translation, please read:
-* [Important Translations Guidance](https://www.w3.org/WAI/about/translating/#important) below
-* Translation Notes for the specific resource in the README file in GitHub
-* [Translation Glossaries](https://github.com/w3c/translation-glossaries/blob/master/README.md) - the General glossary and if there's a glossary for your language
-
-When you are done with the translation, we encourage you to use GitHub to fork, edit, and submit a pull request. If you are not comfortable with GitHub, you can e-mail the translated file to [public-wai-translations@w3.org with the subject: Completed Translation – [language] – [resource title]](mailto:public-wai-translations@w3.org?subject=Completed Translation – [language] – [resource title])
+By submitting a translation, you agree:
+* To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
+* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate).)
 
 #### Reviews
 
-Translations will be reviewed before they are published. Please include in GitHub or e-mail:
-*  Names of people who already reviewed the translation.
-* Contact information for other people who might be interested in reviewing the translation.
+Translations will be reviewed before they are published.
 
 #### Links
 
@@ -91,28 +85,15 @@ Translations can include:
 Cannot include:
 * Links to organizations. (Exception: Qualifying accessibility/disability organizations or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
 
-#### W3C Translations Information
-
-More information is available in [W3C Translations](http://www.w3.org/Consortium/Translation/) and in <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">W3C Intellectual Rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
-
-{% include_cached excol.html type="end" %}
-
-## Important Translations Guidance {#important}
-
-* **Do not _change_ or _adapt_ or _add to_ the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the "Help improve this page" box near the bottom of the page.
-* Make sure to translate image alts.
-* Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
-* If you have **any** questions about the translation, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org). We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
-
-By submitting a translation, you agree:
-* To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
-* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate).)
-
-### Updating Resources
+#### Updating Resources
 
 When the English version of a resource is updated, we will inform translators what has changed<!-- @@by GitHub &/or e-mail -->, and request that translators update their translation.
 
 If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
+
+#### W3C Translations Information
+
+More information is available in [W3C Translations](http://www.w3.org/Consortium/Translation/) and in <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">W3C Intellectual Rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
 
 ## WAI Translations Mailing List {#mailinglist}
 
