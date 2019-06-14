@@ -8,6 +8,8 @@ github:
   path: '_about/projects/wai-tools/index.md'
 ---
 
+![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right width="105px"}
+
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}

@@ -4,17 +4,20 @@ title_html: "Captions from ACT Rules for Manual Web Accessibility Evaluation Met
 nav_title: Record
 permalink: /about/projects/wai-tools/symposium/record/
 ref: /about/projects/wai-tools/symposium/record/
+parent: /about/projects/wai-tools/symposium/
 lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/projects/wai-tools/open-symposium-record.md'
 ---
 
+![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right style="width: 105px; margin-top:-1px;"}
+
 {::nomarkdown}
 {% include box.html type="start" title="Sponsors" class="simple right" %}
 {:/}
 
-This online symposium was organized with support of the [WAI-Tools Project ](http://www.w3.org/WAI/Tools/), funded by the [European Commission ![EU Flag](https://www.w3.org/WAI/Tools/eu.png){:style="height:70px"} {% include_cached external.html %}](https://ec.europa.eu/)
+This online symposium was organized with support of the [WAI-Tools Project](http://www.w3.org/WAI/Tools/), funded by the [European Commission {% include_cached external.html %}](https://ec.europa.eu/)
 
 {::nomarkdown}
 {% include box.html type="end" %}

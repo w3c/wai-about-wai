@@ -10,6 +10,8 @@ github:
   path: '_about/pojects/wai-tools/first-open-meeting.md'
 ---
 
+![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right style="width: 105px;"}
+
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}

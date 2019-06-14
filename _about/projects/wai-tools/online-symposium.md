@@ -10,11 +10,13 @@ github:
   path: '_about/pojects/wai-tools/open-symposium.md'
 ---
 
+![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right style="width: 105px; margin-top:-1px;"}
+
 {::nomarkdown}
 {% include box.html type="start" title="Sponsors" class="simple right" %}
 {:/}
 
-This online symposium was organized with support of the [WAI-Tools Project ](http://www.w3.org/WAI/Tools/), funded by the [European Commission ![EU Flag](https://www.w3.org/WAI/Tools/eu.png){:style="height:70px"} {% include_cached external.html %}](https://ec.europa.eu/)
+This online symposium was organized with support of the [WAI-Tools Project](/about/projects/wai-tools/), funded by the [European Commission {% include_cached external.html %}](https://ec.europa.eu/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -56,7 +58,7 @@ We asked interested participants to consider these questions in advance of the o
 ## Agenda
 {:#agenda}
 
-**[Slides](https://www.w3.org/WAI/Tools/slides/manual-ACT.pptx) and [Meeting Record](webinar1cart.html) are available.**
+**[Slides](https://www.w3.org/WAI/Tools/slides/manual-ACT.pptx) and [Meeting Record](/about/projects/wai-tools/symposium/record/) are available.**
 
 ## Logistics
 {:#logistics}

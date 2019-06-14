@@ -1,0 +1,11 @@
+[Settings]
+
+ID = "wai-components"
+
+[build]
+
+command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
+
+[[redirects]]
+  from = "/"
+  to = "/about/"
