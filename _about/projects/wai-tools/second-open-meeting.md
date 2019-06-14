@@ -30,33 +30,33 @@ github:
 ## Invitation
 {:#invitation}
 
-[WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tools vendors, researchers, and users to participate in an Open Meeting to:
+[WAI-Tools Project](/about/projects/wai-tools/) invited web accessibility practitioners, evaluation and quality assurance tools vendors, researchers, and users to participate in an Open Meeting to:
 
 -   Learn more about the WAI-Tools Project
 -   Provide input into project developments
 -   Explore opportunities for collaboration
 
-We encourage participation from people interested in:
+We encouraged participation from people interested in:
 
 -   Web accessibility evaluation and testing
 -   Large-scale web accessibility monitoring
 -   Managing the quality assurance process
 
-We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. **Meeting is on Monday 20 May 2019 at 10:00 to 17:00 in Brussels, Belgium.**
+We particularly invited participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. **Meeting was on Monday 20 May 2019 at 10:00 to 17:00 in Brussels, Belgium.**
 
 ## Background
 {:#background}
 
 The [WAI-Tools Project](/about/projects/wai-tools/) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
 
-This Open Meeting will be held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants will learn about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
+This Open Meeting was held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants learned about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
 
 ## Agenda
 {:#agenda}
 
-WAI-Tool staff will present will project deliverables and highlight particular points for collaboration. Participants are invited to provide input on potential aspects to consider throughout the project.
+WAI-Tool staff presented project deliverables and highlighted particular points for collaboration. Participants were invited to provide input on potential aspects to consider throughout the project.
 
-The following times are in CET:
+The following times were in CEST:
 
 -   **10:00 - 11:00** Registration and coffee
 -   **11:00 - 11:30** WAI-Tools Project Overview ([slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting2/01%20WAI-Tools%20Project%20Overview.pptx))
@@ -79,7 +79,7 @@ B-1000 Brussels, Belgium
 ## Registration
 {:#register}
 
-<!--// Participation is free, but spaces are limited. **[Registration until 3 May 2019 is required](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting2/)** and will be confirmed. //-->Registration is now closed. Please contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions.
+<!--// Participation is free, but spaces are limited. **[Registration until 3 May 2019 is required](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting2/)** and will be confirmed. //-->Registration is now closed. <!--// Please contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions. //-->
 
 ## Contacts
 {:#contacts}
