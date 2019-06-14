@@ -31,10 +31,10 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 
 ## Announcements
 
--   **[Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}) on 20 May 2019 in Brussels, Belgium**
 -   **Sign-up:** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
--   [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/), published on 29 November 2018
--   [Online Symposium on ACT Rules for Manual Methodologies]({{"/about/projects/wai-tools/symposium/" | relative_url }}), on 14 March 2018
+-   [Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}) was held on 20 May 2019 in Brussels, Belgium
+-   [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/) was published on 29 November 2018
+-   [Online Symposium on ACT Rules for Manual Methodologies]({{"/about/projects/wai-tools/symposium/" | relative_url }}) was held on 14 March 2018
 -   [First Open Meeting]({{"/about/projects/wai-tools/first-open-meeting/" | relative_url }}) was held on 29 November 2017 in Brussels, Belgium
 
 ## Project Results
@@ -91,7 +91,7 @@ See also [Participating in WAI](http://www.w3.org/WAI/participation). If you hav
 ### Project Overview
 {:#overview}
 
-**[WAI-Tools Project slides](https://www.w3.org/WAI/Tools/WAI-Tools_Project.pptx)** provide and overview and introduce the project work packages and deliverables. They will be updated regularly throughout the project to provide the latest results and findings from the project.
+Latest overview and slides for the WAI-Tools Project are available from the [Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}), which was held on 20 May 2019 in Brussels, Belgium
 
 ## About the Project
 {:#about}
