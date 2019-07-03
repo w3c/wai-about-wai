@@ -61,7 +61,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 3. **Send an e-mail:** Indicate your interest in translating the resource by sending an e-mail to the WAI translations list using this [e-mail template](mailto:public-wai-translations@w3.org?subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
    * WAI staff will send you an e-mail when the resource is ready to be translated.
 
-We encourage you to keep up on related translations work by **[subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe)**.
+We encourage you to keep up on related translations work by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
    
 ### Translator Information
 
