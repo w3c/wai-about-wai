@@ -123,7 +123,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <li>To be updated</li>
 </ol>
 
-<h3>High priority introductory resources</h3>
+<h3 id="priority-intro">High priority introductory resources</h3>
 <ul>
 <li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including VTT file)</li>
 <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></li>
@@ -132,7 +132,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
 </ul>
 
-<h3>High priority WCAG resources</h3>
+<h3 id="priority-wcag">High priority WCAG resources</h3>
 <ul>
 <li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation (<a href="#tr">TR</a>)
 <ul>
@@ -145,7 +145,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 at a Glance</a></li>
 </ul>
 
-<h3>Main navigation overview pages</h3>
+<h3 id="priority-nav">Main navigation overview pages</h3>
 <p>If you translate these pages, then users will get the main navigation in your language. In most cases, we will wait to publish these until all of them are translated.</p>
 <ul>
 <li>Accessibility Fundamentals Overview <em>(new page coming in 2019)</em></li>
@@ -157,7 +157,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <li><a href="https://www.w3.org/WAI/">WAI home page</a> (see notes on which parts to translate)</li>
 </ul>
 
-<h3>Other priority resources</h3>
+<h3 id="priority-other">Other priority resources</h3>
 <ul>
 <li><strong><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a></strong> &mdash; 4 pages</li>
 <li><strong>Other standards overviews:</strong>
@@ -194,7 +194,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 </ul>
 <p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.<!-- @@ change to resources list when that's done --></strong></p>
 
-<h3>To be updated</h3>
+<h3 id="priority-updated">To be updated</h3>
 <p>The following pages will be updated. <strong>You might want to wait to translate them until after they are updated, or be prepared to update your translation.</strong> To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the <a href="#mailinglist">WAI Translations mailing list, per above</a>.</p>
 <ul class="old">
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/">About W3C WAI </a>&mdash; minor update planned for 2019</li>
