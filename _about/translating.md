@@ -48,9 +48,18 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 
 ## Translation Instructions
 
-**Scope:**
+Scope:
 * These instructions cover web pages with a URI that begins with www.w3.org/WAI
 * For web pages that begin with www.w3.org/TR/ or something else, there is a different process that is introduced in [TR & Authorized W3C Translations below](#tr).
+
+**Translator background** &mdash; we prefer for translators to be:
+* native speakers
+* familiar with accessibility terminology and issues in their region
+* comfortable editing a file with code ([example file for translation](https://docs.google.com/document/d/1oVOIXH5mVvJSmznyWVU4A4N7E6vCOeHvYbpdAJvpbU0/edit))
+
+To avoid overlapping work:
+* please do not translate the source text of pages displayed on the web
+* follow the steps below to get the right file to translate and to ensure that the resource is ready for you to translate
 
 **If you want to translate a WAI resource:**
 
