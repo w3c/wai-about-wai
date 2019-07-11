@@ -63,9 +63,7 @@ To avoid overlapping work:
 
 **If you want to translate a WAI resource:**
 
-1. Check if that resource is already being translated.
-   * Look in the list of published translations: {% include link.html to="/translations/" text="All WAI Translations" %}
-   * Search in the [WAI Translations e-mail list archives](http://lists.w3.org/Archives/Public/public-wai-translations/) for "Intent to Translate", the document title, and your language &mdash; to see that another translator isn't already working on it.
+1. Check if that resource is already published and listed in {% include link.html to="/translations/" text="All WAI Translations" %}.<br>(You can also check if someone else is working on a translation, or we will check for you. If you want to: Search in the [WAI Translations e-mail list archives](http://lists.w3.org/Archives/Public/public-wai-translations/) for "Intent to Translate", the document title, and your language.)
 2. [Get a W3C account](https://www.w3.org/accounts/request) if you do not already have one. (This will allow us to associate your translations with your W3C profile.)
 3. **Send an e-mail:** Indicate your interest in translating the resource by sending an e-mail to the WAI translations list using this [e-mail template](mailto:public-wai-translations@w3.org?subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20into%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.).
    * WAI staff will send you an e-mail with instructions when the resource is ready to be translated.<br>**Please wait for this e-mail before starting a translation.**
