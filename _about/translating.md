@@ -82,12 +82,12 @@ Translations will be reviewed before they are published.
 This policy is based on [Internationalization Links](https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
 
 Translations can include:
-* Translator's formal name, common name used online, &/or Twitter handle.
-   * Link to translator's individual page, such as personal blog, personal home page, bio page, or acceptable social media page.
+* Translator's formal name, common name used online, &/or social media handle.
+   * Link to information about the translator as an individual, such as about or biography page or acceptable social media page.
 * Organization name - translator's employer &/or other sponsor/funder of the translation.
 
 Cannot include:
-* Links to organizations. (Exception: Qualifying accessibility/disability organizations or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
+* Links to organizations. Links to personal home pages. (Exception: Qualifying accessibility/disability organizations or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
 
 #### Updating Resources
 
