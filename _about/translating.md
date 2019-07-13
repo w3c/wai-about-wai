@@ -89,6 +89,7 @@ Translations will be reviewed before they are published.
 This policy is based on [Internationalization Links](https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
 
 Translations can include:
+
 * Translator's formal name, common name used online, &/or Twitter handle.
    * Link to information about the translator as an individual, such as "about" page on personal website or biography page on a scholarly website.
 * Organization name - translator's employer &/or other sponsor/funder of the translation.
