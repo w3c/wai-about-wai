@@ -115,11 +115,11 @@ See [project deliverables](#deliverables) above and contact [Shadi Abou-Zahra](h
 
 WAI-Tools project partners include:
 
--   [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/) – as part of W3C, France
+-   [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) – as part of W3C, France
 -   [Siteimprove {% include_cached external.html %}](https://siteimprove.com/), Denmark
 -   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands
 -   [Accessibility Foundation {% include_cached external.html %}](https://www.accessibility.nl/), Netherlands
 -   [Agency for Public Management and eGovernment (Difi) {% include_cached external.html %}](https://uu.difi.no/), Norway
--   [Foundation for Science and Technology {% include_cached external.html %}](http://www.fct.pt/), Portugal
+-   [Administrative Modernization Agency {% include_cached external.html %}](https://www.ama.gov.pt/), Portugal
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
 
