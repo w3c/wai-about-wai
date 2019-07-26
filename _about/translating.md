@@ -218,3 +218,6 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 Web pages at URIs that begin with www.w3.org/TR/ (for "Technical Report") follow a different process described in [W3C Translations](https://www.w3.org/Consortium/Translation/).
 
 Most translations are informative and unofficial. In cases where standards translations are meant for official purposes, they may be developed as Authorized W3C Translations according to the **[Policy for Authorized W3C Translations]( http://www.w3.org/2005/02/TranslationPolicy.html)**. Generally only completed W3C Recommendations and Working Group Notes are candidates for Authorized W3C Translations, including the WAI guidelines. The authorized translations policy is designed to ensure transparency and community accountability in the development of authorized translations under the oversight of W3C.
+
+* [WCAG 2 Translations](/standards-guidelines/wcag/translations/) lists in-progress and completed translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0, including unofficial translations and Authorized W3C Translations.
+* [Authorized Translations of W3C Recommendations](https://www.w3.org/Translations/authorized.html) lists completed Authorized W3C Translations of WCAG 2.1, WCAG 2.0, Authoring Tool Accessibility Guidelines (ATAG) 2.0, and others.
