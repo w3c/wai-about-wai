@@ -18,11 +18,12 @@ feedbackmail: wai@w3.org
 # Read Translations Notes for this resource at https://github.com/w3c/wai-expand-access/blob/gh-pages/README.md
 # end of translation instructions
 ---
+
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-This page provides information on the Web Accessibility Initiative - Expanding Web and Mobile Accessibility in Low Resource Regions and Communities **(WAI Expanding Access) Project**, supported by the [Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/).
+Introduction/Summary
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
