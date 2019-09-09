@@ -8,7 +8,7 @@ github:
   path: '_about/projects/wai-guide/index.md'
 ---
 
-![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right width="105px"}
+![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
 
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
