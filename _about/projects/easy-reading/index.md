@@ -25,7 +25,7 @@ feedbackmail: wai@w3.org
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-This page provides information on the **Easy Reading** project, a European Commission (EC) co-funded project, Horizon 2020 Program (780529).
+This page provides information on the **Easy Reading** project, a European Commission (EC) co-funded project, Horizon 2020 Program (780529). See also the [Easy Reading Project Website](https://www.easyreading.eu/).
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
@@ -78,4 +78,4 @@ The role of the W3C Web Accessibility Initiative (WAI) in this project is two-fo
 - Inform the project on relevant developments in W3C standardization, such as work on [personalization](https://www.w3.org/WAI/personalization/), [pronunciation](https://www.w3.org/WAI/pronunciation/), and requirements and supplemental guidance on people with [cogntive and learning disabilities](https://www.w3.org/WAI/cognitive/);
 - Relay relevant feedback and learnings from the project, such as implementation experiences and user needs from working with the community, into W3C standardization and resource development.
 
-See contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) for more information on W3C's participation in this project.
+See the [Easy Reading Project Website](https://www.easyreading.eu/) for more information on this project and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) for more questions on W3C's participation in this project.
