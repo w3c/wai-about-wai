@@ -46,7 +46,7 @@ This page provides information on the **Easy Reading** project, a European Commi
 {:#deliverables}
 
 - **Work package 1: IPAR-UCD Methodology Development and Application** - Development of an Inclusive Participatory Action Research approach for Research & Development (R&D) in the sense of design based research.
-- **Work package 2: Innovative Interface Concepts** - Development of adaptive personalized user interface concepts for people with cognitive disabilities.
+- **Work package 2: Innovative Interface Concepts** - Development of adaptive personalized user interface concepts for people with cognitive and learning disabilities.
 - **Work package 3: Tracking and Reasoning** - Development of tracking engines that uses sensors (eye-tracker, MS Kinect etc.) and user input (touches, mouse movement, keystrokes) to detect and understand the situation the user faces (e.g. attention, stress, confusion).
 - **Work package 4: Profiling and Knowledge Base** - Development of a module for individual user profiles and knowledge base and a system that is capable of matching requests for content simplification.
 - **Work package 5: Automatic Translation/Annotation/Adaptation of Content and User-Interaction** - Implementation of services to feed the interface with alternative format and display of content.
@@ -75,7 +75,7 @@ Easy Read aims to enable people with cognitive disabilities to better read, unde
 
 The role of the W3C Web Accessibility Initiative (WAI) in this project is two-fold:
 
-- Inform the project on relevant developments in W3C standardization, such as work on [personalization](https://www.w3.org/WAI/personalization/), [pronunciation](https://www.w3.org/WAI/pronunciation/), and requirements and supplemental guidance on people with [cogntive and learning disabilities](https://www.w3.org/WAI/cognitive/);
+- Inform the project on relevant developments in W3C standardization, such as work on [personalization](https://www.w3.org/WAI/personalization/), [pronunciation](https://www.w3.org/WAI/pronunciation/), and requirements and supplemental guidance on people with [cognitive and learning disabilities](https://www.w3.org/WAI/cognitive/);
 - Relay relevant feedback and learnings from the project, such as implementation experiences and user needs from working with the community, into W3C standardization and resource development.
 
 See the [Easy Reading Project Website](https://www.easyreading.eu/) for more information on this project and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) for more questions on W3C's participation in this project.
