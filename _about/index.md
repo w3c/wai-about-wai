@@ -3,6 +3,8 @@ title: "About W3C WAI"
 permalink: /about/
 ref: /about/
 lang: en
+feedbackmail: wai@w3.org
+class: tight-page
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 14 January 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
