@@ -7,6 +7,9 @@ lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/projects/index.md'
+feedbackmail: wai@w3.org
+class: tight-page
+
 ---
 
 ## Current Projects
