@@ -7,6 +7,9 @@ github:
 permalink: /about/contacting/
 ref: /about/contacting/
 lang: en
+feedbackmail: wai@w3.org
+class: tight-page
+
 ---
 
 {::options toc_levels="2" /}
