@@ -7,6 +7,9 @@ github:
 permalink: /about/sponsoring/
 ref: /about/sponsoring/
 lang: en
+feedbackmail: wai@w3.org
+class: tight-page
+
 ---
 
 {::options toc_levels="2" /}
