@@ -53,6 +53,9 @@ ones, are listed on each Working Group's home page.
 [**Personalization Task Force**](https://www.w3.org/WAI/APA/task-forces/personalization/) under the [APA Working Group](https://www.w3.org/WAI/APA/)
 :   Personalization involves tailoring aspects of the user experience to meet the needs and preferences of the individual user.
 
+[**Pronunciation Task Force**](https://www.w3.org/WAI/APA/task-forces/pronunciation/) under the [APA Working Group](https://www.w3.org/WAI/APA/)
+:   The Pronunciation Task Force has been exploring technical options for content authors to provide pronunciation information.
+
 **[Research Question Task Force](https://www.w3.org/WAI/APA/task-forces/research-questions/)** under the [APA Working Group](/about/groups/apa/)
 :   Identify accessibility knowledge gaps and barriers in emerging and
     future web technologies, and to identify research findings,
