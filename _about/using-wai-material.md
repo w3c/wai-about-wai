@@ -9,7 +9,7 @@ permalink: /about/using-wai-material/
 ref: /about/using-wai-material/
 lang: en
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 5 November 2018.</p>
+  <p><strong>Date:</strong> Updated 29 November 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the <a href="http://www.w3.org/People/domain?domain=Web+Accessibility+Initiative">WAI staff</a> and <a href="https://www.w3.org/People/functions/comm">W3C Communications staff</a>.</p>
 ---
@@ -76,24 +76,22 @@ Please read below for more details, including [**some material that is specially
     For example:
 
     > Some information in this article is from the Web Accessibility
-    > Initiative ([WAI](http://www.w3.org/WAI/)) document: [Developing
+    > Initiative ([WAI](https://www.w3.org/WAI/)) document: [Developing
     > Web Accessibility Presentations and
-    > Training](http://www.w3.org/WAI/training/). Andrew Arch and Shadi
+    > Training](https://www.w3.org/WAI/training/). Andrew Arch and Shadi
     > Abou-Zahra, eds. Copyright © 2010 [W3C](http://www.w3.org/)®
-    > ([MIT](http://www.csail.mit.edu/), [ERCIM](http://www.ercim.eu/),
-    > [Keio](http://www.keio.ac.jp/)). Status: Draft Updated 16
-    > September 2010. <http://www.w3.org/WAI/training/>
+    > ([MIT](https://www.csail.mit.edu/), [ERCIM](http://www.ercim.eu/),
+    > [Keio](https://www.keio.ac.jp/)). Status: Draft Updated 16
+    > September 2010. <https://www.w3.org/WAI/training/>
 
 3.  You do not suggest that W3C or WAI endorses you or your use of the material.
-4.  You abide by the license terms; most are [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
-
-**For commercial requests,** for [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/), please contact <wai@w3.org> **and** [Judy Brewer](http://www.w3.org/People/Brewer/).
+4.  You abide by the license terms; most are [Creative Commons Attribution 4.0 International License](href="http://creativecommons.org/licenses/by/4.0/).
 
 ## Finding Which Type of License
 
-Unless otherwise indicated, all WAI material not covered by another license is published under the [W3C Document License](http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231), which is usually linked in the document footer as "[document use](http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231)" or "[Usage policies apply](http://www.w3.org/Consortium/Legal/2002/ipr-notice-20021231)".
+Unless otherwise indicated, all WAI material not covered by another license is published under the [W3C Document License](https://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231), which is usually linked in the document footer as "[document use](https://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231)" or "[Usage policies apply](https://www.w3.org/Consortium/Legal/2002/ipr-notice-20021231)".
 
-For material under the Creative Commons License, the footer links to the license, such as: "This work is published and licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)."
+For material under the Creative Commons License, the footer links to the license, such as: "This work is published and licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
 
 ## Let Us Know
 
@@ -105,11 +103,10 @@ We welcome your feedback and suggestions to improve WAI materials, to <wai-eo-ed
 
 ## Appropriate Use
 
-As stated in the W3C [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate): W3C may rescind your right to publish or distribute derivative works if the W3C finds that it leads to confusion regarding the original document's status or integrity.
+As stated in the W3C [Intellectual Rights FAQ](https://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate): W3C may rescind your right to publish or distribute derivative works if the W3C finds that it leads to confusion regarding the original document's status or integrity.
 
 ## Additional Information
 
-[Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking.html) provides general guidance for links, along with which [WCAG links](http://www.w3.org/WAI/intro/linking.html#wcag) to use for policies, tools support, and others.
+[Referencing and Linking to WAI Guidelines and Technical Documents](/standards-guidelines/linking/) provides general guidance for links, along with which [WCAG links](/standards-guidelines/linking/#wcag) to use for policies, tools support, and others.
 
 If you have questions, please contact WAI at <wai@w3.org>.
-
