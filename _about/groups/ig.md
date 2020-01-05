@@ -1,7 +1,7 @@
 ---
 title: WAI Interest Group (WAI IG)
 nav_title: 'WAI IG: WAI Interest Group'
-order: 6
+order: 6g
 group: groups
 permalink: /about/groups/waiig/
 ref: /about/groups/waiig/
