@@ -35,15 +35,15 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 {% include_cached toc.html type="end" %}
 {:/}
 
-*[**Current Work**](#deliv), **recent [Publications](#pubs)**, and [**Participation**](#participation) are listed lower on this page.*
+*Recent **[Publications](#pubs)**, **[Current Work](#deliv)** and **[Participation](#participation)** are listed lower on this page.*
 
 ## Announcements and Meetings for EOWG Participants
 
 -   [EOWG Wiki](http://www.w3.org/WAI/EO/wiki/Main_Page)
     -   **[Work for this
-        week](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week)**
+        week](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_Week)**
     -   **[Agenda for next
-        teleconference](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#agenda)**
+        teleconference](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Agenda)**
 -   EOWG surveys/questionnaires ("WBS"):
     -   **[Availability for Upcoming EOWG
         Teleconferences](http://www.w3.org/2002/09/wbs/35532/availability/)**
