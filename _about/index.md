@@ -6,7 +6,7 @@ lang: en
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 14 January 2019.</p>
+  <p><strong>Date:</strong> Updated 10 March 2020.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 github:
@@ -20,8 +20,8 @@ github:
 
 **[WAI develops…](https://www.w3.org/WAI/Resources/Overview)**
 
--   guidelines which are widely regarded as the international standard for Web accessibility
--   support materials to help understand and implement Web accessibility
+-   guidelines which are widely regarded as the international standard for web accessibility
+-   support materials to help understand and implement web accessibility
 -   resources, through international collaboration
 
 **[WAI welcomes…](/about/participating/)**
@@ -50,17 +50,18 @@ github:
 
 ## World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI)
 
-The World Wide Web Consortium's (W3C) commitment to lead the Web to its full potential includes promoting a high degree of usability for people with disabilities. The Web Accessibility Initiative (WAI) is an initiative of the W3C.
+The World Wide Web Consortium's (W3C) commitment to lead the web to its full potential includes promoting a high degree of usability for people with disabilities. The Web Accessibility Initiative (WAI) is an initiative of the W3C.
 
-WAI develops its work through W3C's consensus-based process, involving different stakeholders in Web accessibility. These include industry, disability organizations, government, accessibility research organizations, and more.
+WAI develops its work through W3C's consensus-based process, involving different stakeholders in web accessibility. These include industry, disability organizations, government, accessibility research organizations, and more.
 
-WAI, in partnership with organizations around the world, pursues accessibility of the Web through five primary activities:
+WAI, in partnership with organizations around the world, pursues accessibility of the web through five primary activities:
 
--   ensuring that core technologies of the Web support accessibility
--   developing guidelines for Web content, user agents, and authoring tools
--   facilitating development of evaluation and repair tools for accessibility
--   conducting education and outreach
--   coordinating with research and development that can affect future accessibility of the Web
+* ensuring that W3C standards support accessibility
+* developing accessibility guidelines for web content and applications, browsers, and authoring tools
+* developing resources to improve web accessibility evaluation processes and tools
+* supporting education and outreach on web accessibility
+* coordinating with research and development that may impact future accessibility of the web
+* promoting harmonized international uptake of web accessibility standards
 
 Learn more about [How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
