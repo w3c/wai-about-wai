@@ -54,7 +54,7 @@ The World Wide Web Consortium's (W3C) commitment to lead the web to its full pot
 
 WAI develops its work through W3C's consensus-based process, involving different stakeholders in web accessibility. These include industry, disability organizations, government, accessibility research organizations, and more.
 
-WAI, in partnership with organizations around the world, pursues accessibility of the web through five primary activities:
+WAI, in partnership with organizations around the world, pursues accessibility of the web through these primary activities:
 
 * ensuring that W3C standards support accessibility
 * developing accessibility guidelines for web content and applications, browsers, and authoring tools
