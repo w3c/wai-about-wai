@@ -39,6 +39,7 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 
 ## Announcements and Meetings for EOWG Participants
 
+-   Re-Chartering: **[Draft 2020 Charter](https://w3c.github.io/charter-drafts/eowg-2020.html)**, [Current 2017 Charter](https://www.w3.org/WAI/EO/charter2017)
 -   [EOWG Wiki](http://www.w3.org/WAI/EO/wiki/Main_Page)
     -   **[Work for this
         week](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_Week)**
