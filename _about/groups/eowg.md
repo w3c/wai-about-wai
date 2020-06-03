@@ -105,6 +105,7 @@ use e-mail much.)
 EOWG deliverables announcements since 2005 are listed in the [News Archive](https://www.w3.org/WAI/news/all/) or the older [Highlights
 Archive](https://www.w3.org/WAI/highlights/archive) and include:
 
+-   [**Evaluating Web Accessiblity Overview Videos**](https://www.w3.org/WAI/test-evaluate/) ([May 2020 videos announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2020AprJun/0003.html))
 -   [**Curricula on Web Accessibility**](https://www.w3.org/WAI/curricula/) ([December 2019 Curricula announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2019OctDec/0003.html))
 -   [**Making Audio and Video Media Accessible**](https://www.w3.org/WAI/media/av/) ([September 2019 Media resource announcement](https://lists.w3.org/Archives/Public/public-wai-announce/2019JulSep/0006.html))
 -   [**Accessibility Principles**](https://www.w3.org/WAI/fundamentals/accessibility-principles/) update May 2019
