@@ -38,7 +38,7 @@ If you have any questions, contact the W3C Team contact for EOWG, [Shawn Henry](
 
 ## Commenting on EOWG Resources {#comment}
 
-**We especially encourage contributions on resources-in-progress and open issues.** You are welcome to comment on other EOWG resources. It might some time to address comments on inactive resources.
+**We especially encourage contributions on resources-in-progress and open issues.** You are welcome to comment on other EOWG resources. It might some time for us to address comments on inactive resources.
 - To find out about resources-in-progress and open issues, see:
    -  **[Work for this Week]( https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week)**.
    - EOWG mailing list messages.
