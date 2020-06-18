@@ -214,6 +214,7 @@ EOWG primarily conducts work through:
 
 ### EOWG Task Forces
 
+-   **\[active\] [WAI Curricula Task Force Work Statement](https://www.w3.org/WAI/EO/wiki/WAI_Curricula/WAI_Curricula_TF)**
 -   \[drafted\] [Evaluation Resource Suite Task Force (ERS TF) Work
     Statement](https://www.w3.org/WAI/EO/2005/erstf) and [ERSTF Requirements](https://www.w3.org/WAI/EO/2005/ers-req)
 -   \[inactive\] [Before/After Demo Task Force (BADTF) Work
@@ -235,4 +236,4 @@ EOWG primarily conducts work through:
 ### Participation, Contributing to EOWG Work {#participation}
 
 -   **[Participating in EOWG](/WAI/EO/participation) includes instructions for joining the EOWG mailing list, contributing through GitHub and other venues, and becoming an active participant.**
--   [EOWG participants](/WAI/EO/EOWG-members.html)
+-   [EOWG participants](https://www.w3.org/groups/wg/eowg/participants)
