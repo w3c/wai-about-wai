@@ -9,7 +9,7 @@ permalink: /about/using-wai-material/
 ref: /about/using-wai-material/
 lang: en
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 29 November 2019.</p>
+  <p><strong>Date:</strong> Updated 22 June 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the <a href="http://www.w3.org/People/domain?domain=Web+Accessibility+Initiative">WAI staff</a> and <a href="https://www.w3.org/People/functions/comm">W3C Communications staff</a>.</p>
 ---
@@ -56,14 +56,14 @@ Please read below for more details, including [**some material that is specially
 
 ## Official W3C Document License
 
-**Most WAI material** (including the standards and guidelines) is provided under the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license.html) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you include URL, copyright, and status. This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
+**Most WAI material** (including the standards and guidelines) is provided under the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license.html) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you include URL, copyright, and status (if it exists). This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
 
 ## Creative Commons Licensed (CC) Material for You to Adapt
 {:#cc}
 
 **A few WAI Resources** are specifically designed for you to adapt, such as presentation slides. These are provided under a Creative Commons License (CC). We are happy for you to edit, change, and present such CC material *under the following conditions*:
 
-1.  You include the URI (web address), copyright, and status of the original WAI material.
+1.  You include the URI (web address), copyright, and status (if it exists, e.g., "Draft") of the original WAI material.
 2.  You clearly attribute the material appropriately.<br>
     
     Here is a template you can use:<br>
