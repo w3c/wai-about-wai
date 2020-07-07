@@ -119,13 +119,19 @@ WAI welcomes additional sponsors to support its technical and educational activi
     Foundation](http://www22.verizon.com/content/verizonglobalhome/ghp_landing.aspx)
 -   [Wells Fargo](http://www.wellsfargo.com/home.htm)
 
-<!--
-Contributors
+### Contributors
 
--   [Ta-meteo.fr](http://www.ta-meteo.fr "Ta-Meteo.fr")
 -   Austrian Computer Society, Roland Wagner Award
+-   Facebook donated Oculus Go Headsets to advance the work of the [Immersive Captions Community Group](https://www.w3.org/community/immersive-captions/)
 -   Massachusetts Association for the Blind
 -   NewDoctor.com
+-   [Ta-meteo.fr](http://www.ta-meteo.fr "Ta-Meteo.fr")
 -   WinWriters
 
--->
+### Previous Fellow Supporters
+
+W3C WAI thanks organizations that support [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) in WAI.
+
+-  [Elisa Communications](http://www.elisa.fi/)
+-  [Knowbility, Inc](https://knowbility.org/)
+-  RITT
