@@ -12,7 +12,7 @@ class: tight-page
 
 ---
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" %}
@@ -24,23 +24,6 @@ class: tight-page
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-## Introduction
-{:.no_toc}
-
-The Web Accessibility Initiative (WAI) greatly appreciates the
-sponsorship of governments, businesses, and other organizations
-committed to making the Web accessible. These organizations enable WAI
-to bring together a unique partnership of industry, disability
-organizations, national governments, and research organizations in a
-coordinated effort to improve the accessibility of the Web for people
-with disabilities.
-
-### Additional Sponsors and Contributors Welcome
-
-WAI welcomes additional sponsors to support its technical and educational activities to increase accessibility of the Web. For information:
-* See [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)
-* Contact [Judy Brewer](https://www.w3.org/People/Brewer/), Director of WAI, at <jbrewer@w3.org>
 
 ## Current Sponsors and Funding
 
@@ -59,7 +42,17 @@ WAI welcomes additional sponsors to support its technical and educational activi
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
     
-## Previous Sponsors and Funding
+## About Sponsoring WAI
+
+The Web Accessibility Initiative (WAI) greatly appreciates the sponsorship of governments, businesses, and other organizations committed to making the Web accessible. These organizations enable WAI to bring together a unique partnership of industry, disability organizations, national governments, and research organizations in a coordinated effort to improve the accessibility of the Web for people with disabilities.
+
+### Additional Sponsors and Contributors Welcome
+
+WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org/Consortium/Recruitment/Fellows) to support its technical and educational activities to increase accessibility of the Web. For information:
+* See [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)
+* Contact [Judy Brewer](https://www.w3.org/People/Brewer/), Director of WAI, at <jbrewer@w3.org>
+
+## Previous Sponsors, Funding, Contributors, Fellows
 
 ### Previous Grants and Contracts
 
@@ -119,13 +112,21 @@ WAI welcomes additional sponsors to support its technical and educational activi
     Foundation](http://www22.verizon.com/content/verizonglobalhome/ghp_landing.aspx)
 -   [Wells Fargo](http://www.wellsfargo.com/home.htm)
 
-<!--
-Contributors
+### Contributors
 
--   [Ta-meteo.fr](http://www.ta-meteo.fr "Ta-Meteo.fr")
 -   Austrian Computer Society, Roland Wagner Award
+-   Facebook donated virtual reality headsets to support the work of the [Immersive Captions Community Group](https://www.w3.org/community/immersive-captions/)
 -   Massachusetts Association for the Blind
+-   [Netlify](https://www.netlify.com/) provides previews of the WAI website
 -   NewDoctor.com
+-   [Ta-meteo.fr](http://www.ta-meteo.fr "Ta-Meteo.fr")
 -   WinWriters
+-   Individuals who purchased t-shirts through Bonfire, organized by Carie Fisher
 
--->
+### Previous Fellow Supporters
+
+W3C WAI thanks organizations that have supported [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) in WAI:
+
+-  [Elisa Communications](http://www.elisa.fi/)
+-  [Knowbility, Inc](https://knowbility.org/)
+-  RITT
