@@ -2,7 +2,7 @@
 title: "Accessibility Statement for WAI Website"
 permalink: /about/accessibility-statement/
 footer: > # Text in footer in HTML
-  <p><strong>This statement was updated on 4 December 2018. It was generated using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
+  <p><strong>This statement was updated on 17 July 2020. It was generated using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
   <p>Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
 
 github:
@@ -50,7 +50,7 @@ Web Accessibility Initiative (WAI) website content posted since May 2018 meets W
 
 <h2 id="compatibility-with-browsers-and-assistive-technology">Compatibility with browsers and assistive technology</h2>
 <p>The WAI website is designed to be compatible with assistive technologies and the last two versions of major browsers.</p>
-<p>In Internet Explorer 10 and in older browsers, some aspects of the website may not display optimally. The website is not designed for Internet Explorer 9 and earlier versions.</p>
+<p>In Internet Explorer 10, 11, and older browsers, some aspects of the website may not display optimally. The website is not designed for Internet Explorer 9 and earlier versions.</p>
 
 <h2 id="technical-specifications">Technical specifications</h2>
 <p>The WAI website relies upon the following technologies  for conformance with WCAG 2.1:</p>
