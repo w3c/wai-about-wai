@@ -6,7 +6,7 @@ permalink: /about/projects/wai-tools/third-open-meeting/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/pojects/wai-tools/third-open-meeting.md'
+  path: '_about/projects/wai-tools/third-open-meeting.md'
 ref: /about/projects/wai-tools/third-open-meeting/
 ---
 
