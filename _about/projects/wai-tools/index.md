@@ -33,9 +33,13 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 
 ## Announcements
 
+-   [Third Open Meeting]({{"/about/projects/wai-tools/third-open-meeting/" | relative_url }}) will be held online on 22 September 2020
 -   **Sign-up:** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
+-   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) was updated on 22 January 2020
+-   [Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/) was updated on 31 October 2019
 -   [Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}) was held on 20 May 2019 in Brussels, Belgium
 -   [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/) was published on 29 November 2018
+-   [Open Format for Accessibility Test Results](https://github.com/w3c/earl) was released on 31 October 2018
 -   [Online Symposium on ACT Rules for Manual Methodologies]({{"/about/projects/wai-tools/symposium/" | relative_url }}) was held on 14 March 2018
 -   [First Open Meeting]({{"/about/projects/wai-tools/first-open-meeting/" | relative_url }}) was held on 29 November 2017 in Brussels, Belgium
 
@@ -46,6 +50,9 @@ Current project results include:
 
 **[Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)**
 :  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 55 rules were developed through the project so far, with another 15 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed).
+
+**[Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/)**
+:  Includes processing test results from multiple tools that provide output in the open format developed by the project (see corresponding project deliverable listed below). These tools include the open source engines from Siteimprove, Deque, and University of Lisbon developed through the project. These implement ACT Rules to provide consistent results.
 
 **[Updated WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/)**
 :  Includes all the Success Criteria from WCAG 2.0 and 2.1, as well as user-interface improvements to support the selection between these two standards. This version also includes a new "Import" functionality to allow importing of test results, for example from automated testing tools. It also includes several bug fixes, as well as improvements to performance and security. [Further improvements](https://github.com/w3c/wcag-em-report-tool/issues) are currently in planning.
