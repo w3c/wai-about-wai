@@ -7,7 +7,7 @@ ref: /about/projects/wai-tools/first-open-meeting/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/pojects/wai-tools/first-open-meeting.md'
+  path: '_about/projects/wai-tools/first-open-meeting.md'
 ---
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right style="width: 105px;"}
