@@ -1,6 +1,6 @@
 ---
 title: "WAI-Tools Open Meeting — Online, 22 September 2020"
-title_html: "WAI-Tools Open Meeting <br>Online, 22 September 2020
+title_html: "WAI-Tools Open Meeting <br>Online, 22 September 2020"
 nav_title: Open Meeting
 permalink: /about/projects/wai-tools/third-open-meeting/
 lang: en
