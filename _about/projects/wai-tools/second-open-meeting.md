@@ -6,7 +6,7 @@ permalink: /about/projects/wai-tools/second-open-meeting/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/pojects/wai-tools/second-open-meeting.md'
+  path: '_about/projects/wai-tools/second-open-meeting.md'
 ref: /about/projects/wai-tools/second-open-meeting/
 ---
 
