@@ -112,11 +112,11 @@ If you do **not** work for a [W3C Member organization](http://www.w3.org/Consort
 
     -   Get a W3C Account and subscribe to the mailing list, per the instructions above.
 
-2.  Explain your interest in contributing to EOWG work in an e-mail to EOWG Co-Chairs Sharron and Brent, and W3C Staff Contact Shawn, at [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20Contribution).
+2.  Explain your interest in contributing to EOWG work in an e-mail to EOWG Co-Chairs Sharron and Brent, and W3C Staff Contact Shawn, at [group-eo-chairs@w3.org](mailto:group-eo-chairs@w3.org?subject=EOWG%20Contribution).
 
-3.  Demonstrate your understanding of EOWG and your contributions by commenting on open issues and resources-in-progress per [Commenting on EOWG Resources above](#comment).<br>If you have questions, e-mail [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20 Contribution).
+3.  Demonstrate your understanding of EOWG and your contributions by commenting on open issues and resources-in-progress per [Commenting on EOWG Resources above](#comment).<br>If you have questions, e-mail [group-eo-chairs@w3.org](mailto:group-eo-chairs@w3.org?subject=EOWG%20 Contribution).
 
-4.  After you are comfortable that you understand EOWG and have demonstrated contributions, e-mail [team-eowg-chairs@w3.org](mailto:team-eowg-chairs@w3.org?subject=EOWG%20participation) with ideas on how you can contribute more as an active EOWG participant. We will probably schedule a time to talk via phone.
+4.  After you are comfortable that you understand EOWG and have demonstrated contributions, e-mail [group-eo-chairs@w3.org](mailto:group-eo-chairs@w3.org?subject=EOWG%20participation) with ideas on how you can contribute more as an active EOWG participant. We will probably schedule a time to talk via phone.
 
 5.  After you receive an invitation from the Chairs and Staff Contact (probably via phone, maybe via e-mail), complete the [W3C Invited Expert Application](https://www.w3.org/2002/09/wbs/1/ieapp/).
 
