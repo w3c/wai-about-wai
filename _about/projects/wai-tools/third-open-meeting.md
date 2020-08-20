@@ -57,27 +57,30 @@ This Open Meeting is held as part of the project efforts to engage with the broa
 
 WAI-Tool staff will present project deliverables and highlighted particular points for collaboration. Participants are invited to provide input on potential aspects to consider throughout the project.
 
-The following times are in CEST (UTC+2):
+The following times are in [CEST (UTC+2)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Open+Meeting&iso=20200922T12&p1=%3A&ah=3):
 
 -   **14:00** Start of meeting
--   **14:00 - 15:30** First session
+-   **14:00 - 14:30** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/)
+-   **14:30 - 15:00** Overview on the [Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/)
+-   **15:00 - 15:30** Overview on the [Norwegian national observatory](https://uu.difi.no/om-oss/english)
 -   **15:30 - 15:45** Break
--   **15:45 - 17:00** Second session
+-   **15:45 - 16:00** Updates of the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/)
+-   **16:00 - 16:15** [Accessibility Statements and Generator Tool](https://www.w3.org/WAI/planning/statements/)
+-   **16:15 - 16:30** Accessibility Test Data Browser
+-   **16:30 - 17:00** Open questions and answers; wrap-up
 -   **17:00** End of meeting
 
 ## Logistics
 {:#venue}
 
-*Teleconference logistics will be provided.*
+This meeting will take place on the Zoom teleconference system with real-time captioning. Connection details will be sent by email to registered participants; please see information on registration directly below.
 
 ## Registration
 {:#register}
 
-*Registration will soon open on this page.*
-
-<!--// Participation is free, but spaces are limited. **[Registration until 3 May 2019 is required](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting2/)** and will be confirmed. //--><!--// Registration is now closed. Please contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions. //-->
+Participation is free but **[registration until 21 September 2020 is required](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting3/)**.<!--// Registration is now closed. //--> Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions.
 
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.
+This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions.
