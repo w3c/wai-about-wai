@@ -32,7 +32,7 @@ ref: /about/projects/wai-tools/third-open-meeting/
 [WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in an online Open Meeting to learn about results from the WAI-Tools Project, including:
 
 -   Progress on [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
--   Updates of the [Portuguese](http://accessmonitor.acessibilidade.gov.pt/observatorio/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
+-   Updates to the [Portuguese](http://accessmonitor.acessibilidade.gov.pt/observatorio/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Accessibility Statements Generator](https://www.w3.org/WAI/planning/statements/)
 
 We encouraged participation from people interested in:
