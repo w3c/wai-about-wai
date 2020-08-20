@@ -29,10 +29,10 @@ ref: /about/projects/wai-tools/third-open-meeting/
 ## Invitation
 {:#invitation}
 
-[WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tools vendors, researchers, and users to participate in an Open Meeting to learn about results from the WAI-Tools Project, including:
+[WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in an online Open Meeting to learn about results from the WAI-Tools Project, including:
 
 -   Progress on [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
--   Implementation in [Portuguese](http://accessmonitor.acessibilidade.gov.pt/observatorio/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
+-   Updates of the [Portuguese](http://accessmonitor.acessibilidade.gov.pt/observatorio/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Accessibility Statements Generator](https://www.w3.org/WAI/planning/statements/)
 
 We encouraged participation from people interested in:
@@ -48,7 +48,7 @@ We particularly invited participants involved in related efforts in Europe and i
 
 The [WAI-Tools Project](/about/projects/wai-tools/) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
 
-This Open Meeting is held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants learned about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
+This Open Meeting is held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants will learn about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
 
 ## Agenda
 {:#agenda}
