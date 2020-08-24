@@ -78,9 +78,9 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 ## Registration
 {:#register}
 
-Participation is free but **[registration until 21 September 2020 is required](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting3/)**.<!--// Registration is now closed. //--> Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions.
+Participation is free, and **[registration is required by 21 September 2020](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting3/)**.<!--// Registration is now closed. //-->
 
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) if you have questions.
+This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). If you have questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
