@@ -41,7 +41,7 @@ We encouraged participation from people interested in:
 -   Large-scale web accessibility monitoring
 -   Managing the quality assurance process
 
-We particularly invited participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This Open Meeting will be held **online on Tuesday 22 September 2020 at [14:00 to 17:00 Central European Standard Time (CEST)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Open+Meeting&iso=20200922T12&p1=%3A&ah=3).**
+We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This Open Meeting will be held **online on Tuesday 22 September 2020 at [14:00 to 17:00 Central European Standard Time (CEST)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Open+Meeting&iso=20200922T12&p1=%3A&ah=3).**
 
 ## Background
 {:#background}
