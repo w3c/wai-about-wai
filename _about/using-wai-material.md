@@ -85,7 +85,7 @@ Please read below for more details, including [**some material that is specially
     > September 2010. <https://www.w3.org/WAI/training/>
 
 3.  You do not suggest that W3C or WAI endorses you or your use of the material.
-4.  You abide by the license terms; most are [Creative Commons Attribution 4.0 International License](href="http://creativecommons.org/licenses/by/4.0/).
+4.  You abide by the license terms; most are [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Finding Which Type of License
 
