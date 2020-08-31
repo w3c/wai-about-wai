@@ -9,7 +9,7 @@ ref: /about/translating/
 lang: en
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 10 July 2019.</p>
+  <p><strong>Date:</strong> Updated 31 August 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 ---
@@ -95,7 +95,8 @@ Translations can include:
 * Organization name - translator's employer &/or other sponsor/funder of the translation.
 
 Cannot include:
-* Links to organizations. (Exception: Qualifying accessibility/disability organizations or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).) Links to personal home pages rather than "about" pages.
+* Links to organizations. (Exception: Qualifying accessibility/disability organizations or translation organizations. To request an exception, e-mail [wai@w3.org with subject [Translations link request]](mailto:wai@w3.org?subject=%5BTranslations%20link%20request%5D).)
+* Links to personal home pages rather than "about" pages.
 
 #### Updating Resources
 
