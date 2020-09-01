@@ -2,7 +2,7 @@
 title: "Accessibility Statement for WAI Website"
 permalink: /about/accessibility-statement/
 footer: > # Text in footer in HTML
-  <p><strong>This statement was updated on 17 July 2020. It was generated using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
+  <p><strong>This statement was updated on 1 September 2020. It was generated using the <a href=" https://www.w3.org/WAI/planning/statements/">W3C Accessibility Statement Generator Tool</a>.</strong></p>
   <p>Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, and <a href="https://www.w3.org/People/CMercier/">Coralie Mercier</a>.</p>
 
 github:
@@ -66,8 +66,8 @@ Web Accessibility Initiative (WAI) website content posted since May 2018 meets W
 </ul>
 
 <h2 id="limitations-and-alternatives">Limitations and alternatives</h2>
-<p>Currently access to YouTube is required to view some videos on the WAI website. We are looking into providing those videos through an alternative method.</p>
-<p>The WAI website links to GitHub for providing input on resources and documents in development. As an alternative, input can be provided by e-mail.</p>
+<p>Several videos on the WAI website use YouTube. As an alternative, the videos are provided as MP4 files on a <abbr title="World Wide Web Consortium">W3C</abbr> server.</p>
+<p>The WAI website links to GitHub for providing input on resources and documents. As an alternative, an e-mail address is included for providing input.</p>
 
 <h2 id="assessment-approach">Assessment approach</h2>
 <p>WAI assessed the accessibility of the WAI website by self-evaluation.</p>
