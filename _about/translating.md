@@ -84,7 +84,7 @@ By submitting a translation, you agree:
 
 Translations will be reviewed before they are published.
 
-#### Links
+#### Names and Links  {#links}
 
 This policy is based on [Internationalization Links](https://www.w3.org/International/2004/06/translation.en.html#linkingrules), which provides some background.
 
