@@ -157,7 +157,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <h3 id="priority-nav">Main navigation overview pages</h3>
 <p>If you translate these pages, then users will get the main navigation in your language. In most cases, we will wait to publish these until all of them are translated.</p>
 <ul>
-<li>Accessibility Fundamentals Overview <em>(new page coming in 2019)</em></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/">Accessibility Fundamentals Overview</a></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> <em>(repeat from above)</em></li>
 <li><a href="https://www.w3.org/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a></li>
 <li><a href="https://www.w3.org/WAI/design-develop/">Design and Develop Overview</a></li>
