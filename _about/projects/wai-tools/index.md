@@ -79,7 +79,7 @@ Technical project deliverables include:
 -   **Integration of Test Rules**
     -   **D3.1: Accessibility Statement Generator** — open source tool, to assist help [create accessibility statements](https://www.w3.org/WAI/planning/statements/).
     -   **D3.2: Extended Accessibility Report Tool** — extending the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) with functionality to import fully- and semi-automated test results.
-    -   **D3.3: Large-Scale Test Data Browser** — open source prototype, based on existing standards and tools, to browse large amounts of accessibility test results.
+    -   **D3.3: Large-Scale Test Data Browser** — [open source prototype](http://qualweb.di.fc.ul.pt/placm/), based on existing standards and tools, to browse large amounts of accessibility test results.
 
 These deliverables are complemented by project management, dissemination, and engagement efforts.
 
@@ -129,7 +129,7 @@ WAI-Tools project partners include:
 -   [Siteimprove {% include_cached external.html %}](https://siteimprove.com/), Denmark
 -   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands
 -   [Accessibility Foundation {% include_cached external.html %}](https://www.accessibility.nl/), Netherlands
--   [Agency for Public Management and eGovernment (Difi) {% include_cached external.html %}](https://uu.difi.no/), Norway
+-   [Norwegian Digitalisation Agency {% include_cached external.html %}](https://uu.difi.no/), Norway
 -   [Administrative Modernization Agency {% include_cached external.html %}](https://www.ama.gov.pt/), Portugal
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
 
