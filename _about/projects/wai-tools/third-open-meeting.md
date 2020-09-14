@@ -66,7 +66,7 @@ The following times are in [CEST (UTC+2)](https://www.timeanddate.com/worldclock
 -   **15:30 - 15:45** Break
 -   **15:45 - 16:00** Updates of the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/)
 -   **16:00 - 16:15** [Accessibility Statements and Generator Tool](https://www.w3.org/WAI/planning/statements/)
--   **16:15 - 16:30** Accessibility Test Data Browser
+-   **16:15 - 16:30** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/)
 -   **16:30 - 17:00** Open questions and answers; wrap-up
 -   **17:00** End of meeting
 
