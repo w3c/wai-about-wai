@@ -29,7 +29,7 @@ ref: /about/projects/wai-tools/third-open-meeting/
 ## Invitation
 {:#invitation}
 
-[WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in an online Open Meeting to learn about results from the WAI-Tools Project, including:
+[WAI-Tools Project](/about/projects/wai-tools/) invited web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in an online Open Meeting to learn about results from the WAI-Tools Project, including:
 
 -   Progress on [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
 -   Updates to the [Portuguese](http://accessmonitor.acessibilidade.gov.pt/observatorio/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
@@ -41,39 +41,37 @@ We encouraged participation from people interested in:
 -   Large-scale web accessibility monitoring
 -   Managing the quality assurance process
 
-We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This Open Meeting will be held **online on Tuesday 22 September 2020 at [14:00 to 17:00 Central European Standard Time (CEST)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Open+Meeting&iso=20200922T12&p1=%3A&ah=3).**
+We particularly invited participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This Open Meeting was held **online on Tuesday 22 September 2020 at [14:00 to 17:00 Central European Standard Time (CEST)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Open+Meeting&iso=20200922T12&p1=%3A&ah=3).**
 
 ## Background
 {:#background}
 
 The [WAI-Tools Project](/about/projects/wai-tools/) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
 
-This Open Meeting is held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants will learn about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
+This Open Meeting was held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants learned about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
 
 ## Agenda
 {:#agenda}
 
-*Draft agenda will be updated.*
-
-WAI-Tool staff will present project deliverables and highlighted particular points for collaboration. Participants are invited to provide input on potential aspects to consider throughout the project.
+WAI-Tool staff presented project deliverables and highlighted particular points for collaboration. Participants were invited to provide input on potential aspects to consider throughout the project.
 
 The following times are in [CEST (UTC+2)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Open+Meeting&iso=20200922T12&p1=%3A&ah=3):
 
 -   **14:00** Start of meeting
--   **14:00 - 14:30** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/)
--   **14:30 - 15:00** Overview on the [Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/)
--   **15:00 - 15:30** Overview on the [Norwegian national observatory](https://uu.difi.no/om-oss/english)
+-   **14:00 - 14:30** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/) ([slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/01%20WAI-Tools%20Project%20Overview.pptx))
+-   **14:30 - 15:00** Overview on the [Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/) ([slides 02 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/02%20WAI-Tools%20Portuguese%20Observatory.pptx))
+-   **15:00 - 15:30** Overview on the [Norwegian national observatory](https://uu.difi.no/om-oss/english) ([slides 03 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/03%20WAI-Tools%20Norwegian%20Observatory.pptx))
 -   **15:30 - 15:45** Break
--   **15:45 - 16:00** Updates of the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/)
--   **16:00 - 16:15** [Accessibility Statements and Generator Tool](https://www.w3.org/WAI/planning/statements/)
--   **16:15 - 16:30** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/)
+-   **15:45 - 16:00** Updates of the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/04%20WAI-Tools%20Support%20Tools.pptx))
+-   **16:00 - 16:15** [Accessibility Statements and Generator Tool](https://www.w3.org/WAI/planning/statements/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/04%20WAI-Tools%20Support%20Tools.pptx))
+-   **16:15 - 16:30** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/) ([slides 05 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/05%20WAI-Tools%20Data%20Browser.pptx))
 -   **16:30 - 17:00** Open questions and answers; wrap-up
 -   **17:00** End of meeting
 
 ## Logistics
 {:#venue}
 
-This meeting will take place on the Zoom teleconference system with real-time captioning. Connection details will be sent by email to registered participants; please see information on registration directly below.
+This meeting took place on the Zoom teleconference system with real-time captioning. Connection details were sent by email to registered participants<!--// ; please see information on registration directly below //-->.
 
 ## Registration
 {:#register}
@@ -83,4 +81,4 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). If you have questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
+This meeting was organized through the [WAI-Tools Project](/about/projects/wai-tools/). If you have questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
