@@ -1,5 +1,5 @@
 ---
-title: "WAI-Core Project 2015-2020"
+title: "WAI-Core Project"
 nav_title: "WAI-Core 2015"
 permalink: /about/projects/wai-core-2015/
 ref: /about/projects/wai-core-2015/
