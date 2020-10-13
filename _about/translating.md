@@ -9,7 +9,7 @@ ref: /about/translating/
 lang: en
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 31 August 2020.</p>
+  <p><strong>Date:</strong> Updated 13 October 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 ---
@@ -58,8 +58,8 @@ Scope:
 * comfortable editing a file with code ([example file for translation](https://docs.google.com/document/d/1oVOIXH5mVvJSmznyWVU4A4N7E6vCOeHvYbpdAJvpbU0/edit))
 
 To avoid overlapping work:
-* please do not translate the source text of pages displayed on the web
-* follow the steps below to get the right file to translate and to ensure that the resource is ready for you to translate
+* please do **not** translate files from the web
+* follow the steps below to _get the right file to translate_ and to ensure that the resource is ready for you to translate
 
 **If you want to translate a WAI resource:**
 
