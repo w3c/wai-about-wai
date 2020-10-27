@@ -9,7 +9,7 @@ permalink: /about/using-wai-material/
 ref: /about/using-wai-material/
 lang: en
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 22 June 2020.</p>
+  <p><strong>Date:</strong> Updated 227 October 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the <a href="http://www.w3.org/People/domain?domain=Web+Accessibility+Initiative">WAI staff</a> and <a href="https://www.w3.org/People/functions/comm">W3C Communications staff</a>.</p>
 ---
@@ -19,7 +19,7 @@ footer: > # Text in footer in HTML
 {:/}
 
 You can generally use WAI material for free, with two conditions:
-1.  Clearly attribute the original source as specified below, and
+1.  Clearly attribute the original source and include a link to it, as specified below, and
 2.  Not modify the content (with few exceptions noted below).
 
 [W3C usage policies apply](https://www.w3.org/Consortium/Legal/ipr-notice) to all WAI material.
@@ -56,15 +56,15 @@ Please read below for more details, including [**some material that is specially
 
 ## Official W3C Document License
 
-**Most WAI material** (including the standards and guidelines) is provided under the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license.html) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you include URL, copyright, and status (if it exists). This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
+Most WAI material (including the standards and guidelines) is provided under the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license.html) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you **include URL, copyright, and status** (if it exists). This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
 
 ## Creative Commons Licensed (CC) Material for You to Adapt
 {:#cc}
 
-**A few WAI Resources** are specifically designed for you to adapt, such as presentation slides. These are provided under a Creative Commons License (CC). We are happy for you to edit, change, and present such CC material *under the following conditions*:
+A few WAI Resources are specifically designed for you to adapt, such as presentation slides. These are provided under a Creative Commons License (CC). We are happy for you to edit, change, and present such CC material *under the following conditions*:
 
-1.  You include the URI (web address), copyright, and status (if it exists, e.g., "Draft") of the original WAI material.
-2.  You clearly attribute the material appropriately.<br>
+1.  You **include the URI (web address), copyright, and status** (if it exists, e.g., "Draft") of the original WAI material.
+2.  You **clearly attribute the material** appropriately.<br>
     
     Here is a template you can use:<br>
 
@@ -89,9 +89,9 @@ Please read below for more details, including [**some material that is specially
 
 ## Finding Which Type of License
 
-Unless otherwise indicated, all WAI material not covered by another license is published under the [W3C Document License](https://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231), which is usually linked in the document footer as "[document use](https://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231)" or "[Usage policies apply](https://www.w3.org/Consortium/Legal/2002/ipr-notice-20021231)".
+Unless otherwise indicated, all WAI material not covered by another license is published under the [W3C Document License](https://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231).
 
-For material under the Creative Commons License, the footer links to the license, such as: "This work is published and licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
+For material under the Creative Commons License, the footer includes the license, such as: "This work is published and licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
 
 ## Let Us Know
 
