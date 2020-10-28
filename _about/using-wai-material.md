@@ -9,7 +9,7 @@ permalink: /about/using-wai-material/
 ref: /about/using-wai-material/
 lang: en
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 227 October 2020.</p>
+  <p><strong>Date:</strong> Updated 27 October 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the <a href="http://www.w3.org/People/domain?domain=Web+Accessibility+Initiative">WAI staff</a> and <a href="https://www.w3.org/People/functions/comm">W3C Communications staff</a>.</p>
 ---
