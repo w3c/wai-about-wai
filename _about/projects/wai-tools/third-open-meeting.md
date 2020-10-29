@@ -59,7 +59,7 @@ The following times are in [CEST (UTC+2)](https://www.timeanddate.com/worldclock
 
 -   **14:00** Start of meeting
 -   **14:00 - 14:30** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/) ([slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/01%20WAI-Tools%20Project%20Overview.pptx))
--   **14:30 - 15:00** Overview on the [Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/) ([slides 02 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/02%20WAI-Tools%20Portuguese%20Observatory.pptx))
+-   **14:30 - 15:00** Overview on the [Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/) ([slides 02 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/02%20WAI-Tools%20Portuguese%20Observatory.pptx))
 -   **15:00 - 15:30** Overview on the [Norwegian national observatory](https://uu.difi.no/om-oss/english) ([slides 03 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/03%20WAI-Tools%20Norwegian%20Observatory.pptx))
 -   **15:30 - 15:45** Break
 -   **15:45 - 16:00** Updates of the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/04%20WAI-Tools%20Support%20Tools.pptx))
