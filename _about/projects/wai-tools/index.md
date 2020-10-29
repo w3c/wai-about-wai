@@ -33,10 +33,11 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 
 ## Announcements
 
--   [Third Open Meeting]({{"/about/projects/wai-tools/third-open-meeting/" | relative_url }}) will be held online on 22 September 2020
 -   **Sign-up:** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
+-   Norwegian [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) were published on 26 October 2020
+-   [Third Open Meeting]({{"/about/projects/wai-tools/third-open-meeting/" | relative_url }}) was held online on 22 September 2020
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) was updated on 22 January 2020
--   [Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/) was updated on 31 October 2019
+-   [Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/) was updated on 31 October 2019
 -   [Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}) was held on 20 May 2019 in Brussels, Belgium
 -   [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/) was published on 29 November 2018
 -   [Open Format for Accessibility Test Results](https://github.com/w3c/earl) was released on 31 October 2018
@@ -51,17 +52,20 @@ Current project results include:
 **[Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)**
 :  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 55 rules were developed through the project so far, with another 15 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed).
 
-**[Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/)**
+**[Norwegian national observatory](https://uu.difi.no/om-oss/english)**
+:  Includes running and documenting [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) in accordance with the [EU Web Accessibility Directive (WAD)](https://eur-lex.europa.eu/eli/dir/2016/2102/oj), as well as documenting the local  [WCAG Interpretion and ACT Rules](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) mappings. These reports provide practical insights on an example national monitoring initiative with many key take-aways for the project and beyond.
+
+**[Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/)**
 :  Includes processing test results from multiple tools that provide output in the open format developed by the project (see corresponding project deliverable listed below). These tools include the open source engines from Siteimprove, Deque, and University of Lisbon developed through the project. These implement ACT Rules to provide consistent results.
 
 **[Updated WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/)**
-:  Includes all the Success Criteria from WCAG 2.0 and 2.1, as well as user-interface improvements to support the selection between these two standards. This version also includes a new "Import" functionality to allow importing of test results, for example from automated testing tools. It also includes several bug fixes, as well as improvements to performance and security. [Further improvements](https://github.com/w3c/wcag-em-report-tool/issues) are currently in planning.
+:  Includes all the Success Criteria from WCAG 2.0 and 2.1, as well as user-interface improvements to support the selection between these two standards. This version also includes a new "Import" functionality to allow importing of test results, for example from automated testing tools. [Further improvements](https://github.com/w3c/wcag-em-report-tool/issues) are currently in planning.
 
 **[Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/)**
-:  Includes guidance on how to develop accessibility statements for websites, mobile applications, and other digital content, as well as a free and open source accessibility statements generator tool. More information in the blog post [How to Create Accessibility Statements](https://www.w3.org/blog/2018/11/how-to-create-accessibility-statements/). This is the result of project deliverable D3.1, which was developed through the [W3C Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
+:  Includes guidance on how to develop accessibility statements for websites, mobile applications, and other digital content, as well as a free and open source accessibility statements generator tool. More information in the blog post [How to Create Accessibility Statements](https://www.w3.org/blog/2018/11/how-to-create-accessibility-statements/).
 
 **[Open Format for Accessibility Test Results](https://github.com/w3c/earl)**
-:  Includes the definition of an open data format to express accessibility test results. It is a [JSON-LD 1.0](https://www.w3.org/TR/json-ld/) serialization of the [EARL 1.0 Schema](https://www.w3.org/TR/EARL10-Schema/), and is implemented by the open source [Alfa](https://github.com/siteimprove/alfa) and [aXe Reporter](https://github.com/dequelabs/axe-reporter-earl) accessibility testing engines. This is the result of project deliverable D2.1.
+:  Includes the definition of an open data format to express accessibility test results. It is a [JSON-LD 1.0](https://www.w3.org/TR/json-ld/) serialization of the [EARL 1.0 Schema](https://www.w3.org/TR/EARL10-Schema/), and is implemented by the open source [Alfa](https://github.com/siteimprove/alfa) and [aXe Reporter](https://github.com/dequelabs/axe-reporter-earl) testing engines.
 
 ## Project Deliverables
 {:#deliverables}
@@ -74,8 +78,8 @@ Technical project deliverables include:
     -   **D1.3: Validation of Test Rules** — validate and refine test rules developed by the project, to meet the requirements for authoritative [ACT Rules](https://act-rules.github.io/rules/).
 -   **Deployment of Test Rules**
     -   **D2.1: Open Format for Test Results** — develop open format built on [Evaluation and Report Language (EARL)](https://www.w3.org/WAI/intro/earl) and [Test Case Description Language (TCDL)](https://www.w3.org/WAI/ER/tests/).
-    -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the [Portuguese national observatory](http://accessmonitor.acessibilidade.gov.pt/observatorio/).
-    -   **D2.3: Applying to Norwegian Observatory** — applying the test rules and tooling developed by the project in the [Norwegian national observatory](https://uu.difi.no/om-oss/english).
+    -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the [Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/).
+    -   **D2.3: Applying to Norwegian Observatory** — running [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and documenting [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) for the [Norwegian national observatory](https://uu.difi.no/om-oss/english).
 -   **Integration of Test Rules**
     -   **D3.1: Accessibility Statement Generator** — open source tool, to assist help [create accessibility statements](https://www.w3.org/WAI/planning/statements/).
     -   **D3.2: Extended Accessibility Report Tool** — extending the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) with functionality to import fully- and semi-automated test results.
@@ -99,11 +103,6 @@ See also [Participating in WAI](http://www.w3.org/WAI/participation). If you hav
 ### Project Updates
 
 **Sign-up** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/). You can use this form to subscribe and unsubscribe any time. Your name and email address will not be shared beyond W3C staff for the sole purpose of sending out project updates.
-
-### Project Overview
-{:#overview}
-
-Latest overview and slides for the WAI-Tools Project are available from the [Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}), which was held on 20 May 2019 in Brussels, Belgium
 
 ## About the Project
 {:#about}
