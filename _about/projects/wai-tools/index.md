@@ -32,6 +32,7 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 {:/}
 
 ## Announcements
+{:#announcements}
 
 -   **Sign-up:** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
 -   Norwegian [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) were published on 26 October 2020
