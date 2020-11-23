@@ -14,6 +14,7 @@ class: tight-page
 
 ## Current Projects
 
+   * [WAI-CooP](/about/projects/wai-coop/)
    * [WAI-Guide](/about/projects/wai-guide/)
    * [WAI-Tools](/about/projects/wai-tools/)
    * [WAI Expanding Access](https://www.w3.org/WAI/expand-access/)
