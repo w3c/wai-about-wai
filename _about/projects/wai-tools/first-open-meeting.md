@@ -1,13 +1,14 @@
 ---
 title: "WAI-Tools Open Meeting — 29 November 2017, Brussels, Belgium"
-title_html: "WAI-Tools Open Meeting<br>29 November 2017, Brussels, Belgium"
-nav_title: Open Meeting
+title_html: "WAI-Tools Open Meeting <br>29 November 2017, Brussels, Belgium"
+nav_title: First Open Meeting
 permalink: /about/projects/wai-tools/first-open-meeting/
 ref: /about/projects/wai-tools/first-open-meeting/
 lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/projects/wai-tools/first-open-meeting.md'
+ref: /about/projects/wai-tools/first-open-meeting/
 ---
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right style="width: 105px;"}
