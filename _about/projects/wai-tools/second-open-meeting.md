@@ -1,7 +1,7 @@
 ---
 title: "WAI-Tools Open Meeting — 20 May 2019, Brussels, Belgium"
 title_html: "WAI-Tools Open Meeting <br>20 May 2019, Brussels, Belgium"
-nav_title: Open Meeting
+nav_title: Second Open Meeting
 permalink: /about/projects/wai-tools/second-open-meeting/
 lang: en
 github:
