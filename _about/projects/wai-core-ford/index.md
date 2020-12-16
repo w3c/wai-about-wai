@@ -38,14 +38,24 @@ This page provides information on the Web Accessibility Initiative WAI-Core Ford
 
 ## About the Project
 
-@@ paragraph.
+Current Ford Foundation funding seeks to strengthen WAI work overall including through the continual process of updating our technical guidance supporting accessibility for the Web community. In addition, we seek to continue our work to extend the benefits of WAI to people with disabilities in low resource regions. This includes work to expand ccess to the Web and mobile for people with disabilities in low resource regions, in order to increase their ability to participate in all aspects of the information society, through work that will enhance the overall quality of WAI work while also supporting the missions of W3C and MIT.
 
-## @@ heading level 2
+## Main Areas of Work
 
-* list item 1
-  * sub-list item a
-  * sub-list item b
-* list item 2
+1. Improve understanding of needs of people with disabilities in low resource regions.<br>
+Continue to build networks of people with disabilities interested in digital accessibility in under-resourced regions, to seek input on priorities, increase engagement, and help disseminate relevant resources including translations of documents.
+
+2. Update and expand technical and educational materials.<br>
+Expand the set of technical and educational resources to update, reflecting improvements in the new WCAG 2.2 once published, broadening applicability to mobile, and improving relevance to low resource regions. Integrate work into EOWG’s ongoing materials development.
+
+3. Scale up recruitment and support for translations of WAI resources, and improve translatability of technical documents.<br>
+Complete revision of the Policy for Authorized W3C Translations; scale up recruitment of translators to cover some low-incidence languages, and translations of more sets of key WAI documents.
+
+4. Improve resources and support for remote accessible participation in international digital accessibility work.<br>
+Promote accessible videoconferencing and telepresence as options for  remote participation, to facilitate cost-effective and carbon-conserving participation and engagement in international W3C WAI work and the work of other standards organizations.
+
+5. Increase advisory and strategic planning functions for accessibility work in W3C.<br>
+Convene an annual international face-to-face or in-depth virtual meeting of the WAI Steering Council, with increased engagement in strategic planning; W3C roadmap tools and/or alternative approaches; engage organizational consultant(s) to address specific areas of growth, including development.
 
 ## How to Participate
 
