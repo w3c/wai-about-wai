@@ -3,8 +3,8 @@ title: "WAI-Core Ford Foundation"
 nav_title: "WAI-Core Ford"
 lang: en 
 last_updated: 2022-12-16
-permalink: /wai-core-ford/
-ref: /wai-core-ford/
+permalink: /about/projects/wai-core-ford/
+ref: /about/projects/wai-core-ford/
 layout: default
 github:
   repository: w3c/wai-about-wai
