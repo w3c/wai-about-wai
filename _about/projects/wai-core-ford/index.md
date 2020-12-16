@@ -1,5 +1,5 @@
 ---
-title: "WAI-Core Ford Foundation"
+title: "WAI-Core Ford"
 nav_title: "WAI-Core Ford"
 lang: en 
 last_updated: 2022-12-16
