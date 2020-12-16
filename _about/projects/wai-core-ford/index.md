@@ -19,7 +19,7 @@ feedbackmail: wai@w3.org
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-@@ This page provides information on the Web Accessibility Initiative WAI-Core Ford Project supported by the [Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/).
+This page provides information on the Web Accessibility Initiative WAI-Core Ford Project supported by the [Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/).
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
@@ -38,15 +38,7 @@ feedbackmail: wai@w3.org
 
 ## About the Project
 
-@@ regular paragraphs
-
-## H2
-
-* list item
-* list item
-  * sub-list
-  * sub-list 
-
+A goal of this project is to expand access to the Web and mobile for people with disabilities in low resource regions, in order to increase their ability to participate in all aspects of the information society. More details will be added here.
 
 ## How to Participate
 
