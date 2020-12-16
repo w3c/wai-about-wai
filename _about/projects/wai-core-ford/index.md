@@ -38,7 +38,14 @@ This page provides information on the Web Accessibility Initiative WAI-Core Ford
 
 ## About the Project
 
-A goal of this project is to expand access to the Web and mobile for people with disabilities in low resource regions, in order to increase their ability to participate in all aspects of the information society. More details will be added here.
+@@ paragraph.
+
+## @@ heading level 2
+
+* list item 1
+  * sub-list item a
+  * sub-list item b
+* list item 2
 
 ## How to Participate
 
