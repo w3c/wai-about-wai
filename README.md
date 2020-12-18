@@ -1,8 +1,4 @@
-# wai-about-wai
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7594e39d-39ba-4589-b534-faf166e8527d/deploy-status)](https://app.netlify.com/sites/wai-about-wai/deploys)
-
-Preview: https://wai-about-wai.netlify.com/
 
 ## In context:
 
