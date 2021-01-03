@@ -34,11 +34,12 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 ## Announcements
 {:#announcements}
 
+-   **[Final Open Meeting]({{"/about/projects/wai-tools/final-open-meeting/" | relative_url }}) will be held online on 26 January 2021
 -   **Sign-up:** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
 -   Norwegian [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) were published on 26 October 2020
 -   [Third Open Meeting]({{"/about/projects/wai-tools/third-open-meeting/" | relative_url }}) was held online on 22 September 2020
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) was updated on 22 January 2020
--   [Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/) was updated on 31 October 2019
+-   [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/) was updated on 31 October 2019
 -   [Second Open Meeting]({{"/about/projects/wai-tools/second-open-meeting/" | relative_url }}) was held on 20 May 2019 in Brussels, Belgium
 -   [Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/) was published on 29 November 2018
 -   [Open Format for Accessibility Test Results](https://github.com/w3c/earl) was released on 31 October 2018
@@ -56,7 +57,7 @@ Current project results include:
 **[Norwegian national observatory](https://uu.difi.no/om-oss/english)**
 :  Includes running and documenting [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) in accordance with the [EU Web Accessibility Directive (WAD)](https://eur-lex.europa.eu/eli/dir/2016/2102/oj), as well as documenting the local  [WCAG Interpretion and ACT Rules](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) mappings. These reports provide practical insights on an example national monitoring initiative with many key take-aways for the project and beyond.
 
-**[Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/)**
+**[Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/)**
 :  Includes processing test results from multiple tools that provide output in the open format developed by the project (see corresponding project deliverable listed below). These tools include the open source engines from Siteimprove, Deque, and University of Lisbon developed through the project. These implement ACT Rules to provide consistent results.
 
 **[Updated WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/)**
@@ -79,7 +80,7 @@ Technical project deliverables include:
     -   **D1.3: Validation of Test Rules** — validate and refine test rules developed by the project, to meet the requirements for authoritative [ACT Rules](https://act-rules.github.io/rules/).
 -   **Deployment of Test Rules**
     -   **D2.1: Open Format for Test Results** — develop open format built on [Evaluation and Report Language (EARL)](https://www.w3.org/WAI/intro/earl) and [Test Case Description Language (TCDL)](https://www.w3.org/WAI/ER/tests/).
-    -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the [Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/).
+    -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/).
     -   **D2.3: Applying to Norwegian Observatory** — running [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and documenting [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) for the [Norwegian national observatory](https://uu.difi.no/om-oss/english).
 -   **Integration of Test Rules**
     -   **D3.1: Accessibility Statement Generator** — open source tool, to assist help [create accessibility statements](https://www.w3.org/WAI/planning/statements/).
