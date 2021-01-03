@@ -1,6 +1,6 @@
 ---
 title: "WAI-Tools Open Meeting — Online, 26 January 2021"
-title_html: "WAI-Tools Open Meeting <br>Online, 26 January 2021"
+title_html: "WAI-Tools Open Meeting <br />Online, 26 January 2021"
 nav_title: Final Open Meeting
 permalink: /about/projects/wai-tools/final-open-meeting/
 lang: en
@@ -32,7 +32,7 @@ ref: /about/projects/wai-tools/final-open-meeting/
 [WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in its final online Open Meeting to learn about results from the WAI-Tools Project, including:
 
 -   Progress on [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
--   Updates to the [Portuguese](http://accessmonitor.acessibilidade.gov.pt/observatorio/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
+-   Updates to the [Portuguese](https://observatorio.acessibilidade.gov.pt/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Accessibility Statements Generator](https://www.w3.org/WAI/planning/statements/)
 
 We encourage participation from people interested in:
@@ -60,7 +60,7 @@ The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/
 -   **14:00** Start of meeting
 -   **14:00 - 14:15** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/)
 -   **14:15 - 15:00** [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
--   **15:00 - 15:30** Overview on the [Portuguese national observatory](https://accessmonitor.acessibilidade.gov.pt/)
+-   **15:00 - 15:30** Overview on the [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/)
 -   **15:30 - 16:00** Overview on the [Norwegian national observatory](https://uu.difi.no/om-oss/english)
 -   **16:00 - 16:15** Break
 -   **16:15 - 16:45** [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Statements Generator](https://www.w3.org/WAI/planning/statements/)
