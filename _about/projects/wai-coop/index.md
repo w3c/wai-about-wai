@@ -34,6 +34,7 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Announcements
 {:#announcements}
 
+-   **Sign-Up:** to receive [WAI-CoooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   WAI-CooP Project is scheduled to start on 1 January 2021, up-to-date information will be provided here
 
 <!--//
