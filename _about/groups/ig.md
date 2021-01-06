@@ -30,7 +30,7 @@ The Web Accessibility Initiative Interest Group (WAI IG) promotes awareness of a
 
 **Other Working Group Pages:**
 
--   [Charter](/WAI/IG/charter6)
+-   [Charter](/WAI/IG/20200804)
 -   [Discussion E-mail List Archives](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
 -   [Announcements E-mail List Archives](http://lists.w3.org/Archives/Public/public-wai-announce/)
 
@@ -122,7 +122,7 @@ of specification reviews, research topics identified during
 accessibility reviews, and educational materials development; also for
 exploring web accessibility issues and solutions, and sharing
 information about web accessibility activities around the world.<br>
-The [scope of the WAI IG](https://www.w3.org/WAI/IG/charter6#scope)
+The [scope of the WAI IG](/WAI/IG/20200804#scope)
 includes:
 
 -   reviewing and discussing deliverables being developed by [WAI
@@ -149,7 +149,7 @@ Sponsors](http://www.w3.org/WAI/Sponsor).
 ### Charter
 
 -   [WAI IG
-    Charter](http://www.w3.org/WAI/IG/charter6 "current WAI IG charter")
+    Charter](/WAI/IG/20200804)
 
 ### Past WAI IG Meetings
 
