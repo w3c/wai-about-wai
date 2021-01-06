@@ -26,9 +26,9 @@ github:
 
 ## Introduction
 
-The Web Accessibility Initiative Interest Group (WAI IG) promotes awareness of and engagement in World Wide Web Consortium (W3C) accessibility work. More details are in [About WAI IG below](#about-wai-ig).
+The Web Accessibility Initiative (WAI) Interest Group (IG) promotes awareness of, and engagement in, accessibility work throughout the World Wide Web Consortium (W3C). More details are in [About WAI IG below](#about-wai-ig).
 
-**Other Working Group Pages:**
+**Other Interest Group Pages:**
 
 -   [Charter](/WAI/IG/20200804)
 -   [Discussion E-mail List Archives](http://lists.w3.org/Archives/Public/w3c-wai-ig/)
@@ -135,8 +135,7 @@ includes:
 
 Work of the WAI IG is in accordance with the [W3C
 Process](http://www.w3.org/2015/Process-20150901/). WAI IG work is
-funded in part by the [WAI-Core 2015
-Project](http://www.w3.org/WAI/Core2015/) and [WAI
+funded in part by the [WAI-Core Project](http://www.w3.org/WAI/Core2015/) and [WAI
 Sponsors](http://www.w3.org/WAI/Sponsor).
 
 ### Chair and Contacts
@@ -153,15 +152,11 @@ Sponsors](http://www.w3.org/WAI/Sponsor).
 
 ### Past WAI IG Meetings
 
--   [March 19, 2005, Los Angeles, California, USA](https://www.w3.org/WAI/EO/s2005/03-agenda.html)
--   [March 19, 2004, Los Angeles, California,
-    USA](c2004/03-agenda.html)
--   [March 22, 2003, Los Angeles, California,
-    USA](http://www.w3.org/WAI/IG/2003/03-agenda.html)
--   [March 25, 2002, Los Angeles, California,
-    USA](http://www.w3.org/WAI/IG/2002/03-agenda.html)
--   [November 14, 2001, Melbourne,
-    Australia](http://www.w3.org/WAI/GL/2001/11/f2f-agenda.html)
+-   March 19, 2005, Los Angeles, California, USA
+-   March 19, 2004, Los Angeles, California, USA
+-   March 22, 2003, Los Angeles, California, USA
+-   March 25, 2002, Los Angeles, California, USA
+-   November 14, 2001, Melbourne, Australia
 -   [March 24, 2001, Los Angeles, California,
     USA](http://www.w3.org/WAI/IG/2001/03-agenda.html)
 -   [March 25, 2000, Los Angeles, California,
@@ -176,8 +171,7 @@ Sponsors](http://www.w3.org/WAI/Sponsor).
     Australia](http://www.w3.org/WAI/1998/04/agenda.html)
 -   [March, 1998, Los Angeles, California,
     USA](http://www.w3.org/WAI/1998/03/agenda.html)
--   [November, 1997, Austin, Texas,
-    USA](http://www.w3.org/WAI/group/971110/agenda)
+-   November, 1997, Austin, Texas, USA
 -   [August, 1997, Boston, Massachusetts,
     USA](http://www.w3.org/WAI/group/970805/agenda)
 -   [May, 1997, Nice, France](http://www.w3.org/WAI/min22)
