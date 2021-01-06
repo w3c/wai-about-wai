@@ -34,7 +34,7 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 ## Announcements
 {:#announcements}
 
--   **[Final Open Meeting]({{"/about/projects/wai-tools/final-open-meeting/" | relative_url }}) will be held online on 26 January 2021
+-   **[Final Open Meeting]({{"/about/projects/wai-tools/final-open-meeting/" | relative_url }})** will be held online on 26 January 2021
 -   **Sign-up:** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
 -   Norwegian [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) were published on 26 October 2020
 -   [Third Open Meeting]({{"/about/projects/wai-tools/third-open-meeting/" | relative_url }}) was held online on 22 September 2020
