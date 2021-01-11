@@ -41,7 +41,7 @@ We encourage participation from people interested in:
 -   Large-scale web accessibility monitoring
 -   Managing the quality assurance process
 
-We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This final Open Meeting will be held **online on Tuesday 26 January 2021 at [14:00 to 17:00 Central European Time (CET)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=30).**
+We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This final Open Meeting will be held **online on Tuesday 26 January 2021 at [14:00 to 17:30 Central European Time (CET)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=30).**
 
 ## Background
 {:#background}
