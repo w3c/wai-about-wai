@@ -36,7 +36,7 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 
 -   **[Final Open Meeting]({{"/about/projects/wai-tools/final-open-meeting/" | relative_url }})** will be held online on 26 January 2021
 -   **Sign-up:** to receive [WAI-Tools Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-Tools_newsletter/)
--   Norwegian [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) were published on 26 October 2020
+-   Norwegian [Pilot Monitoring](https://www.uutilsynet.no/english/wai-tools-documentation-pilot-monitoring/177) and [WCAG Interpretion](https://www.uutilsynet.no/english/interpretation-and-overview-test-procedures-wcag-20-and-aa/138) were published on 26 October 2020
 -   [Third Open Meeting]({{"/about/projects/wai-tools/third-open-meeting/" | relative_url }}) was held online on 22 September 2020
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) was updated on 22 January 2020
 -   [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/) was updated on 31 October 2019
@@ -54,8 +54,8 @@ Current project results include:
 **[Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)**
 :  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 55 rules were developed through the project so far, with another 15 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed).
 
-**[Norwegian national observatory](https://uu.difi.no/om-oss/english)**
-:  Includes running and documenting [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) in accordance with the [EU Web Accessibility Directive (WAD)](https://eur-lex.europa.eu/eli/dir/2016/2102/oj), as well as documenting the local  [WCAG Interpretion and ACT Rules](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) mappings. These reports provide practical insights on an example national monitoring initiative with many key take-aways for the project and beyond.
+**[Norwegian national observatory](https://www.uutilsynet.no/english/information-english/252)**
+:  Includes running and documenting [Pilot Monitoring](https://www.uutilsynet.no/english/wai-tools-documentation-pilot-monitoring/177) in accordance with the [EU Web Accessibility Directive (WAD)](https://eur-lex.europa.eu/eli/dir/2016/2102/oj), as well as documenting the local  [WCAG Interpretion and ACT Rules](https://www.uutilsynet.no/english/interpretation-and-overview-test-procedures-wcag-20-and-aa/138) mappings. These reports provide practical insights on an example national monitoring initiative with many key take-aways for the project and beyond.
 
 **[Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/)**
 :  Includes processing test results from multiple tools that provide output in the open format developed by the project (see corresponding project deliverable listed below). These tools include the open source engines from Siteimprove, Deque, and University of Lisbon developed through the project. These implement ACT Rules to provide consistent results.
@@ -81,7 +81,7 @@ Technical project deliverables include:
 -   **Deployment of Test Rules**
     -   **D2.1: Open Format for Test Results** — develop open format built on [Evaluation and Report Language (EARL)](https://www.w3.org/WAI/intro/earl) and [Test Case Description Language (TCDL)](https://www.w3.org/WAI/ER/tests/).
     -   **D2.2: Applying to Portuguese Observatory** — applying the test rules and tooling developed by the project in the [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/).
-    -   **D2.3: Applying to Norwegian Observatory** — running [Pilot Monitoring](https://uu.difi.no/WAI-Tools/Pilot) and documenting [WCAG Interpretion](https://uu.difi.no/om-oss/english/wai-tools-documentation-wcag-interpretation-and-test-rule) for the [Norwegian national observatory](https://uu.difi.no/om-oss/english).
+    -   **D2.3: Applying to Norwegian Observatory** — running [Pilot Monitoring](https://www.uutilsynet.no/english/wai-tools-documentation-pilot-monitoring/177) and documenting [WCAG Interpretion](https://www.uutilsynet.no/english/interpretation-and-overview-test-procedures-wcag-20-and-aa/138) for the [Norwegian national observatory](https://www.uutilsynet.no/english/information-english/252).
 -   **Integration of Test Rules**
     -   **D3.1: Accessibility Statement Generator** — open source tool, to assist help [create accessibility statements](https://www.w3.org/WAI/planning/statements/).
     -   **D3.2: Extended Accessibility Report Tool** — extending the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) with functionality to import fully- and semi-automated test results.
@@ -130,7 +130,7 @@ WAI-Tools project partners include:
 -   [Siteimprove {% include_cached external.html %}](https://siteimprove.com/), Denmark
 -   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands
 -   [Accessibility Foundation {% include_cached external.html %}](https://www.accessibility.nl/), Netherlands
--   [Norwegian Digitalisation Agency {% include_cached external.html %}](https://uu.difi.no/), Norway
+-   [Norwegian Digitalisation Agency {% include_cached external.html %}](https://www.uutilsynet.no/), Norway
 -   [Administrative Modernization Agency {% include_cached external.html %}](https://www.ama.gov.pt/), Portugal
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
 
