@@ -32,7 +32,7 @@ ref: /about/projects/wai-tools/third-open-meeting/
 [WAI-Tools Project](/about/projects/wai-tools/) invited web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in an online Open Meeting to learn about results from the WAI-Tools Project, including:
 
 -   Progress on [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
--   Updates to the [Portuguese](https://observatorio.acessibilidade.gov.pt/) and [Norwegian](https://uu.difi.no/om-oss/english) observatories
+-   Updates to the [Portuguese](https://observatorio.acessibilidade.gov.pt/) and [Norwegian](https://www.uutilsynet.no/english/information-english/252) observatories
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Accessibility Statements Generator](https://www.w3.org/WAI/planning/statements/)
 
 We encouraged participation from people interested in:
@@ -60,7 +60,7 @@ The following times are in [CEST (UTC+2)](https://www.timeanddate.com/worldclock
 -   **14:00** Start of meeting
 -   **14:00 - 14:30** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/) ([slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/01%20WAI-Tools%20Project%20Overview.pptx))
 -   **14:30 - 15:00** Overview on the [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/) ([slides 02 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/02%20WAI-Tools%20Portuguese%20Observatory.pptx))
--   **15:00 - 15:30** Overview on the [Norwegian national observatory](https://uu.difi.no/om-oss/english) ([slides 03 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/03%20WAI-Tools%20Norwegian%20Observatory.pptx))
+-   **15:00 - 15:30** Overview on the [Norwegian national observatory](https://www.uutilsynet.no/english/information-english/252) ([slides 03 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/03%20WAI-Tools%20Norwegian%20Observatory.pptx))
 -   **15:30 - 15:45** Break
 -   **15:45 - 16:00** Updates of the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/04%20WAI-Tools%20Support%20Tools.pptx))
 -   **16:00 - 16:15** [Accessibility Statements and Generator Tool](https://www.w3.org/WAI/planning/statements/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting3/04%20WAI-Tools%20Support%20Tools.pptx))
