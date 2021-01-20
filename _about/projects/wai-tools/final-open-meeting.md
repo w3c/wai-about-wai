@@ -41,7 +41,7 @@ We encourage participation from people interested in:
 -   Large-scale web accessibility monitoring
 -   Managing the quality assurance process
 
-We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This final Open Meeting will be held **online on Tuesday 26 January 2021 at [14:00 to 17:30 Central European Time (CET)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=30).**
+We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This final Open Meeting will be held **online on Tuesday 26 January 2021 at [14:00 to 17:00 Central European Time (CET)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=00).**
 
 ## Background
 {:#background}
@@ -55,18 +55,17 @@ This final Open Meeting will be held as part of the project efforts to engage wi
 
 WAI-Tool staff will present project deliverables and highlighted particular points for collaboration. Participants are invited to provide input on potential aspects to consider throughout the project.
 
-The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=30):
+The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=00):
 
 -   **14:00** Start of meeting
 -   **14:00 - 14:15** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/)
 -   **14:15 - 15:00** [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
 -   **15:00 - 15:30** Overview on the [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/)
--   **15:30 - 16:00** Overview on the [Norwegian national observatory](https://www.uutilsynet.no/english/information-english/252)
--   **16:00 - 16:15** Break
--   **16:15 - 16:45** [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Statements Generator](https://www.w3.org/WAI/planning/statements/)
--   **16:45 - 17:00** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/)
--   **17:00 - 17:30** Conclusion, next steps, and open questions and answers
--   **17:30** End of meeting
+-   **15:30 - 15:45** Break
+-   **15:45 - 16:15** [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Statements Generator](https://www.w3.org/WAI/planning/statements/)
+-   **16:15 - 16:30** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/)
+-   **16:30 - 17:00** Conclusion, next steps, and open questions and answers
+-   **17:00** End of meeting
 
 *Draft agenda may be updated; please check for up-to-date information.*
 
