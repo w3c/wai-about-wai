@@ -64,7 +64,7 @@ The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/
 -   **15:30 - 15:45** Break
 -   **15:45 - 16:15** [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Statements Generator](https://www.w3.org/WAI/planning/statements/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/04%20WAI-Tools%20Support%20Tools.pptx))
 -   **16:15 - 16:30** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/) ([slides 05 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/05%20WAI-Tools%20Data%20Browser.pptx))
--   **16:30 - 17:00** Conclusion, next steps, and open questions and answers
+-   **16:30 - 17:00** Conclusion, next steps, and questions and answers
 -   **17:00** End of meeting
 
 *Draft agenda may be updated; please check for up-to-date information.*
