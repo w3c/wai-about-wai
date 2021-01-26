@@ -99,7 +99,7 @@ See [project deliverables](#deliverables) above and contact [Shadi Abou-Zahra](h
 ## Project Partners
 {:#partners}
 
-WAI-Tools project partners include:
+WAI-CooP project partners include:
 
 -   [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) – as part of W3C, France
 -   [European Disability Forum (EDF) {% include_cached external.html %}](http://edf-feph.org/), Belgium
