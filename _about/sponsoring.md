@@ -4,6 +4,7 @@ nav_title: "Sponsoring"
 github:
   repository: w3c/wai-about-wai
   path: '_about/sponsoring.md'
+
 permalink: /about/sponsoring/
 ref: /about/sponsoring/
 lang: en
@@ -41,7 +42,9 @@ class: tight-page
 
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
-    
+
+-   **[HP](https://www.hp.com) (Silver Sponsor)**
+
 ## About Sponsoring WAI
 
 The Web Accessibility Initiative (WAI) greatly appreciates the sponsorship of governments, businesses, and other organizations committed to making the Web accessible. These organizations enable WAI to bring together a unique partnership of industry, disability organizations, national governments, and research organizations in a coordinated effort to improve the accessibility of the Web for people with disabilities.
