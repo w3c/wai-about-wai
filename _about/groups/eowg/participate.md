@@ -86,7 +86,7 @@ With permission of the Chairs, an individual may contribute only to a specific d
 
 ### If you work for a W3C Member organization: {#member-steps}
 
-1.  Read the [EOWG Charter]( https://www.w3.org/WAI/EO/charter2017).
+1.  Read the [EOWG Charter]( https://www.w3.org/WAI/EO/charter-current).
 
 2.  If you do not have a W3C Account login and password, [request a W3C Account, per the instructions above](#getting-a-w3c-account).
 
@@ -104,7 +104,7 @@ If you do **not** work for a [W3C Member organization](http://www.w3.org/Consort
 
 1.  Learn about participating in EOWG.
 
-    -   Read the [EOWG Charter]( https://www.w3.org/WAI/EO/charter2017). Understand the [Participation expectations]( https://www.w3.org/WAI/EO/charter2017#participation), including a minimum of 4 hours per week.
+    -   Read the [EOWG Charter]( https://www.w3.org/WAI/EO/charter-current). Understand the [Participation expectations](https://www.w3.org/WAI/EO/charter-current#participation), including a minimum of 4 hours per week.
 
     -   Read [EOWG Participation Info](https://www.w3.org/WAI/EO/wiki/EOWG_Participation_Info).
 
