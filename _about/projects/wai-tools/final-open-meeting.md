@@ -58,12 +58,12 @@ WAI-Tool staff will present project deliverables and highlighted particular poin
 The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=00):
 
 -   **14:00** Start of meeting
--   **14:00 - 14:15** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/) ([slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/01%20WAI-Tools%20Project%20Overview.pptx))
--   **14:15 - 15:00** [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/) ([slides 02 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/02%20WAI-Tools%20Accessibility%20Conformance%20Testing%20(ACT)%20Rules.pptx))
--   **15:00 - 15:30** Overview on the [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/) ([slides 03 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/03%20WAI-Tools%20Portuguese%20Observatory.pptx))
+-   **14:00 - 14:15** Welcome and overview on the [WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/) ([slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/01%20WAI-Tools%20Project%20Overview.pptx), [recording 01](https://www.w3.org/WAI/about/projects/wai-tools/final-open-meeting/session1/))
+-   **14:15 - 15:00** [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/) ([slides 02 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/02%20WAI-Tools%20Accessibility%20Conformance%20Testing%20(ACT)%20Rules.pptx), [recording 02](https://www.w3.org/WAI/about/projects/wai-tools/final-open-meeting/session2/))
+-   **15:00 - 15:30** Overview on the [Portuguese national observatory](https://observatorio.acessibilidade.gov.pt/) ([slides 03 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/03%20WAI-Tools%20Portuguese%20Observatory.pptx), [recording 03](https://www.w3.org/WAI/about/projects/wai-tools/final-open-meeting/session3/))
 -   **15:30 - 15:45** Break
--   **15:45 - 16:15** [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Statements Generator](https://www.w3.org/WAI/planning/statements/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/04%20WAI-Tools%20Support%20Tools.pptx))
--   **16:15 - 16:30** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/) ([slides 05 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/05%20WAI-Tools%20Data%20Browser.pptx))
+-   **15:45 - 16:15** [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Statements Generator](https://www.w3.org/WAI/planning/statements/) ([slides 04 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/04%20WAI-Tools%20Support%20Tools.pptx), [recording 04](https://www.w3.org/WAI/about/projects/wai-tools/final-open-meeting/session4/))
+-   **16:15 - 16:30** [Accessibility Test Data Browser](http://qualweb.di.fc.ul.pt/placm/) ([slides 05 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/05%20WAI-Tools%20Data%20Browser.pptx), [recording 05](https://www.w3.org/WAI/about/projects/wai-tools/final-open-meeting/session5/))
 -   **16:30 - 17:00** Conclusion, next steps, and questions and answers
 -   **17:00** End of meeting
 
