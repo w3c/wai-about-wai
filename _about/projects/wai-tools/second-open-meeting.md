@@ -46,7 +46,7 @@ We particularly invited participants involved in related efforts in Europe and i
 ## Background
 {:#background}
 
-The [WAI-Tools Project](/about/projects/wai-tools/) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
+The [WAI-Tools Project](/about/projects/wai-tools/) drove web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It drew together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
 
 This Open Meeting was held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants learned about the objectives and deliverables of the project, interim project results, and about potential opportunities for participation and collaboration.
 
@@ -83,4 +83,4 @@ B-1000 Brussels, Belgium
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.
+This meeting was organized through the [WAI-Tools Project](/about/projects/wai-tools/). Contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) with questions.
