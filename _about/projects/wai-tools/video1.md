@@ -29,7 +29,7 @@ This video does not include audio description because the visuals only support t
 
 ## Text Transcript with Description of Visuals {#transcript}
 
-This is video is accompanied by **[slides {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/01%20WAI-Tools%20Project%20Overview.pptx)**
+This is video is accompanied by **[slides 01 {% include_cached external.html %}](https://www.w3.org/WAI/Tools/slides/meeting4/01%20WAI-Tools%20Project%20Overview.pptx)**
 
 <table>
   <thead>
