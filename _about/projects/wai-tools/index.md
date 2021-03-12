@@ -14,7 +14,7 @@ github:
 {% include_cached box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-This page provides information on the Web Accessibility Initiative - Advanced Decision Support Tools for Scalable Web Accessibility Assessments **(WAI-Tools) Project**, a European Commission (EC) co-funded project, Horizon 2020 Program (780057).
+This page provides information on the Web Accessibility Initiative - Advanced Decision Support Tools for Scalable Web Accessibility Assessments **(WAI-Tools) Project**, a European Commission (EC) co-funded project, Horizon 2020 Program (780057). This project ended on 31 January 2021.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
@@ -48,8 +48,6 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 ## Project Results
 {:#results}
 
-Current project results include:
-
 **[Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)**
 :  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 55 rules were developed through the project so far, with another 15 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed).
 
@@ -74,8 +72,6 @@ Current project results include:
 ## Project Deliverables
 {:#deliverables}
 
-Technical project deliverables included:
-
 -   **Development of Test Rules**
     -   **D1.1: Development of Test Rules** — development of accessibility conformance test rules according to the [ACT Rules Format 1.0](https://www.w3.org/TR/act-rules-format/) standard from W3C.
     -   **D1.2: Implementation of Test Rules** — implementation of the test rules developed by the project in at least two open source testing engines, [Alfa](https://github.com/siteimprove/alfa) and [aXe Core](https://github.com/dequelabs/axe-core).
@@ -89,7 +85,7 @@ Technical project deliverables included:
     -   **D3.2: Extended Accessibility Report Tool** — extending the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) with functionality to import fully- and semi-automated test results.
     -   **D3.3: Large-Scale Test Data Browser** — [open source prototype](http://qualweb.di.fc.ul.pt/placm/), based on existing standards and tools, to browse large amounts of accessibility test results.
 
-These deliverables are complemented by project management, dissemination, and engagement efforts.
+These deliverables were complemented by project management, dissemination, and engagement efforts.
 
 ## How To Participate
 {:#participate}
@@ -131,4 +127,3 @@ WAI-Tools project partners included:
 -   [Norwegian Digitalisation Agency {% include_cached external.html %}](https://www.uutilsynet.no/), Norway
 -   [Administrative Modernization Agency {% include_cached external.html %}](https://www.ama.gov.pt/), Portugal
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
-
