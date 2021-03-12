@@ -29,31 +29,31 @@ ref: /about/projects/wai-tools/final-open-meeting/
 ## Invitation
 {:#invitation}
 
-[WAI-Tools Project](/about/projects/wai-tools/) invites web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in its final online Open Meeting to learn about results from the WAI-Tools Project, including:
+[WAI-Tools Project](/about/projects/wai-tools/) invited web accessibility practitioners, evaluation and quality assurance tool vendors, website owners, European monitoring bodies, researchers, and users to participate in its final online Open Meeting to learn about results from the WAI-Tools Project, including:
 
 -   Progress on [Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)
 -   Updates to the [Portuguese](https://observatorio.acessibilidade.gov.pt/) and [Norwegian](https://www.uutilsynet.no/english/information-english/252) observatories
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) and [Accessibility Statements Generator](https://www.w3.org/WAI/planning/statements/)
 
-We encourage participation from people interested in:
+We encouraged participation from people interested in:
 
 -   Web accessibility evaluation and testing
 -   Large-scale web accessibility monitoring
 -   Managing the quality assurance process
 
-We particularly invite participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This final Open Meeting will be held **online on Tuesday 26 January 2021 at [14:00 to 17:00 Central European Time (CET)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=00).**
+We particularly invited participants involved in related efforts in Europe and internationally, with interest in accessibility conformance testing. This final Open Meeting was held **online on Tuesday 26 January 2021 at [14:00 to 17:00 Central European Time (CET)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=00).**
 
 ## Background
 {:#background}
 
-The [WAI-Tools Project](/about/projects/wai-tools/) drives web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It draws together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
+The [WAI-Tools Project](/about/projects/wai-tools/) drove web accessibility evaluation and repair by carrying out key efforts in the vendor-neutral environment of the World Wide Web Consortium (W3C). It drew together key expertise from industry, public bodies, and research to develop common understanding of web accessibility requirements.
 
-This final Open Meeting will be held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants will learn about the objectives and deliverables of the project, final project results, and about opportunities for participation and collaboration beyond the project.
+This final Open Meeting was held as part of the project efforts to engage with the broader community throughout the development of the project deliverables, to help ensure consensus and uptake by European and international stakeholders. Participants learned about the objectives and deliverables of the project, final project results, and about opportunities for participation and collaboration beyond the project.
 
 ## Agenda
 {:#agenda}
 
-WAI-Tool staff will present project deliverables and highlighted particular points for collaboration. Participants are invited to provide input on potential aspects to consider throughout the project.
+WAI-Tool staff presented project deliverables and highlighted particular points for collaboration. Participants are invited to provide input on potential aspects to consider throughout the project.
 
 The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-Tools+Final+Open+Meeting&iso=20210126T13&p1=1440&ah=3&am=00):
 
@@ -67,12 +67,10 @@ The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/
 -   **16:30 - 17:00** Conclusion, next steps, and questions and answers
 -   **17:00** End of meeting
 
-*Draft agenda may be updated; please check for up-to-date information.*
-
 ## Logistics
 {:#venue}
 
-This meeting will take place on the Zoom teleconference system with real-time captioning. Connection details will be sent by email to registered participants; please see information on registration directly below.
+This meeting took place on the Zoom teleconference system with real-time captioning. Connection details were sent by email to registered participants<!--//; please see information on registration directly below//-->.
 
 ## Registration
 {:#register}
@@ -82,4 +80,4 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 ## Contacts
 {:#contacts}
 
-This meeting is organized through the [WAI-Tools Project](/about/projects/wai-tools/). If you have questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
+This meeting was organized through the [WAI-Tools Project](/about/projects/wai-tools/). If you have questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
