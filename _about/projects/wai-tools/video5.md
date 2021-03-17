@@ -19,8 +19,8 @@ github:
 
 This video information is available:
 * As a **[Text Transcript with Description of Visuals](#transcript)** below
-* [On YouTube](https://www.youtube.com/watch?v=iv1sHHjh3zo) <!--//
-* On a W3C server — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt) //-->
+* [On YouTube](https://www.youtube.com/watch?v=iv1sHHjh3zo)
+* On a W3C server — [video (file format: MP4, file size: 71MB)](http://media.w3.org/wai/wai-tools-project/x05%20WAI-Tools%20Data%20Browser.mp4), [English captions file (VTT)](http://media.w3.org/wai/wai-tools-project/x05%20WAI-Tools%20Data%20Browser.vtt)
 
 ## Audio Description {#audio-description}
 
