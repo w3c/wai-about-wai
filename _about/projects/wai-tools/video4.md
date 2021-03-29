@@ -3,8 +3,8 @@ title: "Session 4: WCAG-EM Report Tool and Statements Generator"   # Do not tran
 nav_title: "Support Tools" # A short title that is used in the navigation
 lang: en
 last_updated: 2021-03-16
-permalink: /about/projects/wai-tools/final-open-meeting/session4/
-ref: /about/projects/wai-tools/final-open-meeting/
+permalink: /about/projects/wai-tools/session4/
+ref: /about/projects/wai-tools/
 layout: default
 github:
    repository: w3c/wai-about-wai
