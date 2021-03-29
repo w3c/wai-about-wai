@@ -35,6 +35,7 @@ This page provides information on the Web Accessibility Initiative - Advanced De
 {:#announcements}
 
 -   **[Final Open Meeting]({{"/about/projects/wai-tools/final-open-meeting/" | relative_url }})** was held online on 26 January 2021
+    -   View video recordings from [Session 1]({{"/about/projects/wai-tools/session1/" | relative_url }}), [Session 2]({{"/about/projects/wai-tools/session2/" | relative_url }}), [Session 3]({{"/about/projects/wai-tools/session3/" | relative_url }}), [Session 4]({{"/about/projects/wai-tools/session4/" | relative_url }}), [Session 5]({{"/about/projects/wai-tools/session5/" | relative_url }})
 -   Norwegian [Pilot Monitoring](https://www.uutilsynet.no/english/wai-tools-documentation-pilot-monitoring/177) and [WCAG Interpretion](https://www.uutilsynet.no/english/wai-tools-documentation-wcag-interpretation-and-test-rule/800) were published on 26 October 2020
 -   [Third Open Meeting]({{"/about/projects/wai-tools/third-open-meeting/" | relative_url }}) was held online on 22 September 2020
 -   [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/) was updated on 22 January 2020
