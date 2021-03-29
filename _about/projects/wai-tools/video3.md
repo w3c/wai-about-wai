@@ -3,8 +3,8 @@ title: "Session 3: Portuguese national observatory"   # Do not translate "title:
 nav_title: "Portuguese Observatory" # A short title that is used in the navigation
 lang: en
 last_updated: 2021-03-16
-permalink: /about/projects/wai-tools/final-open-meeting/session3/
-ref: /about/projects/wai-tools/final-open-meeting/
+permalink: /about/projects/wai-tools/session3/
+ref: /about/projects/wai-tools/
 layout: default
 github:
    repository: w3c/wai-about-wai
