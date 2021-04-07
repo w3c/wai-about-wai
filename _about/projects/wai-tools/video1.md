@@ -3,8 +3,8 @@ title: "Session 1: WAI-Tools Project Overview"   # Do not translate "title:". Do
 nav_title: "Project Overview" # A short title that is used in the navigation
 lang: en
 last_updated: 2021-03-16
-permalink: /about/projects/wai-tools/final-open-meeting/session1/
-ref: /about/projects/wai-tools/final-open-meeting/
+permalink: /about/projects/wai-tools/session1/
+ref: /about/projects/wai-tools/
 layout: default
 github:
    repository: w3c/wai-about-wai
