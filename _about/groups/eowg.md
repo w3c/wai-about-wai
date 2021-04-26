@@ -45,4 +45,6 @@ Quick links:
 
 **[Participating in EOWG](/WAI/EO/participation)** has instructions for joining the EOWG mailing list, contributing through GitHub and other venues, and becoming an active participant.
 
+[AG WG Decision Policy](https://www.w3.org/WAI/GL/decision-policy) explains the decision process for the group.
+
 Work of the EOWG is in accordance with the [W3C Process](https://www.w3.org/Consortium/Process/). EOWG work is funded in part by [WAI Projects](https://www.w3.org/WAI/about/projects/) and [WAI Sponsors](http://www.w3.org/WAI/Sponsor).
