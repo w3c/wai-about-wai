@@ -6,6 +6,7 @@ group: groups
 permalink: /about/groups/eowg/
 ref: /about/groups/eowg/
 lang: en
+class: tight-page
 github:
   repository: w3c/wai-about-wai
   path: '_about/groups/eowg.md'
