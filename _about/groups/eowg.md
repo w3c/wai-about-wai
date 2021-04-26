@@ -1,5 +1,5 @@
 ---
-title: DRAFT idea for updated WAI WG pages
+title: DRAFT idea for updated WAI WG and TF pages
 nav_title: '<span>EOWG: Education and Outreach <abbr title="Working Group">WG</abbr></span>'
 order: 5
 group: groups
