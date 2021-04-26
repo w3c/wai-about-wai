@@ -31,6 +31,7 @@ Quick links:
 * [Charters](https://www.w3.org/groups/wg/eowg/charters)
 * [Current Participants](https://www.w3.org/groups/wg/eowg/participants) and [Former (Past) Participants](https://www.w3.org/groups/wg/eowg/former-participants)
 * [Publications](https://www.w3.org/groups/wg/eowg/publications) lists Standards (W3C Recommendations), Working Group Notes, and Drafts of Standards and Notes {@@ EOWG would link to different lists}
+* [Task Forces](https://www.w3.org/groups/wg/ag/task-forces)
 * [Calendar](https://www.w3.org/groups/wg/eowg/calendar) lists teleconferences
 
 ## In [EOWG Wiki](https://www.w3.org/WAI/EO/wiki/Main_Page)
