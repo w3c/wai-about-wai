@@ -10,6 +10,20 @@ lang: en
 ---
 
 {::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page explains how you can participate in WAI work, for example:
+* implement, promote, and review guidelines and other accessibility resources
+* share your input on drafts via GitHub or e-mail
+* occasionally participate in e-mail discussions
+* contribute significant time to participate in a Working Group or Task Force
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
 
@@ -29,14 +43,8 @@ accessibility.
 
 We encourage individuals and organizations around the world to
 participate in activities that help improve accessibility of the web.
-Some of the many ways that you can participate in WAI described below
-range from volunteering to implement, promote, and review guidelines; to
-occasional participation in an interest group; to dedicated
-participation in a working group.
 
-**If you have any questions about getting involved with WAI or would
-like more information, please contact Shawn at +1-617-395-7664 or
-<shawn@w3.org>.**
+After you read this page, **if you have any questions about getting involved with WAI or would like more information, please contact Shawn at +1-617-395-7664 or <shawn@w3.org>.**
 
 ## WAI News
 
