@@ -9,7 +9,7 @@ ref: /about/translating/
 lang: en
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 13 October 2020.</p>
+  <p><strong>Date:</strong> Updated 10 May 2021.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 ---
@@ -27,7 +27,6 @@ To get announcements related to WAI translations, subscribe to the WAI Translati
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
 
 {::options toc_levels="2" /}
 
@@ -100,9 +99,9 @@ Cannot include:
 
 #### Updating Resources
 
-When the English version of a resource is updated, we will inform translators what has changed<!-- @@by GitHub &/or e-mail -->, and request that translators update their translation.
+When the English version of a resource is updated, we will inform translators what has changed<!-- @@by GitHub &/or e-mail -->, and request that translators update their translation. If original translators do not respond before we need the update, we will invite others to update the translation.
 
-If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
+In some cases, we will add the updated English to the translation while awaiting an update. If the changes are substantive, the translation may be removed until an updated version is provided.
 
 #### W3C Translations Information
 
@@ -127,7 +126,8 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <ol>
 <li>High priority <strong>introductory</strong> resources</li>
 <li>High priority <strong>WCAG</strong> resources</li>
-<li>Main navigation overview pages</li>
+<li>Main <strong>navigation</strong> overview pages</li>
+<li><strong>Popular</strong> awareness and education resources</li>
 <li>Other priority resources</li>
 <li>To be updated</li>
 </ol>
@@ -143,6 +143,8 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 
 <h3 id="priority-wcag">High priority WCAG resources</h3>
 <ul>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG Overview</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 at a Glance</a></li>
 <li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation (<a href="#tr">TR</a>)
 <ul>
 <li><a href="http://www.w3.org/WAI/WCAG20/translations">WCAG 2 Translations</a> lists translations in-progress and completed.</li>
@@ -150,25 +152,27 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <li>To get the latest update with errata included, use the <a href="https://w3c.github.io/wcag/21/guidelines/">Editor's Draft</a>.</li>
 </ul>
 </li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG Overview</a></li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 at a Glance</a></li>
 </ul>
 
 <h3 id="priority-nav">Main navigation overview pages</h3>
-<p>If you translate these pages, then users will get the main navigation in your language. In most cases, we will wait to publish these until all of them are translated.</p>
+<p>If you translate these pages, then users will get the main navigation in your language. Usually we will wait to change the navigation until all of them are translated.</p>
 <ul>
 <li><a href="https://www.w3.org/WAI/fundamentals/">Accessibility Fundamentals Overview</a></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> <em>(repeat from above)</em></li>
 <li><a href="https://www.w3.org/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a></li>
 <li><a href="https://www.w3.org/WAI/design-develop/">Design and Develop Overview</a></li>
-<li><a href="https://www.w3.org/WAI/planning/">Planning and Policies Overview</a></li>
 <li><a href="https://www.w3.org/WAI/teach-advocate/">Teach and Advocate Overview</a></li>
-<li><a href="https://www.w3.org/WAI/">WAI home page</a> (see notes on which parts to translate)</li>
+<li><a href="https://www.w3.org/WAI/planning/">Planning and Policies Overview</a></li>
 </ul>
 
-<h3 id="priority-other">Other priority resources</h3>
+<h3 id="priority-other">Popular awareness resources</h3>
 <ul>
-<li><strong><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a></strong> &mdash; 4 pages</li>
+  <li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> &mdash; main page, 10 sub-pages including transcripts</li>
+  <li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">How to Make Your Presentations Accessible to All</a></li>
+  <li><a href="https://www.w3.org/WAI/media/av/"> Making Audio and Video Media Accessible  </a></li>
+</ul>
+<h3>Other priority resources</h3>
+<ul>
 <li><strong>Other standards overviews:</strong>
 <ul>
 <li><a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a></li>
@@ -179,9 +183,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 </li>
 <li><strong>Advocating and teaching resources:</strong>
 <ul>
-<li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> &mdash; main page, 10 sub-pages including transcripts</li>
 <li><a href="https://www.w3.org/WAI/business-case/">The Business Case for Digital Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">How to Make Your Presentations Accessible to All</a></li>
 <li><a href="https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/">Contacting Organizations about Inaccessible Websites</a></li>
 </ul>
 </li>
@@ -189,7 +191,7 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <ul>
 <li><a href="https://www.w3.org/WAI/planning/interim-repairs/">Web Accessibility First Aid: Approaches for Interim Repairs</a></li>
 <li><a href="https://www.w3.org/WAI/planning/involving-users/">Involving Users in Web Projects for Better, Easier Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/test-evaluate/tools/selecting/">Selecting Web Accessibility Evaluation Tools </a></li>
+<li><a href="https://www.w3.org/WAI/test-evaluate/tools/selecting/">Selecting Web Accessibility Evaluation Tools</a> <em>(will be updated in 2021)</em></li>
 </ul>
 </li>
 <li><strong>Design and development resources:</strong>
@@ -197,18 +199,19 @@ There is also a broader W3C Translators list. To subscribe: [e-mail to w3c-trans
 <li><a href="https://www.w3.org/WAI/tips/developing/">Tips for Getting Started    Developing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/designing/">Tips for Getting Started Designing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/writing/">Tips for Getting Started    Writing for Web Accessibility </a></li>
-<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> (<a href="#tr">TR</a>)</li>
+<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> (<a href="#tr">TR</a>) <em>(will be updated in 2021)</em></li>
 </ul>
 </li>
 </ul>
-<p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.<!-- @@ change to resources list when that's done --></strong></p>
+<p><strong>There are many more <a href="https://www.w3.org/WAI/resources/">WAI resources</a> available for translation.<!-- @@ change to resources list when that's done --></strong></p>
 
 <h3 id="priority-updated">To be updated</h3>
 <p>The following pages will be updated. <strong>You might want to wait to translate them until after they are updated, or be prepared to update your translation.</strong> To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the <a href="#mailinglist">WAI Translations mailing list, per above</a>.</p>
 <ul class="old">
-<li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/">About W3C WAI </a>&mdash; minor update planned for 2019</li>
-<li><a href="https://www.w3.org/WAI/about/participating/">Participating in WAI</a> (see notes on which parts to translate) &mdash; minor update planned for 2019</li>
-<li><a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a> &mdash; significant update planned for 2019</li>
+<li><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; significant update planned for 2021</li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/">About W3C WAI</a></li>
+<li><a href="https://www.w3.org/WAI/about/participating/">Participating in WAI</a></li>
+<li><a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> (no date set for the update to be completed)</li>
 </ul>
 
