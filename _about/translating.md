@@ -1,3 +1,4 @@
+---
 title: "Translating WAI Resources"
 nav_title: Translating
 github:
