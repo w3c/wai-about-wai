@@ -4,9 +4,14 @@ nav_title: Translating
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating.md'
+  
 permalink: /about/translating/
 ref: /about/translating/
 lang: en
+
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+image: /content-images/wai-about-wai/social-translations.png
+
 feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 10 May 2021.</p>
