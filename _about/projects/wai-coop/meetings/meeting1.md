@@ -67,10 +67,8 @@ WAI-CooP achieves this by building on the existing wealth of authoritative guida
 The following times are in Central European Time (CET), please check the [corresponding time for your own location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-CooP+First+Open+Meeting&iso=20210623T12&ah=3):
 
 -   **14:00** Start of meeting
--   **14:00 - 15:30** Session 1
--   **15:30 - 15:45** Break
--   **15:45 - 17:00** Session 2
--   **17:00** End of meeting
+-   **14:00 - 15:30** To be announced
+-   **15:30** End of meeting
 
 ## Logistics
 {:#logistics}
