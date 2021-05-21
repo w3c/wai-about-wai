@@ -46,7 +46,7 @@ We encouraged participation from people interested in:
 -   Guidance on available web accessibility training, tools, and resources
 -   Exchanges on the [European Union (EU) Web Accessibility Directive (WAD)](https://eur-lex.europa.eu/eli/dir/2016/2102/oj)
 
-**This meeting takes place on Wednesday 23 June 2021 at 14:00 to 17:00 European Central Time (CET).**
+**This meeting takes place on Wednesday 23 June 2021 at 14:00 to 15:30 European Central Time (CET).**
 
 ## Background
 {:#background}
