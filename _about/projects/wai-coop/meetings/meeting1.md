@@ -46,7 +46,7 @@ We encouraged participation from people interested in:
 -   Guidance on available web accessibility training, tools, and resources
 -   Exchanges on the [European Union (EU) Web Accessibility Directive (WAD)](https://eur-lex.europa.eu/eli/dir/2016/2102/oj)
 
-**This meeting takes place on Wednesday 23 June 2021 at 14:00 to 17:00 European Central Time (CET).**
+**This meeting takes place on Wednesday 23 June 2021 at 14:00 to 15:30 European Central Time (CET).**
 
 ## Background
 {:#background}
@@ -67,10 +67,13 @@ WAI-CooP achieves this by building on the existing wealth of authoritative guida
 The following times are in Central European Time (CET), please check the [corresponding time for your own location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-CooP+First+Open+Meeting&iso=20210623T12&ah=3):
 
 -   **14:00** Start of meeting
--   **14:00 - 15:30** Session 1
--   **15:30 - 15:45** Break
--   **15:45 - 17:00** Session 2
--   **17:00** End of meeting
+-   **14:00 - 14:10** Welcome
+-   **14:10 - 14:20** Project Overview
+-   **14:20 - 14:40** Resource Collection
+-   **14:40 - 15:00** Technology Tracking
+-   **15:00 - 15:20** Community Exchange
+-   **15:20 - 15:30** Wrap-Up
+-   **15:30** End of meeting
 
 ## Logistics
 {:#logistics}
