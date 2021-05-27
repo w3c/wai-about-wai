@@ -85,6 +85,8 @@ searching for past messages and getting a feel for the list.
         with w3c-wai-ig@w3.org in any header.<br>
 -   **Send any questions about the WAI IG mailing list to
     <shawn@w3.org>**, not to the whole list.
+    
+See additional guidancce in the **W3C Code of Ethics**: [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).    
 
 ### Subscribing and Unsubscribing to the Discussion List
 
