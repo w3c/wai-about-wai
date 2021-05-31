@@ -34,8 +34,9 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Announcements
 {:#announcements}
 
+-   **Register:** [First Online Open Meeting on 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
 -   **Sign-Up:** to receive [WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
--   WAI-CooP Project started on 1 January 2021, up-to-date information will be provided here
+-   WAI-CooP Project started on 1 January 2021
 
 <!--//
 
@@ -103,6 +104,6 @@ WAI-CooP project partners include:
 
 -   [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) – as part of W3C, France
 -   [European Disability Forum (EDF) {% include_cached external.html %}](http://edf-feph.org/), Belgium
--   [Accessibility Foundation {% include_cached external.html %}](https://www.accessibility.nl/), Netherlands
+-   [HAN University of Applied Sciences {% include_cached external.html %}](https://hanuniversity.com/en/), Netherlands
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
 -   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands
