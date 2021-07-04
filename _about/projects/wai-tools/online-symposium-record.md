@@ -8,7 +8,7 @@ parent: /about/projects/wai-tools/symposium/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/projects/wai-tools/open-symposium-record.md'
+  path: '_about/projects/wai-tools/online-symposium-record.md'
 ---
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right style="width: 105px; margin-top:-1px;"}
