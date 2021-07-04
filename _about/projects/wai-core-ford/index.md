@@ -8,7 +8,6 @@ ref: /about/projects/wai-core-ford/
 layout: default
 github:
   repository: w3c/wai-about-wai
-  branch: gh-pages
   path: '_about/projects/wai-core-ford/index.md'
 
 feedbackmail: wai@w3.org
