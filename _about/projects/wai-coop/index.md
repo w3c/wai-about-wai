@@ -44,8 +44,8 @@ This page provides information on the Web Accessibility Initiative - Communities
 
 Current project results include:
 
-**[List of Courses on Digital Accessibility](https://www.w3.org/WAI/EO/wiki/WAI_Curricula/List_of_Courses)**
-:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
+**[List of Courses on Digital Accessibility](https://github.com/w3c/wai-course-list/)**
+:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype](https://wai-list-of-courses.netlify.app/list-of-courses/) is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
 **[Accessibility Conformance Testing (ACT) Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/)**
 :  Includes promoting, tracking, and validating implementations of "Accessibility Conformance Testing (ACT) Rules" in automated testing tools and manual testing methodologies. This includes redesign of the user interface to better integrate implementation reports submitted by different vendors. This work is being carried out in the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group (AGWG).
 
