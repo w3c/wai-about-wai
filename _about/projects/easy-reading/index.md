@@ -11,7 +11,6 @@ ref: /about/projects/easy-reading/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-about-wai
-  branch: gh-pages
   path: '_about/projects/easy-reading/index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 feedbackmail: wai@w3.org
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important

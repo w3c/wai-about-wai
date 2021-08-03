@@ -7,7 +7,6 @@ lang: en
 layout: default
 github:
   repository: w3c/wai-about-wai
-  branch: gh-pages
   path: '_about/projects/wai-core-2015/index.md'
 feedbackmail: wai@w3.org
 ---
