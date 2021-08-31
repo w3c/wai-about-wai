@@ -92,6 +92,10 @@ either to a W3C WAI staff list or to a public list:
 Comments on other parts of the W3C Web site (www.w3.org) go to:
 <site-comments@w3.org>
 
+## Feedback Options
+
+When you are comfortable with your feedback being publicly-archived, it helps more people learn about issues. You are welcome to submit feedback privately, confidentially, or anonymously.
+
 ## WAI Staff Contacts
 
 For information on W3C Team members working in WAI, see [Who's Who at
