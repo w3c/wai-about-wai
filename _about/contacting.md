@@ -94,7 +94,7 @@ Comments on other parts of the W3C Web site (www.w3.org) go to:
 
 ## Feedback Options
 
-When you are comfortable with your feedback being publicly-archived, it helps more people learn about issues. You are welcome to submit feedback privately, confidentially, or anonymously.
+When you are comfortable with your feedback being publicly-archived, it helps more people learn about issues. If you prefer, you can submit feedback privately, confidentially, or anonymously.
 
 ## WAI Staff Contacts
 
