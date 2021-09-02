@@ -48,9 +48,9 @@ We invite position papers discussing these topics using real-life settings and r
 ## Important Dates
 {:#dates}
 
--	**1 October 2021:** Registration opens
--	**6 October 2021:** Deadline for position paper submissions
+-	**6 October 2021:** Deadline for submissions
 -	**27 October 2021:** Author notifications
+-	**7 November 2021:** Deadline for registration
 -	**10 November 2021:** Online symposium event
 
 ## Paper Submissions
@@ -96,7 +96,7 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 ## Registration
 {:#registration}
 
-Registration will open in October<!--// Participation is free, and **[registration is required by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-Tools_meeting4/)**. //--><!--//Registration is now closed //-->.
+Participation is free, **[registration is required by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. <!--//Registration is now closed. //-->
 
 ## Organization
 {:#organization}
