@@ -34,6 +34,7 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Announcements
 {:#announcements}
 
+-   **Register:** [WAI-CooP Online Research Symposium](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
 -   **Sign-Up:** to receive [WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   Held [First Online Open Meeting on 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
 -   Held [ACT Rules Community Group Meeting on 19 March 2021](https://www.w3.org/community/act-r/act-rules-cg-online-workshop-on-19-march-2021/)
