@@ -61,8 +61,8 @@ We welcome submissions that address, but are not limited to, the following topic
 -	Machine Learning (ML)
 -	Multimodal Interfaces
 -	Natural Language Interfaces
--	Personalization 
--	Pronunciation 
+-	Personalization (supporting information: [Personalization Accessibility Task Force ](https://www.w3.org/WAI/APA/task-forces/personalization/) and [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/))
+-	Pronunciation ([Pronunciation Task Force](https://www.w3.org/WAI/APA/task-forces/pronunciation/) and [Issues on Pronunciation](https://github.com/w3c/pronunciation/issues))
 -	Remote Participation
 -	User requirements
 
@@ -85,7 +85,7 @@ We invite the submission of position papers of no more than 1500 words. We encou
 -	Outcomes
 -	Future perspectives
 
-Position papers must be submitted in the <a href="Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
+Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium/" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
 ## Review Process
 {:#review}
