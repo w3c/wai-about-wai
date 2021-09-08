@@ -34,7 +34,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
 
-Accepted contributions will be made available on the symposium page and will be open to discussion prior to the symposium <!--through the [WAI-CooP open forum](https://topics.web-directive.eu/)-->. Authors of accepted contributions will be invited to participate as panelists in the symposium. Attendance to the symposium is open to anyone interested.
+Accepted contributions will be made available on the symposium page and will be open to discussion prior to the symposium<!-- through the [WAI-CooP open forum](https://topics.web-directive.eu/)-->. Authors of accepted contributions will be invited to participate as panelists in the symposium. Attendance to the symposium is open to anyone interested.
 
 ## Introduction
 {:#introduction}
