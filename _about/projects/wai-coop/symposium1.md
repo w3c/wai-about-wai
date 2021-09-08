@@ -34,7 +34,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
 
-Accepted contributions will be made available on the symposium page and will be open to discussion prior to the symposium through the [WAI-CooP open forum](https://topics.web-directive.eu/). Authors of accepted contributions will be invited to participate as panelists in the symposium. Attendance to the symposium is open to anyone interested.
+Accepted contributions will be made available on the symposium page and will be open to discussion prior to the symposium <!--through the [WAI-CooP open forum](https://topics.web-directive.eu/)-->. Authors of accepted contributions will be invited to participate as panelists in the symposium. Attendance to the symposium is open to anyone interested.
 
 ## Introduction
 {:#introduction}
@@ -85,7 +85,7 @@ We invite the submission of position papers of no more than 1500 words. We encou
 -	Outcomes
 -	Future perspectives
 
-Position papers must be submitted in the template provided, be valid HTML, and meet WCAG 2.1 Level AA.
+Position papers must be submitted in the <a href="Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
 ## Review Process
 {:#review}
@@ -98,13 +98,13 @@ Contributions will be reviewed by the Review Committee. Each paper will get at l
 The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-CooP+Research+Symposium&iso=20211110T13&p1=1440&ah=3&am=00):
 
 -   **14:00** Start of meeting
--   **14:00 - 14:15** @@@ Welcome
--   **14:15 - 14:45** @@@ Session 1
--   **14:45 - 15:15** @@@ Session 2
--   **15:15 - 15:30** @@@ Break
--   **15:30 - 16:00** @@@ Session 3
--   **16:00 - 16:30** @@@ Session 4
--   **16:30 - 17:00** @@@ Closing
+-   **14:00 - 14:15** Welcome
+-   **14:15 - 14:45** Paper Session 1
+-   **14:45 - 15:15** Paper Session 2
+-   **15:15 - 15:30** Break
+-   **15:30 - 16:00** Paper Session 3
+-   **16:00 - 16:30** Paper Session 4
+-   **16:30 - 17:00** Closing
 -   **17:00** End of meeting
 
 _Agenda is work in progress._
