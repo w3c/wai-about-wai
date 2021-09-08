@@ -29,21 +29,42 @@ github:
 ## Invitation
 {:#invitation}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project invites researchers, practitioners, and users with disabilities to participate in an international online symposium exploring research challenges and opportunities in digital accessibility.
+The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invites researchers, practitioners, and users with disabilities to participate in an international online symposium exploring research challenges and opportunities in digital accessibility.
 
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
 
-Accepted contributions will be made available on the symposium page and will be open to discussion prior to the symposium<!--// through the WAI-CooP open forum [link?] //-->. Authors of accepted contributions will be invited to participate as panelists in the symposium. Attendance to the symposium is open to anyone interested.
+Accepted contributions will be made available on the symposium page and will be open to discussion prior to the symposium through the [WAI-CooP open forum](https://topics.web-directive.eu/). Authors of accepted contributions will be invited to participate as panelists in the symposium. Attendance to the symposium is open to anyone interested.
 
 ## Introduction
 {:#introduction}
 
-This online symposium brings together researchers, practitioners (academia, industry, government, consulting) and users with disabilities, to explore the current state-of-the-art in accessibility research, development, and practice to uncover pressing topics for future research and development.
+This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore the current state-of-the-art in accessibility research, development, and practice to uncover pressing topics for future research and development.
 
 Another goal of this symposium is to explore potential gaps between the topics discussed by researchers and practitioners. By increasing awareness to the challenges faced by all communities, collaborations could emerge and improve the current state of accessibility research and practice.
 
 We invite position papers discussing these topics using real-life settings and raising current issues and needs for discussion. After the symposium, the WAI-CooP project will publish a report, consolidating the discussions and findings.
+
+## Scope
+{:#scope}
+
+We welcome submissions that address, but are not limited to, the following topics:
+
+-	Application Programming Interfaces (APIs)
+-	Artificial Intelligence (AI)
+-	Assistive Technology
+-	Data Visualization 
+-	Education and training
+-	Emerging technologies 
+-	Evaluation, metrics and scoring
+-	Immersive Environments (XR)
+-	Machine Learning (ML)
+-	Multimodal Interfaces
+-	Natural Language Interfaces
+-	Personalization 
+-	Pronunciation 
+-	Remote Participation
+-	User requirements
 
 ## Important Dates
 {:#dates}
@@ -69,7 +90,7 @@ Position papers must be submitted in the template provided, be valid HTML, and m
 ## Review Process
 {:#review}
 
-Contributions will be reviewed by the Scientific Committee. Each paper will get at least two independent reviews for criteria including clarity, soundness, and relevance to the symposium. Papers will be accepted based on these criteria and space availability.
+Contributions will be reviewed by the Review Committee. Each paper will get at least two independent reviews for criteria including clarity, soundness, and relevance to the symposium. Papers will be accepted based on these criteria and space availability.
 
 ## Agenda
 {:#agenda}
@@ -96,19 +117,34 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 ## Registration
 {:#registration}
 
-Participation is free, **[registration is required by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. <!--//Registration is now closed. //-->
+Participation is free, but **[registration is required by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. <!--//Registration is now closed. //-->
+
+## Organizing Committee 
+{:#organizing}
+
+### Symposium Chairs
+{:#chairs}
+
+- Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
+- Letícia Seixas Pereira (LASIGE, Faculty of Sciences of the University of Lisbon)
+
+### Scientific Committee
+{:#scientific}
+
+- Becky Gibson (Ultimate Kronos Group)
+- Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
+- Janina Sajka (Sajka Associates)
+- Jason White (Educational Testing Service)
+- Joshue O'Connor (W3C/WAI)
+- Letícia Seixas Pereira (LASIGE, Faculty of Sciences of the University of Lisbon)
+- Scott Hollier (University of South Australia)
+
+### Review Committee
+{:#reviewers}
+
+_Will be announced soon._
 
 ## Organization
 {:#organization}
 
-This research symposium “Shape the Future: Research and Development Questions in Digital Accessibility” is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, under the Horizon 2020 Program (101004794).
-
-## Symposium Chairs
-{:#chairs}
-
-_Will be announced soon._
-
-## Scientific Committee
-{:#committee}
-
-_Will be announced soon._
+The research symposium “Shape the Future: Research and Development Questions in Digital Accessibility” is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, under the Horizon 2020 Program (101004794), and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/).
