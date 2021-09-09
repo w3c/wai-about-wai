@@ -61,8 +61,8 @@ We welcome submissions that address, but are not limited to, the following topic
 -	Machine Learning (ML)
 -	Multimodal Interfaces
 -	Natural Language Interfaces
--	Personalization (supporting information: [Personalization Accessibility Task Force ](https://www.w3.org/WAI/APA/task-forces/personalization/) and [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/))
--	Pronunciation (supporting information: [Pronunciation Task Force](https://www.w3.org/WAI/APA/task-forces/pronunciation/) and [Issues on Pronunciation](https://github.com/w3c/pronunciation/issues))
+-	[Personalization](https://www.w3.org/WAI/personalization/)
+-	[Pronunciation](https://www.w3.org/WAI/pronunciation/)
 -	Remote Participation
 -	User requirements
 
