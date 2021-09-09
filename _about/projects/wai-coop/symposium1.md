@@ -29,7 +29,7 @@ github:
 ## Invitation
 {:#invitation}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invites researchers, practitioners, and users with disabilities to participate in an international online symposium exploring research challenges and opportunities in digital accessibility.
+The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring research challenges and opportunities in digital accessibility.
 
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
