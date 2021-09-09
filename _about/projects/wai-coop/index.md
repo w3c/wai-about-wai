@@ -34,21 +34,25 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Announcements
 {:#announcements}
 
--   **Register:** [First Online Open Meeting on 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
+-   **28 September:** [Open Meeting on EU Web Accessibility Directive (WAD)](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
+-   **6 October:** Paper Deadline for [Online Research Symposium](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+-   **7 November:** Registration Deadline for [Online Research Symposium](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+-   **10 November:** [Online Research Symposium "Shape the Future"](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
 -   **Sign-Up:** to receive [WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
+-   Held [First Online Open Meeting on 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
+-   Held [ACT Rules Community Group Meeting on 19 March 2021](https://www.w3.org/community/act-r/act-rules-cg-online-workshop-on-19-march-2021/)
 -   WAI-CooP Project started on 1 January 2021
-
-<!--//
 
 ## Project Results
 {:#results}
 
 Current project results include:
 
-**[Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)**
-:  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 55 rules were developed through the project so far, with another 15 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed).
+**[List of Courses on Digital Accessibility](https://github.com/w3c/wai-course-list/)**
+:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype](https://wai-list-of-courses.netlify.app/list-of-courses/) is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
 
-//-->
+**[Accessibility Conformance Testing (ACT) Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/)**
+:  Includes promoting, tracking, and validating implementations of "Accessibility Conformance Testing (ACT) Rules" in automated testing tools and manual testing methodologies. This includes redesign of the user interface to better integrate implementation reports submitted by different vendors. This work is being carried out in the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group (AGWG).
 
 ## Project Deliverables
 {:#deliverables}
