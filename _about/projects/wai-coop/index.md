@@ -34,10 +34,10 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Announcements
 {:#announcements}
 
--   **28 September:** [Open Meeting: EU Web Accessibility Directive (WAD)](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
--   **6 October:** [Research Symposium: Deadline for Paper Submissions](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
--   **7 November:** [Research Symposium: Deadline for Registration](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
--   **10 November:** [Research Symposium: Digital Accessibility](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+-   **28 September:** [Open Meeting on EU Web Accessibility Directive (WAD)](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
+-   **6 October:** Paper Deadline for [Online Research Symposium](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+-   **7 November:** Registration Deadline for [Online Research Symposium](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+-   **10 November:** [Online Research Symposium "Shape the Future"](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
 -   **Sign-Up:** to receive [WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   Held [First Online Open Meeting on 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
 -   Held [ACT Rules Community Group Meeting on 19 March 2021](https://www.w3.org/community/act-r/act-rules-cg-online-workshop-on-19-march-2021/)
