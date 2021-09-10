@@ -85,7 +85,7 @@ We invite the submission of position papers of no more than 1500 words. We encou
 -	Outcomes
 -	Future perspectives
 
-Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium/" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
+Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
 ## Review Process
 {:#review}
