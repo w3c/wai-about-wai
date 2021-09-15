@@ -144,7 +144,10 @@ Participation is free, but **[registration is required by 7 November 2021](https
 
 _Will be announced soon._
 
-## Organization
-{:#organization}
+## Acknowledgements
+{:#acknowledgements}
 
-The research symposium “Shape the Future: Research and Development Questions in Digital Accessibility” is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, under the Horizon 2020 Program (101004794), and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/).
+This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/). The conference management system is kindly donated by [OpenConf](https://www.openconf.com/).
+
+<img src="/content-images/wai-about-wai/eu.svg" width="120px" height="80px" alt="EU Flag" />
+<img src="./logo-OpenConf.png" width="180px" height="80px" alt="OpenConf logo" />
