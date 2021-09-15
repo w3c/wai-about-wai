@@ -87,6 +87,8 @@ We invite the submission of position papers of no more than 1500 words. We encou
 
 Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
+Papers are to be submitted through the [symposium submission management system](https://www.openconf.org/waicoop1/openconf.php) until the 6th of October 2021.
+
 ## Review Process
 {:#review}
 
