@@ -34,7 +34,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
 
-Accepted contributions will be available on the symposium page and will be open to discussion before to the symposium. <!-- through the [WAI-CooP open forum](https://topics.web-directive.eu/)--> Authors of accepted contributions will be invited to participate as panelists in the symposium. Anyone may attend the symposium.
+Accepted contributions will be available on the symposium page and will be open to discussion before the symposium. <!-- through the [WAI-CooP open forum](https://topics.web-directive.eu/)--> Authors of accepted contributions will be invited to participate as panelists in the symposium. Anyone may attend the symposium.
 
 ## Introduction
 {:#introduction}
@@ -87,7 +87,7 @@ We invite the submission of position papers of no more than 1500 words. We encou
 
 Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
-Submit papers through the [symposium submission management system](https://www.openconf.org/waicoop1/openconf.php) by 6 October 2021.
+Submit papers through the [symposium submission management system](https://www.openconf.org/waicoop1/) by 6 October 2021.
 
 ## Review Process
 {:#review}
@@ -145,7 +145,21 @@ Participation is free, and you must **[register by 7 November 2021](https://www.
 ### Review Committee
 {:#reviewers}
 
-_Will be announced soon._
+_List is not finalized yet._
+
+- Amy Hurst, New York University
+- Clayton Lewis, University of Colorado Boulder
+- Estella Oncins, Universitat Autonoma de Barcelona
+- Fabio Paternò, CNR-IST, HIIS Laboratory
+- Faustina Hwang, University of Reading
+- Klaus Miesenberger, Johannes Kepler University Linz
+- Michael Paciello, WebABLE
+- Reinaldo Ferraz, Ceweb.br/Nic.br
+- Sarah Lewthwaite, University of Southampton
+- Simon Harper, University of Manchester
+- Stein Erik Skotkjerra, Inklusio
+- Wilco Fiers, Deque Europe
+- Yeliz Yesilada, METU NCC
 
 ## Acknowledgements
 {:#acknowledgements}
