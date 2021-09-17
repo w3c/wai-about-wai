@@ -87,7 +87,7 @@ We invite the submission of position papers of no more than 1500 words. We encou
 
 Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
-Papers are to be submitted through the [symposium submission management system](https://www.openconf.org/waicoop1/openconf.php) until the 6th of October 2021.
+Papers are to be submitted through the [symposium submission management system](https://www.openconf.org/waicoop1/openconf.php) by 6 October 2021.
 
 ## Review Process
 {:#review}
@@ -149,7 +149,10 @@ _Will be announced soon._
 ## Acknowledgements
 {:#acknowledgements}
 
-This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/). The conference management system is kindly donated by [OpenConf](https://www.openconf.com/).
-
+<div style="float:right; margin-left:1em;">
 <img src="/content-images/wai-about-wai/eu.svg" width="120px" height="80px" alt="EU Flag" />
-<img src="./logo-OpenConf.png" width="180px" height="80px" alt="OpenConf logo" />
+</div>
+
+This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/). The conference management system is donated by [OpenConf](https://www.openconf.com/).
+
+<img src="/content-images/wai-about-wai/logo-OpenConf.png" width="180px" height="80px" alt="OpenConf logo" />
