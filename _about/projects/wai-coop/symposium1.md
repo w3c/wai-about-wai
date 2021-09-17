@@ -34,7 +34,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
 
-Accepted contributions will be made available on the symposium page and will be open to discussion prior to the symposium<!-- through the [WAI-CooP open forum](https://topics.web-directive.eu/)-->. Authors of accepted contributions will be invited to participate as panelists in the symposium. Attendance to the symposium is open to anyone interested.
+Accepted contributions will be available on the symposium page and will be open to discussion before to the symposium. <!-- through the [WAI-CooP open forum](https://topics.web-directive.eu/)--> Authors of accepted contributions will be invited to participate as panelists in the symposium. Anyone may attend the symposium.
 
 ## Introduction
 {:#introduction}
@@ -87,7 +87,7 @@ We invite the submission of position papers of no more than 1500 words. We encou
 
 Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
-Papers are to be submitted through the [symposium submission management system](https://www.openconf.org/waicoop1/openconf.php) by 6 October 2021.
+Submit papers through the [symposium submission management system](https://www.openconf.org/waicoop1/openconf.php) by 6 October 2021.
 
 ## Review Process
 {:#review}
@@ -119,7 +119,8 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 ## Registration
 {:#registration}
 
-Participation is free, but **[registration is required by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. <!--//Registration is now closed. //-->
+Participation is free, and you must **[register by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. 
+<!--//Registration is now closed. //-->
 
 ## Organizing Committee 
 {:#organizing}
