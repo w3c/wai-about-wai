@@ -87,6 +87,8 @@ We invite the submission of position papers of no more than 1500 words. We encou
 
 Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
 
+Papers are to be submitted through the [symposium submission management system](https://www.openconf.org/waicoop1/openconf.php) by 6 October 2021.
+
 ## Review Process
 {:#review}
 
@@ -144,7 +146,13 @@ Participation is free, but **[registration is required by 7 November 2021](https
 
 _Will be announced soon._
 
-## Organization
-{:#organization}
+## Acknowledgements
+{:#acknowledgements}
 
-The research symposium “Shape the Future: Research and Development Questions in Digital Accessibility” is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, under the Horizon 2020 Program (101004794), and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/).
+<div style="float:right; margin-left:1em;">
+<img src="/content-images/wai-about-wai/eu.svg" width="120px" height="80px" alt="EU Flag" />
+</div>
+
+This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/). The conference management system is donated by [OpenConf](https://www.openconf.com/).
+
+<img src="/content-images/wai-about-wai/logo-OpenConf.png" width="180px" height="80px" alt="OpenConf logo" />
