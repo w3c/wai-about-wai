@@ -164,10 +164,8 @@ _List is not finalized yet._
 ## Acknowledgements
 {:#acknowledgements}
 
-<div style="float:right; margin-left:1em;">
-<img src="/content-images/wai-about-wai/eu.svg" width="120px" height="80px" alt="EU Flag" />
-</div>
+![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
 
 This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/). The conference management system is donated by [OpenConf](https://www.openconf.com/).
 
-<img src="/content-images/wai-about-wai/logo-OpenConf.png" width="180px" height="80px" alt="OpenConf logo" />
+![OpenConf logo]({{ "/content-images/wai-about-wai/logo-OpenConf.png" | relative_url }}){:.small}
