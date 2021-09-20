@@ -59,3 +59,23 @@ See also:
     opportunities ranging from volunteering to implement, promote, and
     review guidelines, to occasional participation in an interest group,
     to dedicated participation in a working group.
+
+
+<hr>
+
+{% include excol.html type="all" %}
+
+{% include excol.html type="start" id="" %}
+
+### test heading
+
+{% include excol.html type="middle" %}
+
+test text
+
+{% include excol.html type="end" %}
+
+more
+
+{% include excol.html type="all" %}
+
