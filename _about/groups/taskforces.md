@@ -79,10 +79,6 @@ ones, are listed on each Working Group's home page.
 :   Identifying accessibility requirements and managing the progress of
     accessibility solutions in SVG2.
 
-**[WAI-ARIA User Agent Implementation Task Force](http://www.w3.org/WAI/PF/aria-ua-task-force)** under the [ARIA Working Group](/about/groups/ariawg/)
-:   Developing guidelines for interoperable user agent implementation of
-    the WAI-ARIA specification. Primary focus now is mapping of content
-    language features to accessibility API features.
 
 If you would like to learn about participating in a Task Force, see:
 
