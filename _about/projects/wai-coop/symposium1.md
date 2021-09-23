@@ -150,6 +150,7 @@ _List is not finalized yet._
 - Amy Hurst, New York University
 - Clayton Lewis, University of Colorado Boulder
 - David Sloan, TPGi
+- Eric Velleman, Han University of Applied Sciences
 - Estella Oncins, Universitat Autonoma de Barcelona
 - Fabio Paternò, CNR-IST, HIIS Laboratory
 - Faustina Hwang, University of Reading
@@ -162,6 +163,7 @@ _List is not finalized yet._
 - Sarah Lewthwaite, University of Southampton
 - Simon Harper, University of Manchester
 - Stein Erik Skotkjerra, Inklusio
+- Ted Drake, Intuit
 - Wilco Fiers, Deque Europe
 - Yeliz Yesilada, METU NCC
 
