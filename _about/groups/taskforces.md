@@ -23,6 +23,12 @@ ones, are listed on each Working Group's home page.
     this framework will add a layer of implemention for tool developers,
     it provides more consistency and comparability of the resulting test
     rules.
+    
+[**ARIA Authoring Practices Task Force**](https://www.w3.org/WAI/ARIA/task-forces/practices/) under the [ARIA Working Group](about/groups/aria)
+:   Develop WAI-ARIA Authoring Practices, which describes considerations that might 
+    not be evident to most authors from the WAI-ARIA specification  alone and recommends 
+    approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles,
+    states, and properties.    
 
 [**Cognitive and Learning Disabilities Accessibility Task Force**](https://www.w3.org/WAI/GL/task-forces/coga/) (Cognitive A11Y TF) under the [Accessible Platform Architectures Working Group](/about/groups/apa/) and the [WCAG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to produce techniques, understanding, and
@@ -32,14 +38,6 @@ ones, are listed on each Working Group's home page.
 **[CSS Accessibility Task Force](/WAI/APA/task-forces/css-a11y/)** under the [Accessible Platform Architectures Working Group](/about/groups/apa/), the [Accessible Rich Internet Applications Working Group](/about/groups/ariawg/), and the [Cascading Style Sheets Working Group](https://www.w3.org/Style/CSS/)
 :   Identify accessibility problems that can be created by use of
     Cascading Style Sheets (CSS), and to develop solutions.
-
-**[Digital Publishing ARIA Task Force](http://www.w3.org/WAI/PF/dpub-a11y-tf/)** under the [ARIA Working Group](/about/groups/ariawg/) and the [Digital Publishing Interest Group](https://www.w3.org/dpub/IG/) 
-:   Comparing existing vocabularies, including IDPF's [EPUB Structural
-    Semantic Vocabulary](http://www.idpf.org/epub/vocab/structure/) and
-    ARIA [Roles](http://www.w3.org/WAI/PF/aria-1.1/roles), to create a
-    recommended list of digital publishing terms allowing for clear
-    interaction with assistive technologies, easy reusability, and
-    native validation.
 
 **[Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/)** (LVTF) under the [WCAG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to address web accessibility issues
