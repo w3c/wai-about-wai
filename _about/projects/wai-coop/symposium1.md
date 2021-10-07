@@ -159,8 +159,10 @@ _List is not finalized yet._
 - Madeleine Rothberg, WGBH National Center for Accessible Media
 - Michael Paciello, WebABLE
 - Mohamed Jemni, ALECSO
+- Raja Kushalnagar, Gallaudet University
 - Reinaldo Ferraz, Ceweb.br/Nic.br
 - Sarah Lewthwaite, University of Southampton
+- Sheng Zhou, Zhejiang University
 - Simon Harper, University of Manchester
 - Stein Erik Skotkjerra, Inklusio
 - Ted Drake, Intuit
