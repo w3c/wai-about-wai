@@ -8,7 +8,7 @@ ref: /about/groups/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/groups/index.md'
+  path: '_about/groups/index.md' 
 ---
 
 WAI has Working Groups developing accessibility guidelines and related
