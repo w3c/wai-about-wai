@@ -103,7 +103,7 @@ The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/
 -   **14:00 - 14:15** Welcome session
 -   **14:15** Session 1: Scope of Accessibility Guidelines (moderator: Joshue O'Connor, W3C)
     - **14:15 - 14:25** The Transparency of Automatic Web Accessibility Evaluation Tools
-    - **14:25 - 14:35** Are Best Practices Best? Making Technical PDFs More Accessible
+    - **14:25 - 14:35** [Are Best Practices Best? Making Technical PDFs More Accessible](../paper102.html)
     - **14:35 - 15:00** Discussion
 -   **15:00** Session 2: Education (moderator: Jade Matos Carew, Open University)
     - **15:00 - 15:10** "IMPACT project: Training in inclusion and digital accessibility, a social need and a human right"
