@@ -110,7 +110,7 @@ The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/
     - **15:10 - 15:25** Discussion
 -   **15:25 - 15:40** Coffee Break
 -   **15:40** Session 3: AI/ML contributions and limitations (moderator: Jason White, ETS)
-    - **15:40 - 15:50** Unreasonable Accommodation - Web Experiences as a Blind Person
+    - **15:40 - 15:50** [Unreasonable Accommodation - Web Experiences as a Blind Person](../paper103.html)
     - **15:50 - 16:00** Making Media Accessible to All
     - **16:00 - 16:10** Preliminary Insights from a Chatbot Accessibility Playbook and Wizard-of-Oz Study
     - **16:10 - 16:40** Discussion
