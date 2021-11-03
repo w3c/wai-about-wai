@@ -34,7 +34,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
 
-Accepted contributions will be available on the symposium page and will be open to discussion before the symposium. <!-- through the [WAI-CooP open forum](https://topics.web-directive.eu/)--> Authors of accepted contributions will be invited to participate as panelists in the symposium. Anyone may attend the symposium.
+Accepted contributions will be available on the symposium page and will be open to discussion before the symposium through the [WAI-CooP open forum](https://topics.web-directive.eu/). Authors of accepted contributions will be invited to participate as panelists in the symposium. Anyone may attend the symposium.
 
 ## Introduction
 {:#introduction}
@@ -97,7 +97,7 @@ Contributions will be reviewed by the Review Committee. Each paper will get at l
 ## Agenda
 {:#agenda}
 
-The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-CooP+Research+Symposium&iso=20211110T13&p1=1440&ah=3&am=00):
+The following times are in CET (UTC+1) [Check your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Shape+the+Future+Research+Symposium&iso=20211110T13&p1=%3A&ah=3)
 
 -   **14:00** Start of meeting
 -   **14:00 - 14:15** Welcome session
