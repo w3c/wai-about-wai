@@ -97,7 +97,7 @@ Contributions will be reviewed by the Review Committee. Each paper will get at l
 ## Agenda
 {:#agenda}
 
-The following times are in CET (UTC+1) [Check your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Shape+the+Future+Research+Symposium&iso=20211110T13&p1=%3A&ah=3)
+The following times are in CET (UTC+1). [Check your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Shape+the+Future+Research+Symposium&iso=20211110T13&p1=%3A&ah=3).
 
 -   **14:00** Start of meeting
 -   **14:00 - 14:15** Welcome session
