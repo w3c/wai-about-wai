@@ -203,7 +203,7 @@ EOWG primarily conducts work through:
 
 ### Chair and Contacts
 
--   EOWG Co-Chairs: Sharron Rush, Brent Bakken
+-   EOWG Co-Chairs: Sharron Rush, Brent Bakken, Kris Anne Kinney
 -   W3C Team Contact: [Shawn Henry](http://www.w3.org/People/Shawn/)
     &lt; shawn @ w3.org &gt;
 
