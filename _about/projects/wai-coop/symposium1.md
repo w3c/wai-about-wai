@@ -74,25 +74,11 @@ We welcome submissions that address, but are not limited to, the following topic
 -	**7 November 2021:** Deadline for registration
 -	**10 November 2021:** Online symposium event
 
-## Paper Submissions
-{:#papers}
+## Registration
+{:#registration}
 
-We invite the submission of position papers of no more than 1500 words. We encourage concise contributions clearly explaining the:
-
--	Problem addressed
--	Relevant background
--	Challenges
--	Outcomes
--	Future perspectives
-
-Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
-
-Submit papers through the [symposium submission management system](https://www.openconf.org/waicoop1/) by 6 October 2021.
-
-## Review Process
-{:#review}
-
-Contributions will be reviewed by the Review Committee. Each paper will get at least two independent reviews for criteria including clarity, soundness, and relevance to the symposium. Papers will be accepted based on these criteria and space availability.
+Participation is free, and you must **[register by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. 
+<!--//Registration is now closed. //-->
 
 ## Agenda
 {:#agenda}
@@ -123,11 +109,25 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 
 This meeting will take place on the Zoom teleconference system with real-time captioning. Connection details will be sent by email to registered participants.
 
-## Registration
-{:#registration}
+## Paper Submissions
+{:#papers}
 
-Participation is free, and you must **[register by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. 
-<!--//Registration is now closed. //-->
+We invite the submission of position papers of no more than 1500 words. We encourage concise contributions clearly explaining the:
+
+-	Problem addressed
+-	Relevant background
+-	Challenges
+-	Outcomes
+-	Future perspectives
+
+Position papers must be submitted in the <a href="../Title_of_the_Contribution_-_Submission_for_WAI-CooP_and_W3C_APA_Symposium.html" download>template</a> provided, be valid HTML, and meet WCAG 2.1 Level AA.
+
+Submit papers through the [symposium submission management system](https://www.openconf.org/waicoop1/) by 6 October 2021.
+
+## Review Process
+{:#review}
+
+Contributions will be reviewed by the Review Committee. Each paper will get at least two independent reviews for criteria including clarity, soundness, and relevance to the symposium. Papers will be accepted based on these criteria and space availability.
 
 ## Organizing Committee 
 {:#organizing}
