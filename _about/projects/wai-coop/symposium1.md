@@ -100,16 +100,23 @@ Contributions will be reviewed by the Review Committee. Each paper will get at l
 The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-CooP+Research+Symposium&iso=20211110T13&p1=1440&ah=3&am=00):
 
 -   **14:00** Start of meeting
--   **14:00 - 14:15** Welcome
--   **14:15 - 14:45** Paper Session 1
--   **14:45 - 15:15** Paper Session 2
--   **15:15 - 15:30** Break
--   **15:30 - 16:00** Paper Session 3
--   **16:00 - 16:30** Paper Session 4
--   **16:30 - 17:00** Closing
+-   **14:00 - 14:15** Welcome session
+-   **14:15** Session 1: Scope of Accessibility Guidelines (moderator: Joshue O'Connor, W3C)
+    - **14:15 - 14:25** The Transparency of Automatic Web Accessibility Evaluation Tools
+    - **14:25 - 14:35** Are Best Practices Best? Making Technical PDFs More Accessible
+    - **14:35 - 15:00** Discussion
+-   **15:00** Session 2: Education (moderator: Jade Matos Carew, Open University)
+    - **15:00 - 15:10** "IMPACT project: Training in inclusion and digital accessibility, a social need and a human right"
+    - **15:10 - 15:25** Discussion
+-   **15:25 - 15:40** Coffee Break
+-   **15:40** Session 3: AI/ML contributions and limitations (moderator: Jason White, ETS)
+    - **15:40 - 15:50** Unreasonable Accommodation - Web Experiences as a Blind Person
+    - **15:50 - 16:00** Making Media Accessible to All
+    - **16:00 - 16:10** Preliminary Insights from a Chatbot Accessibility Playbook and Wizard-of-Oz Study
+    - **16:10 - 16:40** Discussion
+-   **16:40 - 16:55** Future Research in Digital Accessibility (moderators: Carlos Duarte and Letícia Seixas Pereira, Universidade de Lisboa)
+-   **16:55 - 17:00** Closing session
 -   **17:00** End of meeting
-
-_Agenda is work in progress._
 
 ## Logistics
 {:#logistics}
@@ -144,8 +151,6 @@ Participation is free, and you must **[register by 7 November 2021](https://www.
 
 ### Review Committee
 {:#reviewers}
-
-_List is not finalized yet._
 
 - Amy Hurst, New York University
 - Clayton Lewis, University of Colorado Boulder
