@@ -34,7 +34,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
 
-Accepted contributions will be available on the symposium page and will be open to discussion before the symposium. <!-- through the [WAI-CooP open forum](https://topics.web-directive.eu/)--> Authors of accepted contributions will be invited to participate as panelists in the symposium. Anyone may attend the symposium.
+Accepted contributions will be available on the symposium page and will be open to discussion before the symposium through the [WAI-CooP open forum](https://topics.web-directive.eu/). Authors of accepted contributions will be invited to participate as panelists in the symposium. Anyone may attend the symposium.
 
 ## Introduction
 {:#introduction}
@@ -97,22 +97,22 @@ Contributions will be reviewed by the Review Committee. Each paper will get at l
 ## Agenda
 {:#agenda}
 
-The following times are in [CET (UTC+1)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-CooP+Research+Symposium&iso=20211110T13&p1=1440&ah=3&am=00):
+The following times are in CET (UTC+1). [Check your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Shape+the+Future+Research+Symposium&iso=20211110T14&p1=195&ah=3).
 
 -   **14:00** Start of meeting
 -   **14:00 - 14:15** Welcome session
 -   **14:15** Session 1: Scope of Accessibility Guidelines (moderator: Joshue O'Connor, W3C)
-    - **14:15 - 14:25** The Transparency of Automatic Web Accessibility Evaluation Tools
-    - **14:25 - 14:35** Are Best Practices Best? Making Technical PDFs More Accessible
+    - **14:15 - 14:25** [The Transparency of Automatic Web Accessibility Evaluation Tools](../paper106.html)
+    - **14:25 - 14:35** [Are Best Practices Best? Making Technical PDFs More Accessible](../paper102.html)
     - **14:35 - 15:00** Discussion
 -   **15:00** Session 2: Education (moderator: Jade Matos Carew, Open University)
-    - **15:00 - 15:10** "IMPACT project: Training in inclusion and digital accessibility, a social need and a human right"
+    - **15:00 - 15:10** [IMPACT project: Training in inclusion and digital accessibility, a social need and a human right](../paper104.html)
     - **15:10 - 15:25** Discussion
 -   **15:25 - 15:40** Coffee Break
 -   **15:40** Session 3: AI/ML contributions and limitations (moderator: Jason White, ETS)
-    - **15:40 - 15:50** Unreasonable Accommodation - Web Experiences as a Blind Person
-    - **15:50 - 16:00** Making Media Accessible to All
-    - **16:00 - 16:10** Preliminary Insights from a Chatbot Accessibility Playbook and Wizard-of-Oz Study
+    - **15:40 - 15:50** [Unreasonable Accommodation - Web Experiences as a Blind Person](../paper103.html)
+    - **15:50 - 16:00** [Making Media Accessible to All](../paper100.html)
+    - **16:00 - 16:10** [Preliminary Insights from a Chatbot Accessibility Playbook and Wizard-of-Oz Study](../paper107.html)
     - **16:10 - 16:40** Discussion
 -   **16:40 - 16:55** Future Research in Digital Accessibility (moderators: Carlos Duarte and Letícia Seixas Pereira, Universidade de Lisboa)
 -   **16:55 - 17:00** Closing session
