@@ -104,10 +104,10 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 -   **16:55 - 17:00** Closing session
 -   **17:00** End of meeting
 
-## Logistics
+## Logistics and Accessibility
 {:#logistics}
 
-This meeting will take place on the Zoom teleconference system with real-time captioning. Connection details will be sent by email to registered participants.
+This meeting will take place on the Zoom teleconference system with real-time captioning, and International Sign Language. Connection details will be sent by email to registered participants.
 
 ## Paper Submissions
 {:#papers}
