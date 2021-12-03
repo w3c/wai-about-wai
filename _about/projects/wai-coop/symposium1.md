@@ -74,12 +74,6 @@ We welcome submissions that address, but are not limited to, the following topic
 -	**7 November 2021:** Deadline for registration
 -	**10 November 2021:** Online symposium event
 
-## Registration
-{:#registration}
-
-Participation is free, and you must **[register by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**. 
-<!--//Registration is now closed. //-->
-
 ## Agenda
 {:#agenda}
 
@@ -108,6 +102,12 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 {:#logistics}
 
 This meeting will take place on the Zoom teleconference system with real-time captioning, and International Sign Language. Connection details will be sent by email to registered participants.
+
+## Registration
+{:#registration}
+
+<!-- Participation is free, and you must **[register by 7 November 2021](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**.  -->
+Registration is now closed.
 
 ## Paper Submissions
 {:#papers}
