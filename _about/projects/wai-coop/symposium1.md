@@ -74,6 +74,10 @@ We welcome submissions that address, but are not limited to, the following topic
 -	**7 November 2021:** Deadline for registration
 -	**10 November 2021:** Online symposium event
 
+## Symposium Transcript
+{:#transcript}
+
+The [transcript](../transcript1.html) of the symposium is now available.
 ## Agenda
 {:#agenda}
 
