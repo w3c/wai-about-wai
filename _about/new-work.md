@@ -5,7 +5,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 doc-note-type: draft
-title: "[EARLY DRAFT] Accessibility Work at W3C"
+title: "Accessibility Work at W3C"
 # title_html: "Main Title:<br>Other Part" # NEW: only needed if you need <br> or other in title. Otherwise, delete.
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
