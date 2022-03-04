@@ -105,7 +105,7 @@ and to get information on participation.
 -   **[EOWG](/WAI/EO)** &mdash; The Accessibility Education and Outreach Working Groupdevelops awareness, training, and implementation resources supporting web accessibility. **See [Participting in EOWG](/WAI/EO/participation)**.
 -   **[AG WG](/WAI/GL)** &mdash; The Accessibility Guidelines Working Group develops guidelines for web pages, web applications, and other web content. **See [Participting in AG WG](/WAI/GL/participation)**.
 -   **[APA](/WAI/APA/)** &mdash; The Accessible Platform Architectures (APA) Working Group reviews W3C's specifications for accessibility support and develops technical support materials. **See [Participting in APA WG](/WAI/APA/participation)**.
--   **[ARIA](/WAI/ARIA/)** &mdash; The Accessible Rich Internet Applications Working Groupd evelops a suite of accessible rich internet applications (ARIA) resources, and accessible APIs and mappings. **See [Participting in ARIA WG](/WAI/ARIA/participation)**.
+-   **[ARIA](/WAI/ARIA/)** &mdash; The Accessible Rich Internet Applications Working Group develops a suite of accessible rich internet applications (ARIA) resources, and accessible APIs and mappings. **See [Participting in ARIA WG](/WAI/ARIA/participation)**.
 
 ## Sponsoring WAI
 
