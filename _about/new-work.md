@@ -53,6 +53,7 @@ footer: >
 
 ---
 
+<a href="/WAI/about/">
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
     <h2 id="mwa-title">
@@ -78,6 +79,7 @@ footer: >
     <button class="showhidebutton" data-target=".making-web-accessible .inner:not(.hidesection)" aria-expanded="true" data-showhidebuttonid="homepage-making-web-accessible" data-showtext="Show information about W3C, WAI, You" data-hidetext="Hide Section">Hide Section</button>
   </div>
 </section>
+</a>
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
