@@ -48,14 +48,12 @@ feedbackmail: wai@w3.org  # NEW: delete this line if it’s an EOWG resource (th
 # Do not change the dates in the footer below.
 footer: >
    <p><strong>Date:</strong> EARLY DRAFT Updated @@ March 2022. First published March 2022.<!-- CHANGELOG.--></p>
-   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> Contributors: @@name, @@name, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of the EOWG</a>.</p>
+   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a>.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
 
-
-<h1 class="visuallyhidden">Accessibility Work at W3C</h1>
-<section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title">
+<section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
     <h2 id="mwa-title">
       <span class="title">Making the Web Accessible</span>
@@ -85,7 +83,7 @@ footer: >
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page highlights some of the work you can contribute to at the Web Accessibility Iniaitive (WAI) W3C to make the Web more accessible to people with disabilities. _{draft wording}_
+This page highlights some current W3C WAI work. It points out how you can contribute to making digital technology more accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -104,61 +102,73 @@ This page highlights some of the work you can contribute to at the Web Accessibi
 
 ## Introduction
 
-This page highlights some of the current accessibility work in the Web Accessibility Iniaitive (WAI) and other groups in the W3C. It includes links to the group responsible for the work, so you can learn more about contributing to specific projects.
+@@
 
-Get related information:
-* To learn more about contributing to this work generally, see [[Participating in WAI]](/about/participating/).
-* To get updates on this and other accessibility work, see [[Get WAI News]](/news/subscribe/).
-* To learn about existing resources, see [[WAI Resources]](/resources/).
+After each item, is the acronym of the responsible Working Group:
+* AG WG = Accessibility Guidelines Working Group
+* APA  WG= Accessible Platform Architectures (APA) Working Group 
+* ARIA WG= Accessible Rich Internet Applications Working Group
+* EOWG = Accessibility Education and Outreach Working Group
+TF = Task Force under a Working Group
 
-## Updating Core Web Accessibility Guidelines
+## Updating Core Web Accessibility Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** is in progress. The current plan is to publish the final version by June 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/).
+* **Web Content Accessibility Guidelines (WCAG) 2.2** is in progress. The current plan is to publish the final version by June 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/).  _AG WG_
 
-* **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/), [About Accessibility Guidelesines Working Group](https://www.w3.org/groups/wg/ag)
+* **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/), [About Accessibility Guidelesines Working Group](https://www.w3.org/groups/wg/ag) _AG WG_
 
-* **ARIA**
+* **ARIA** @@ _ARIA WG_
 
 ## Developing New Standards
 
-* **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/), [Personalization Task Force](https://www.w3.org/groups/tf/personalization-tf)
+* **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/). _APA WG, Personalization TF_
 
-* **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/), [Spoken Pronunciation Task Force](https://www.w3.org/groups/tf/pronunciation-tf)
+* **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/), _APA WG, Spoken Pronunciation TF_
 
-## Developing Additional Guidance for Cognitive, Low Vision, Mobile
+## Documenting Additional Guidance for People with Cognitive Disabilities, Low Vision, and Mobile Devices
 
-* **Cognitive** &mdash; There are several documents being updated to better address the needs of people with cognitive and learning disabilities. See [[Cognitive Accessibility at W3C]](/cognitive/). [About COGA TF](https://www.w3.org/groups/tf/cognitive-a11y-tf)
+* **Cognitive** &mdash; There are several documents being updated to better address the needs of people with cognitive and learning disabilities. See [[Cognitive Accessibility at W3C]](/cognitive/). _AG WG, COGA TF_
 
-* **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplementla guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. [About Low Vision TF](https://www.w3.org/groups/tf/low-vision-a11y-tf)
+* **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplementla guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _AG WG, Low Vision TF_
 
-* [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/)
+* [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) _AG WG, Mobile TF_
+
 
 ## Defining Accessibility User Requirements (AUR) and Emerging Technologies
 
 Documenting the user needs of people with disabilities helps develop standards to meet those needs. It also helps designers, developers, and others better understand and meet user needs in order to support accessibility.
 
-* **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About  NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Draft](https://www.w3.org/TR/naur), [About the APA Working Group](https://www.w3.org/WAI/APA/)
+* **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About  NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Draft](https://www.w3.org/TR/naur),  _APA WG, Research TF_
 
-* **XR Accessibility User Requirements (XAUR)** is a Working Draft. XAUR describes the needs of people with disabilities in virtual or immersive environments (XR). It includes requirements for XR to be accessible. XAUR is for designers and developers who are involved in creating XR experiences. [XAUR Draft](https://www.w3.org/TR/xaur/), [About the APA Working Group](https://www.w3.org/WAI/APA/)
+* **XR Accessibility User Requirements (XAUR)** is a Working Draft. XAUR describes the needs of people with disabilities in virtual or immersive environments (XR). It includes requirements for XR to be accessible. XAUR is for designers and developers who are involved in creating XR experiences. [XAUR Draft](https://www.w3.org/TR/xaur/), _APA WG, Research TF_
 
-* **Synchronization Accessibility User Requirements (SAUR)** is a Working Draft. Synchronization of multimedia content, especially audio and video, is essential for accessible web-based communication and cooperation. To be understandable, media needs to be synchronized to very specific limits. [SAUR Draft](https://www.w3.org/TR/saur/)
+* **Synchronization Accessibility User Requirements (SAUR)** is a Working Draft. Synchronization of multimedia content, especially audio and video, is essential for accessible web-based communication and cooperation. To be understandable, media needs to be synchronized to very specific limits. [SAUR Draft](https://www.w3.org/TR/saur/), _APA WG, Research TF_
 
-* **How People with Disabilities Use the Web** helps you understand user needs broadly. We are updating this resrouce and creating videos to go along with it. [[How People with Disabilities Use the Web]](/people-use-web/), [About EOWG](/EO/)
+* **How People with Disabilities Use the Web** helps you understand user needs broadly. We are updating this resrouce and creating videos to go along with it. [[How People with Disabilities Use the Web]](/people-use-web/), _EOWG_
 
-* **Cognitive accessibility user requirements** &mdash; Updating documentation on the user needs of people with cognitive and learning disabilities is happening through the [Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/GL/task-forces/coga/#about).
+* **Cognitive accessibility user requirements** &mdash; Updating documentation on the user needs of people with cognitive and learning disabilities is happening through the Cognitive and Learning Disabilities Accessibility Task Force (COGA).  _AG WG, COGA TF_
 
 ## Teaching Accessibility
 
-**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We are currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://github.com/w3c/wai-curricula/wiki/content-author-modules-outline), [About EOWG](/EO/)
+**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We are currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://github.com/w3c/wai-curricula/wiki/content-author-modules-outline), _EOWG_
 
 ## Testing Accessibility
 
-**WCAG 2 Test Rules** (also known as ACT Rules) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/), [Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/groups/tf/wcag-act)
+**WCAG 2 Test Rules** (also known as ACT Rules) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/), _AG WG, ACT TF_
 
-## Here's How you Can Get Involved
+## Here's How to Get Involved
 
-@@
+To learn more about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
+Links to the "how to participate" page for each Working Group are in the [[Participating in Working Groups section]](/about/participating/#participating-in-working-groups).
+
+If you are interested in a Task Force, see particiaption information about the parent Working Group.
+
+## Wait, There's More
+
+To get updates on this work and other accessibility work, see [[Get WAI News]](/news/subscribe/).
+
+We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. To learn about existing resources, **see [[WAI Resources]](/resources/).**
 
 <br><br><hr>
 
