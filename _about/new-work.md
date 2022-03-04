@@ -155,6 +155,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 **WCAG 2 Test Rules** (also known as ACT Rules) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/), [Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/groups/tf/wcag-act)
 
+## Here's How you Can Get Involved
+
+@@
+
+
 <br><br><hr>
 
 @@ END DRAFT - below are internal notes @@ ==================================
