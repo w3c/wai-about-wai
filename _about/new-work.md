@@ -83,19 +83,21 @@ Get related information:
 * To get updates on this and other accessibility work, see [[Get WAI News]](/news/subscribe/).
 * To learn about existing resources, see [[WAI Resources]](/resources/).
 
-## Web Accessibility Guidelines and other Standards
+## Updating Core Web Accessibility Guidelines
 
 * **Web Content Accessibility Guidelines (WCAG) 2.2** is in progress. The current plan is to publish the final version by June 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/).
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/), [About Accessibility Guidelesines Working Group](https://www.w3.org/groups/wg/ag)
 
+* **ARIA**
+
+## Developing New Standards
+
 * **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/), [Personalization Task Force](https://www.w3.org/groups/tf/personalization-tf)
 
 * **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/), [Spoken Pronunciation Task Force](https://www.w3.org/groups/tf/pronunciation-tf)
 
-* **ARIA**
-
-## Guidance for Cognitive, Low Vision, Mobile
+## Developing Additional Guidance for Cognitive, Low Vision, Mobile
 
 * **Cognitive** &mdash; There are several documents being updated to better address the needs of people with cognitive and learning disabilities. See [[Cognitive Accessibility at W3C]](/cognitive/). [About COGA TF](https://www.w3.org/groups/tf/cognitive-a11y-tf)
 
@@ -103,7 +105,7 @@ Get related information:
 
 * [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/)
 
-## Accessibility User Requirements (AUR) and Emerging Technologies
+## Defining Accessibility User Requirements (AUR) and Emerging Technologies
 
 Documenting the user needs of people with disabilities helps develop standards to meet those needs. It also helps designers, developers, and others better understand and meet user needs in order to support accessibility.
 
