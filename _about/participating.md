@@ -99,9 +99,8 @@ public list archives.
 
 There are specific criteria for formally joining Working Groups,
 including requirements for participation and contribution. See the
-Working Group pages below to find what group best fits your interests,
-and to get information on participation and links to the mailing list
-archives.
+Working Group pages below to find what group best fits your interests
+and to get information on participation.
 
 -   [Accessibility Education and Outreach Working Group (EOWG)](/WAI/EO) develops awareness, training, and implementation resources supporting web accessibility.<br>**See [Participting in EOWG](/WAI/EO/participation)**.
 -   [Accessibility Guidelines Working Group (AG WG)](/WAI/GL) develops guidelines for web pages, web applications, and other web content.<br>**See [Participting in AG WG](/WAI/GL/participation)**.
