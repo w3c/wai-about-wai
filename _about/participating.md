@@ -102,11 +102,10 @@ including requirements for participation and contribution. See the
 Working Group pages below to find what group best fits your interests
 and to get information on participation.
 
--   [Accessibility Education and Outreach Working Group (EOWG)](/WAI/EO) develops awareness, training, and implementation resources supporting web accessibility.<br>**See [Participting in EOWG](/WAI/EO/participation)**.
--   [Accessibility Guidelines Working Group (AG WG)](/WAI/GL) develops guidelines for web pages, web applications, and other web content.<br>**See [Participting in AG WG](/WAI/GL/participation)**.
--   [Accessible Platform Architectures (APA) Working Group](/WAI/APA/) reviews W3C's specifications for accessibility support and develops technical support materials.<br>**See [Participting in APA WG](/WAI/APA/participation)**.
--   [ARIA Working Group](/WAI/ARIA/) develops a suite of Accessible Rich Internet Applications (ARIA) resources, and accessible APIs and mappings.<br>**See [Participting in ARIA WG](/WAI/ARIA/participation)**.
-
+-   **[EOWG](/WAI/EO)** &mdash; The Accessibility Education and Outreach Working Groupdevelops awareness, training, and implementation resources supporting web accessibility. **See [Participting in EOWG](/WAI/EO/participation)**.
+-   **[AG WG](/WAI/GL)** &mdash; The Accessibility Guidelines Working Group develops guidelines for web pages, web applications, and other web content. **See [Participting in AG WG](/WAI/GL/participation)**.
+-   **[APA](/WAI/APA/)** &mdash; The Accessible Platform Architectures (APA) Working Group reviews W3C's specifications for accessibility support and develops technical support materials. **See [Participting in APA WG](/WAI/APA/participation)**.
+-   **[ARIA](/WAI/ARIA/)** &mdash; The Accessible Rich Internet Applications Working Groupd evelops a suite of accessible rich internet applications (ARIA) resources, and accessible APIs and mappings. **See [Participting in ARIA WG](/WAI/ARIA/participation)**.
 
 ## Sponsoring WAI
 
