@@ -108,14 +108,15 @@ This page highlights some current W3C WAI work. It points out how you can contri
 
 After each item, is the acronym of the responsible Working Group:
 * AG WG = Accessibility Guidelines Working Group
-* APA  WG= Accessible Platform Architectures (APA) Working Group 
-* ARIA WG= Accessible Rich Internet Applications Working Group
+* APA WG = Accessible Platform Architectures (APA) Working Group 
+* ARIA WG = Accessible Rich Internet Applications Working Group
 * EOWG = Accessibility Education and Outreach Working Group
+
 TF = Task Force under a Working Group
 
-## Updating Core Web Accessibility Guidelines and Other Standards
+## Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** is in progress. The current plan is to publish the final version by June 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/).  _AG WG_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** is in progress. The current plan is to publish the final version by June 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/) _AG WG_
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/), [About Accessibility Guidelesines Working Group](https://www.w3.org/groups/wg/ag) _AG WG_
 
@@ -123,9 +124,9 @@ TF = Task Force under a Working Group
 
 ## Developing New Standards
 
-* **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/). _APA WG, Personalization TF_
+* **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/) _APA WG, Personalization TF_
 
-* **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/), _APA WG, Spoken Pronunciation TF_
+* **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _APA WG, Spoken Pronunciation TF_
 
 ## Documenting Additional Guidance for People with Cognitive Disabilities, Low Vision, and Mobile Devices
 
@@ -133,26 +134,25 @@ TF = Task Force under a Working Group
 
 * **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplementla guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _AG WG, Low Vision TF_
 
-* [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) _AG WG, Mobile TF_
+* [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) @@ _AG WG, Mobile TF_
 
-
-## Defining Accessibility User Requirements (AUR) and Emerging Technologies
+## Defining User Requirements (AUR) and Emerging Technologies
 
 Documenting the user needs of people with disabilities helps develop standards to meet those needs. It also helps designers, developers, and others better understand and meet user needs in order to support accessibility.
 
-* **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About  NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Draft](https://www.w3.org/TR/naur),  _APA WG, Research TF_
+* **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About  NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Draft](https://www.w3.org/TR/naur)  _APA WG, Research TF_
 
-* **XR Accessibility User Requirements (XAUR)** is a Working Draft. XAUR describes the needs of people with disabilities in virtual or immersive environments (XR). It includes requirements for XR to be accessible. XAUR is for designers and developers who are involved in creating XR experiences. [XAUR Draft](https://www.w3.org/TR/xaur/), _APA WG, Research TF_
+* **XR Accessibility User Requirements (XAUR)** is a Working Draft. XAUR describes the needs of people with disabilities in virtual or immersive environments (XR). It includes requirements for XR to be accessible. XAUR is for designers and developers who are involved in creating XR experiences. [XAUR Draft](https://www.w3.org/TR/xaur/) _APA WG, Research TF_
 
-* **Synchronization Accessibility User Requirements (SAUR)** is a Working Draft. Synchronization of multimedia content, especially audio and video, is essential for accessible web-based communication and cooperation. To be understandable, media needs to be synchronized to very specific limits. [SAUR Draft](https://www.w3.org/TR/saur/), _APA WG, Research TF_
+* **Synchronization Accessibility User Requirements (SAUR)** is a Working Draft. Synchronization of multimedia content, especially audio and video, is essential for accessible web-based communication and cooperation. To be understandable, media needs to be synchronized to very specific limits. [SAUR Draft](https://www.w3.org/TR/saur/) _APA WG, Research TF_
 
-* **How People with Disabilities Use the Web** helps you understand user needs broadly. We are updating this resrouce and creating videos to go along with it. [[How People with Disabilities Use the Web]](/people-use-web/), _EOWG_
+* **How People with Disabilities Use the Web** helps you understand user needs broadly. We are updating this resrouce and creating videos to go along with it. [[How People with Disabilities Use the Web]](/people-use-web/) _EOWG_
 
 * **Cognitive accessibility user requirements** &mdash; Updating documentation on the user needs of people with cognitive and learning disabilities is happening through the Cognitive and Learning Disabilities Accessibility Task Force (COGA).  _AG WG, COGA TF_
 
 ## Teaching Accessibility
 
-**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We are currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://github.com/w3c/wai-curricula/wiki/content-author-modules-outline), _EOWG_
+**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We are currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://github.com/w3c/wai-curricula/wiki/content-author-modules-outline) _EOWG_
 
 ## Testing Accessibility
 
