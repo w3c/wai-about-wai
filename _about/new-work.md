@@ -53,7 +53,7 @@ footer: >
 
 ---
 
-[[ Reviewer notes: See background in [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis).<br>[e-mail with links to GitHub repo for pull requests and issues](https://lists.w3.org/Archives/Public/public-wai-cc/2022Mar/0000.html)<br>We're working on layout, and polishing...]]
+[[ Reviewer notes: See background in [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis). We're working on layout and polishing ...]]
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
@@ -111,6 +111,7 @@ After each item, is the acronym of the responsible Working Group:
 * APA WG = Accessible Platform Architectures (APA) Working Group 
 * ARIA WG = Accessible Rich Internet Applications Working Group
 * EOWG = Accessibility Education and Outreach Working Group
+* EPUB3 WG = EPUB3 Working Group 
 
 TF = Task Force under a Working Group
 
@@ -128,13 +129,17 @@ TF = Task Force under a Working Group
 
 * **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _[APA WG, Spoken Pronunciation TF]_
 
+* **EPUB 3.3**, the EPUB standard is coming to W3C as a recommendation in version 3.3, including updates to the core specification and EPUB Accessibility 1.1. EPUB3WG plans to move these documents to Candidate Recommendation at the end of March. [[EPUB-33]], [[EPUB-RS-33]], and [[EPUB-A11Y-11]] _[EPUB3 WG]_ 
+
 ## Documenting Additional Guidance for People with Cognitive Disabilities, Low Vision, and Mobile Devices
 
 * **Cognitive** &mdash; There are several documents being updated to better address the needs of people with cognitive and learning disabilities. See [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
 
-* **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplementla guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
+* **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
 
 * [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) @@ _[AG WG, Mobile TF]_
+
+* **Fixed Layout Accessibility Best Practices** &mdash; The EPUB3WG is working on best practices documentation for fixed layout ebooks, including considerations for people with cognitive disabilities or low vision. This document is aimed at helping publishers to produce more accessible fixed layout content while also exploring some of the challenges present with the format. See [Fixed Layout Accessibility](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3WG, FXL A11y TF]_ 
 
 ## Defining User Requirements (AUR) and Emerging Technologies
 
@@ -167,7 +172,6 @@ This page lists about half of the active work. To learn more about what the Work
 * APA WG - Accessible Platform Architectures (APA) Working Group  - @@
 * ARIA WG - Accessible Rich Internet Applications Working Group - @@
 * EOWG - Accessibility Education and Outreach Working Group - [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects)
-* W3C Publishing - @@
 * @@ other W3C group work related to accessibility ?
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. To learn about existing resources, **see [[WAI Resources]](/resources/).**
@@ -190,8 +194,8 @@ If you are interested in a Task Force, see participation information for the par
 * Course list (EOWG) &mdash; we're not seeking additional contributions right now
 * Authoring Tools list (EOWG) &mdash; we're not seeking additional contributions right now
 * Easy Checks – A First Review of Web Accessibility (EOWG) &mdash; we're not going to get to it for a few months and we have out hands full with other things. (drafted: We hope to do a significant update of this in late 2022. We welcome contributions from user interface designers and coders.)
-* Accessibility of Remote Meetings (RQTF, APA) &mdash; we're not seeking additional contributions right now
-* W3Cx course update (WAI staff, EOWG) &mdash; we're not seeking additional contributions right now
+* Accessibility of Remote Meetings &mdash; we're not seeking additional contributions right now
+* W3Cx course update
 
 **for AUR page -- also:**
 
