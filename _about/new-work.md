@@ -183,7 +183,7 @@ If you are interested in a Task Force, see participation information for the par
 * Authoring Tools list (EOWG) &mdash; we're not seeking additional contributions right now
 * Easy Checks – A First Review of Web Accessibility (EOWG) &mdash; we're not going to get to it for a few months and we have out hands full with other things. (drafted: We hope to do a significant update of this in late 2022. We welcome contributions from user interface designers and coders.)
 * Accessibility of Remote Meetings &mdash; we're not seeking additional contributions right now
-* @@...
+* W3Cx course update
 
 **for AUR page -- also:**
 
