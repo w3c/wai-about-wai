@@ -166,7 +166,7 @@ This page lists about half of the active work. To learn more about what the Work
 * AG WG - Accessibility Guidelines Working Group - @@
 * APA WG - Accessible Platform Architectures (APA) Working Group  - @@
 * ARIA WG - Accessible Rich Internet Applications Working Group - @@
-* EOWG - Accessibility Education and Outreach Working Group [https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects EOWG Current Projects]
+* EOWG - Accessibility Education and Outreach Working Group [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects)
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. To learn about existing resources, **see [[WAI Resources]](/resources/).**
 
