@@ -53,7 +53,7 @@ footer: >
 
 ---
 
-[[ Reviewer notes: See background in [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis). We're working on layout, centering main content, deleting breadcrumb...]]
+[[ Reviewer notes: See background in [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis). We're working on layout and polishing ...]]
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
