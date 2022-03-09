@@ -53,7 +53,7 @@ footer: >
 
 ---
 
-[[ Reviewer notes: See background in [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis). We're working on layout and polishing ...]]
+[[ Reviewer notes: See background in [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis).<br>[e-mail with links to GitHub repo for pull requests and issues](https://lists.w3.org/Archives/Public/public-wai-cc/2022Mar/0000.html)<br>We're working on layout, and polishing...]]
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
@@ -167,6 +167,7 @@ This page lists about half of the active work. To learn more about what the Work
 * APA WG - Accessible Platform Architectures (APA) Working Group  - @@
 * ARIA WG - Accessible Rich Internet Applications Working Group - @@
 * EOWG - Accessibility Education and Outreach Working Group - [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects)
+* W3C Publishing - @@
 * @@ other W3C group work related to accessibility ?
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. To learn about existing resources, **see [[WAI Resources]](/resources/).**
@@ -189,8 +190,8 @@ If you are interested in a Task Force, see participation information for the par
 * Course list (EOWG) &mdash; we're not seeking additional contributions right now
 * Authoring Tools list (EOWG) &mdash; we're not seeking additional contributions right now
 * Easy Checks – A First Review of Web Accessibility (EOWG) &mdash; we're not going to get to it for a few months and we have out hands full with other things. (drafted: We hope to do a significant update of this in late 2022. We welcome contributions from user interface designers and coders.)
-* Accessibility of Remote Meetings &mdash; we're not seeking additional contributions right now
-* W3Cx course update
+* Accessibility of Remote Meetings (RQTF, APA) &mdash; we're not seeking additional contributions right now
+* W3Cx course update (WAI staff, EOWG) &mdash; we're not seeking additional contributions right now
 
 **for AUR page -- also:**
 
