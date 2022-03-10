@@ -120,9 +120,7 @@ WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI spons
 ### Promoting Awareness
 
 -   Tell people about WAI and web accessibility.
--   Link to [WAI's home page](/WAI) and other relevant resources,
-    including [Finding Your WAI](http://www.w3.org/WAI/yourWAI)
-    (shortened link: [bit.ly/yourWAI](http://bit.ly/yourWAI)).
+-   Link to [WAI's home page](/WAI), specific [resources](/resources/) that you find helpful, and [translations](/translations/).
 -   Cover web accessibility in [presentations and
     training](http://www.w3.org/WAI/train) to web developers, designers,
     managers, and others.
