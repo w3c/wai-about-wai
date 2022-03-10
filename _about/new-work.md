@@ -5,7 +5,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "Accessibility Work at W3C (March 2022)"
-title_html: "[draft] Accessibility Work at W3C<br><span style='font-style: italic; font-size: .875em;''>What we're up to in March 2022</span>"
+title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: .5em;''>What we're up to in March 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -102,7 +102,7 @@ This page highlights some current W3C WAI work. It points out how you can contri
 
 ## Introduction
 
-We hope you will find accessibility work on this page that you are interested in contributing to through the W3C Web Accessibility Initiative (WAI). After each item, is the acronym of the responsible Working Group (WG) and some Task Forces (TF), so you know where to go if you want to participate. That info is later in this page &mdash; first, let's look at the work itself.
+We hope you'll find accessibility work on this page that you are interested in contributing to through the W3C Web Accessibility Initiative (WAI). After each item, is the acronym of the responsible Working Group (WG) and some Task Forces (TF), so you know where to go if you want to participate. That information is later in this page &mdash; first, let's look at some of the work itself.
 
 ## Current Work Highlights
 
@@ -154,7 +154,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Coming Soon to a Publication Near You
 
-The following are just a few of the publications that are nearly done. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The following are just a few of the documents that getting close to publication. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * **WCAG 2.2** to CR in Q2 2022; finalized in 2022
 * **ARIA** @@
@@ -168,7 +168,7 @@ To get news via e-mail, Twitter, or Atom/RSS feed when these and other accessibi
 
 This page _only lists about half_ of the active work on accessibility at W3C. Much of the work happens in the accessibility groups that are introduced in the [W3C Working Groups page](https://www.w3.org/groups/wg/#wg-list).
 
-To learn more about what that the Working Groups are up to right now, see:
+To learn more about what that the Working Groups are _up to right now_, see:
 
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
 * [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
@@ -179,7 +179,7 @@ To learn more about what that the Working Groups are up to right now, see:
 
 ### Did you know?
 
-The WAI website has videos, tips, tutorials, translations, a free online course, and much more. We encourage you to look around the [W3C WAI website](https://www.w3.org/WAI/) to find other information that you might be interested in reading, contributing to, and sharing with others.
+The [W3C WAI website](https://www.w3.org/WAI/) has videos, tips, tutorials, translations, a free online course, and so much more. We encourage you to look around to find other resources that you might be interested in reading, contributing to, and sharing with others.
 
 To discover existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).**
 
