@@ -118,7 +118,7 @@ TF = Task Force under a Working Group
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** is in progress. The current plan is to publish the final version by June 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/) _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** is addressing comments ont he previous draft and plans  to be completed in 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/) _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
@@ -164,16 +164,15 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Coming Soon to a Publication Near You
 
-Above lists work that is on-going. The following are nearly done. Learn about the stages from **
-[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)**.
+Above lists work that is on-going. The following are some of the publications that are nearly done. Learn about the stages from **[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)**.
 
-* **WCAG 2.2** is planned to go to "Candidate Recommendation" stage the first half of 2022.
+* **WCAG 2.2** is planned to go to "Candidate Recommendation" stage as soon as open issues are addressed.
 
 * **EPUB 3.3**, with updates to the core specification and to EPUB Accessibility 1.1, is planned to go to "Candidate Recommendation" stage the end of March 2022.
 
-## Wait, Wait, There's More
+**News:** Subcribe to get notified when these and other accessibility documents are published, see [[Get WAI News]](/news/subscribe/).
 
-To subcribe to get updates on this work and other accessibility work, see [[Get WAI News]](/news/subscribe/).
+## Wait, Wait, There's More
 
 This page lists about half of the active work on accessibility at W3C. To learn more about what that the Working Groups are up to, see:
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
