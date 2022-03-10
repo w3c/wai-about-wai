@@ -119,11 +119,11 @@ Near the end of the page is more about [getting involved](#participate).
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** is addressing comments ont he previous draft and plans  to be completed in 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/) _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** is addressing comments on the previous draft and plans  to be completed in 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA** @@ ... very short, succinct description and link **_only_ to select active work where you want to entice participation** ... _[ARIA WG]_
+* **ARIA** @@ ... very short, succinct description and link **_only_ to select active work where you want to entice participation**  -- you can **link to all ARIA Curent Work** in the [There’s More section](https://deploy-preview-126--wai-about-wai.netlify.app/about/new-work/#wait-wait-theres-more) and list things in the [coming soon publications](#coming-soon-to-a-publication-near-you) @@ ... _[ARIA WG]_
 
 ### Developing New Standards
 
@@ -167,11 +167,13 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 The following are just a few of the publications that are nearly done. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* **WCAG 2.2** to Wide Review or CR in Q2 2022; finalized in 2022
+* **WCAG 2.2** to CR in Q2 2022; finalized in 2022
 
 * **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
 
-**News:** Subcribe to get notified when these and other accessibility documents are _ready for review_ or _published as final_ -> **[[Get WAI News]](/news/subscribe/)**.
+### Get Updated
+
+To get news via e-mail, Twitter, or Atom/RSS feed when these and other accessibility documents are _ready for review_ or _published as final_, see **[[Get WAI News]](/news/subscribe/)**.
 
 ## Wait, Wait, There's More
 
@@ -193,6 +195,11 @@ Links to each Working Group's "How to Participate" page are in the [Participatin
 
 If you are interested in a Task Force, see participation information for the parent Working Group.
 
+We also have some ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
+
+**We look forward to your contributions to making the web more accessible to people with disabilities!***
+
+_("We" is WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several [WAI Alumni](https://www.w3.org/People/Alumni). And participants of [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other W3C groups.)_
 
 <br><br><br>
 
