@@ -123,7 +123,7 @@ Near the end of the page is more about [getting involved](#participate).
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA** @@ ... very short, succinct description and link ... _[ARIA WG]_
+* **ARIA** @@ ... very short, succinct description and link **_only_ to select active work where you want to entice participation** ... _[ARIA WG]_
 
 ### Developing New Standards
 
@@ -165,13 +165,13 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Coming Soon to a Publication Near You
 
-The following are just a few of the publications that are nearly done. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**) and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The following are just a few of the publications that are nearly done. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * **WCAG 2.2** to Wide Review or CR in Q2 2022; finalized in 2022
 
 * **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
 
-**News:** Subcribe to get notified when these and other accessibility documents are published -> **[[Get WAI News]](/news/subscribe/)**.
+**News:** Subcribe to get notified when these and other accessibility documents are _ready for review_ or _published as final_ -> **[[Get WAI News]](/news/subscribe/)**.
 
 ## Wait, Wait, There's More
 
