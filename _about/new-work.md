@@ -185,7 +185,11 @@ This page lists less than half of the active work on accessibility at W3C. To le
 * [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
 * @@ other W3C group work related to accessibility that we want to list?
 
-We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. **To discover existing accessibility resources that you didn't know about, see [[WAI Resources]](/resources/).**
+### Did you know?
+
+The WAI website has videos, tips, tutorials, translations, a free online course, and much more. We encourage you to look around the [W3C WAI website](https://www.w3.org/WAI/) to find other information that you might be interested in reading, contributing to, and sharing with others.
+
+To discover existing accessibility resources that you didn't know about, see **[[WAI Resources]](/resources/).**
 
 ## Here's How to Get Involved {#participate}
 
@@ -206,6 +210,8 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
 <br><br><br>
 
 ======= END DRAFT - below are internal notes on things that are not listed above =======
+
+@@ note to shawn: add link to this page to MRM Scipt
 
 **current projects not listed &mdash; why (see [Scope in the Requirement Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis#scope))**
 * Eval Tools list redesign (EOWG) &mdash; we're not seeking additional contributions right now, and it's not a new things
