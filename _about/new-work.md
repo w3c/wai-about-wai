@@ -123,7 +123,7 @@ Near the end of the page is more about [getting involved](#participate).
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA** @@ ... very short, succinct description and link **_only_ to select active work where you want to entice participation**  -- you can **link to all ARIA Curent Work** in the [There’s More section](https://deploy-preview-126--wai-about-wai.netlify.app/about/new-work/#wait-wait-theres-more) and list things in the [coming soon publications](#coming-soon-to-a-publication-near-you) @@ ... _[ARIA WG]_
+* **ARIA** is finalizing implementations of [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) as well as adding new [features to ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release).  _[ARIA WG]_
 
 ### Developing New Standards
 
@@ -171,6 +171,8 @@ The following are just a few of the publications that are nearly done. To learn 
 
 * **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
 
+* **ARIA 1.2** to PR in Q2 2022;
+
 ### Get Updated
 
 To get news via e-mail, Twitter, or Atom/RSS feed when these and other accessibility documents are _ready for review_ or _published as final_, see **[[Get WAI News]](/news/subscribe/)**.
@@ -180,7 +182,7 @@ To get news via e-mail, Twitter, or Atom/RSS feed when these and other accessibi
 This page lists less than half of the active work on accessibility at W3C. To learn more about what that the Working Groups are up to, see:
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
 * [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
-* [@@ ARIA Current Work @@](https://www.w3.org/@@) of the Accessible Rich Internet Applications (ARIA) Working Group
+* [ARIA Current Work](https://www.w3.org/groups/wg/aria/publications#WD) of the Accessible Rich Internet Applications (ARIA) Working Group
 * [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) of the Accessibility Education and Outreach (EO) Working Group
 * [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
 * @@ other W3C group work related to accessibility that we want to list?
