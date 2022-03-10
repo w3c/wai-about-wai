@@ -106,39 +106,41 @@ This page highlights some current W3C WAI work. It points out how you can contri
 @@
 
 After each item, is the acronym of the responsible Working Group:
-* AG WG = Accessibility Guidelines Working Group
+* AG WG = Accessibility Guidelines (AG) Working Group
 * APA WG = Accessible Platform Architectures (APA) Working Group 
-* ARIA WG = Accessible Rich Internet Applications Working Group
-* EOWG = Accessibility Education and Outreach Working Group
+* ARIA WG = Accessible Rich Internet Applications (ARIA) Working Group
+* EOWG = Accessibility Education and Outreach (EO) Working Group
 * EPUB3 WG = EPUB 3 Working Group
 
 TF = Task Force under a Working Group
 
-## Updating Core Guidelines and Other Standards
+## Current Work Highlights
+
+### Updating Core Guidelines and Other Standards
 
 * **Web Content Accessibility Guidelines (WCAG) 2.2** is in progress. The current plan is to publish the final version by June 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft ](https://w3c.github.io/wcag/guidelines/22/) _[AG WG]_
 
-* **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/), [About Accessibility Guidelesines Working Group](https://www.w3.org/groups/wg/ag) _[AG WG]_
+* **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA** @@ _[ARIA WG]_
+* **ARIA** @@ ... very short, succinct description and link ... _[ARIA WG]_
 
-## Developing New Standards
+### Developing New Standards
 
 * **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/) _[APA WG, Personalization TF]_
 
 * **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _[APA WG, Spoken Pronunciation TF]_
 
-## Documenting Additional Guidance for People with Cognitive Disabilities, Low Vision, and Mobile Devices
+### Documenting Additional Guidance for People with Cognitive Disabilities, Low Vision, and Mobile Devices
 
-* **Cognitive** &mdash; There are several documents being updated to better address the needs of people with cognitive and learning disabilities. See [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
+* **Cognitive Accessibility** &mdash; We are updating several documents to better address the needs of people with cognitive and learning disabilities. [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
 
 * **EPUB Fixed Layout Accessibility** &mdash; aims to help publishers produce more accessible content and address challenges for people with cognitive disabilities and low vision. [EPUB Fixed Layout Accessibility Editor's Draft](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3 WG, FXL A11y TF]_
 
-* **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
+* **Low Vision Accessibility**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
 
-* [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) @@ _[AG WG, Mobile TF]_
+* **Mobile Accessibility** &mdash; work includes supporting on-going standards development, including supporting WCAG 3. [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) _[AG WG, Mobile TF]_
 
-## Defining User Requirements (AUR) and Emerging Technologies
+### Defining User Requirements (AUR) and Emerging Technologies
 
 Documenting the user needs of people with disabilities helps develop standards to meet those needs. It also helps designers, developers, and others better understand and meet user needs in order to support accessibility.
 
@@ -152,11 +154,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **Cognitive accessibility user requirements** &mdash; Updating documentation on the user needs of people with cognitive and learning disabilities is happening through the Cognitive and Learning Disabilities Accessibility Task Force (COGA).  _[AG WG, COGA TF]_
 
-## Teaching Accessibility
+### Teaching Accessibility
 
-**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We are currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://github.com/w3c/wai-curricula/wiki/content-author-modules-outline) _[EOWG]_
+**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We are currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://content-author-modules--wai-curricula.netlify.app/curricula/content-author-modules/) _[EOWG]_
 
-## Testing Accessibility
+### Testing Accessibility
 
 **WCAG 2 Test Rules** (also known as ACT Rules) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
 
@@ -164,6 +166,8 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 Above lists work that is on-going. The following are nearly done. Learn about the stages from **
 [How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)**.
+
+* **WCAG 2.2** is planned to go to "Candidate Recommendation" stage the first half of 2022.
 
 * **EPUB 3.3**, with updates to the core specification and to EPUB Accessibility 1.1, is planned to go to "Candidate Recommendation" stage the end of March 2022.
 
@@ -174,8 +178,8 @@ To subcribe to get updates on this work and other accessibility work, see [[Get 
 This page lists about half of the active work on accessibility at W3C. To learn more about what that the Working Groups are up to, see:
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
 * [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
-* [@@ ARIA Current Work @@](https://www.w3.org/@@) of the Accessible Rich Internet Applications Working Group
-* [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) of the Accessibility Education and Outreach Working Group (EOWG)
+* [@@ ARIA Current Work @@](https://www.w3.org/@@) of the Accessible Rich Internet Applications (ARIA) Working Group
+* [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) of the Accessibility Education and Outreach (EO) Working Group
 * [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
 * @@ other W3C group work related to accessibility that we want to list?
 
@@ -185,7 +189,7 @@ We encourage you to look around the W3C WAI website to find other information th
 
 To learn more about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
-Links to the "how to participate" page for each Working Group are in the [Participating in Working Groups section](/about/participating/#participating-in-working-groups).
+Links to the "How to Participate" page for each Working Group are in the [Participating in Working Groups section](/about/participating/#participating-in-working-groups).
 
 If you are interested in a Task Force, see participation information for the parent Working Group.
 
