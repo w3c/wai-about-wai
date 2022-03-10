@@ -4,8 +4,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "[draft] Accessibility Work at W3C"
-# title_html: "Main Title:<br>Other Part" # NEW: only needed if you need <br> or other in title. Otherwise, delete.
+title: "Accessibility Work at W3C (March 2022)"
+title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: .5em;''>What we're up to in March 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -96,24 +96,13 @@ This page highlights some current W3C WAI work. It points out how you can contri
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
 {:toc}
-
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
 
 ## Introduction
 
-We hope you will find accessibility work on this page that you are interested in contributing to through the W3C Web Accessibility Initiative (WAI).
-
-After each item, is the acronym of the responsible Group:
-* AG WG = Accessibility Guidelines (AG) Working Group
-* APA WG = Accessible Platform Architectures (APA) Working Group 
-* ARIA WG = Accessible Rich Internet Applications (ARIA) Working Group
-* EOWG = Accessibility Education and Outreach (EO) Working Group
-* EPUB3 WG = EPUB 3 Working Group
-* TF = Task Force under a Working Group
-
-Near the end of the page is more about [getting involved](#participate).
+We hope you'll find accessibility work on this page that you are interested in contributing to through the W3C Web Accessibility Initiative (WAI). After each item, is the acronym of the responsible Working Group (WG) and some Task Forces (TF), so you know where to go if you want to participate. That information is later in this page &mdash; first, let's look at some of the work itself.
 
 ## Current Work Highlights
 
@@ -124,6 +113,7 @@ Near the end of the page is more about [getting involved](#participate).
 * **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
 * **ARIA** is finalizing implementations of [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) as well as adding new [features to ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release).  _[ARIA WG]_
+
 
 ### Developing New Standards
 
@@ -165,10 +155,10 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Coming Soon to a Publication Near You
 
-The following are just a few of the publications that are nearly done. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The following are just a few of the documents that getting close to publication. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * **WCAG 2.2** to CR in Q2 2022; finalized in 2022
-
+* **ARIA** @@
 * **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
 
 * **ARIA 1.2** to PR in Q2 2022;
@@ -179,7 +169,10 @@ To get news via e-mail, Twitter, or Atom/RSS feed when these and other accessibi
 
 ## Wait, Wait, There's More
 
-This page lists less than half of the active work on accessibility at W3C. To learn more about what that the Working Groups are up to, see:
+This page _only lists about half_ of the active work on accessibility at W3C. Much of the work happens in the accessibility groups that are introduced in the [W3C Working Groups page](https://www.w3.org/groups/wg/#wg-list).
+
+To learn more about what that the Working Groups are _up to right now_, see:
+
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
 * [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
 * [ARIA Current Work](https://www.w3.org/groups/wg/aria/publications#WD) of the Accessible Rich Internet Applications (ARIA) Working Group
@@ -189,9 +182,9 @@ This page lists less than half of the active work on accessibility at W3C. To le
 
 ### Did you know?
 
-The WAI website has videos, tips, tutorials, translations, a free online course, and much more. We encourage you to look around the [W3C WAI website](https://www.w3.org/WAI/) to find other information that you might be interested in reading, contributing to, and sharing with others.
+The [W3C WAI website](https://www.w3.org/WAI/) has videos, tips, tutorials, translations, a free online course, and so much more. We encourage you to look around to find other resources that you might be interested in reading, contributing to, and sharing with others.
 
-To discover existing accessibility resources that you didn't know about, see **[[WAI Resources]](/resources/).**
+To discover existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).**
 
 ## Here's How to Get Involved {#participate}
 
@@ -207,7 +200,7 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
 
 ### Who
 
-"We" is WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several [WAI Alumni](https://www.w3.org/People/Alumni). And participants of [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and several other W3C groups.
+"We" is WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several WAI [Alumni](https://www.w3.org/People/Alumni). And participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and several other W3C groups.
 
 <br><br><br>
 
