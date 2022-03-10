@@ -185,7 +185,7 @@ This page lists less than half of the active work on accessibility at W3C. To le
 * [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
 * @@ other W3C group work related to accessibility that we want to list?
 
-We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. **To discover existing accessibility resources you didn't know about, see [[WAI Resources]](/resources/).**
+We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. **To discover existing accessibility resources that you didn't know about, see [[WAI Resources]](/resources/).**
 
 ## Here's How to Get Involved {#participate}
 
@@ -197,11 +197,11 @@ If you are interested in a Task Force, see participation information for the par
 
 We also have some ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
 
-**We* look forward to your contributions to making the web more accessible to people with disabilities!**
+**We look forward to your contributions to making the web more accessible to people with disabilities!**
 
 ### Who
 
-* "We" is WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several [WAI Alumni](https://www.w3.org/People/Alumni). And participants of [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other W3C groups._
+"We" is WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several [WAI Alumni](https://www.w3.org/People/Alumni). And participants of [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and several other W3C groups.
 
 <br><br><br>
 
