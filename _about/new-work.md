@@ -113,7 +113,7 @@ After each item, is the acronym of the responsible Group:
 * EPUB3 WG = EPUB 3 Working Group
 * TF = Task Force under a Working Group
 
-Near the end of the page is more about contributing.
+Near the end of the page is more about [getting involved](#participate).
 
 ## Current Work Highlights
 
@@ -165,13 +165,13 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Coming Soon to a Publication Near You
 
-The following are just a few of the publications that are nearly done. Learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**) and other stages from [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)**==.
+The following are just a few of the publications that are nearly done. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**) and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* WCAG 2.2 to Wide Review or CR in Q2 2022; finalized in 2022
+* **WCAG 2.2** to Wide Review or CR in Q2 2022; finalized in 2022
 
-* EPUB 3.3 and EPUB Accessibility 1.1 to CR end of March 2022
+* **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
 
-**News:** Subcribe to get notified when these and other accessibility documents are published, see [[Get WAI News]](/news/subscribe/).
+**News:** Subcribe to get notified when these and other accessibility documents are published -> **[[Get WAI News]](/news/subscribe/)**.
 
 ## Wait, Wait, There's More
 
@@ -185,11 +185,11 @@ This page lists only about half of the active work on accessibility at W3C. To l
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. To learn about existing resources, **see [[WAI Resources]](/resources/).**
 
-## Here's How to Get Involved
+## Here's How to Get Involved {#participate}
 
-To learn more about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
+To learn about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
-Links to the "How to Participate" page for each Working Group are in the [Participating in Working Groups section](/about/participating/#participating-in-working-groups).
+Links to each Working Group's "How to Participate" page are in the [Participating in Working Groups section](/about/participating/#participating-in-working-groups).
 
 If you are interested in a Task Force, see participation information for the parent Working Group.
 
