@@ -4,8 +4,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-doc-note-type: draft
-title: "Accessibility Work at W3C"
+title: "[draft] Accessibility Work at W3C"
 # title_html: "Main Title:<br>Other Part" # NEW: only needed if you need <br> or other in title. Otherwise, delete.
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
@@ -47,13 +46,13 @@ feedbackmail: wai@w3.org  # NEW: delete this line if it’s an EOWG resource (th
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> EARLY DRAFT Updated @@ March 2022. First published March 2022.<!-- CHANGELOG.--></p>
+   <p><strong>Date:</strong> DRAFT Updated 11 March 2022. First published March 2022.<!-- CHANGELOG.--></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a>.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
 
-[[ Reviewer notes: See background in [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis).<br>[e-mail with links to GitHub repo for pull requests and issues](https://lists.w3.org/Archives/Public/public-wai-cc/2022Mar/0000.html)<br>We're working on layout, and polishing...]]
+[[ **Reviewer notes**: Please at least skim [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis before commenting).<br>[e-mail with links to GitHub repo for pull requests and issues](https://lists.w3.org/Archives/Public/public-wai-cc/2022Mar/0000.html)<br>We're working on layout and polishing...]]
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
@@ -111,6 +110,7 @@ After each item, is the acronym of the responsible Working Group:
 * APA WG = Accessible Platform Architectures (APA) Working Group 
 * ARIA WG = Accessible Rich Internet Applications Working Group
 * EOWG = Accessibility Education and Outreach Working Group
+* EPUB3 WG = EPUB 3 Working Group
 
 TF = Task Force under a Working Group
 
@@ -132,7 +132,9 @@ TF = Task Force under a Working Group
 
 * **Cognitive** &mdash; There are several documents being updated to better address the needs of people with cognitive and learning disabilities. See [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
 
-* **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplementla guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
+* **EPUB Fixed Layout Accessibility** &mdash; aims to help publishers produce more accessible content and address challenges for people with cognitive disabilities and low vision. [EPUB Fixed Layout Accessibility Editor's Draft](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3 WG, FXL A11y TF]_
+
+* **Low Vision**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
 
 * [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) @@ _[AG WG, Mobile TF]_
 
@@ -158,17 +160,24 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 **WCAG 2 Test Rules** (also known as ACT Rules) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
 
+## Coming Soon to a Publication Near You
+
+Above lists work that is on-going. The following are nearly done. Learn about the stages from **
+[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)**.
+
+* **EPUB 3.3**, with updates to the core specification and to EPUB Accessibility 1.1, is planned to go to "Candidate Recommendation" stage the end of March 2022.
+
 ## Wait, Wait, There's More
 
-To get updates on this work and other accessibility work, see [[Get WAI News]](/news/subscribe/).
+To subcribe to get updates on this work and other accessibility work, see [[Get WAI News]](/news/subscribe/).
 
-This page lists about half of the active work. To learn more about what the Working Groups are up to, see:
-* AG WG - Accessibility Guidelines Working Group - @@
-* APA WG - Accessible Platform Architectures (APA) Working Group  - @@
-* ARIA WG - Accessible Rich Internet Applications Working Group - @@
-* EOWG - Accessibility Education and Outreach Working Group - [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects)
-* W3C Publishing - @@
-* @@ other W3C group work related to accessibility ?
+This page lists about half of the active work on accessibility at W3C. To learn more about what that the Working Groups are up to, see:
+* [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
+* [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
+* [@@ ARIA Current Work @@](https://www.w3.org/@@) of the Accessible Rich Internet Applications Working Group
+* [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) of the Accessibility Education and Outreach Working Group (EOWG)
+* [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
+* @@ other W3C group work related to accessibility that we want to list?
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading, contributing to, and sharing with others. To learn about existing resources, **see [[WAI Resources]](/resources/).**
 
@@ -176,7 +185,7 @@ We encourage you to look around the W3C WAI website to find other information th
 
 To learn more about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
-Links to the "how to participate" page for each Working Group are in the [[Participating in Working Groups section]](/about/participating/#participating-in-working-groups).
+Links to the "how to participate" page for each Working Group are in the [Participating in Working Groups section](/about/participating/#participating-in-working-groups).
 
 If you are interested in a Task Force, see participation information for the parent Working Group.
 
