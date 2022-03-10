@@ -78,7 +78,7 @@ feed](/WAI/highlights/about-rss), and the [WAI home page](/WAI/).
 
 ### Submitting Techniques for Implementing Guidelines
 
-WAI's Web accessibility guidelines have associated Techniques documents
+WAI's web accessibility guidelines have associated Techniques documents
 that tell you how to meet the guidelines, such as [Techniques for WCAG
 2.0](http://www.w3.org/TR/WCAG20-TECHS/). You can submit ideas for new
 or updated techniques. There is a [form for submitting WCAG 2.0
@@ -99,29 +99,19 @@ public list archives.
 
 There are specific criteria for formally joining Working Groups,
 including requirements for participation and contribution. See the
-Working Group pages below to find what group best fits your interests,
-and to get information on participation and links to the mailing list
-archives.
+Working Group pages below to find what group best fits your interests
+and to get information on participation.
 
--   [ARIA Working
-    Group](https://www.w3.org/WAI/ARIA/)
-    develops a suite of Accessible Rich Internet Applications resources,
-    and accessible APIs and mappings.
--   [Accessible Platform Architectures (APA) Working
-    Group](https://www.w3.org/WAI/APA/)
-    reviews and comments on support for accessibility throughout W3C's
-    other working groups.
--   [Education and Outreach Working Group](/WAI/EO) develops awareness,
-    training, and implementation resources supporting Web accessibility.
--   [Web Content Accessibility Guidelines Working Group](/WAI/GL)
-    develops guidelines for Web pages, Web applications, and other Web
-    content.
+-   **[EOWG](/WAI/EO)** &mdash; The Accessibility Education and Outreach Working Group develops awareness, training, and implementation resources supporting web accessibility. **See [Participting in EOWG](/WAI/EO/participation)**.
+-   **[AG WG](/WAI/GL)** &mdash; The Accessibility Guidelines Working Group develops guidelines for web pages, web applications, and other web content. **See [Participting in AG WG](/WAI/GL/participation)**.
+-   **[APA](/WAI/APA/)** &mdash; The Accessible Platform Architectures (APA) Working Group reviews W3C's specifications for accessibility support and develops technical support materials. **See [Participting in APA WG](/WAI/APA/participation)**.
+-   **[ARIA](/WAI/ARIA/)** &mdash; The Accessible Rich Internet Applications Working Group develops a suite of accessible rich internet applications (ARIA) resources, and accessible APIs and mappings. **See [Participting in ARIA WG](/WAI/ARIA/participation)**.
 
 ## Sponsoring WAI
 
 WAI's work is supported in part by sponsorship from industry,
 disability, and government organizations interested in contributing to
-WAI's efforts to make the Web more accessible. Please see the list of
+WAI's efforts to make the web more accessible. Please see the list of
 current sponsors on the [WAI home page]({{"/" | relative_url }}), and [Sponsoring
 WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI sponsorship.
 
@@ -145,10 +135,10 @@ WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI spons
     (WCAG)](/standards-guidelines/wcag/) documents to help make your website
     accessible.
 -   If you develop authoring tools—any software or service that people
-    use to create or modify Web content, including content management
+    use to create or modify web content, including content management
     systems—implement the [Authoring Tool Accessibility Guidelines
     (ATAG)](/standards-guidelines/atag/).
--   If you develop Web browsers, media players, assistive technologies,
+-   If you develop web browsers, media players, assistive technologies,
     or other user agents—implement the [User Agent Accessibility
     Guidelines (UAAG)](/standards-guidelines/uaag/).
 
@@ -159,14 +149,14 @@ WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI spons
     vendors and requesting increased accessibility support in future
     versions, and by purchasing tools that provide the best support for
     accessibility.
--   Encourage Web browsers, media players, assistive technologies, and
+-   Encourage web browsers, media players, assistive technologies, and
     other user agents to meet
     [UAAG](/standards-guidelines/uaag/).
 -   Encourage organizations to [adopt an accessibility
     policy](/WAI/impl/pol) for their organization that defines their
-    commitment to Web accessibility.
+    commitment to web accessibility.
 -   Encourage websites to be accessible, for example, provide [feedback
-    on inaccessible websites and inaccessible Web products
+    on inaccessible websites and inaccessible web products
     carefully](http://www.w3.org/WAI/users/inaccessible.html); it is
     usually more productive to start with a positive encouraging tone,
     rather than a negative critical tone.
