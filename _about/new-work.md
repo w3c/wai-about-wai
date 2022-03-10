@@ -46,13 +46,13 @@ feedbackmail: wai@w3.org  # NEW: delete this line if it’s an EOWG resource (th
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> DRAFT Updated 11 March 2022. First published March 2022.<!-- CHANGELOG.--></p>
-   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a>.</p>
+   <p><strong>Date:</strong> Updated @@ March 2022. First published March 2022.<!-- CHANGELOG.--></p>
+   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
 
-[[ **Reviewer notes**: Please at least skim [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis before commenting).<br>[e-mail with links to GitHub repo for pull requests and issues](https://lists.w3.org/Archives/Public/public-wai-cc/2022Mar/0000.html)<br>We're working on layout and polishing...]]
+[[ **Reviewer notes**: Please at least skim [Requirements Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis before commenting).<br>**Please make your additions very short, succinct, and with the same approach** as the other listing on this page.<br>Here is [e-mail with links to GitHub repo for pull requests and issues](https://lists.w3.org/Archives/Public/public-wai-cc/2022Mar/0000.html)<br>We're working on layout and polishing...]]
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
@@ -103,16 +103,17 @@ This page highlights some current W3C WAI work. It points out how you can contri
 
 ## Introduction
 
-@@
+We hope you will find accessibility work on this page that you are interested in contributing to through the W3C Web Accessibility Initiative (WAI).
 
-After each item, is the acronym of the responsible Working Group:
+After each item, is the acronym of the responsible Group:
 * AG WG = Accessibility Guidelines (AG) Working Group
 * APA WG = Accessible Platform Architectures (APA) Working Group 
 * ARIA WG = Accessible Rich Internet Applications (ARIA) Working Group
 * EOWG = Accessibility Education and Outreach (EO) Working Group
 * EPUB3 WG = EPUB 3 Working Group
+* TF = Task Force under a Working Group
 
-TF = Task Force under a Working Group
+Near the end of the page is more about contributing.
 
 ## Current Work Highlights
 
@@ -164,17 +165,17 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Coming Soon to a Publication Near You
 
-Above lists work that is on-going. The following are some of the publications that are nearly done. Learn about the stages from **[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)**.
+The following are just a few of the publications that are nearly done. Learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**) and other stages from [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/)**==.
 
-* **WCAG 2.2** is planned to go to "Candidate Recommendation" stage as soon as open issues are addressed.
+* WCAG 2.2 to Wide Review or CR in Q2 2022; finalized in 2022
 
-* **EPUB 3.3**, with updates to the core specification and to EPUB Accessibility 1.1, is planned to go to "Candidate Recommendation" stage the end of March 2022.
+* EPUB 3.3 and EPUB Accessibility 1.1 to CR end of March 2022
 
 **News:** Subcribe to get notified when these and other accessibility documents are published, see [[Get WAI News]](/news/subscribe/).
 
 ## Wait, Wait, There's More
 
-This page lists about half of the active work on accessibility at W3C. To learn more about what that the Working Groups are up to, see:
+This page lists only about half of the active work on accessibility at W3C. To learn more about what that the Working Groups are up to, see:
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
 * [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
 * [@@ ARIA Current Work @@](https://www.w3.org/@@) of the Accessible Rich Internet Applications (ARIA) Working Group
@@ -193,9 +194,9 @@ Links to the "How to Participate" page for each Working Group are in the [Partic
 If you are interested in a Task Force, see participation information for the parent Working Group.
 
 
-<br><br><hr/>
+<br><br><br>
 
-======= @@ END DRAFT - below are internal notes @@ =======
+======= END DRAFT - below are internal notes on things that are not listed above =======
 
 **current projects not listed &mdash; why (see [Scope in the Requirement Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis#scope))**
 * Eval Tools list redesign (EOWG) &mdash; we're not seeking additional contributions right now, and it's not a new things
