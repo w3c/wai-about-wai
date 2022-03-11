@@ -5,7 +5,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "Accessibility Work at W3C (March 2022)"
-title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: 0.875rem;''>What we're up to in March 2022</span>"
+title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: 0.875em;''>What we're up to in March 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -112,7 +112,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** is an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA** &mdash; we're working on [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release) such as additional support for Braille.  _[ARIA WG]_
+* **ARIA** &mdash; we're working on [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release) such as additional support for Braille.  _[ARIA WG]_ @@checking with James on this...
 
 ### Developing New Standards
 
