@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications<br>W3C WAI, Updated March 2020</span>"
+title_html: "<span style='line-height:1;''>What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications<br>W3C WAI, Updated March 2022</span></span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -25,7 +25,7 @@ feedbackmail: wai@w3.org
 # Do not change the dates in the footer below.
 footer: >
    <p><strong>Date:</strong> Updated 11 March 2022. <!-- First published March 2022. CHANGELOG. --></p>
-   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
+   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
@@ -34,7 +34,7 @@ footer: >
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page highlights some current W3C WAI work. It points out how you can contribute to making digital technology more accessible to people with disabilities.
+This page highlights some current work at the [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/)). It points out how you can contribute to making digital technology more accessible to people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -181,28 +181,4 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
     <button class="showhidebutton" data-target=".making-web-accessible .inner:not(.hidesection)" aria-expanded="true" data-showhidebuttonid="homepage-making-web-accessible" data-showtext="Show information about W3C, WAI, You" data-hidetext="Hide Section">Hide Section</button>
   </div>
 </section>
-
-<br><br><br>
-
-======= END DRAFT - below are internal notes on things that are not listed above =======
-
-@@ note to shawn: add link to this page to MRM Scipt
-
-**current projects not listed &mdash; why (see [Scope in the Requirement Analysis](https://github.com/w3c/wai-about-wai/wiki/What-WAI-is-Working-On-Requirements-Analysis#scope))**
-* Eval Tools list redesign (EOWG) &mdash; we're not seeking additional contributions right now, and it's not a new things
-* Course list (EOWG) &mdash; we're not seeking additional contributions right now
-* Authoring Tools list (EOWG) &mdash; we're not seeking additional contributions right now
-* Easy Checks – A First Review of Web Accessibility (EOWG) &mdash; we're not going to get to it for a few months and we have out hands full with other things. (drafted: We hope to do a significant update of this in late 2022. We welcome contributions from user interface designers and coders.)
-* Accessibility of Remote Meetings (RQTF, APA) &mdash; we're not seeking additional contributions right now
-* W3Cx course update (WAI staff, EOWG) &mdash; we're not seeking additional contributions right now
-
-**for AUR page -- also:**
-
-* **Media Accessibility User Requirements (MAUR)** is a published Working Group Note. This document presents the accessibility requirements users with disabilities have with respect to audio and video on the web.  [About MAUR](https://www.w3.org/blog/2015/12/media-accessibility-user-requirements-is-a-w3c-note/), [MAUR Note](https://www.w3.org/TR/media-accessibility-reqs/)
-
-* **RTC Accessibility User Requirements (RAUR)** is a published Working Group Note. Real-time communication (RTC) provides real-time peer to peer audio, video, and data exchange directly between supported user agents. This enables instantaneous applications for video and audio calls, text chat, file exchange, screen sharing, and gaming. [RAUR Note](https://www.w3.org/TR/raur/)
-
-**Link markdown template in markdown**:
-* [[Exact Title of Page on WAI website]](/permalink/to/page/)
-* [WAI website but not exact title](/permalink/to/page/)
-* [link off WAI website, including W3C pages](https://example.com)
+@@ note to shawn: add link to this page to MRM script
