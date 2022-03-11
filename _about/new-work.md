@@ -28,6 +28,11 @@ footer: >
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
+inline_css: |
+  dl.translations > div {
+    margin-block-end: 1em;
+  }
+  
 ---
 
 {::nomarkdown}
@@ -52,7 +57,7 @@ This page highlights some current work at the [W3C](https://www.w3.org/Consortiu
 
 ## Introduction
 
-We hope you'll find accessibility work on this page that you are interested in contributing to through the W3C Web Accessibility Initiative (WAI). After each item, is the acronym of the responsible Working Group (WG) and some Task Forces (TF), so you know where to go if you want to participate. That information is later in this page &mdash; first, let's look at some of the work itself.
+We hope you'll find accessibility work on this page that you are interested in contributing to through W3C WAI. After each item, is the acronym of the responsible Working Group (WG) and some Task Forces (TF), so you know where to go if you want to participate. That information is later in this page &mdash; first, let's look at some of the work itself.
 
 ## Current Work Highlights
 
@@ -120,7 +125,7 @@ This page _only lists about half_ of the active work on accessibility at W3C. Mu
 
 To learn more about what that the Working Groups are working on right now, see:
 
-* [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) - Accessibility Education and Outreach (EO) Working Group
+* [EOWG Current Work](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) - lists over 20 current and upcoming projects of the Accessibility Education and Outreach (EO) Working Group
 * [APA Current Work](https://www.w3.org/WAI/APA/#work) - Accessible Platform Architectures (APA) Working Group
 * [ARIA Working Drafts](https://www.w3.org/groups/wg/aria/publications#WD) - Accessible Rich Internet Applications (ARIA) Working Group
 * [AG WG Current Work](https://www.w3.org/WAI/GL/#work) - Accessibility Guidelines (AG) Working Group
@@ -147,7 +152,7 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
 
 **We look forward to your contributions to making the web more accessible to people with disabilities!**
 
-## Who is We
+### Who is We
 
 "We" is:
 
@@ -177,8 +182,4 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
       <p>You can use W3C WAI resources to make your websites, applications, and other digital creations more accessible and usable to everyone.</p>
     </div>
   </div>
-  <div class="inner hidesection">
-    <button class="showhidebutton" data-target=".making-web-accessible .inner:not(.hidesection)" aria-expanded="true" data-showhidebuttonid="homepage-making-web-accessible" data-showtext="Show information about W3C, WAI, You" data-hidetext="Hide Section">Hide Section</button>
-  </div>
 </section>
-@@ note to shawn: add link to this page to MRM script
