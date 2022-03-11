@@ -126,7 +126,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 * **Cognitive Accessibility** &mdash; We're updating several documents to better address the needs of people with cognitive and learning disabilities. A current topic is mental health. [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
 
-* **Low Vision Accessibility** &mdash; We're writing guidance that goes beyong the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
+* **Low Vision Accessibility** &mdash; We're writing guidance that goes beyond the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
 
 * **EPUB Fixed Layout Accessibility** aims to help publishers address challenges for people with cognitive disabilities and low vision. [EPUB Fixed Layout Accessibility Editor's Draft](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3 WG, FXL A11y TF]_
 
@@ -154,7 +154,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Coming Soon to a Publication Near You
 
-The following are just a few of the documents that getting close to publication. Q2 is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The following are just a few of the documents that are getting close to publication. Q2 is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
 * **ARIA 1.2** to PR in Q2 2022
@@ -183,7 +183,7 @@ The [W3C WAI website](https://www.w3.org/WAI/) has videos, tips, tutorials, tran
 
 To discover existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).**
 
-## Here's How to Get Involved {#participate}
+## How to Get Involved {#participate}
 
 To learn about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
