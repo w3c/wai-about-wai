@@ -5,7 +5,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "Accessibility Work at W3C (March 2022)"
-title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: .5em;''>What we're up to in March 2022</span>"
+title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: 0.875rem;''>What we're up to in March 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -108,11 +108,11 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** is addressing comments on the previous draft and plans  to be completed in 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; we're addressing comments on the previous draft and plans  to be completed in 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
 
-* **W3C Accessibility Guidelines (WCAG) 3.0** an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
+* **W3C Accessibility Guidelines (WCAG) 3.0** is an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA** @@ ... very short, succinct description and link **_only_ to select active work where you want to entice participation**  -- you can **link to all ARIA Current Work** in the [There’s More section](https://deploy-preview-126--wai-about-wai.netlify.app/about/new-work/#wait-wait-theres-more) and list things in the [coming soon publications](#coming-soon-to-a-publication-near-you) @@ ... _[ARIA WG]_
+* **ARIA** &mdash; we're working on [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release) such as additional support for Braille.  _[ARIA WG]_
 
 ### Developing New Standards
 
@@ -156,9 +156,9 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 The following are just a few of the documents that getting close to publication. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* **WCAG 2.2** to CR in Q2 2022; finalized in 2022
-* **ARIA** @@
 * **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
+* **ARIA 1.2** to PR in Q2 2022
+* **WCAG 2.2** to CR in Q2 2022; finalized in 2022
 
 ### Get Updated
 
@@ -172,7 +172,7 @@ To learn more about what that the Working Groups are _up to right now_, see:
 
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
 * [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
-* [@@ ARIA Current Work @@](https://www.w3.org/@@) of the Accessible Rich Internet Applications (ARIA) Working Group
+* [ARIA Working Drafts](https://www.w3.org/groups/wg/aria/publications#WD) of the Accessible Rich Internet Applications (ARIA) Working Group
 * [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) of the Accessibility Education and Outreach (EO) Working Group
 * [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
 * @@ other W3C group work related to accessibility that we want to list?
