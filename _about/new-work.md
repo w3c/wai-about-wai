@@ -5,7 +5,7 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "Accessibility Work at W3C (March 2022)"
-title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: 0.875em;''>What we're up to in March 2022</span>"
+title_html: "Accessibility Work at W3C<br><span style='font-style: italic; font-size: 0.625em;''>What we're up to in March 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
