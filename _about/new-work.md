@@ -108,27 +108,29 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; we're addressing comments on the previous draft and plans  to be completed in 2022. Note that these links have information that will change: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We're addressing public comments, and will be completed in 2022. Note that these links have information that will likely change with the updates: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
 
-* **W3C Accessibility Guidelines (WCAG) 3.0** is an early draft of a few aspects of a potential new standard. It is years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
+* **W3C Accessibility Guidelines (WCAG) 3.0** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA** &mdash; we're working on [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release) such as additional support for Braille.  _[ARIA WG]_ @@checking with James on this...
+* **ARIA 1.2** &mdash; We're documenting "implementations"; that is, how browsers support ARIA.   _[ARIA WG]_
+
+* **ARIA 1.3**  &mdash; We're working on additional support for Braille and other [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release).  _[ARIA WG]_
 
 ### Developing New Standards
 
 * **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/) _[APA WG, Personalization TF]_
 
-* **Spoken Pronunciation** technical standards are being developed to enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _[APA WG, Spoken Pronunciation TF]_
+* **Spoken Pronunciation** technical standards will enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _[APA WG, Spoken Pronunciation TF]_
 
 ### Documenting Additional Guidance for People with Cognitive Disabilities, Low Vision, and Mobile Devices
 
-* **Cognitive Accessibility** &mdash; We are updating several documents to better address the needs of people with cognitive and learning disabilities. [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
+* **Cognitive Accessibility** &mdash; We're updating several documents to better address the needs of people with cognitive and learning disabilities. A current topic is mental health. [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
 
-* **EPUB Fixed Layout Accessibility** &mdash; aims to help publishers produce more accessible content and address challenges for people with cognitive disabilities and low vision. [EPUB Fixed Layout Accessibility Editor's Draft](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3 WG, FXL A11y TF]_
+* **Low Vision Accessibility** &mdash; We're writing guidance that goes beyong the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
 
-* **Low Vision Accessibility**  &mdash; We are writing guidance that goes beyong the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
+* **EPUB Fixed Layout Accessibility** aims to help publishers address challenges for people with cognitive disabilities and low vision. [EPUB Fixed Layout Accessibility Editor's Draft](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3 WG, FXL A11y TF]_
 
-* **Mobile Accessibility** &mdash; work includes supporting on-going standards development, including supporting WCAG 3. [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) _[AG WG, Mobile TF]_
+* **Mobile Accessibility** work includes supporting on-going standards development, including supporting WCAG 3 exploration. [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) _[AG WG, Mobile TF]_
 
 ### Defining User Requirements (AUR) and Emerging Technologies
 
@@ -140,21 +142,19 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **Synchronization Accessibility User Requirements (SAUR)** is a Working Draft. Synchronization of multimedia content, especially audio and video, is essential for accessible web-based communication and cooperation. To be understandable, media needs to be synchronized to very specific limits. [SAUR Draft](https://www.w3.org/TR/saur/) _[APA WG, Research TF]_
 
-* **How People with Disabilities Use the Web** helps you understand user needs broadly. We are updating this resrouce and creating videos to go along with it. [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
-
-* **Cognitive accessibility user requirements** &mdash; Updating documentation on the user needs of people with cognitive and learning disabilities is happening through the Cognitive and Learning Disabilities Accessibility Task Force (COGA).  _[AG WG, COGA TF]_
+* **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and creating new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
 
 ### Teaching Accessibility
 
-**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We are currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://content-author-modules--wai-curricula.netlify.app/curricula/content-author-modules/) _[EOWG]_
+**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We're currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://content-author-modules--wai-curricula.netlify.app/curricula/content-author-modules/) _[EOWG]_
 
 ### Testing Accessibility
 
-**WCAG 2 Test Rules** (also known as ACT Rules) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
+**WCAG 2 Test Rules** (also known as **ACT Rules**) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
 
 ## Coming Soon to a Publication Near You
 
-The following are just a few of the documents that getting close to publication. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The following are just a few of the documents that getting close to publication. Q2 is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
 * **ARIA 1.2** to PR in Q2 2022
@@ -168,7 +168,7 @@ To get news via e-mail, Twitter, or Atom/RSS feed when these and other accessibi
 
 This page _only lists about half_ of the active work on accessibility at W3C. Much of the work happens in the accessibility groups that are introduced in the [W3C Working Groups page](https://www.w3.org/groups/wg/#wg-list).
 
-To learn more about what that the Working Groups are _up to right now_, see:
+To learn more about what that the Working Groups are _working on right now_, see:
 
 * [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
 * [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
