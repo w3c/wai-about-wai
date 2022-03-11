@@ -152,7 +152,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 **WCAG 2 Test Rules** (also known as **ACT Rules**) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
 
-## Coming Soon to a Publication Near You
+## Publications Just Around the Corner _or_ Coming Soon to a Publication Near You
 
 The following are just a few of the documents that are getting close to publication. Q2 is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
@@ -183,7 +183,7 @@ The [W3C WAI website](https://www.w3.org/WAI/) has videos, tips, tutorials, tran
 
 To discover existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).**
 
-## How to Get Involved {#participate}
+## Here's How to Get Involved {#participate}  _or_ How to Get Involved 
 
 To learn about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
