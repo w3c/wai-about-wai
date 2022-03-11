@@ -4,8 +4,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Advancing Accessibility at W3C WAI (March 2022)"
-title_html: "Advancing Accessibility at W3C WAI<br><span style='font-style: italic; font-size: 0.625em;'>March 2020 Activities and Upcoming Publications</span>"
+title: "What We're Working On"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'>Accessibility Activities and Upcoming Publications from W3C WAI, updated March 2020</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -22,12 +22,6 @@ github:
   repository: w3c/wai-about-wai
   path: _about/new-work.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /about/new-work/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
-
-# NEW: 3 navigation lines below are only needed for multi-page resources where you have previous and next at the bottom. If so, un-comment them; otherwise delete these lines.
-# navigation:
-  # previous: /path/to/previous/file/
-  # next: /path/to/next/file/
-# @@SLH To Do: figure out if need to add lang here, too, and if this replaces "order" from older resources?
 
 ref: /about/new-work/   # Translators, do not change this
 # changelog: /@@/changelog/
@@ -46,7 +40,7 @@ feedbackmail: wai@w3.org  # NEW: delete this line if it’s an EOWG resource (th
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated @@ March 2022. First published March 2022.<!-- CHANGELOG.--></p>
+   <p><strong>Date:</strong> Updated 11 March 2022. <!-- First published March 2022. CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -152,7 +146,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 **WCAG 2 Test Rules** (also known as **ACT Rules**) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
 
-## Publications Just Around the Corner _or_ Coming Soon to a Publication Near You
+## Upcoming Publications
 
 The following are just a few of the documents that are getting close to publication. Q2 is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
@@ -170,12 +164,11 @@ This page _only lists about half_ of the active work on accessibility at W3C. Mu
 
 To learn more about what that the Working Groups are _working on right now_, see:
 
-* [@@ AG WG Current Work @@](https://www.w3.org/@@) of the Accessibility Guidelines (AG) Working Group
-* [@@ APA Current Work @@](https://www.w3.org/@@) of the Accessible Platform Architectures (APA) Working Group
-* [ARIA Working Drafts](https://www.w3.org/groups/wg/aria/publications#WD) of the Accessible Rich Internet Applications (ARIA) Working Group
 * [EOWG Current Projects](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) of the Accessibility Education and Outreach (EO) Working Group
+* [APA Current Work](https://www.w3.org/WAI/APA/#work) of the Accessible Platform Architectures (APA) Working Group
+* [ARIA Working Drafts](https://www.w3.org/groups/wg/aria/publications#WD) of the Accessible Rich Internet Applications (ARIA) Working Group
+* [AG WG Current Work](https://www.w3.org/WAI/GL/#work) of the Accessibility Guidelines (AG) Working Group
 * [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
-* @@ other W3C group work related to accessibility that we want to list?
 
 ### Did you know?
 
@@ -183,7 +176,7 @@ The [W3C WAI website](https://www.w3.org/WAI/) has videos, tips, tutorials, tran
 
 To discover existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).**
 
-## Here's How to Get Involved {#participate}  _or_ How to Get Involved 
+## How to Get Involved {#participate}
 
 To learn about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
@@ -195,9 +188,13 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
 
 **We look forward to your contributions to making the web more accessible to people with disabilities!**
 
-### Who
+### Who is We
 
-"We" is WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several WAI [Alumni](https://www.w3.org/People/Alumni). And participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and several other W3C groups.
+By "we", we mean:
+
+* [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/))
+* WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several WAI [Alumni](https://www.w3.org/People/Alumni)
+* Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other W3C groups
 
 <br><br><br>
 
