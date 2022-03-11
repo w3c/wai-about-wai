@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications<br>W3C WAI, Updated March 2022</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, March 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -57,7 +57,7 @@ This page highlights some current work at the [W3C](https://www.w3.org/Consortiu
 
 ## Introduction
 
-We hope you'll find accessibility work on this page that you are interested in contributing to through W3C WAI. After each item is the acronym of the responsible Working Group (WG) and some Task Forces (TF), so you know where to look if you want to participate. That information is later in this page &mdash; first, let's look at some of the work itself.
+We hope you'll find accessibility work on this page that you are interested in contributing to through W3C WAI. After each item is the acronym of the responsible Working Group (WG) and some Task Forces (TF). Information about the groups is later in this page &mdash; first, let's look at some of the work itself.
 
 ## Current Work Highlights
 
@@ -136,9 +136,9 @@ To learn more about what that the Working Groups are working on right now, see:
 
 ### Surprise! We already have a resource for that
 
-Did you know the [W3C WAI website](https://www.w3.org/WAI/) has: **videos, tips, tutorials, tools, translations, training** (a free online course), and so much more. There are [resources for](https://www.w3.org/WAI/roles/) content authors, designers, developers, evaluators, testers, managers, policy makers, trainers, educators, web users, advocates, and people with disabilities.
+Did you know the WAI website has: **videos, tips, tutorials, tools** (for generating reports and accessibility statements), **translations** (over 35 languages), **training** (a free online course), and so much more. There are [resources for](https://www.w3.org/WAI/roles/) content authors, designers, developers, evaluators, testers, managers, policy makers, trainers, educators, web users, advocates, and people with disabilities.
 
-To **discover** existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).** We encourage you to find resources that you're interested in reading and sharing with others. 
+**Discover** accessibility resources that _you didn't even know existed_ from **[[WAI Resources]](/resources/).** When you find helpful information, would you **share it with others**.
 
 ## How to Get Involved {#participate}
 
