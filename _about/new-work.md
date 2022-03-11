@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications<br>W3C WAI, Updated for March 2022</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications<br>W3C WAI, Updated March 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -134,11 +134,11 @@ To learn more about what that the Working Groups are working on right now, see:
   * [Mobile Current Work](https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Main_Page) - Mobile Accessibility Task Force
 * [EPUB 3 Working Group document publication status and milestones](https://www.w3.org/publishing/groups/epub-wg/PublStatus)
 
-### Did you know?
+### Surprise! We already have a resource for that
 
-The [W3C WAI website](https://www.w3.org/WAI/) has videos, tips, tutorials, translations, a free online course, and so much more. We encourage you to look around to find other resources that you might be interested in reading, contributing to, and sharing with others.
+Did you know the [W3C WAI website](https://www.w3.org/WAI/) has: **videos, tips, tutorials, tools, translations, a free online course**, and so much more. There are [resources for](https://www.w3.org/WAI/roles/) content authors, designers, developers, evaluators, testers, managers, policy makers, trainers, educators, web users, advocates, and people with disabilities.
 
-To discover existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).**
+To **discover** existing accessibility resources that you didn't even know about, see **[[WAI Resources]](/resources/).** We encourage you to find resources that you might be interested in reading, contributing to, and sharing with others. 
 
 ## How to Get Involved {#participate}
 
