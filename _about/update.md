@@ -109,9 +109,9 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Upcoming Publications
 
-The following are just a few of the documents that are getting close to publication. Q2 is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents by "Q2", which is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* **EPUB 3.3** and EPUB Accessibility 1.1 to CR end of March 2022
+* **EPUB 3.3** and **EPUB Accessibility 1.1** to CR end of March 2022
 * **ARIA 1.2** to PR in Q2 2022
 * **WCAG 2.2** to CR in Q2 2022; finalized in 2022
 
