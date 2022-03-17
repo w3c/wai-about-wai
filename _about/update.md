@@ -14,8 +14,8 @@ ref: /update/   # Translators, do not change this
 # changelog: /@@/changelog/
 # acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 
-# description: Find out what we're doing now at the W3C Web Accessibility Initiative (WAI). Get news and learn about upcoming publications and contribution opportunities.   # translate the description
-# image: /content-images/wai-about-wai/update_social.png
+description: Find out what we're doing now at the W3C Web Accessibility Initiative (WAI). Get news and learn about upcoming publications and contribution opportunities.   # translate the description
+image: /content-images/wai-about-wai/update_social.png
 feedbackmail: wai@w3.org
 
 # In the footer below:
