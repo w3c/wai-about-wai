@@ -15,7 +15,7 @@ ref: /update/   # Translators, do not change this
 # acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 
 # description:  # NEW: add a 150ish-character-description for social media   # translate the description
-# image: /content-images/wai-@@repo/social.png  # NEW: image for social media
+# image: /content-images/wai-about-wai/update_social.png
 feedbackmail: wai@w3.org
 
 # In the footer below:
