@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 11 March 2022. <!-- First published March 2022. CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 18 March 2022. <!-- First published March 2022. CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -113,7 +113,7 @@ We plan to publish the following documents by "Q2", which is April, May, June. T
 
 * **EPUB 3.3** and **EPUB Accessibility 1.1** to CR end of March 2022
 * **ARIA 1.2** to PR in Q2 2022
-* **WCAG 2.2** to CR in Q3 2022; finalized in 2022
+* **WCAG 2.2** to CR in Q2 2022; finalized by Setpember 2022
 
 ### Get Updated
 
