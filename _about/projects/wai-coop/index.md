@@ -43,8 +43,8 @@ This page provides information on the Web Accessibility Initiative - Communities
 
 Current project activites include:
 
-**Frequently Asked Questions (FAQs) and Help Desk**
-: [Web Accessibility Directive: Frequently Asked Questions](https://web-directive.eu/) provides responses "help desk" questions on implementing the EU Web Accessibility Directive (WAD).
+**[Web Accessibility Directive: Frequently Asked Questions](https://web-directive.eu/)**
+: Provides responses "help desk" questions on implementing the EU Web Accessibility Directive (WAD) in an FAQ format.
 
 **[List of Courses on Digital Accessibility](https://github.com/w3c/wai-course-list/)**
 :  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype](https://wai-list-of-courses.netlify.app/list-of-courses/)@@broken-link@@ is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
@@ -60,7 +60,7 @@ Completed project deliverables include:
 ## Project Deliverables
 {:#deliverables}
 
-Technical project deliverables include:
+Technical project deliverables planned:
 
 -   **Monitor Market Developments**
     -   **Accessibility Training and Certification** — establish a W3C List of Web Accessibility Training and Certification with mappings to the [WAI Curricula](https://www.w3.org/WAI/curricula/)
@@ -89,7 +89,7 @@ Most of the project work listed above is developed through or in coordination wi
 
 We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
 
-See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
+See also [Participating in WAI](http://www.w3.org/WAI/participation).<s> If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).</s>@@replace or delete?@@
 
 ## About the Project
 {:#about}
