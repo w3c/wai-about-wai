@@ -35,7 +35,7 @@ This page provides information on the Web Accessibility Initiative - Communities
 {:#announcements}
 
 -   **19 April:** [WAI-CooP Online Meeting, 19 April 2022](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
--   **Sign-Up:** to [receive WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
+-   **Sign-Up:** to [receive WAI-CooP Project Updates by e-mail](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   WAI-CooP Project started on 1 January 2021
 
 ## Project Results
