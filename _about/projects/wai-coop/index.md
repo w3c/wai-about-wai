@@ -35,7 +35,7 @@ This page provides information on the Web Accessibility Initiative - Communities
 {:#announcements}
 
 -   **19 April:** [WAI-CooP Online Meeting, 19 April 2022](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
--   **Sign-Up:** to receive [WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
+-   **Sign-Up:** to [receive WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   WAI-CooP Project started on 1 January 2021
 
 ## Project Results
@@ -60,7 +60,7 @@ Completed project deliverables include:
 ## Project Deliverables
 {:#deliverables}
 
-Technical project deliverables planned:
+Technical deliverables planned:
 
 -   **Monitor Market Developments**
     -   **Accessibility Training and Certification** — establish a W3C List of Web Accessibility Training and Certification with mappings to the [WAI Curricula](https://www.w3.org/WAI/curricula/)
@@ -89,7 +89,7 @@ Most of the project work listed above is developed through or in coordination wi
 
 We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
 
-See also [Participating in WAI](http://www.w3.org/WAI/participation).<s> If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).</s>@@replace or delete?@@
+See also [Participating in WAI](http://www.w3.org/WAI/participation).<s> If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).</s>_@@replace or delete?@@_
 
 ## About the Project
 {:#about}
@@ -102,7 +102,7 @@ WAI-CooP, Communities of Practice, is a Coordination and Support Action project,
 
 WAI-CooP achieves this by building on the existing wealth of authoritative guidance available from the W3C Web Accessibility Initiative (WAI), to provide a one-stop shop for the broad spectrum of key stakeholders involved in the implementation of digital accessibility. This includes public bodies and private entities; organisations representing people with disabilities; product, service, and training providers; researchers; and policy makers.
 
-See [project deliverables](#deliverables) above<s> and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) for more information</s>@@replace or delete?@@.
+See [project deliverables](#deliverables) above<s> and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) for more information</s>_@@replace or delete?@@_.
 
 ## Project Partners
 {:#partners}
