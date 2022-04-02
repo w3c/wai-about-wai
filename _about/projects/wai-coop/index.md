@@ -41,7 +41,7 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Project Results
 {:#results}
 
-Current project activites include:
+Current project activities include:
 
 **[Web Accessibility Directive: Frequently Asked Questions](https://web-directive.eu/)**
 : Provides responses "help desk" questions on implementing the EU Web Accessibility Directive (WAD) in an FAQ format.
