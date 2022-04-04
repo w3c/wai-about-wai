@@ -44,7 +44,7 @@ This page provides information on the Web Accessibility Initiative - Communities
 Current project activities include:
 
 **[Web Accessibility Directive: Frequently Asked Questions](https://web-directive.eu/)**
-: Provides responses to "help desk" questions on implementing the EU Web Accessibility Directive (WAD) in an FAQ format.
+: Provides responses to frequently asked questions (FAQ) on implementing the EU Web Accessibility Directive (WAD). Stakeholders can ask new questions from the "Contact our help desk" link.
 
 **[List of Courses on Digital Accessibility](https://github.com/w3c/wai-course-list/)**
 :  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype](https://wai-list-of-courses.netlify.app/list-of-courses/)@@broken-link@@ is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
