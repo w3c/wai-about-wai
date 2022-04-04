@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 1 April 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 4 April 2022 (just added the "Updates to this update (changelog)" heading placeholder). First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -183,3 +183,7 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
     </div>
   </div>
 </section>
+
+## Updates to this update (changelog)
+
+_When we have substantive updates to this page, we'll list them here. We'll also send e-mails, tweets, and ATOM/RSS feed news of significant updates._
