@@ -47,7 +47,7 @@ Current project activities include:
 : Provides responses to frequently asked questions (FAQ) on implementing the EU Web Accessibility Directive (WAD). Stakeholders can ask new questions from the "Contact our help desk" link.
 
 **[List of Courses on Digital Accessibility](https://github.com/w3c/wai-course-list/)**
-:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype](https://wai-list-of-courses.netlify.app/list-of-courses/)@@broken-link@@ is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
+:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype List of Courses](https://deploy-preview-4--wai-course-list.netlify.app/course-list/) and [Courses submission form](https://deploy-preview-4--wai-course-list.netlify.app/course-list/submit-a-resource)is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
 
 **[Accessibility Conformance Testing (ACT) Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/)**
 :  Includes promoting, tracking, and validating implementations of "Accessibility Conformance Testing (ACT) Rules" in automated testing tools and manual testing methodologies. This includes completed [redesign of the user interface](https://www.w3.org/WAI/standards-guidelines/act/rules/about/) to better integrate implementation reports submitted by different vendors. This work is being carried out in the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group (AGWG).
@@ -89,7 +89,7 @@ Most of the project work listed above is developed through or in coordination wi
 
 We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
 
-See also [Participating in WAI](http://www.w3.org/WAI/participation).<s> If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).</s>_@@replace or delete?@@_
+See also [Participating in WAI](http://www.w3.org/WAI/participation).<s> If you have any questions, contact [Judy Brewer](https://www.w3.org/People/Brewer/).
 
 ## About the Project
 {:#about}
@@ -102,7 +102,7 @@ WAI-CooP, Communities of Practice, is a Coordination and Support Action project,
 
 WAI-CooP achieves this by building on the existing wealth of authoritative guidance available from the W3C Web Accessibility Initiative (WAI), to provide a one-stop shop for the broad spectrum of key stakeholders involved in the implementation of digital accessibility. This includes public bodies and private entities; organisations representing people with disabilities; product, service, and training providers; researchers; and policy makers.
 
-See [project deliverables](#deliverables) above<s> and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) for more information</s>_@@replace or delete?@@_.
+See [project deliverables, above](#deliverables).
 
 ## Project Partners
 {:#partners}
@@ -110,7 +110,7 @@ See [project deliverables](#deliverables) above<s> and contact [Shadi Abou-Zahra
 WAI-CooP project partners include:
 
 -   [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) – as part of W3C, France
--   [European Disability Forum (EDF) {% include_cached external.html %}](http://edf-feph.org/)@@broken-link@@, Belgium
+-   [European Disability Forum (EDF) {% include_cached external.html %}](https://www.edf-feph.org/), Belgium
 -   [HAN University of Applied Sciences {% include_cached external.html %}](https://hanuniversity.com/en/), Netherlands
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
 -   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands
