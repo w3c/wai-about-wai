@@ -89,7 +89,7 @@ Most of the project work listed above is developed through or in coordination wi
 
 We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
 
-See also [Participating in WAI](http://www.w3.org/WAI/participation).<s> If you have any questions, contact [Judy Brewer](https://www.w3.org/People/Brewer/).
+See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Judy Brewer](https://www.w3.org/People/Brewer/).
 
 ## About the Project
 {:#about}
