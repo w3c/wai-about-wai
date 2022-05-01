@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, April 2022</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, May 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 4 April 2022 (just added the "Updates to this update (changelog)" heading placeholder). First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 30 April 2022. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -63,7 +63,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We're addressing public comments, and will be completed in 2022. Note that these links have information that will likely change with the updates: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We're addressing public comments, and plan to publish the completed standard by September 2022. Note that these links have information that will likely change with the updates: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3.0** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
@@ -73,7 +73,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Developing New Standards
 
-* **Personalization** (renaming in progress, maybe _Personalized Adaptation_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/) _[APA WG, Personalization TF]_
+* **Personalization** (will be re-named _WAI-Adapt_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/) _[APA WG, Personalization TF]_
 
 * **Spoken Pronunciation** technical standards will enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _[APA WG, Spoken Pronunciation TF]_
 
@@ -93,15 +93,12 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About  NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Draft](https://www.w3.org/TR/naur)  _[APA WG, Research TF]_
 
-* **XR Accessibility User Requirements (XAUR)** is a Working Draft. XAUR describes the needs of people with disabilities in virtual or immersive environments (XR). It includes requirements for XR to be accessible. XAUR is for designers and developers who are involved in creating XR experiences. [XAUR Draft](https://www.w3.org/TR/xaur/) _[APA WG, Research TF]_
-
-* **Synchronization Accessibility User Requirements (SAUR)** is a Working Draft. Synchronization of multimedia content, especially audio and video, is essential for accessible web-based communication and cooperation. To be understandable, media needs to be synchronized to very specific limits. [SAUR Draft](https://www.w3.org/TR/saur/) _[APA WG, Research TF]_
-
 * **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and creating new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
+
 
 ### Teaching Accessibility
 
-**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We're currently working on modules for content authors. [[Existing Curricula]](/curricula/), [Content Authors rough draft outline](https://content-author-modules--wai-curricula.netlify.app/curricula/content-author-modules/) _[EOWG]_
+**Curricula on Web Accessibility** is a framework to build your own courses. It currently includes modules for foundations for everyone, for developers, and for designers. We're currently working on modules for content authors. [Existing Curricula](/curricula/), [Content Authors in-progress draft](https://wai-curricula.netlify.app/curricula/content-author-modules/) _[EOWG]_
 
 ### Testing Accessibility
 
@@ -111,9 +108,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 We plan to publish the following documents by "Q2", which is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* **EPUB 3.3** and **EPUB Accessibility 1.1** to CR end of March 2022
-* **ARIA 1.2** to PR in Q2 2022
-* **WCAG 2.2** to CR in Q2 2022; finalized by September 2022
+* [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR in Q2 2022
+* [Personalization documents](https://www.w3.org/WAI/personalization/) will be re-named "WAI-Adapt" and published as updated drafts or CR in Q2 2022
+* [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q2 2022; finalized by September 2022
+
+Recent publications are other announcements are on the **[News pages](/news/)**.
 
 ### Get Updated
 
@@ -184,6 +183,6 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
   </div>
 </section>
 
-## Updates to this update (changelog)
+## Updates to this page (changelog)
 
-_When we have substantive updates to this page, we'll list them here. We'll also send e-mails, tweets, and ATOM/RSS feed news of significant updates._
+* 30 April 2022 &mdash; Minor updates shown in GitHub [code-level diff](https://github.com/w3c/wai-about-wai/pull/141/files), [rich diff](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
