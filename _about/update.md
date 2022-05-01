@@ -185,4 +185,4 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
 
 ## Updates to this page (changelog)
 
-* 30 April 2022 &mdash; Minor updates shown in GitHub code-level diff, rich diff
+* 30 April 2022 &mdash; Minor updates shown in GitHub [code-level diff](https://github.com/w3c/wai-about-wai/pull/141/files), [rich diff](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
