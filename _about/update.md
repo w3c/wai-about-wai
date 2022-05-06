@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 30 April 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 5 May 2022. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -112,7 +112,7 @@ We plan to publish the following documents by "Q2", which is April, May, June. T
 * [Personalization documents](https://www.w3.org/WAI/personalization/) will be re-named "WAI-Adapt" and published as updated drafts or CR in Q2 2022
 * [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q2 2022; finalized by September 2022
 
-Recent publications are other announcements are on the **[News pages](/news/)**.
+Recent publications and other announcements are on the **[News page](/news/)**.
 
 ### Get Updated
 
@@ -137,7 +137,7 @@ To learn more about what that the Working Groups are working on right now, see:
 
 Did you know the WAI website has: **videos, tips, tutorials, tools** (for generating reports and accessibility statements), **translations** (over 35 languages), **training** (a free online course), and so much more. There are [resources for](https://www.w3.org/WAI/roles/) content authors, designers, developers, evaluators, testers, managers, policy makers, trainers, educators, web users, advocates, and people with disabilities.
 
-**Discover** accessibility resources that _you didn't even know existed_ from **[[WAI Resources]](/resources/).** When you find helpful information, would you **share it with others**.
+**Discover** accessibility resources that _you didn't even know existed_ from the annotated list of **[[WAI Resources]](/resources/).** When you find helpful information, would you **share it with others**.
 
 ## How to Get Involved {#participate}
 
@@ -147,7 +147,7 @@ Links to each Working Group's "How to Participate" page are in the [Participatin
 
 If you are interested in a Task Force, see participation information for the parent Working Group.
 
-We also have some ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
+We also offer ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
 
 **We look forward to your contributions to making the web more accessible to people with disabilities!**
 
@@ -185,4 +185,5 @@ We also have some ideas for [Promoting and Implementing Web Accessibility](https
 
 ## Updates to this page (changelog)
 
+* 5 May 2022 &mdash; just a few little language edits.
 * 30 April 2022 &mdash; Minor updates shown in GitHub [code-level diff](https://github.com/w3c/wai-about-wai/pull/141/files), [rich diff](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
