@@ -73,7 +73,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Developing New Standards
 
-* **Personalization** (will be re-named _WAI-Adapt_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/) _[APA WG, Personalization TF]_
+* **WAI-Adapt** involves tailoring the user experience to meet the needs and preferences of the individual user. [[WAI-Adapt Overview]](/adapt/) _[APA WG, WAI-Adapt TF]_
 
 * **Spoken Pronunciation** technical standards will enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _[APA WG, Spoken Pronunciation TF]_
 
@@ -109,7 +109,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 We plan to publish the following documents by "Q2", which is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR in Q2 2022
-* [Personalization documents](https://www.w3.org/WAI/personalization/) will be re-named "WAI-Adapt" and published as updated drafts or CR in Q2 2022
+* [WAI-Adapt documents](https://www.w3.org/WAI/adapt/) published as updated drafts or CR in Q2 2022
 * [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q2 2022; finalized by September 2022
 
 Recent publications and other announcements are on the **[News page](/news/)**.
