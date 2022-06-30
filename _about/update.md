@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, June 2022</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, July 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 1 June 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 30 June 2022. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -106,11 +106,13 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Upcoming Publications
 
-We plan to publish the following documents by "Q2", which is April, May, June. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents in "Q3", which is July, August, September. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR in Q2 2022
-* [Personalization documents](https://www.w3.org/WAI/personalization/) will be re-named "WAI-Adapt" and published as updated drafts or CR in Q2 2022
-* [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q2 2022; finalized by September 2022
+* [Accessibility of Remote Meetings](https://www.w3.org/TR/saur/) as a W3c Working Group Note in July 2022
+* [Synchronization Accessibility User Requirements (SAUR)](https://www.w3.org/TR/saur/) as a W3c Working Group Note in July 2022
+* [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR in Q3 2022
+* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) to CR in Q3 2022
+* [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q3 2022; finalized by September 2022
 
 Recent publications and other announcements are on the **[News page](/news/)**.
 
@@ -143,7 +145,7 @@ Did you know the WAI website has: **videos, tips, tutorials, tools** (for genera
 
 To learn about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
-Links to each Working Group's "How to Participate" page are in the [Participating in Working Groups section](/about/participating/#participating-in-working-groups).
+Links to each Working Group's "How to Participate" page are in the [Participating in Working Groups section](/about/participating/#WGs).
 
 If you are interested in a Task Force, see participation information for the parent Working Group.
 
@@ -185,5 +187,6 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
+* 30 June 2022 &mdash; updated Upcoming Publications list
 * 5 May 2022 &mdash; just a few little language edits.
 * 30 April 2022 &mdash; Minor updates shown in GitHub [code-level diff](https://github.com/w3c/wai-about-wai/pull/141/files), [rich diff](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
