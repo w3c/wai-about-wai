@@ -73,7 +73,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Developing New Standards
 
-* **Personalization** (will be re-named _WAI-Adapt_) involves tailoring the user experience to meet the needs and preferences of the individual user. [[Personalization Overview]](/personalization/) _[APA WG, Personalization TF]_
+* **WAI-Adapt** enables users to adapt (or ‘personalize’) how content is presented to meet their needs and preferences. [[WAI-Adapt Overview]](/adapt/) _[APA WG, WAI-Adapt TF]_
 
 * **Spoken Pronunciation** technical standards will enable screen readers and voice assistants to pronounce words correctly. [[Pronunciation Overview]](/pronunciation/) _[APA WG, Spoken Pronunciation TF]_
 
@@ -187,6 +187,6 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
-* 30 June 2022 &mdash; updated Upcoming Publications list
-* 5 May 2022 &mdash; just a few little language edits.
+* 30 June 2022 &mdash; Updated Upcoming Publications list. Updated 'Personalization' to 'WAI-Adapt'
+* 5 May 2022 &mdash; Just a few little language edits.
 * 30 April 2022 &mdash; Minor updates shown in GitHub [code-level diff](https://github.com/w3c/wai-about-wai/pull/141/files), [rich diff](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
