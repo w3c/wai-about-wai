@@ -108,8 +108,8 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 We plan to publish the following documents in "Q3", which is July, August, September. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* [Accessibility of Remote Meetings](https://www.w3.org/TR/saur/) as a W3c Working Group Note in July 2022
-* [Synchronization Accessibility User Requirements (SAUR)](https://www.w3.org/TR/saur/) as a W3c Working Group Note in July 2022
+* [Accessibility of Remote Meetings](https://www.w3.org/TR/saur/) as a W3C Working Group Note in July 2022
+* [Synchronization Accessibility User Requirements (SAUR)](https://www.w3.org/TR/saur/) as a W3C Working Group Note in July 2022
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR in Q3 2022
 * [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) to CR in Q3 2022
 * [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q3 2022; finalized by September 2022
