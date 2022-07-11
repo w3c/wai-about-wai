@@ -15,7 +15,7 @@ Task Forces operate under specific Working Groups.
 This page lists some active Task Forces in [WAI Working Groups](/about/groups/). Other Task Forces, including inactive
 ones, are listed on each Working Group's home page.
 
-**[Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/)** under the [WCAG Working Group](/about/groups/agwg/)
+**[Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/)** under the [AG Working Group](/about/groups/agwg/)
 :   Develop a framework and repository of test rules, to promote a
     unified interpretation of WCAG 2.0 among different web accessibility
     test tools. The framework will also allow the development of custom
@@ -30,7 +30,7 @@ ones, are listed on each Working Group's home page.
     approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles,
     states, and properties.    
 
-[**Cognitive and Learning Disabilities Accessibility Task Force**](https://www.w3.org/WAI/GL/task-forces/coga/) (Cognitive A11Y TF) under the [Accessible Platform Architectures Working Group](/about/groups/apa/) and the [WCAG Working Group](/about/groups/agwg/)
+[**Cognitive and Learning Disabilities Accessibility Task Force**](https://www.w3.org/WAI/GL/task-forces/coga/) (Cognitive A11Y TF) under the [Accessible Platform Architectures Working Group](/about/groups/apa/) and the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the cognitive space.
@@ -39,11 +39,11 @@ ones, are listed on each Working Group's home page.
 :   Identify accessibility problems that can be created by use of
     Cascading Style Sheets (CSS), and to develop solutions.
 
-**[Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/)** (LVTF) under the [WCAG Working Group](/about/groups/agwg/)
+**[Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/)** (LVTF) under the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to address web accessibility issues
     specific to people with low vision.
 
-[**Mobile Accessibility Task Force**](http://www.w3.org/WAI/GL/mobile-a11y-tf/) under the [WCAG Working Group](/about/groups/agwg/)
+[**Mobile Accessibility Task Force**](http://www.w3.org/WAI/GL/mobile-a11y-tf/) under the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the mobile space.
@@ -60,7 +60,7 @@ ones, are listed on each Working Group's home page.
     researchers, and research opportunities to inform and fill those
     gaps where possible.
 
-**[Silver Task Force](https://www.w3.org/WAI/GL/task-forces/silver/)** under the [WCAG Working Group](/about/groups/agwg/)
+**[Silver Task Force](https://www.w3.org/WAI/GL/task-forces/silver/)** under the [AG Working Group](/about/groups/agwg/)
 :   Perform preliminary development of a new version of Accessibility
     Guidelines following a research-focused, user-centered design
     methodology to produce the most effective and flexible outcome.
@@ -76,6 +76,12 @@ ones, are listed on each Working Group's home page.
 **[SVG Accessibility Task Force](http://www.w3.org/WAI/PF/svg-a11y-tf/)** under the [ARIA Working Group](/about/groups/ariawg/) and the [SVG Working Group](http://www.w3.org/Graphics/SVG/WG/)
 :   Identifying accessibility requirements and managing the progress of
     accessibility solutions in SVG2.
+    
+**[WCAG2ICT Task Force](http://www.w3.org/WAI/GL/task-forces/wcag2ict-tf/)** under the [AG Working Group](/about/groups/agwg/)
+:   The WCAG2ICT Task Force develops documentation 
+    describing how WCAG 2.x and its principles, guidelines, and success 
+    criteria could apply to non-Web Information and Communications 
+    Technologies (ICT).
 
 
 If you would like to learn about participating in a Task Force, see:
