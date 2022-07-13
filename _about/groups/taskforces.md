@@ -24,35 +24,25 @@ ones, are listed on each Working Group's home page.
     it provides more consistency and comparability of the resulting test
     rules.
     
-[**ARIA Authoring Practices Task Force**](https://www.w3.org/WAI/ARIA/task-forces/practices/) under the [ARIA Working Group](about/groups/aria)
-:   Develop WAI-ARIA Authoring Practices, which describes considerations that might 
+**[ARIA Authoring Practices Task Force](https://www.w3.org/WAI/ARIA/task-forces/practices/)** under the [ARIA Working Group](about/groups/aria)
+:   Develop WAI-ARIA Authoring Practices Guide (APG), which describes considerations that might 
     not be evident to most authors from the WAI-ARIA specification  alone and recommends 
     approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles,
     states, and properties.    
 
-[**Cognitive and Learning Disabilities Accessibility Task Force**](https://www.w3.org/WAI/GL/task-forces/coga/) (Cognitive A11Y TF) under the [Accessible Platform Architectures Working Group](/about/groups/apa/) and the [AG Working Group](/about/groups/agwg/)
+**[Cognitive and Learning Disabilities Accessibility Task Force](https://www.w3.org/WAI/GL/task-forces/coga/)** (Cognitive A11Y TF) under the [APA Working Group](/about/groups/apa/) and the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the cognitive space.
-
-**[CSS Accessibility Task Force](/WAI/APA/task-forces/css-a11y/)** under the [Accessible Platform Architectures Working Group](/about/groups/apa/), the [Accessible Rich Internet Applications Working Group](/about/groups/ariawg/), and the [Cascading Style Sheets Working Group](https://www.w3.org/Style/CSS/)
-:   Identify accessibility problems that can be created by use of
-    Cascading Style Sheets (CSS), and to develop solutions.
 
 **[Low Vision Accessibility Task Force](https://www.w3.org/WAI/GL/low-vision-a11y-tf/)** (LVTF) under the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to address web accessibility issues
     specific to people with low vision.
 
-[**Mobile Accessibility Task Force**](http://www.w3.org/WAI/GL/mobile-a11y-tf/) under the [AG Working Group](/about/groups/agwg/)
+**[Mobile Accessibility Task Force](http://www.w3.org/WAI/GL/mobile-a11y-tf/)** under the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the mobile space.
-    
-[**Personalization Task Force**](https://www.w3.org/WAI/APA/task-forces/personalization/) under the [APA Working Group](https://www.w3.org/WAI/APA/)
-:   Personalization involves tailoring aspects of the user experience to meet the needs and preferences of the individual user.
-
-[**Pronunciation Task Force**](https://www.w3.org/WAI/APA/task-forces/pronunciation/) under the [APA Working Group](https://www.w3.org/WAI/APA/)
-:   The Pronunciation Task Force has been exploring technical options for content authors to provide pronunciation information.
 
 **[Research Question Task Force](https://www.w3.org/WAI/APA/task-forces/research-questions/)** under the [APA Working Group](/about/groups/apa/)
 :   Identify accessibility knowledge gaps and barriers in emerging and
@@ -70,22 +60,20 @@ ones, are listed on each Working Group's home page.
     support. These guidelines will address current technological and
     cultural web accessibility requirements and provide a base for
     continued evolution of the guidelines.
-
-**[Specification Accessibility Task Force](http://www.w3.org/WAI/PF/Group/spec-review-tf)** under the [APA Working Group](/about/groups/apa/)
-
-**[SVG Accessibility Task Force](http://www.w3.org/WAI/PF/svg-a11y-tf/)** under the [ARIA Working Group](/about/groups/ariawg/) and the [SVG Working Group](http://www.w3.org/Graphics/SVG/WG/)
-:   Identifying accessibility requirements and managing the progress of
-    accessibility solutions in SVG2.
     
+**[Spoken Pronunciation Task Force](https://www.w3.org/WAI/APA/task-forces/pronunciation/)** under the [APA Working Group](https://www.w3.org/WAI/APA/)
+:   The Spoken Pronunciation Task Force has been exploring technical options for content authors to provide pronunciation information.
+
+**[WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/)** under the [APA Working Group](https://www.w3.org/WAI/APA/)
+:   WAI-Adapt specifications enable users to personalize how content is presented in order to meet their needs and preferences.
+
 **[WCAG2ICT Task Force](http://www.w3.org/WAI/GL/task-forces/wcag2ict-tf/)** under the [AG Working Group](/about/groups/agwg/)
 :   The WCAG2ICT Task Force develops documentation 
     describing how WCAG 2.x and its principles, guidelines, and success 
     criteria could apply to non-Web Information and Communications 
     Technologies (ICT).
 
-
 If you would like to learn about participating in a Task Force, see:
-
 -   [Participating in WAI](/get-involved/) for general
     information
 -   The Task Force's home page linked above, and the "How to Join
