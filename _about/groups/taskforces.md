@@ -25,7 +25,7 @@ ones, are listed on each Working Group's home page.
     rules.
     
 **[ARIA Authoring Practices Task Force](https://www.w3.org/WAI/ARIA/task-forces/practices/)** under the [ARIA Working Group](about/groups/aria)
-:   Develop WAI-ARIA Authoring Practices, which describes considerations that might 
+:   Develop WAI-ARIA Authoring Practices Guide (APG), which describes considerations that might 
     not be evident to most authors from the WAI-ARIA specification  alone and recommends 
     approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles,
     states, and properties.    
@@ -43,12 +43,6 @@ ones, are listed on each Working Group's home page.
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the mobile space.
-    
-**[WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/)** under the [APA Working Group](https://www.w3.org/WAI/APA/)
-:   WAI-Adapt specifications enable users to personalize how content is presented in order to meet their needs and preferences.
-
-**[Spoken Pronunciation Task Force](https://www.w3.org/WAI/APA/task-forces/pronunciation/)** under the [APA Working Group](https://www.w3.org/WAI/APA/)
-:   The Spoken Pronunciation Task Force has been exploring technical options for content authors to provide pronunciation information.
 
 **[Research Question Task Force](https://www.w3.org/WAI/APA/task-forces/research-questions/)** under the [APA Working Group](/about/groups/apa/)
 :   Identify accessibility knowledge gaps and barriers in emerging and
@@ -66,6 +60,12 @@ ones, are listed on each Working Group's home page.
     support. These guidelines will address current technological and
     cultural web accessibility requirements and provide a base for
     continued evolution of the guidelines.
+    
+**[Spoken Pronunciation Task Force](https://www.w3.org/WAI/APA/task-forces/pronunciation/)** under the [APA Working Group](https://www.w3.org/WAI/APA/)
+:   The Spoken Pronunciation Task Force has been exploring technical options for content authors to provide pronunciation information.
+
+**[WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/)** under the [APA Working Group](https://www.w3.org/WAI/APA/)
+:   WAI-Adapt specifications enable users to personalize how content is presented in order to meet their needs and preferences.
 
 **[WCAG2ICT Task Force](http://www.w3.org/WAI/GL/task-forces/wcag2ict-tf/)** under the [AG Working Group](/about/groups/agwg/)
 :   The WCAG2ICT Task Force develops documentation 
