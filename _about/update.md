@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, July 2022</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, August 2022</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 12 July 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 1 August 2022. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -63,9 +63,9 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We're addressing public comments, and plan to publish the completed standard by September 2022. Note that these links have information that will likely change with the updates: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We're addressing public comments, and plan to publish the completed standard by December 2022. Note that these links have information that will likely change with the updates: [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/), [WCAG 2.2 Editor's Draft](https://w3c.github.io/wcag/guidelines/22/)  _[AG WG]_
 
-* **W3C Accessibility Guidelines (WCAG) 3.0** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
+* **W3C Accessibility Guidelines (WCAG) 3** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
 * **ARIA 1.2** &mdash; We're documenting "implementations"; that is, how browsers support ARIA.   _[ARIA WG]_
 
@@ -112,11 +112,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 We plan to publish the following documents in "Q3", which is July, August, September. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* [Accessibility of Remote Meetings](https://www.w3.org/TR/saur/) as a W3C Working Group Note in July 2022
-* [Synchronization Accessibility User Requirements (SAUR)](https://www.w3.org/TR/saur/) as a W3C Working Group Note in July 2022
+* [How to Make Your Presentations and Meetings Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) updates in August 2022
+* <cite>Course List — Digital Accessibility Education, Training, and Certification</cite> in September 2022; [Submit a course form](https://www.w3.org/WAI/courses/submission/) available now
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR in Q3 2022
 * [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) to CR in Q3 2022
-* [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q3 2022; finalized by September 2022
+* [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q3 2022; finalized by December 2022
 
 Recent publications and other announcements are on the **[News page](/news/)**.
 
@@ -190,7 +190,8 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
+* 1 August 2022 &mdash; Updated Upcoming Publications list.
 * 12 July 2022 &mdash; added: **WCAG2ICT** describes how Web Content Accessibility Guidelines (WCAG) 2 can be applied to non-web information and communications technologies (ICT). We are updating it to include WCAG 2.1 and WCAG 2.2. [[WCAG2ICT Overview]](/standards-guidelines/wcag/non-web-ict/) _[AG WG, WCAG2ICT TF]_
-* 30 June 2022 &mdash; Updated Upcoming Publications list. Updated 'Personalization' to 'WAI-Adapt'
+* 30 June 2022 &mdash; Updated Upcoming Publications list. Updated 'Personalization' to 'WAI-Adapt'.
 * 5 May 2022 &mdash; Just a few little language edits.
 * 30 April 2022 &mdash; Minor updates shown in GitHub [code-level diff](https://github.com/w3c/wai-about-wai/pull/141/files), [rich diff](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
