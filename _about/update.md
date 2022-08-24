@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 1 August 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 24 August 2022. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -112,10 +112,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 We plan to publish the following documents in "Q3", which is July, August, September. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* [How to Make Your Presentations and Meetings Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) updates in August 2022
+* [Making Events Accessible: Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid - Editors' Draft](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) publish on 31 August 2022
 * <cite>Course List — Digital Accessibility Education, Training, and Certification</cite> in September 2022; [Submit a course form](https://www.w3.org/WAI/courses/submission/) available now
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR in Q3 2022
 * [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) to CR in Q3 2022
+* Maturity Model - First Public Working Draft in Q3 2022
 * [WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) to CR in Q3 2022; finalized by December 2022
 
 Recent publications and other announcements are on the **[News page](/news/)**.
@@ -132,7 +133,9 @@ To learn more about what that the Working Groups are working on right now, see:
 
 * [EOWG Current Work](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) - lists over 20 current and upcoming projects of the Accessibility Education and Outreach (EO) Working Group
 * [APA Current Work](https://www.w3.org/WAI/APA/#work) - Accessible Platform Architectures (APA) Working Group
-* [ARIA Working Drafts](https://www.w3.org/groups/wg/aria/publications#WD) - Accessible Rich Internet Applications (ARIA) Working Group
+* ARIA - Accessible Rich Internet Applications (ARIA) Working Group
+  * [ARIA Working Drafts](https://www.w3.org/groups/wg/aria/publications#WD)
+  * [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
 * [AG WG Current Work](https://www.w3.org/WAI/GL/#work) - Accessibility Guidelines (AG) Working Group
   * [COGA Current Work](https://www.w3.org/WAI/GL/task-forces/coga/wiki/Main_Page) - Cognitive and Learning Disabilities Accessibility Task Force (COGA)
   * [LVTF Current Work](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Main_Page) -  Low Vision Accessibility Task Force (LVTF)
@@ -190,6 +193,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
+* 24 August 2022 &mdash; Added [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/). Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 1 August 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 12 July 2022 &mdash; added: **WCAG2ICT** describes how Web Content Accessibility Guidelines (WCAG) 2 can be applied to non-web information and communications technologies (ICT). We are updating it to include WCAG 2.1 and WCAG 2.2. [[WCAG2ICT Overview]](/standards-guidelines/wcag/non-web-ict/) _[AG WG, WCAG2ICT TF]_
 * 30 June 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). Updated 'Personalization' to 'WAI-Adapt'.
