@@ -193,9 +193,9 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
-* 24 August 2022 &mdash; Added [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/). Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+* 24 August 2022 &mdash; Added [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/). Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). [code diff 24 Aug](https://github.com/w3c/wai-about-wai/pull/154/files), [rich text diff 24 Aug](https://github.com/w3c/wai-about-wai/pull/154/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
 * 1 August 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 12 July 2022 &mdash; added: **WCAG2ICT** describes how Web Content Accessibility Guidelines (WCAG) 2 can be applied to non-web information and communications technologies (ICT). We are updating it to include WCAG 2.1 and WCAG 2.2. [[WCAG2ICT Overview]](/standards-guidelines/wcag/non-web-ict/) _[AG WG, WCAG2ICT TF]_
 * 30 June 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). Updated 'Personalization' to 'WAI-Adapt'.
 * 5 May 2022 &mdash; Just a few little language edits.
-* 30 April 2022 &mdash; Minor updates shown in GitHub [code-level diff](https://github.com/w3c/wai-about-wai/pull/141/files), [rich diff](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
+* 30 April 2022 &mdash; Minor updates shown in GitHub [code diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files), [rich text diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
