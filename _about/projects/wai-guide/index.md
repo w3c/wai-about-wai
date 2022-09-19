@@ -34,10 +34,10 @@ This page provides information on the Web Accessibility Initiative - Authoritati
 ## Announcements
 
 -   Release of [5 animated videos](https://www.w3.org/WAI/test-evaluate/) that explain different aspects of web accessibility evaluation, including easy initial checks, using tools, conformance evaluation, and involving users
--   On-going development of [ATAG Report Tool (ART)](https://atag-report-tool.hdv.now.sh/) and [List of Authoring Tools with Accessibility Support](https://wai-authoring-tools.netlify.app/authoring-tools/), to help promote accessibility of authoring tools
--   First public working drafts of [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) and [RTC Accessibility User Requirements](https://www.w3.org/TR/raur/), to help address accessibility of immersive environments and real-time communication
+-   W3C Group Notes for [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) and [RTC Accessibility User Requirements](https://www.w3.org/TR/raur/), to help address accessibility of immersive environments and real-time communication
+-   On-going development of [ATAG Report Tool (ART)](https://www.w3.org/WAI/atag/report-tool/) to help promote accessibility of authoring tools
 -   Launch of [Online Course: Introduction to Web Accessibility](https://www.w3.org/blog/2019/12/free-online-course-introduction-to-web-accessibility/) based on the curriculum developed through WAI-Guide
--   Release of [WAI Curricula](https://www.w3.org/WAI/curricula/) with first curriculum [Introduction to Web Accessibility](https://www.w3.org/WAI/curricula/introduction-to-web-accessibility/) ([further curricula](https://wai-curricula.netlify.app/curricula/) in development)
+-   Release of [WAI Curricula](https://www.w3.org/WAI/curricula/) with foundation, developer, and designer modules. ([Content Author Modules(https://wai-curricula.netlify.app/curricula/content-author-modules/) in development)
 
 ## Project Deliverables
 {:#deliverables}
