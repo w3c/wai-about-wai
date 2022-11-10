@@ -31,29 +31,37 @@ This page provides information on the Web Accessibility Initiative - Communities
 {% include toc.html type="end" %}
 {:/}
 
-## Announcements
+## Current Announcements
 {:#announcements}
 
--   **Register:** [First Online Open Meeting on 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
--   **Sign-Up:** to receive [WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
+-   **11 October 2022:** [WAI-CooP Online Meeting, 11 October 2022](https://www.edf-feph.org/events-slug/wai-coop-open-meeting-11-october-2022/)
+-   **Sign-Up:** to [receive WAI-CooP Project Updates by e-mail](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   WAI-CooP Project started on 1 January 2021
-
-<!--//
 
 ## Project Results
 {:#results}
 
-Current project results include:
+Current project activities include:
 
-**[Accessibility Conformance Testing (ACT) Rules](https://act-rules.github.io/rules/)**
-:  Includes writing, reviewing, implementing, and validating "Accessibility Conformance Testing (ACT) Rules". About 55 rules were developed through the project so far, with another 15 to follow this year. This is the result of project deliverables D1.1, D1.2, and D1.3, which are continually developed through the [W3C ACT Rules Community Group](https://act-rules.github.io/) (previously Auto-WCAG Community Group, which has been renamed).
+**[Web Accessibility Directive: Frequently Asked Questions](https://web-directive.eu/)**
+: Provides responses to frequently asked questions (FAQ) on implementing the EU Web Accessibility Directive (WAD). Stakeholders can ask new questions from the "Contact our help desk" link.
 
-//-->
+**[List of Courses on Digital Accessibility](https://github.com/w3c/wai-course-list/)**
+:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype List of Courses](https://deploy-preview-4--wai-course-list.netlify.app/course-list/) and [Courses submission form](https://deploy-preview-4--wai-course-list.netlify.app/course-list/submit-a-resource) is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
+
+**[Accessibility Conformance Testing (ACT) Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/)**
+:  Includes promoting, tracking, and validating implementations of "Accessibility Conformance Testing (ACT) Rules" in automated testing tools and manual testing methodologies. This includes completed [redesign of the user interface](https://www.w3.org/WAI/standards-guidelines/act/rules/about/) to better integrate implementation reports submitted by different vendors. This work is being carried out in the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group (AGWG).
+
+Completed project deliverables include:
+* [WAI-CooP Online Meeting, 19 April 2022](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
+* [Online Research Symposium "Shape the Future", 10 November 2021](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+* [Open Meeting on EU Web Accessibility Directive (WAD), 28 September 2021](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
+* [WAI-CooP First Online Open Meeting, 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
 
 ## Project Deliverables
 {:#deliverables}
 
-Technical project deliverables include:
+Technical deliverables planned:
 
 -   **Monitor Market Developments**
     -   **Accessibility Training and Certification** — establish a W3C List of Web Accessibility Training and Certification with mappings to the [WAI Curricula](https://www.w3.org/WAI/curricula/)
@@ -82,7 +90,7 @@ Most of the project work listed above is developed through or in coordination wi
 
 We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
 
-See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
+See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Judy Brewer](https://www.w3.org/People/Brewer/).
 
 ## About the Project
 {:#about}
@@ -95,7 +103,7 @@ WAI-CooP, Communities of Practice, is a Coordination and Support Action project,
 
 WAI-CooP achieves this by building on the existing wealth of authoritative guidance available from the W3C Web Accessibility Initiative (WAI), to provide a one-stop shop for the broad spectrum of key stakeholders involved in the implementation of digital accessibility. This includes public bodies and private entities; organisations representing people with disabilities; product, service, and training providers; researchers; and policy makers.
 
-See [project deliverables](#deliverables) above and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) for more information.
+See [project deliverables, above](#deliverables).
 
 ## Project Partners
 {:#partners}
@@ -103,7 +111,7 @@ See [project deliverables](#deliverables) above and contact [Shadi Abou-Zahra](h
 WAI-CooP project partners include:
 
 -   [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) – as part of W3C, France
--   [European Disability Forum (EDF) {% include_cached external.html %}](http://edf-feph.org/), Belgium
+-   [European Disability Forum (EDF) {% include_cached external.html %}](https://www.edf-feph.org/), Belgium
 -   [HAN University of Applied Sciences {% include_cached external.html %}](https://hanuniversity.com/en/), Netherlands
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
 -   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands

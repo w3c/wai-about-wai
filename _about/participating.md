@@ -7,6 +7,12 @@ github:
 permalink: /about/participating/
 ref: /about/participating/
 lang: en
+
+footer: >
+  <p><strong>Date:</strong> Updated 24 March 2022.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  
 ---
 
 {::nomarkdown}
@@ -44,13 +50,13 @@ accessibility.
 We encourage individuals and organizations around the world to
 participate in activities that help improve accessibility of the web.
 
-After you read this page, **if you have any questions about getting involved with WAI or would like more information, please contact Shawn at +1-617-395-7664 or <shawn@w3.org>.**
+**_After you read this page_, if you have any questions about getting involved with WAI or would like more information, please send specific questions to Shawn at <shawn@w3.org> and CC <wai@w3.org>.**
 
-## WAI News
+## Getting News of Drafts for Review  {#news}
 
-New WAI publications, draft documents for review, and other WAI announcements are listed on the [News page](https://www.w3.org/WAI/news/).
+Draft documents for review are listed on the WAI home page and [News page](https://www.w3.org/WAI/news/).
 
-You can subscribe to get news announcements via e-mail, Atom/RSS feed, or Twitter from [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
+You can subscribe to get announcements via e-mail, Atom/RSS feed, or Twitter from [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
 ## Participating in Guidelines and Groups
 
@@ -67,77 +73,60 @@ WAI works through a process designed to:
 WAI welcomes comments on documents at any time. Comments are handled
 differently depending on the stage of document development. See the
 ["Feedback on Specific Documents" section of Contacting
-WAI](http://www.w3.org/WAI/contacts#documents) for where to send
+WAI](http://www.w3.org/WAI/contacts#feedback-on-specific-documents) for where to send
 comments.
 
 One of the best times to comment on developing documents is during a
-formal period for public review. Calls for review of WAI documents are
-announced on the [WAI Interest Group](/WAI/IG/) mailing list, [W3C\_WAI
-on Twitter](http://twitter.com/w3c_wai), [WAI Highlights RSS
-feed](/WAI/highlights/about-rss), and the [WAI home page](/WAI/).
+formal period for public review. To get notified of open calls for review, see via e-mail, Atom/RSS feed, or Twitter from [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
-### Submitting Techniques for Implementing Guidelines
+### Participating in Community Groups {#CGs}
 
-WAI's Web accessibility guidelines have associated Techniques documents
-that tell you how to meet the guidelines, such as [Techniques for WCAG
-2.0](http://www.w3.org/TR/WCAG20-TECHS/). You can submit ideas for new
-or updated techniques. There is a [form for submitting WCAG 2.0
-Techniques](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/). To submit
-techniques for other guidelines, contact the Working Group's [Team
-Contact](https://www.w3.org/WAI/about/contacting/#wai-staff-contacts).
+W3C Community Groups cover a variety of topics. **Anyone can join Community Groups**, after getting a free W3C account and signing the W3C Community Contributor License Agreement. Of the long [list of Community Groups](https://www.w3.org/community/groups/), here are some that are actively seeking contributors:
+* [ACT Rules CG](https://www.w3.org/community/act-r/)
+* [ARIA and Assistive Technologies CG](https://www.w3.org/community/aria-at/)
+* [Cognitive Accessibility CG](https://www.w3.org/community/coga-community/)
+* [Immersive Captions CG](https://www.w3.org/community/immersive-captions/)
+* [Low Vision CG](https://www.w3.org/community/low-vision/)
 
-### Participating in Interest Groups
+### Participating in Interest Groups  {#IG}
 
 The [WAI Interest Group (WAI IG)](/WAI/IG) is for general discussion and
 feedback on all areas of WAI's work. Most of the interaction within WAI
 IG is through the public mailing list.
 
-### Participating in Working Groups
+### Participating in Working Groups  {#WGs}
 
 Anyone can join a WAI Working Group public mailing list, or read the
 public list archives.
 
 There are specific criteria for formally joining Working Groups,
 including requirements for participation and contribution. See the
-Working Group pages below to find what group best fits your interests,
-and to get information on participation and links to the mailing list
-archives.
+Working Group pages below to find what group best fits your interests
+and to get information on participation.
 
--   [ARIA Working
-    Group](https://www.w3.org/WAI/ARIA/)
-    develops a suite of Accessible Rich Internet Applications resources,
-    and accessible APIs and mappings.
--   [Accessible Platform Architectures (APA) Working
-    Group](https://www.w3.org/WAI/APA/)
-    reviews and comments on support for accessibility throughout W3C's
-    other working groups.
--   [Education and Outreach Working Group](/WAI/EO) develops awareness,
-    training, and implementation resources supporting Web accessibility.
--   [Web Content Accessibility Guidelines Working Group](/WAI/GL)
-    develops guidelines for Web pages, Web applications, and other Web
-    content.
+-   **[EOWG](/WAI/EO)** &mdash; The Accessibility Education and Outreach Working Group develops awareness, training, and implementation resources supporting web accessibility. **See [Participating in EOWG](/WAI/EO/participation)**.
+-   **[AG WG](/WAI/GL)** &mdash; The Accessibility Guidelines Working Group develops guidelines for web pages, web applications, and other web content. **See [Participating in AG WG](/WAI/GL/participation)**.
+-   **[APA](/WAI/APA/)** &mdash; The Accessible Platform Architectures (APA) Working Group reviews W3C's specifications for accessibility support and develops technical support materials. **See [Participating in APA WG](/WAI/APA/participation)**.
+-   **[ARIA](/WAI/ARIA/)** &mdash; The Accessible Rich Internet Applications Working Group develops a suite of accessible rich internet applications (ARIA) resources, and accessible APIs and mappings. **See [Participating in ARIA WG](/WAI/ARIA/participation)**.
 
 ## Sponsoring WAI
 
 WAI's work is supported in part by sponsorship from industry,
 disability, and government organizations interested in contributing to
-WAI's efforts to make the Web more accessible. Please see the list of
-current sponsors on the [WAI home page]({{"/" | relative_url }}), and [Sponsoring
-WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI sponsorship.
+WAI's efforts to make the web more accessible. Please see the list of
+current sponsors and information on WAI sponsorship at [Sponsoring
+WAI]({{"/about/sponsoring/" | relative_url }}).
 
 ## Promoting and Implementing Web Accessibility
 
 ### Promoting Awareness
 
--   Tell people about WAI and web accessibility.
--   Link to [WAI's home page](/WAI) and other relevant resources,
-    including [Finding Your WAI](http://www.w3.org/WAI/yourWAI)
-    (shortened link: [bit.ly/yourWAI](http://bit.ly/yourWAI)).
+-   Share links to the "[Perspectives Videos](https://www.w3.org/WAI/perspective-videos/)" that show the impact of accessibility and the benefits for everyone in a variety of situations.
+-   Encourage people to take the [Digital Accessibility Foundations - Free Online Course](https://www.w3.org/WAI/fundamentals/foundations-course/)
 -   Cover web accessibility in [presentations and
     training](http://www.w3.org/WAI/train) to web developers, designers,
-    managers, and others.
--   Put a [WCAG logo](http://www.w3.org/WAI/WCAG2-Conformance.html) on
-    your website if it meets WCAG 2.0.
+    managers, and others. Use the [curricula](https://www.w3.org/WAI/curricula/) to develop courses.
+-   Look around the W3C WAI website to find other [accessibility resources](https://www.w3.org/WAI/resources/) for specific [roles](https://www.w3.org/WAI/roles/) that you want to share on social media, within your organization, and with others.
 
 ### Implementing Guidelines
 
@@ -145,10 +134,10 @@ WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI spons
     (WCAG)](/standards-guidelines/wcag/) documents to help make your website
     accessible.
 -   If you develop authoring tools—any software or service that people
-    use to create or modify Web content, including content management
+    use to create or modify web content, including content management
     systems—implement the [Authoring Tool Accessibility Guidelines
     (ATAG)](/standards-guidelines/atag/).
--   If you develop Web browsers, media players, assistive technologies,
+-   If you develop web browsers, media players, assistive technologies,
     or other user agents—implement the [User Agent Accessibility
     Guidelines (UAAG)](/standards-guidelines/uaag/).
 
@@ -159,14 +148,14 @@ WAI]({{"/about/sponsoring/" | relative_url }}) for more information on WAI spons
     vendors and requesting increased accessibility support in future
     versions, and by purchasing tools that provide the best support for
     accessibility.
--   Encourage Web browsers, media players, assistive technologies, and
+-   Encourage web browsers, media players, assistive technologies, and
     other user agents to meet
     [UAAG](/standards-guidelines/uaag/).
 -   Encourage organizations to [adopt an accessibility
     policy](/WAI/impl/pol) for their organization that defines their
-    commitment to Web accessibility.
+    commitment to web accessibility.
 -   Encourage websites to be accessible, for example, provide [feedback
-    on inaccessible websites and inaccessible Web products
+    on inaccessible websites and inaccessible web products
     carefully](http://www.w3.org/WAI/users/inaccessible.html); it is
     usually more productive to start with a positive encouraging tone,
     rather than a negative critical tone.
