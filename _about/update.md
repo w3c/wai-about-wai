@@ -184,6 +184,8 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
+* 9 November 2022
+  * We're in the process of updating our <a rel="me" href="https://w3c.social/@wai">Mastodon account w3c.social/@wai</a>.
 * 1 November 2022
   * Updated WCAG 2.2 final publication to early 2023.
 * 19 October 2022
@@ -203,5 +205,3 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 * 30 June 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). Updated 'Personalization' to 'WAI-Adapt'.
 * 5 May 2022 &mdash; Just a few little language edits.
 * 30 April 2022 &mdash; Minor updates shown in [GitHub diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files), [rich text diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
-
-<a rel="me" href="https://w3c.social/@wai">Mastodon</a>
