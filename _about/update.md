@@ -184,6 +184,8 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
+* 9 November 2022
+  * We're in the process of updating our <a rel="me" href="https://w3c.social/@wai">Mastodon account w3c.social/@wai</a>.
 * 1 November 2022
   * Updated WCAG 2.2 final publication to early 2023.
 * 19 October 2022
