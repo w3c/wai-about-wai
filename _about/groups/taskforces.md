@@ -67,7 +67,7 @@ ones, are listed on each Working Group's home page.
 **[WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/personalization/)** under the [APA Working Group](https://www.w3.org/WAI/APA/)
 :   WAI-Adapt specifications enable users to personalize how content is presented in order to meet their needs and preferences.
 
-**[WCAG2ICT Task Force](http://www.w3.org/WAI/GL/task-forces/wcag2ict-tf/)** under the [AG Working Group](/about/groups/agwg/)
+**[WCAG2ICT Task Force](http://www.w3.org/WAI/GL/task-forces/wcag2ict/)** under the [AG Working Group](/about/groups/agwg/)
 :   The WCAG2ICT Task Force develops documentation 
     describing how WCAG 2.x and its principles, guidelines, and success 
     criteria could apply to non-Web Information and Communications 
