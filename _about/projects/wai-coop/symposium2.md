@@ -1,6 +1,6 @@
 ---
-title: "[Draft] symposium 2"
-title_html: "Shape the Future: Research and Development Questions in Digital Accessibility <br /> Online Research Symposium, 10 November 2021"
+title: "[Draft] symposium 2 test update"
+title_html: "symposium 2 test update<br />Online Research Symposium, 10 November 2021"
 nav_title: Symposium 2
 permalink: /about/projects/wai-coop/symposium2/
 ref: /about/projects/wai-coop/symposium2/
