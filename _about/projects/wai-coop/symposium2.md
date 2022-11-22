@@ -124,6 +124,7 @@ Participation is free, and you must **[register by 5 January 2023]()**.
 ## Acknowledgements
 {:#acknowledgements}
 
+
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
 
 This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/).
