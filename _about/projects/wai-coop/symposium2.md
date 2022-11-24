@@ -63,19 +63,19 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 ### Day 1 - 10 January 2023
 -   **15:00** Start of meeting
 -   **15:00 - 15:05** Welcome session
--   **15:05 - 16:10** [Opening keynote](#opening-keynote) 
--   **16:10-17:00** Panel 1: Computer Vision for Media Accessibility
+-   **15:05 - 16:10** [Opening keynote](#opening-keynote-jutta-treviranus)
+-   **16:10-17:00** [Panel 1: Computer Vision for Media Accessibility](#panel-1-computer-vision-for-media-accessibility)
 -   **17:00-17:10** Coffee break
--   **17:10-18:00** Panel 2: Natural Language Processing for Media Accessibility
+-   **17:10-18:00** [Panel 2: Natural Language Processing for Media Accessibility](#panel-2-natural-language-processing-for-media-accessibility)
 -   **17:00** End of meeting
 
 ### Day 2 - 11 January 2023
 -   **15:00** Start of meeting
 -   **15:00 - 15:05** Welcome session
--   **15:05 - 15:55** Panel 1: Machine Learning for Web Accessibility Evaluation 
+-   **15:05 - 15:55** [Panel 1: Machine Learning for Web Accessibility Evaluation](#panel-1-machine-learning-for-web-accessibility-evaluation)
 -   **15:55 - 16:05** Coffee break
--   **16:05 - 16:55** Panel 2: Natural Language Processing for Accessible Communication
--   **16:55 - 18:00** Closing keynote
+-   **16:05 - 16:55** [Panel 2: Natural Language Processing for Accessible Communication](#panel-2-natural-language-processing-for-accessible-communication)
+-   **16:55 - 18:00** [Closing keynote](#closing-keynote-shari-trewin)
 -   **18:00** End of meeting
 
 ## Program
