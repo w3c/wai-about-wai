@@ -84,13 +84,22 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 {:#opening-keynote}
 
 ### Day 1
+{% include excol.html type="start" id="optional-id" %}
+
 #### Panel 1: Computer Vision for Media Accessibility
 
+{% include excol.html type="middle" %}
 - Amy Pavel (University of Texas, US)
 - Shivam Singh (Accenture, India)
 - Michael Cooper (W3C, US)
 
 This panel aims to discuss the current state of computer vision techniques focused on image recognition, supporting the identification and recognition of elements and text in web images and media, potentially considering the different usage contexts of the web. This discussion will be focused on aspects such as quality and accuracy of current computer vision techniques, as well as on opportunities and future directions for computer vision for media accessibility.
+
+
+
+{% include excol.html type="end" %}
+
+
 
 #### Panel 2: Natural Language Processing for Media Accessibility
 - Amy Pavel (University of Texas, US)
