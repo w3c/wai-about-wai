@@ -150,7 +150,6 @@ This panel aims to discuss the current state of machine learning algorithms to s
 This panel aims to discuss the current state of natural language processing techniques to enhance accessible communication on the web. This discussion will be focused on machine translation techniques supporting localization of web contents, speech to text and text to speech techniques, technology-mediated communication, as well as on opportunities and future directions for natural language processing for accessible communication.
 
 {% include excol.html type="end" %}
-{% include excol.html type="end" %}
 
 
 ### Closing Keynote: Shari Trewin
