@@ -80,7 +80,7 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 
 ## Program
 {:#program}
-{% include excol.html type="all" open="true"%}
+{% include excol.html type="all" open=true%}
 
 ### Opening Keynote: Jutta Treviranus
 {:#opening-keynote}
