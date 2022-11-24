@@ -64,6 +64,7 @@ Participation is free, and you must **[register by 5 January 2023]()**.
 - Amy Pavel (University of Texas, US)
 - Shivam Singh (Accenture, India)
 - Michael Cooper (W3C, US)
+
 This panel aims to discuss the current state of computer vision techniques focused on image recognition, supporting the identification and recognition of elements and text in web images and media, potentially considering the different usage contexts of the web. This discussion will be focused on aspects such as quality and accuracy of current computer vision techniques, as well as on opportunities and future directions for computer vision for media accessibility.
 
 #### Panel 2: Natural Language Processing for Media Accessibility
@@ -71,6 +72,7 @@ This panel aims to discuss the current state of computer vision techniques focus
 - Shivam Singh (Accenture, India)
 - Michael Cooper (W3C, US)
 - Shaomei Wu (AImpower.org, US)
+
 This panel aims to discuss the current state of natural language processing techniques employed, among other, to generate textual descriptions for images and other visual media present on web pages. This discussion will be focused on aspects such as text adaptation, and providing understandable text to better meet web user needs and contexts, as well as potential avenues for natural language processing for media accessibility.
 
 ### Day 2
@@ -78,13 +80,16 @@ This panel aims to discuss the current state of natural language processing tech
 - Willian Massami Watanabe (Universidade Tecnológica Federal do Paraná, BR)
 - Yeliz Yesilada (Middle East Technical University, TR)
 - Sheng Zhou (Zhejiang University, CH)
+
 This panel aims to discuss the current state of machine learning algorithms to support and improve methodologies for assessing web accessibility. This discussion will be focused on web accessibility metrics, web pages sampling, evaluation of dynamic web pages, as well as on opportunities and future directions for machine learning for web accessibility evaluation.
 
-#### Panel 2:Natural Language Processing for Accessible Communication
-This panel aims to discuss the current state of natural language processing techniques to enhance accessible communication on the web. This discussion will be focused on machine translation techniques supporting localization of web contents, speech to text and text to speech techniques, technology-mediated communication, as well as on opportunities and future directions for natural language processing for accessible communication.
+#### Panel 2: Natural Language Processing for Accessible Communication
 - Chaohai Ding (University of Southampton, UK)
 - Lourdes Moreno (Universidad Carlos III de Madrid, ES)
 - Vikas Ashok (Old Dominion University, US)
+
+This panel aims to discuss the current state of natural language processing techniques to enhance accessible communication on the web. This discussion will be focused on machine translation techniques supporting localization of web contents, speech to text and text to speech techniques, technology-mediated communication, as well as on opportunities and future directions for natural language processing for accessible communication.
+
 
 ### Closing Keynote: Shari Trewin
 
