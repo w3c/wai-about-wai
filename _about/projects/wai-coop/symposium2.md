@@ -39,7 +39,7 @@ Participation at the event is free of charge, but registration is compulsory. Th
 ## Introduction
 {:#introduction}
 
-This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, Artificial Intelligence, and potential impacts on accessibility. This symposium aims to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
+This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, Artificial Intelligence. This symposium aims to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
 After the symposium, the WAI-CooP project will publish a report, consolidating the discussions and findings.
 
 
@@ -98,7 +98,7 @@ This panel aims to discuss the current state of computer vision techniques focus
 - Michael Cooper (W3C, US)
 - Shaomei Wu (AImpower.org, US)
 
-This panel aims to discuss the current state of natural language processing techniques employed, among other, to generate textual descriptions for images and other visual media present on web pages. This discussion will be focused on aspects such as text adaptation, and providing understandable text to better meet web user needs and contexts, as well as potential avenues for natural language processing for media accessibility.
+This panel aims to discuss the current state of natural language processing techniques employed, for example, to generate textual descriptions for images and other visual media present on web pages. This discussion will be focused on aspects such as text adaptation, and providing understandable text to better meet web user needs and contexts, as well as potential avenues for natural language processing for media accessibility.
 
 ### Day 2
 #### Panel 1: Machine Learning for Web accessibility evaluation
