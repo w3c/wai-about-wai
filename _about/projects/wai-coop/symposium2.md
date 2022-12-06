@@ -84,7 +84,6 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 ### Day 1
 
 #### Opening Keynote: Jutta Treviranus
-{:#opening-keynote}
 
 
 #### Panel 1: Computer Vision for Media Accessibility
