@@ -1,5 +1,5 @@
 ---
-title: "[Draft] symposium 2"
+title: "[Draft] "WAI-CooP Online Research Symposium <br /> 10 - 11 January 2023"
 title_html: "WAI-CooP Online Research Symposium <br /> 10 - 11 January 2023"
 nav_title: Symposium 2
 permalink: /about/projects/wai-coop/symposium2/
@@ -80,10 +80,13 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 
 ## Program
 {:#program}
+
+### Day 1
+
 ### Opening Keynote: Jutta Treviranus
 {:#opening-keynote}
 
-### Day 1
+
 #### Panel 1: Computer Vision for Media Accessibility
 
 - Amy Pavel (University of Texas, US)
