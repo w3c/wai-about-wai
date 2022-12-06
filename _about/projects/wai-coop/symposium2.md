@@ -83,7 +83,7 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 
 ### Day 1
 
-### Opening Keynote: Jutta Treviranus
+#### Opening Keynote: Jutta Treviranus
 {:#opening-keynote}
 
 
@@ -119,7 +119,7 @@ This panel aims to discuss the current state of machine learning algorithms to s
 This panel aims to discuss the current state of natural language processing techniques to enhance accessible communication on the web. This discussion will be focused on machine translation techniques supporting localization of web contents, speech to text and text to speech techniques, technology-mediated communication, as well as on opportunities and future directions for natural language processing for accessible communication.
 
 
-### Closing Keynote: Shari Trewin
+#### Closing Keynote: Shari Trewin
 
 
 ## Logistics and Accessibility
