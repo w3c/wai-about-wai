@@ -1,5 +1,5 @@
 ---
-title: "[Draft] WAI-CooP Online Research Symposium <br /> 10 - 11 January 2023"
+title: "[Draft] WAI-CooP Online Research Symposium 10 - 11 January 2023"
 title_html: "WAI-CooP Online Research Symposium <br /> 10 - 11 January 2023"
 nav_title: Symposium 2
 permalink: /about/projects/wai-coop/symposium2/
