@@ -1,6 +1,6 @@
 ---
-title: "[Draft] WAI-CooP Online Research Symposium 10 - 11 January 2023"
-title_html: "WAI-CooP Online Research Symposium <br /> 10 - 11 January 2023"
+title: "[Draft] Artificial Intelligence and Accessibility Research Symposium 10 - 11 January 2023"
+title_html: "Artificial Intelligence and Accessibility Research Symposium <br /> 10 - 11 January 2023"
 nav_title: Symposium 2
 permalink: /about/projects/wai-coop/symposium2/
 ref: /about/projects/wai-coop/symposium2/
@@ -107,6 +107,7 @@ This panel aims to discuss the current state of natural language processing tech
 - Willian Massami Watanabe (Universidade Tecnológica Federal do Paraná, BR)
 - Yeliz Yesilada (Middle East Technical University, TR)
 - Sheng Zhou (Zhejiang University, CH)
+- Fabio Paternò (CNR-IST, HIIS Laboratory, IT)
 
 This panel aims to discuss the current state of machine learning algorithms to support and improve methodologies for assessing web accessibility. This discussion will be focused on web accessibility metrics, web pages sampling, evaluation of dynamic web pages, as well as on opportunities and future directions for machine learning for web accessibility evaluation.
 
