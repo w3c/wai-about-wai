@@ -52,7 +52,7 @@ After the symposium, the WAI-CooP project will publish a report, consolidating t
 ## Registration
 {:#registration}
 
-Participation is free, and you must **[register by 5 January 2023]()**.
+Participation is free, and you must **[register by 5 January 2022](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium2/)**.
 
 
 
