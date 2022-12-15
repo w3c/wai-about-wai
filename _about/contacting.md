@@ -27,14 +27,9 @@ class: tight-page
 
 ## Press Inquiries
 
-For press inquiries regarding WAI and Web accessibility, contact Judy
-Brewer, WAI Director:
+For press inquiries regarding WAI or web accessibility, please send e-mail to [shawn@w3.org, w3t-pr@w3.org, wai@w3.org](mailto:shawn@w3.org,w3t-pr@w3.org,wai@w3.org?subject=press%20request-accessibility)
 
--   by phone at +1.617.258.9741
--   by e-mail at <jbrewer@w3.org> **and** <w3t-pr@w3.org>
-
-For general W3C press inquires, see [How to contact W3C,
-Press](/Consortium/Contact#press).
+For general W3C press inquires, see [How to contact W3C, Press](/Consortium/Contact#press).
 
 ## Technical, Implementation, and other Support Questions
 
