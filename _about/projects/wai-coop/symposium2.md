@@ -1,5 +1,5 @@
 ---
-title: "[Draft] Artificial Intelligence and Accessibility Research Symposium 10 - 11 January 2023"
+title: "Artificial Intelligence and Accessibility Research Symposium 10 - 11 January 2023"
 title_html: "Artificial Intelligence and Accessibility Research Symposium <br /> 10 - 11 January 2023"
 nav_title: Symposium 2
 permalink: /about/projects/wai-coop/symposium2/
@@ -60,7 +60,7 @@ Participation is free, and you must **[register by 5 January 2022](https://www.w
 {:#agenda}
 
 The following times are in CET (UTC+1). [Check your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=WAI-CooP+Online+Research+Symposium&iso=20230110T15&p1=195&ah=3).
-### Day 1 - 10 January 2023
+### Day 1: Tuesday 10 January 2023
 -   **15:00** Start of meeting
 -   **15:00 - 15:05** Welcome session
 -   **15:05 - 16:10** [Opening keynote](#opening-keynote-jutta-treviranus)
@@ -69,7 +69,7 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 -   **17:10-18:00** [Panel 2: Natural Language Processing for Media Accessibility](#panel-2-natural-language-processing-for-media-accessibility)
 -   **17:00** End of meeting
 
-### Day 2 - 11 January 2023
+### Day 2: Wednesday 11 January 2023
 -   **15:00** Start of meeting
 -   **15:00 - 15:05** Welcome session
 -   **15:05 - 15:55** [Panel 1: Machine Learning for Web Accessibility Evaluation](#panel-1-machine-learning-for-web-accessibility-evaluation)
