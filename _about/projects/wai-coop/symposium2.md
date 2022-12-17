@@ -67,7 +67,7 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 -   **16:10-17:00** [Panel 1: Computer Vision for Media Accessibility](#panel-1-computer-vision-for-media-accessibility)
 -   **17:00-17:10** Coffee break
 -   **17:10-18:00** [Panel 2: Natural Language Processing for Media Accessibility](#panel-2-natural-language-processing-for-media-accessibility)
--   **17:00** End of meeting
+-   **18:00** End of meeting
 
 ### Day 2: Wednesday 11 January 2023
 -   **15:00** Start of meeting
