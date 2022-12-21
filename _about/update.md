@@ -97,9 +97,10 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and creating new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
 
-### Testing Accessibility
+### Testing Accessibility, Evaluation Tools
 
-**WCAG 2 Test Rules** (also known as **ACT Rules**) describe how to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
+* **ACT Rules** (Accessibility Conformance Testing (ACT), also known as "WCAG 2 Test Rules") describe ways to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
+* ACT Rules implementation reports list which ACT Rules the evaluation tool or methodology addresses. We invite evaluation tool developers to [submit implementation reports](https://act-rules.github.io/pages/implementations/reporting/). _[AG WG, ACT TF]_
 
 ## Upcoming Publications
 
@@ -184,6 +185,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 ## Updates to this page (changelog)
 
 * 21 December 2023
+  * Updated [Testing Accessibility, Evaluation Tools section](https://www.w3.org/WAI/update/#testing-accessibility-evaluation-tools): updated ACT Rules wording and added invitation for evaluation tool vendors to submit implementation reports.
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 1 December 2022
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
