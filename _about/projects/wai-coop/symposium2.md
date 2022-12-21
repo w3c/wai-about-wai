@@ -84,7 +84,10 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 ### Day 1
 
 #### Opening Keynote: Jutta Treviranus
+##### First, Do No Harm
+Artificial intelligence systems can make many decisions more efficiently, accurately, and consistently than humans. Their ability to learn human languages and perceptions and translate from one language or sensory mode to another is improving exponentially. Emerging large language models are threatening to pass the Turing test. However, these systems are also more efficient, accurate and consistent in enacting models of discrimination in the data. This amplifies, accelerates and automates the biases of the past. People with disabilities experience the extremes of both the potential and the risks. How can we harness the benefits without unleashing the harms?
 
+Jutta Treviranus is the Director of the Inclusive Design Research Centre (IDRC) and professor in the faculty of Design at OCAD University in Toronto (http://idrc.ocadu.ca ). Jutta established the IDRC in 1993 as the nexus of a growing global community that proactively works to ensure that our digitally transformed and globally connected society is designed inclusively.  Dr. Treviranus also founded an innovative graduate program in inclusive design at OCAD University.  Jutta is credited with developing an inclusive design methodology that has been adopted by large enterprise companies such as Microsoft, as well as public sector organizations internationally. In 2022 Jutta was recognized for her work in AI by [Women in AI](https://www.womeninai.co/) with the [AI for Good - DEI AI Leader of the Year award](https://www.womeninai.co/copy-of-na-media-1).
 
 #### Panel 1: Computer Vision for Media Accessibility
 
@@ -96,7 +99,7 @@ This panel aims to discuss the current state of computer vision techniques focus
 
 #### Panel 2: Natural Language Processing for Media Accessibility
 - Amy Pavel (University of Texas, US)
-- Shivam Singh (Accenture, India)
+- Shivam Singh (mavQ, India)
 - Michael Cooper (W3C, US)
 - Shaomei Wu (AImpower.org, US)
 
@@ -143,7 +146,7 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 
 - Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Janina Sajka (Sajka Associates)
-- Jason White (Educational Testing Service)
+- Jason White (Invited expert)
 - Letícia Seixas Pereira (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Matthew Atkinson (TPGi)
 - Michael Cooper (W3C)
