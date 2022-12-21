@@ -151,7 +151,7 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 
 - Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Janina Sajka (Sajka Associates)
-- Jason White (Invited expert)
+- Jason White
 - Letícia Seixas Pereira (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Matthew Atkinson (TPGi)
 - Michael Cooper (W3C)
