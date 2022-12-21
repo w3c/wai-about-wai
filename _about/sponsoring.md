@@ -31,12 +31,10 @@ class: tight-page
 -   **US Department of Health and Human Services, [National Institute for
     Disability, Independent Living and Rehabilitation
     Research](http://www.acl.gov/programs/NIDILRR/)**, contract
-    HHSP23301500054 ([WAI-Core 2015. 2020
+    HHSP23301500054 ([WAI-Core 2015, 2020
     Projects](https://www.w3.org/WAI/Core2015/))
 
--   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (822245) ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/))
-
--   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (101004794) ([WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/))
+-   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** &mdash; 822245 ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/)), 101004794 ([WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/))
 
 -   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/), [WAI-Core Ford Project](https://www.w3.org/WAI/wai-core-ford/))
 
@@ -67,25 +65,9 @@ WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org
     Project](https://www.w3.org/WAI/Core/Overview.html))
 -   US Department of Interior, [US Access Board](https://www.access-board.gov/) ([WCAG TA
     Project](https://www.w3.org/WAI/WCAGTA/Overview.html))
--   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/), 780057 ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
--   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/), 780529 ([Easy Reading Project](https://www.w3.org/WAI/about/projects/easy-reading/))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/), 7th Framework, IST 611612
-    ([WAI-DEV Project](http://www.w3.org/WAI/DEV/))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/), 7th Framework, IST 287725
-    ([WAI-ACT Project](https://www.w3.org/WAI/ACT/Overview.html))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/), 6th Framework, IST 035015
-    ([WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/Overview.html))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/) ([WAI-TIES
-    Project](https://www.w3.org/WAI/TIES/Overview.html))
--   European Commission [Information Society
-    Technologies](http://cordis.europa.eu/ist/) Accompanying Measure,
-    IST 13470 ([WAI-DA Project](https://www.w3.org/WAI/WAIDA/))
--   European Commission, DE 4105 - WAI ([WAI-DE
-    Project](https://www.w3.org/WAI/TIDE/FR2.htm))
+-   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) &mdash; 780057 ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/)), 780529 ([Easy Reading Project](https://www.w3.org/WAI/about/projects/easy-reading/))
+-   European Commission [Information Society Technologies Programme](http://cordis.europa.eu/ist/) &mdash; 7th Framework IST 611612 ([WAI-DEV Project](http://www.w3.org/WAI/DEV/)), 7th Framework IST 287725 ([WAI-ACT Project](https://www.w3.org/WAI/ACT/Overview.html)), 6th Framework IST 035015 ([WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/Overview.html)), ([WAI-TIES Project](https://www.w3.org/WAI/TIES/Overview.html)), Accompanying Measure IST 13470 ([WAI-DA Project](https://www.w3.org/WAI/WAIDA/))
+-   European Commission, DE 4105 - WAI ([WAI-DE Project](https://www.w3.org/WAI/TIDE/FR2.htm))
 -   [National Science Foundation](http://www.nsf.gov)
 
 ### Previous Platinum Sponsors (USD 100,000/year)
