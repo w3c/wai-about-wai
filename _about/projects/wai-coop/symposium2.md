@@ -29,7 +29,7 @@ github:
 ## Invitation
 {:#invitation}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of Artificial Intelligence in digital accessibility.
+The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
 
 - Symposium date: **10 - 11 January 2023**
 
@@ -39,7 +39,7 @@ Participation at the event is free of charge, but [registration](https://www.w3.
 ## Introduction
 {:#introduction}
 
-This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, Artificial Intelligence. This symposium aims to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
+This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, artificial intelligence. This symposium aims to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
 After the symposium, the WAI-CooP project will publish a report, consolidating the discussions and findings.
 
 
