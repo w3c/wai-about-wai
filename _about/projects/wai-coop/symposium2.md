@@ -29,7 +29,7 @@ github:
 ## Invitation
 {:#invitation}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of Artificial Intelligence in digital accessibility.
+The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
 
 - Symposium date: **10 - 11 January 2023**
 
@@ -39,7 +39,7 @@ Participation at the event is free of charge, but [registration](https://www.w3.
 ## Introduction
 {:#introduction}
 
-This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, Artificial Intelligence. This symposium aims to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
+This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, artificial intelligence. This symposium aims to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
 After the symposium, the WAI-CooP project will publish a report, consolidating the discussions and findings.
 
 
@@ -63,7 +63,7 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 ### Day 1: Tuesday 10 January 2023
 -   **15:00** Start of meeting
 -   **15:00 - 15:05** Welcome session
--   **15:05 - 16:10** [Opening keynote](#opening-keynote-jutta-treviranus)
+-   **15:05 - 16:10** [Opening keynote: Jutta Treviranus](#opening-keynote-jutta-treviranus)
 -   **16:10-17:00** [Panel 1: Computer Vision for Media Accessibility](#panel-1-computer-vision-for-media-accessibility)
 -   **17:00-17:10** Coffee break
 -   **17:10-18:00** [Panel 2: Natural Language Processing for Media Accessibility](#panel-2-natural-language-processing-for-media-accessibility)
@@ -75,7 +75,7 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 -   **15:05 - 15:55** [Panel 1: Machine Learning for Web Accessibility Evaluation](#panel-1-machine-learning-for-web-accessibility-evaluation)
 -   **15:55 - 16:05** Coffee break
 -   **16:05 - 16:55** [Panel 2: Natural Language Processing for Accessible Communication](#panel-2-natural-language-processing-for-accessible-communication)
--   **16:55 - 18:00** [Closing keynote](#closing-keynote-shari-trewin)
+-   **16:55 - 18:00** [Closing keynote: Shari Trewin](#closing-keynote-shari-trewin)
 -   **18:00** End of meeting
 
 ## Program
@@ -84,19 +84,22 @@ The following times are in CET (UTC+1). [Check your time zone](https://www.timea
 ### Day 1
 
 #### Opening Keynote: Jutta Treviranus
+##### First, Do No Harm
+Artificial intelligence systems can make many decisions more efficiently, accurately, and consistently than humans. Their ability to learn human languages and perceptions and translate from one language or sensory mode to another is improving exponentially. Emerging large language models are threatening to pass the Turing test. However, these systems are also more efficient, accurate and consistent in enacting models of discrimination in the data. This amplifies, accelerates and automates the biases of the past. People with disabilities experience the extremes of both the potential and the risks. How can we harness the benefits without unleashing the harms?
 
+**Jutta Treviranus** is the Director of the [Inclusive Design Research Centre (IDRC)](http://idrc.ocadu.ca) and professor in the faculty of Design at OCAD University in Toronto. Jutta established the IDRC in 1993 as the nexus of a growing global community that proactively works to ensure that our digitally transformed and globally connected society is designed inclusively.  Dr. Treviranus also founded an innovative graduate program in inclusive design at OCAD University.  Jutta is credited with developing an inclusive design methodology that has been adopted by large enterprise companies such as Microsoft, as well as public sector organizations internationally. In 2022 Jutta was recognized for her work in AI by [Women in AI](https://www.womeninai.co/) with the [AI for Good - DEI AI Leader of the Year award](https://www.womeninai.co/copy-of-na-media-1).
 
 #### Panel 1: Computer Vision for Media Accessibility
 
 - Amy Pavel (University of Texas, US)
-- Shivam Singh (Accenture, India)
+- Shivam Singh (mavQ, India)
 - Michael Cooper (W3C, US)
 
 This panel aims to discuss the current state of computer vision techniques focused on image recognition, supporting the identification and recognition of elements and text in web images and media, potentially considering the different usage contexts of the web. This discussion will be focused on aspects such as quality and accuracy of current computer vision techniques, as well as on opportunities and future directions for computer vision for media accessibility.
 
 #### Panel 2: Natural Language Processing for Media Accessibility
 - Amy Pavel (University of Texas, US)
-- Shivam Singh (Accenture, India)
+- Shivam Singh (mavQ, India)
 - Michael Cooper (W3C, US)
 - Shaomei Wu (AImpower.org, US)
 
@@ -120,7 +123,12 @@ This panel aims to discuss the current state of natural language processing tech
 
 
 #### Closing Keynote: Shari Trewin
+##### Where next for assistive AI?
 
+Digital accessibility barriers remain common despite clear standards, ample guidance, and many free tools. AI is starting to give individuals a way to bridge some of this gap, by interpreting and generating speech, language and images. However, the burden of access shouldn’t fall on people with disabilities. For the best quality, most equitable solutions, AI needs to shift left, and meet creators as they work. I’ll explore some important directions for future work and argue that markup still matters, if we want to get the best out of AI and move the needle on digital accessibility. 
+
+
+**[Dr Shari Trewin](https://www.linkedin.com/in/sharitrewin/)** is an Engineering Manager at Google, leading a team that develops new assistive technologies and features. Her background is in research, with 21 patents and 70 peer-reviewed articles including AI fairness, accessibility tools for designers and developers, web accessibility, access to virtual worlds, and self-adaptive input devices. Shari is a Distinguished Scientist of the Association of Computing Machinery (ACM), where she has chaired the ACM Special Interest Group on Accessible Computing (SIGACCESS), sat on ACM’s Diversity and Inclusion Council, and helped develop ACM’s accessibility guidance for authors and conference organizers. As Program Director of the IBM Accessibility team, she worked to elevate IBM’s product accessibility through the open source [Equal Access toolkit](https://ibm.com/able/toolkit).
 
 ## Logistics and Accessibility
 {:#logistics}
@@ -143,7 +151,7 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 
 - Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Janina Sajka (Sajka Associates)
-- Jason White (Educational Testing Service)
+- Jason White
 - Letícia Seixas Pereira (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Matthew Atkinson (TPGi)
 - Michael Cooper (W3C)
