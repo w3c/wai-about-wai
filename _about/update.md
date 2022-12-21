@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, October 2022</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, January 2023</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 29 September 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 21 December 2022. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -63,7 +63,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We're gathering implementations of the new WCAG 2.2 success criteria. We plan to publish the completed standard by December 2022. Get the latest up-to-date information from [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We're gathering implementations of the new WCAG 2.2 success criteria. We plan to publish the completed standard in early 2023. Get the latest up-to-date information from [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
@@ -104,13 +104,13 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Upcoming Publications
 
-<!-- We plan to publish the following documents in "Q4", which is October, November, December.-->We plan to publish the following documents in October 2022. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents in "Q1", which is January, February, March. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
+* [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to PR
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR
-* [Core Accessibility API Mappings 1.2](https://www.w3.org/TR/core-aam-1.2/) to CR
-* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) to CR
+* [WAI-Adapt: Symbols Module](https://w3c.github.io/adapt/symbols/) to CR
 
-Recent publications (including [WCAG 2.2 CR](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/)) and other announcements are listed on the **[News page](/news/)**.
+Recent publications and other announcements are listed on the **[News page](/news/)**.
 
 ### Get Updated
 
@@ -184,8 +184,15 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
-* @@ October 2022
-  * Updated ACT Rules wording and added invitation for evaluation tool vendors to submit implementation reports: "@@"
+* 21 December 2023
+  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+* 1 December 2022
+  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+* 9 November 2022
+  * We're in the process of updating our <a rel="me" href="https://w3c.social/@wai">Mastodon account w3c.social/@wai</a>.
+* 1 November 2022
+  * Updated WCAG 2.2 final publication to early 2023.
+* 19 October 2022
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 29 September 2022
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
