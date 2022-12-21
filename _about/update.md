@@ -185,6 +185,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 ## Updates to this page (changelog)
 
 * 21 December 2023
+  * Updated [Testing Accessibility, Evaluation Tools section](https://www.w3.org/WAI/update/#testing-accessibility-evaluation-tools): updated ACT Rules wording and added invitation for evaluation tool vendors to submit implementation reports.
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 1 December 2022
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
