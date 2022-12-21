@@ -31,14 +31,12 @@ class: tight-page
 -   **US Department of Health and Human Services, [National Institute for
     Disability, Independent Living and Rehabilitation
     Research](http://www.acl.gov/programs/NIDILRR/)**, contract
-    HHSP23301500054 ([WAI-Core 2015
-    Project](https://www.w3.org/WAI/Core2015/))
+    HHSP23301500054 ([WAI-Core 2015, 2020
+    Projects](https://www.w3.org/WAI/Core2015/))
 
--   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (780057) ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
+-   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** &mdash; 822245 ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/)), 101004794 ([WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/))
 
--   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (822245) ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/))
-
--   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/))
+-   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/), [WAI-Core Ford Project](https://www.w3.org/WAI/wai-core-ford/))
 
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
@@ -53,7 +51,7 @@ The Web Accessibility Initiative (WAI) greatly appreciates the sponsorship of go
 
 WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org/Consortium/Recruitment/Fellows) to support its technical and educational activities to increase accessibility of the Web. For information:
 * See [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)
-* Contact WAI staff at <wai@w3.org>
+* Contact WAI staff at [wai@w3.org](mailto:wai@w3.org?subject=%5BWAI%20Sponsorship%5D)
 
 ## Previous Sponsors, Funding, Contributors, Fellows
 
@@ -67,23 +65,9 @@ WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org
     Project](https://www.w3.org/WAI/Core/Overview.html))
 -   US Department of Interior, [US Access Board](https://www.access-board.gov/) ([WCAG TA
     Project](https://www.w3.org/WAI/WCAGTA/Overview.html))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/), 7th Framework, IST 611612
-    ([WAI-DEV Project](http://www.w3.org/WAI/DEV/))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/), 7th Framework, IST 287725
-    ([WAI-ACT Project](https://www.w3.org/WAI/ACT/Overview.html))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/), 6th Framework, IST 035015
-    ([WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/Overview.html))
--   European Commission [Information Society Technologies
-    Programme](http://cordis.europa.eu/ist/) ([WAI-TIES
-    Project](https://www.w3.org/WAI/TIES/Overview.html))
--   European Commission [Information Society
-    Technologies](http://cordis.europa.eu/ist/) Accompanying Measure,
-    IST 13470 ([WAI-DA Project](https://www.w3.org/WAI/WAIDA/))
--   European Commission, DE 4105 - WAI ([WAI-DE
-    Project](https://www.w3.org/WAI/TIDE/FR2.htm))
+-   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) &mdash; 780057 ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/)), 780529 ([Easy Reading Project](https://www.w3.org/WAI/about/projects/easy-reading/))
+-   European Commission [Information Society Technologies Programme](http://cordis.europa.eu/ist/) &mdash; 7th Framework IST 611612 ([WAI-DEV Project](http://www.w3.org/WAI/DEV/)), 7th Framework IST 287725 ([WAI-ACT Project](https://www.w3.org/WAI/ACT/Overview.html)), 6th Framework IST 035015 ([WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/Overview.html)), ([WAI-TIES Project](https://www.w3.org/WAI/TIES/Overview.html)), Accompanying Measure IST 13470 ([WAI-DA Project](https://www.w3.org/WAI/WAIDA/))
+-   European Commission, DE 4105 - WAI ([WAI-DE Project](https://www.w3.org/WAI/TIDE/FR2.htm))
 -   [National Science Foundation](http://www.nsf.gov)
 
 ### Previous Platinum Sponsors (USD 100,000/year)
