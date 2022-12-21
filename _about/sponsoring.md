@@ -53,7 +53,7 @@ The Web Accessibility Initiative (WAI) greatly appreciates the sponsorship of go
 
 WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org/Consortium/Recruitment/Fellows) to support its technical and educational activities to increase accessibility of the Web. For information:
 * See [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)
-* Contact WAI staff at <wai@w3.org>
+* Contact WAI staff at [wai@w3.org](mailto:wai@w3.org?subject=%5BWAI%20Sponsorship%5D)
 
 ## Previous Sponsors, Funding, Contributors, Fellows
 
