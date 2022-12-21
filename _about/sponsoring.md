@@ -36,7 +36,7 @@ class: tight-page
 
 -   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** &mdash; 822245 ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/)), 101004794 ([WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/))
 
--   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/), [WAI-Core Ford Project](https://www.w3.org/WAI/wai-core-ford/))
+-   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI-Core Ford Project](https://www.w3.org/WAI/wai-core-ford/))
 
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
@@ -64,10 +64,11 @@ WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org
     contract EDOSE10C0067 ([WAI-Core 2010
     Project](https://www.w3.org/WAI/Core/Overview.html))
 -   US Department of Interior, [US Access Board](https://www.access-board.gov/) ([WCAG TA
-    Project](https://www.w3.org/WAI/WCAGTA/Overview.html))
+    Project](https://www.w3.org/WAI/WCAGTA/Overview.html))    
 -   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) &mdash; 780057 ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/)), 780529 ([Easy Reading Project](https://www.w3.org/WAI/about/projects/easy-reading/))
 -   European Commission [Information Society Technologies Programme](http://cordis.europa.eu/ist/) &mdash; 7th Framework IST 611612 ([WAI-DEV Project](http://www.w3.org/WAI/DEV/)), 7th Framework IST 287725 ([WAI-ACT Project](https://www.w3.org/WAI/ACT/Overview.html)), 6th Framework IST 035015 ([WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/Overview.html)), ([WAI-TIES Project](https://www.w3.org/WAI/TIES/Overview.html)), Accompanying Measure IST 13470 ([WAI-DA Project](https://www.w3.org/WAI/WAIDA/))
 -   European Commission, DE 4105 - WAI ([WAI-DE Project](https://www.w3.org/WAI/TIDE/FR2.htm))
+-   [Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/) &mdash; ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/))
 -   [National Science Foundation](http://www.nsf.gov)
 
 ### Previous Platinum Sponsors (USD 100,000/year)
