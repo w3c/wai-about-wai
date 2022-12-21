@@ -92,7 +92,7 @@ Artificial intelligence systems can make many decisions more efficiently, accura
 #### Panel 1: Computer Vision for Media Accessibility
 
 - Amy Pavel (University of Texas, US)
-- Shivam Singh (Accenture, India)
+- Shivam Singh (mavQ, India)
 - Michael Cooper (W3C, US)
 
 This panel aims to discuss the current state of computer vision techniques focused on image recognition, supporting the identification and recognition of elements and text in web images and media, potentially considering the different usage contexts of the web. This discussion will be focused on aspects such as quality and accuracy of current computer vision techniques, as well as on opportunities and future directions for computer vision for media accessibility.
