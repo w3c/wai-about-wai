@@ -31,14 +31,14 @@ class: tight-page
 -   **US Department of Health and Human Services, [National Institute for
     Disability, Independent Living and Rehabilitation
     Research](http://www.acl.gov/programs/NIDILRR/)**, contract
-    HHSP23301500054 ([WAI-Core 2015
-    Project](https://www.w3.org/WAI/Core2015/))
-
--   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (780057) ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
+    HHSP23301500054 ([WAI-Core 2015. 2020
+    Projects](https://www.w3.org/WAI/Core2015/))
 
 -   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (822245) ([WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/))
 
--   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/))
+-   **European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)** (101004794) ([WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/))
+
+-   **[Ford Foundation](https://www.fordfoundation.org/), [Technology and Society Program](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)** ([WAI Expanding Access Project](https://www.w3.org/WAI/expand-access/), [WAI-Core Ford Project](https://www.w3.org/WAI/wai-core-ford/))
 
 -   **[IBM Corporation](http://www.ibm.com/able) (Silver Sponsor)**
     ![](https://w3.org/Icons/ibm_screen_blue_2px.gif)
@@ -67,6 +67,7 @@ WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org
     Project](https://www.w3.org/WAI/Core/Overview.html))
 -   US Department of Interior, [US Access Board](https://www.access-board.gov/) ([WCAG TA
     Project](https://www.w3.org/WAI/WCAGTA/Overview.html))
+-   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/), 780057 ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
 -   European Commission [Information Society Technologies
     Programme](http://cordis.europa.eu/ist/), 7th Framework, IST 611612
     ([WAI-DEV Project](http://www.w3.org/WAI/DEV/))
