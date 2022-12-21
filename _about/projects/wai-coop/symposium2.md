@@ -123,7 +123,12 @@ This panel aims to discuss the current state of natural language processing tech
 
 
 #### Closing Keynote: Shari Trewin
+Where next for assistive AI?
 
+Digital accessibility barriers remain common despite clear standards, ample guidance, and many free tools. AI is starting to give individuals a way to bridge some of this gap, by interpreting and generating speech, language and images. However, the burden of access shouldn’t fall on people with disabilities. For the best quality, most equitable solutions, AI needs to shift left, and meet creators as they work. I’ll explore some important directions for future work and argue that markup still matters, if we want to get the best out of AI and move the needle on digital accessibility. 
+
+
+***[Dr Shari Trewin](https://www.linkedin.com/in/sharitrewin/)*** is an Engineering Manager at Google, leading a team that develops new assistive technologies and features. Her background is in research, with 21 patents and 70 peer-reviewed articles including AI fairness, accessibility tools for designers and developers, web accessibility, access to virtual worlds, and self-adaptive input devices. Shari is a Distinguished Scientist of the Association of Computing Machinery (ACM), where she has chaired the ACM Special Interest Group on Accessible Computing (SIGACCESS), sat on ACM’s Diversity and Inclusion Council, and helped develop ACM’s accessibility guidance for authors and conference organizers. As Program Director of the IBM Accessibility team, she worked to elevate IBM’s product accessibility through the open source [Equal Access toolkit](https://ibm.com/able/toolkit).
 
 ## Logistics and Accessibility
 {:#logistics}
