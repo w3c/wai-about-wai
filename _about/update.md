@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, December 2022</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, January 2023</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 1 December 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 21 December 2022. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -103,11 +103,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Upcoming Publications
 
-We plan to publish the following documents in December 2022, January 2023, or February 2023. <!-- We plan to publish the following documents in "Q1", which is January, February, March. --> To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents in "Q1", which is January, February, March. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to PR
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR
-* [WAI-Adapt: Content Module](https://www.w3.org/TR/adapt-content/) to CR
+* [WAI-Adapt: Symbols Module](https://w3c.github.io/adapt/symbols/) to CR
 
 Recent publications and other announcements are listed on the **[News page](/news/)**.
 
@@ -183,6 +183,8 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
+* 21 December 2023
+  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 1 December 2022
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 9 November 2022
