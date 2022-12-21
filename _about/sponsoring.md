@@ -68,6 +68,7 @@ WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org
 -   US Department of Interior, [US Access Board](https://www.access-board.gov/) ([WCAG TA
     Project](https://www.w3.org/WAI/WCAGTA/Overview.html))
 -   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/), 780057 ([WAI-Tools Project](https://www.w3.org/WAI/about/projects/wai-tools/))
+-   European Commission (EC) [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/), 780529 ([Easy Reading Project](https://www.w3.org/WAI/about/projects/easy-reading/))
 -   European Commission [Information Society Technologies
     Programme](http://cordis.europa.eu/ist/), 7th Framework, IST 611612
     ([WAI-DEV Project](http://www.w3.org/WAI/DEV/))
