@@ -53,7 +53,7 @@ The Web Accessibility Initiative (WAI) greatly appreciates the sponsorship of go
 
 WAI welcomes additional sponsors, contributors, and [fellows](https://www.w3.org/Consortium/Recruitment/Fellows) to support its technical and educational activities to increase accessibility of the Web. For information:
 * See [Web Accessibility Initiative Sponsor (WAI)](http://www.w3.org/Consortium/sponsor/webforall#wai)
-* Contact [Judy Brewer](https://www.w3.org/People/Brewer/), Director of WAI, at <jbrewer@w3.org>
+* Contact WAI staff at <wai@w3.org>
 
 ## Previous Sponsors, Funding, Contributors, Fellows
 
