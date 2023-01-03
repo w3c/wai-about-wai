@@ -106,7 +106,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 We plan to publish the following documents in "Q1", which is January, February, March. To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to PR
+* [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to CR (again, due to significant changes since last CR)
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR
 * [WAI-Adapt: Symbols Module](https://w3c.github.io/adapt/symbols/) to CR
 
