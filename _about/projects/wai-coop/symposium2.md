@@ -46,13 +46,13 @@ After the symposium, the WAI-CooP project will publish a report, consolidating t
 ## Important Dates
 {:#dates}
 
--	**5 January 2023:** Deadline for [registration](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium2/)
+-	**8 January 2023:** Deadline for [registration](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium2/)
 -	**10 - 11 January 2023:** Online symposium event
 
 ## Registration
 {:#registration}
 
-Participation is free, and you must **[register by 5 January 2022](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium2/)**.
+Participation is free, and you must **[register by 8 January 2022](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium2/)**.
 
 
 
@@ -109,7 +109,7 @@ This panel aims to discuss the current state of natural language processing tech
 #### Panel 1: Machine Learning for Web accessibility evaluation
 - Willian Massami Watanabe (Universidade Tecnológica Federal do Paraná, BR)
 - Yeliz Yesilada (Middle East Technical University, TR)
-- Sheng Zhou (Zhejiang University, CH)
+- Sheng Zhou (Zhejiang University, CN)
 - Fabio Paternò (CNR-IST, HIIS Laboratory, IT)
 
 This panel aims to discuss the current state of machine learning algorithms to support and improve methodologies for assessing web accessibility. This discussion will be focused on web accessibility metrics, web pages sampling, evaluation of dynamic web pages, as well as on opportunities and future directions for machine learning for web accessibility evaluation.
