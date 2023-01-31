@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, January 2023</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, February 2023</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 21 December 2022. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 31 January 2023. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -108,7 +108,7 @@ We plan to publish the following documents in "Q1", which is January, February, 
 
 * [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to PR
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to PR
-* [WAI-Adapt: Symbols Module](https://w3c.github.io/adapt/symbols/) to CR
+* [WCAG 3 Working Draft](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
 
 Recent publications and other announcements are listed on the **[News page](/news/)**.
 
@@ -184,7 +184,9 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
-* 21 December 2023
+* 31 January 2023
+  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+* 21 December 2022
   * Updated [Testing Accessibility, Evaluation Tools section](https://www.w3.org/WAI/update/#testing-accessibility-evaluation-tools): updated ACT Rules wording and added invitation for evaluation tool vendors to submit implementation reports.
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 1 December 2022
