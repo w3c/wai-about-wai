@@ -6,8 +6,8 @@ lang: en
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 10 March 2020.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
+  <p><strong>Date:</strong> Updated 31 January 2023.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 github:
   repository: w3c/wai-about-wai
@@ -84,3 +84,7 @@ Learn more about [Participating in WAI](https://www.w3.org/WAI/about/participati
 New WAI publications, draft documents for review, and other WAI announcements are listed on the [News page](https://www.w3.org/WAI/news/).
 
 You can subscribe to get news announcements via e-mail, Atom/RSS feed, or Twitter from [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
+
+## Current Work
+
+Current work is introduced in [What We're Working On - Accessibility Activities and Publications](https://www.w3.org/WAI/update/).
