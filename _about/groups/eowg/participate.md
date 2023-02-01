@@ -112,7 +112,7 @@ If you do **not** work for a [W3C Member organization](http://www.w3.org/Consort
 
     -   Get a W3C Account and subscribe to the mailing list, per the instructions above.
 
-2.  Explain your interest in contributing to EOWG work in an e-mail to EOWG Co-Chairs Sharron and Brent, and W3C Staff Contact Shawn, at [group-eo-chairs@w3.org](mailto:group-eo-chairs@w3.org?subject=EOWG%20Contribution).
+2.  Explain your interest in contributing to EOWG work in an e-mail to EOWG Co-Chairs Brent and Kris Anne, and W3C Staff Contact Shawn, at [group-eo-chairs@w3.org](mailto:group-eo-chairs@w3.org?subject=EOWG%20Contribution).
 
 3.  Demonstrate your understanding of EOWG and your contributions by commenting on open issues and resources-in-progress per [Commenting on EOWG Resources above](#comment).<br>If you have questions, e-mail [group-eo-chairs@w3.org](mailto:group-eo-chairs@w3.org?subject=EOWG%20 Contribution).
 
