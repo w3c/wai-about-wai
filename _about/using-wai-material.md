@@ -9,7 +9,7 @@ permalink: /about/using-wai-material/
 ref: /about/using-wai-material/
 lang: en
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 27 October 2020.</p>
+  <p><strong>Date:</strong> Updated 1 February 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the <a href="http://www.w3.org/People/domain?domain=Web+Accessibility+Initiative">WAI staff</a> and <a href="https://www.w3.org/People/functions/comm">W3C Communications staff</a>.</p>
 ---
@@ -22,7 +22,7 @@ You can generally use WAI material for free, with two conditions:
 1.  Clearly attribute the original source and include a link to it, as specified below, and
 2.  Not modify the content (with few exceptions noted below).
 
-[W3C usage policies apply](https://www.w3.org/Consortium/Legal/ipr-notice) to all WAI material.
+<p>Resources on the WAI website are <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyright</a> <a href="https://www.w3.org/">World Wide Web Consortium</a>. <abbr title="World Wide Web Consortium">W3C</abbr><sup>®</sup> <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">liability</a>, <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">trademark</a> and <a href="https://www.w3.org/Consortium/Legal/copyright-documents">document use</a> rules apply to all pages, unless otherwise noted as Creative Commons license.</p>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -56,7 +56,7 @@ Please read below for more details, including [**some material that is specially
 
 ## Official W3C Document License
 
-Most WAI material (including the standards and guidelines) is provided under the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license.html) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you **include URL, copyright, and status** (if it exists). This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
+Most WAI material (including the standards and guidelines) is provided under the [W3C Document License](https://www.w3.org/Consortium/Legal/copyright-documents) which grants permission to copy and distribute complete documents in any medium for any purpose, without fee or royalty, provided that you **include URL, copyright, and status** (if it exists). This does not allow modifications or the creation of derivative works, so as to prevent interoperability problems and other problems. For more information, see the [Intellectual Rights FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
 
 ## Creative Commons Licensed (CC) Material for You to Adapt
 {:#cc}
