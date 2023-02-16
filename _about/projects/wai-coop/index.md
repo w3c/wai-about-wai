@@ -34,7 +34,7 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Current Announcements
 {:#announcements}
 
--   **10-11 January 2023:** [WAI-CooP Artificial Intelligence and Accessibility Research Symposium, 10-11 January 2023](https://www.w3.org/WAI/about/projects/wai-coop/symposium2/)
+-   **7 March 2023:** [WAI-CooP Open Online Meeting](https://www.edf-feph.org/events-slug/wai-coop-open-meeting-7-march-2023)
 -   **Sign-Up:** to [receive WAI-CooP Project Updates by e-mail](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   WAI-CooP Project started on 1 January 2021
 
@@ -53,10 +53,11 @@ Current project activities include:
 :  Includes promoting, tracking, and validating implementations of "Accessibility Conformance Testing (ACT) Rules" in automated testing tools and manual testing methodologies. This includes completed [redesign of the user interface](https://www.w3.org/WAI/standards-guidelines/act/rules/about/) to better integrate implementation reports submitted by different vendors. This work is being carried out in the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group (AGWG).
 
 Completed project deliverables include:
-* [WAI-CooP Online Meeting, 19 April 2022](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
+* [Artificial Intelligence and Accessibility Research Symposium, 10-11 January 2023](https://www.w3.org/WAI/about/projects/wai-coop/symposium2/)
+* [WAI-CooP Open Online Meeting, 19 April 2022](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
 * [Online Research Symposium "Shape the Future", 10 November 2021](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
 * [Open Meeting on EU Web Accessibility Directive (WAD), 28 September 2021](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
-* [WAI-CooP First Online Open Meeting, 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
+* [WAI-CooP Open Online Meeting, 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
 
 ## Project Deliverables
 {:#deliverables}
