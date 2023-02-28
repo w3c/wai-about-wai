@@ -184,7 +184,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
-* 28 March 2023
+* 28 February 2023
   * No substantive updates.
 * 31 January 2023
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
