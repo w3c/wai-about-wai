@@ -118,7 +118,7 @@ If you do **not** work for a [W3C Member organization](http://www.w3.org/Consort
 
 4.  After you are comfortable that you understand EOWG and have demonstrated contributions, e-mail [group-eo-chairs@w3.org](mailto:group-eo-chairs@w3.org?subject=EOWG%20participation) with ideas on how you can contribute more as an active EOWG participant. We will probably schedule a time to talk via phone.
 
-5.  After you receive an invitation from the Chairs and Staff Contact (probably via phone, maybe via e-mail), complete the [W3C Invited Expert Application](https://www.w3.org/2002/09/wbs/1/ieapp/).
+5.  After you receive an invitation from the Chairs and Staff Contact (probably via phone, maybe via e-mail), complete the W3C Invited Expert Application by navigating to the [list of Working Groups](https://www.w3.org/2002/09/wbs/1/ieapp/), selecting the desired group's Summary and clicking the `Join the Group` button to fill out the W3C Invited Expert Application.
 
 6.  You should receive a reply within 10 business days. If you are accepted as an Invited Expert, you will receive confirmation with additional instructions on one more form to complete.
 
