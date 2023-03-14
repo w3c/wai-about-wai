@@ -16,7 +16,7 @@ class: tight-page
 
    * [WAI-CooP](/about/projects/wai-coop/)
    * [WAI-Guide](/about/projects/wai-guide/)
-   * [WAI-Core Ford](https://www.w3.org/WAI/wai-core-ford/)
+   * [WAI-Core Ford](https://www.w3.org/WAI/about/projects/wai-core-ford/)
    * [WAI-Core 2015, 2020](https://www.w3.org/WAI/CORE2015/)
 
 ## Previous Projects
