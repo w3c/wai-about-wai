@@ -115,4 +115,4 @@ WAI-CooP project partners include:
 -   [European Disability Forum (EDF) {% include_cached external.html %}](https://www.edf-feph.org/), Belgium
 -   [HAN University of Applied Sciences {% include_cached external.html %}](https://hanuniversity.com/en/), Netherlands
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
--   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands
+-   [Deque Systems Europe {% include_cached external.html %}](https://www.deque.com/), Netherlands
