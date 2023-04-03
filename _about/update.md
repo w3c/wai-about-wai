@@ -158,7 +158,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 "We" is:
 
 * [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/))
-* WAI Staff: [Judy Brewer](https://www.w3.org/People#jbrewer), [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Steve Lee](https://www.w3.org/People#stevelee), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), and several WAI [Alumni](https://www.w3.org/People/Alumni)
+* WAI Staff: [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), [Kevin White](https://www.w3.org/People#kevin), and several WAI [Alumni](https://www.w3.org/People/Alumni)
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other [W3C groups](https://www.w3.org/groups/)
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
