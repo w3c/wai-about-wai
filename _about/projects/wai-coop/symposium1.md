@@ -77,7 +77,7 @@ We welcome submissions that address, but are not limited to, the following topic
 ## Symposium Transcript
 {:#transcript}
 
-The [transcript](../transcript1.html) of the symposium is now available.
+The [transcript](../symposium1_transcript.html) of the symposium is now available.
 ## Agenda
 {:#agenda}
 

@@ -26,33 +26,24 @@ github:
 {% include toc.html type="end" %}
 {:/}
 
-## Invitation
-{:#invitation}
+## Introduction
+{:#introduction}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
+The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invited researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
+
+This online symposium brought together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, artificial intelligence. This symposium aimed to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
+
 
 - Symposium date: **10 - 11 January 2023**
 
 
-Participation at the event is free of charge, but registration is compulsory. The registration deadline is 8 January 2023.
 
-## Introduction
-{:#introduction}
+## Symposium Transcript
+{:#transcript}
 
-This online symposium brings together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, artificial intelligence. This symposium aims to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
-After the symposium, the WAI-CooP project will publish a report, consolidating the discussions and findings.
-
-
-## Important Dates
-{:#dates}
-
--	**8 January 2023:** Deadline for registration
--	**10 - 11 January 2023:** Online symposium event
-
-## Registration
-{:#registration}
-
-Registration is now closed.
+The transcripts of the symposium are now available:
+- [Transcriptions of the first day](../symposium2_day1_transcript.html)
+- [Transcriptions of the second day](../symposium2_day2_transcript.html)
 
 
 ## Agenda
