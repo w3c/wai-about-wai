@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, April 2023</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, May 2023</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 31 March 2023. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 28 April 2023. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -63,7 +63,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** &mdash; We are refining the new WCAG 2.2 success criteria. We plan to publish the completed standard in 2023. Get the latest up-to-date information from [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2 Draft** &mdash; is available for final review. We plan to publish the completed standard in 2023. Get the latest up-to-date information from [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
@@ -79,7 +79,9 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 * **Cognitive Accessibility** &mdash; We're updating several documents to better address the needs of people with cognitive and learning disabilities. A current topic is mental health. [[Cognitive Accessibility at W3C]](/cognitive/). _[AG WG, COGA TF]_
 
+<!--
 * **Low Vision Accessibility** &mdash; We're writing guidance that goes beyond the minimums required by WCAG. It is called "supplemental guidance". Current topics cover proximity, printing, and alternative themes such as high contrast and dark mode. _[AG WG, Low Vision TF]_
+* -->
 
 * **Mobile Accessibility** work includes supporting on-going standards development, including supporting WCAG 3 exploration. [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) _[AG WG, Mobile TF]_
 
@@ -95,7 +97,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Draft](https://www.w3.org/TR/naur)  _[APA WG, Research TF]_
 
-* **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and creating new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
+* **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and publishing new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
 
 ### Testing Accessibility, Evaluation Tools
 
@@ -108,7 +110,7 @@ We plan to publish the following documents in "Q2", which is April, May, June. T
 
 * [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to CR and PR
 * [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) to Recommendation
-* [EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/) to PR
+* [EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/) to Recommendation
 * [Digital Publishing WAI-ARIA Module 1.1](https://www.w3.org/TR/dpub-aria-1.1/) and [Digital Publishing Accessibility API Mappings 1.1](https://www.w3.org/TR/dpub-aam-1.1/) to CR
 * [WCAG 3 Working Draft](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/) update
 
@@ -158,7 +160,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 "We" is:
 
 * [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/))
-* WAI Staff: [Shawn Lawton Henry](https://www.w3.org/People#shawn), [Michael Cooper](https://www.w3.org/People#cooper), [Roy Ran](https://www.w3.org/People#ran), [Daniel Montalvo](https://www.w3.org/People#dmontalvo), [Kevin White](https://www.w3.org/People#kevin), and several WAI [Alumni](https://www.w3.org/People/Alumni)
+* WAI Staff: [Kevin White](https://www.w3.org/People#kevin) (Accessibility Development and Operations Lead), [Michael Cooper](https://www.w3.org/People#cooper) (Accessibility Strategy and Technical Lead), [Ruoxi Ran](https://www.w3.org/People#ran) (Accessibility Engineer), [Daniel Montalvo](https://www.w3.org/People#dmontalvo) (Accessibility Harmonization and Testing Specialist), and [Shawn Lawton Henry](https://www.w3.org/People#shawn) (Accessibility Education and Communications Lead)
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other [W3C groups](https://www.w3.org/groups/)
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
@@ -186,6 +188,11 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 ## Updates to this page (changelog)
 
+* 28 April 2023
+  * Updated WAI staff roles under [Who is We](https://www.w3.org/WAI/update/#who-is-we):<blockquote> [Kevin White](https://www.w3.org/People#kevin) (Accessibility Development and Operations Lead), [Michael Cooper](https://www.w3.org/People#cooper) (Accessibility Strategy and Technical Lead), [Ruoxi Ran](https://www.w3.org/People#ran) (Accessibility Engineer), [Daniel Montalvo](https://www.w3.org/People#dmontalvo) (Accessibility Harmonization and Testing Specialist), and [Shawn Lawton Henry](https://www.w3.org/People#shawn) (Accessibility Education and Communications Lead)</blockquote>
+  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+  * Minor update to WCAG 2.2 current work highlights bullet.
+  * Deleted Low Vision Task Force work, since it's on hold for a while.
 * 31 March 2023
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) and minor update to WCAG 2.2 current work highlights bullet.
 * 28 February 2023
