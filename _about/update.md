@@ -63,11 +63,11 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2 Draft** &mdash; is available for final review. We plan to publish the completed standard in 2023. Get the latest up-to-date information from [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2 Draft** is available for final review. We plan to publish the completed standard in 2023. Get the latest up-to-date information from [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
-* **ARIA 1.3**  &mdash; We're working on additional support for Braille and other [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release).  _[ARIA WG]_
+* **ARIA 1.3** &mdash; We're working on additional support for Braille and other [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release).  _[ARIA WG]_
 
 ### Developing New Standards
 
@@ -160,7 +160,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 "We" is:
 
 * [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/))
-* WAI Staff: [Kevin White](https://www.w3.org/People#kevin) (Accessibility Development and Operations Lead), [Michael Cooper](https://www.w3.org/People#cooper) (Accessibility Strategy and Technical Lead), [Ruoxi Ran](https://www.w3.org/People#ran) (Accessibility Engineer), [Daniel Montalvo](https://www.w3.org/People#dmontalvo) (Accessibility Harmonization and Testing Specialist), and [Shawn Lawton Henry](https://www.w3.org/People#shawn) (Accessibility Education and Communications Lead)
+* W3C WAI Staff: [Kevin White](https://www.w3.org/People#kevin) (Accessibility Development and Operations Lead), [Michael Cooper](https://www.w3.org/People#cooper) (Accessibility Strategy and Technical Lead), [Ruoxi Ran](https://www.w3.org/People#ran) (Accessibility Engineer), [Daniel Montalvo](https://www.w3.org/People#dmontalvo) (Accessibility Harmonization and Testing Specialist), and [Shawn Lawton Henry](https://www.w3.org/People#shawn) (Accessibility Education and Communications Lead)
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other [W3C groups](https://www.w3.org/groups/)
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
@@ -189,27 +189,20 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 ## Updates to this page (changelog)
 
 * 28 April 2023
-  * Updated WAI staff roles under [Who is We](https://www.w3.org/WAI/update/#who-is-we):<blockquote> [Kevin White](https://www.w3.org/People#kevin) (Accessibility Development and Operations Lead), [Michael Cooper](https://www.w3.org/People#cooper) (Accessibility Strategy and Technical Lead), [Ruoxi Ran](https://www.w3.org/People#ran) (Accessibility Engineer), [Daniel Montalvo](https://www.w3.org/People#dmontalvo) (Accessibility Harmonization and Testing Specialist), and [Shawn Lawton Henry](https://www.w3.org/People#shawn) (Accessibility Education and Communications Lead)</blockquote>
+  * Updated W3C WAI staff roles under [Who is We](https://www.w3.org/WAI/update/#who-is-we): [Kevin White](https://www.w3.org/People#kevin) (Accessibility Development and Operations Lead), [Michael Cooper](https://www.w3.org/People#cooper) (Accessibility Strategy and Technical Lead), [Ruoxi Ran](https://www.w3.org/People#ran) (Accessibility Engineer), [Daniel Montalvo](https://www.w3.org/People#dmontalvo) (Accessibility Harmonization and Testing Specialist), and [Shawn Lawton Henry](https://www.w3.org/People#shawn) (Accessibility Education and Communications Lead)
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
   * Minor update to WCAG 2.2 current work highlights bullet.
   * Deleted Low Vision Task Force work, since it's on hold for a while.
-* 31 March 2023
-  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) and minor update to WCAG 2.2 current work highlights bullet.
-* 28 February 2023
-  * No substantive updates.
-* 31 January 2023
-  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+* 31 March 2023 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) and minor update to WCAG 2.2 current work highlights bullet.
+* 28 February 2023 &mdash; No substantive updates.
+* 31 January 2023 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 21 December 2022
   * Updated [Testing Accessibility, Evaluation Tools section](https://www.w3.org/WAI/update/#testing-accessibility-evaluation-tools): updated ACT Rules wording and added invitation for evaluation tool vendors to submit implementation reports.
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
-* 1 December 2022
-  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
-* 9 November 2022
-  * We're in the process of updating our <a rel="me" href="https://w3c.social/@wai">Mastodon account w3c.social/@wai</a>.
-* 1 November 2022
-  * Updated WCAG 2.2 final publication to early 2023.
-* 19 October 2022
-  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+* 1 December 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+* 9 November 2022 &mdash; We're in the process of updating our <a rel="me" href="https://w3c.social/@wai">Mastodon account w3c.social/@wai</a>.
+* 1 November 2022 &mdash; Updated WCAG 2.2 final publication to early 2023.
+* 19 October 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 29 September 2022
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
   * Under Current Work Highlights section, deleted "Teaching Accessibility. Curricula on Web Accessibility...", since we published it today
