@@ -37,7 +37,7 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 
 *Recent **[Publications](#pubs)**, **[Current Work](#deliv)** and **[Participation](#participation)** are listed lower on this page.*
 
-{temporary links: [prototype A](https://xd.adobe.com/view/7d05cad8-234d-437d-82d9-4290a5018440-2856/?fullscreen&hints=off), [prototype B](https://xd.adobe.com/view/5734415c-af33-49ee-8874-40fb96349366-0267/screen/aaf0456f-d54f-4065-ab84-b2ad9b531fd9/?fullscreen&hints=off)}
+{temporary links: [Prototype A](https://xd.adobe.com/view/7d05cad8-234d-437d-82d9-4290a5018440-2856/?fullscreen&hints=off) , [Prototype B](https://xd.adobe.com/view/8f2b2b8f-00aa-4b6f-a9e2-8418a80aae0e-da78/screen/d123707b-2777-412f-88dd-0de3ba71bc17?fullscreen&hints=off)}
 
 ## Announcements and Meetings for EOWG Participants
 
