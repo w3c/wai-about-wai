@@ -47,16 +47,10 @@ Group](/WAI/IG/) is a public forum for discussion of issues relating to
 Web accessibility. If you have a question that might be relevant to the
 WAI IG list, you can:
 
--   Search the [WAI IG list
-    archives](http://lists.w3.org/Archives/Public/w3c-wai-ig/) to see if
-    it has already been addressed sufficiently
--   Read "Using the WAI IG mailing list" in the [Membership/Mailing
-    List](/WAI/IG/Overview.html#Uselist) section of the WAI IG page
--   [Join the self-subscription list](/WAI/IG/Overview.html#Uselist) and
+-   Search the [WAI IG list archives](http://lists.w3.org/Archives/Public/w3c-wai-ig/) to see if it has already been addressed sufficiently
+-   Read the [Mailing Lists](/WAI/about/groups/waiig/#mailinglist) section of the WAI IG page
+-   [Subscribe to the Discussion List](/WAI/about/groups/waiig/#subscribing-and-unsubscribing-to-the-discussion-list) and
     post appropriate questions
-
-A limited number of support questions can be answered via e-mail to
-[wai@w3.org](mailto:wai@w3.org).
 
 ## Feedback on Specific Documents
 
@@ -78,37 +72,19 @@ it to a publicly-archived e-mail list.
 
 ## Feedback on the WAI Web Site
 
-You can submit comments on the overall WAI Web site (www.w3.org/WAI/)
-either to a W3C WAI staff list or to a public list:
+You can submit comments on the overall WAI Web site (www.w3.org/WAI/) either to a W3C WAI staff list or to a public list:
 
 -   <team-site-design@w3.org> (for WAI staff, not public)
 -   <wai-site-comments@w3.org> (can be seen by the public)
 
-Comments on other parts of the W3C Web site (www.w3.org) go to:
-<site-comments@w3.org>
+Comments on other parts of the W3C Web site (www.w3.org) go to: <site-comments@w3.org>
 
-## WAI Staff Contacts
+## WAI Staff
 
-For information on W3C Team members working in WAI, see [Who's Who at
-the World Wide Web Consortium, Web Accessibility
-Initiative](/People/all?pictures=yes#WebAccessibilityInitiative).
+* <a href="https://www.w3.org/People/kevin/">Kevin White</a>, Accessibility Development and Operations Lead
+* <a href="https://www.w3.org/People/cooper/">Michael Cooper</a>, Accessibility Strategy and Technical Lead
+* <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Accessibility Education and Communications Lead
+* <a href="https://www.w3.org/People#ran">Ruoxi Ran</a>, Accessibility Engineer
+* <a href="https://www.w3.org/People#dmontalvo">Daniel Montalvo</a>, Accessibility Harmonization and Testing Specialist
 
-## Locations and Address
-
-WAI is part of W3C, which is hosted at:
-
--   [MIT/CSAIL](https://www.w3.org/Consortium/contact-mit) in the United States
--   [ERCIM](https://www.w3.org/Consortium/contact-ercim) in France
--   [Keio University](https://www.w3.org/Consortium/contact-keio) in Japan
--   [Beihang University](http://www.chinaw3c.org/contact-en.html) in China
-
-<em>The links above provide addresses and phone numbers for each location.</em>
-
-The main WAI office contact information is:
-
-W3C Web Accessibility Initiative (WAI)<br>
-MIT/CSAIL, Building 32-G530<br>
-32 Vassar St<br>
-Cambridge, MA 02139<br>
-USA<br>
-Telephone: +1.617.253.2613
+If you don't know who to contact, or to reach all WAI staff, you can e-mail <wai@w3.org>
