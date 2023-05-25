@@ -147,9 +147,12 @@ Did you know the WAI website has: **videos, tips, tutorials, tools** (for genera
 
 To learn about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
 
-Links to each Working Group's "How to Participate" page are in the [Participating in Working Groups section](/about/participating/#WGs).
+We are particulalry seeking contributions through:
+* @@ EOWG
+* @@ FAST TF
+* ...
 
-If you are interested in a Task Force, see participation information for the parent Working Group.
+Links to each Working Group's "How to Participate" page are in the [Participating in Working Groups section](/about/participating/#WGs). If you are interested in a Task Force, see participation information for the parent Working Group.
 
 We also offer ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
 
