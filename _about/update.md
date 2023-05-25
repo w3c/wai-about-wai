@@ -145,12 +145,12 @@ Did you know the WAI website has: **videos, tips, tutorials, tools** (for genera
 
 ## How to Get Involved {#participate}
 
-To learn about contributing to this work generally, **see [[Participating in WAI]](/about/participating/)**.
-
-We are particulalry seeking contributions through:
-* @@ EOWG
+We are particularly seeking the following contributions:
+* EOWG (Accessibilty Education and Outreach Working Group) welcomes contributions on the next iteration of [How People with Disabilities use the Web (draft in progress)](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/), [Easy Checks – A First Review of Web Accessibility (old version)](https://www.w3.org/WAI/test-evaluate/preliminary/), and the free online course [Digital Accessibility Foundations / Introduction to Web Accessibility](https://www.w3.org/WAI/courses/foundations-course/). To comment on current work, see [EOWG Work for this Week](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week).
 * @@ FAST TF
 * ...
+
+To learn about contributing to W3C WAI accessibility work generally, **see [[Participating in WAI]](/about/participating/)**.
 
 Links to each Working Group's "How to Participate" page are in the [Participating in Working Groups section](/about/participating/#WGs). If you are interested in a Task Force, see participation information for the parent Working Group.
 
