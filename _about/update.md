@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 30 May 2023. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 31 May 2023. First published March 2022.<!-- CHANGELOG. --></p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -155,11 +155,11 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 ### Specific Invitations
 
 We are particularly seeking the following contributions:
-* EOWG (Accessibilty Education and Outreach Working Group) welcomes contributions on the next iteration of the following resources.
-  * [How People with Disabilities use the Web (draft in progress)](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/) &mdash; complete drafts for review
-  * [Easy Checks – A First Review of Web Accessibility (old version)](https://www.w3.org/WAI/test-evaluate/preliminary/) &mdash; in-progress
+* EOWG (Accessibilty Education and Outreach Working Group) welcomes contributions on the next iteration of the following resources. **To comment on current work, please see [EOWG Work for this Week](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week).**
+  * [How People with Disabilities use the Web (preview of draft in progress)](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/) &mdash; complete drafts for review
+  * [Easy Checks – A First Review of Web Accessibility (old version)](https://www.w3.org/WAI/test-evaluate/preliminary/) &mdash; significant revision and update in-progress
+  * [Accessibility Tutorials (current version)](https://www.w3.org/WAI/tutorials/) &mdash; minor updates in-progress
   * [Digital Accessibility Foundations / Introduction to Web Accessibility](https://www.w3.org/WAI/courses/foundations-course/) free online course &mdash; later in 2023
-  * **To comment on current work, please see [EOWG Work for this Week](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week).**
 * Framework for Accessible Specification of Technologies (FAST) Task Force &mdash; FAST advises technical specification creators how to ensure their technology meets the needs of users with disabilities. The newly-forming FAST Task Force will collect user and functional needs, develop guidance to meet those needs in technologies, and work with other groups to develop this guidance for content developers. To participate in the FAST Task Force, see [FAST TF, How to Comment, Contribute, and Participate](https://www.w3.org/WAI/APA/task-forces/fast/#contribute).
 * _(more coming, please check back)_
 
@@ -196,6 +196,7 @@ We are particularly seeking the following contributions:
 
 ## Updates to this page (changelog)
 
+* 31 May 2023 &mdash; Edits and updates in [Specific Invitations](https://www.w3.org/WAI/update/#specific-invitations)
 * 30 May 2023
   * Added [Specific Invitations](https://www.w3.org/WAI/update/#specific-invitations) with call for participation in EOWG work and FAST TF.
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
