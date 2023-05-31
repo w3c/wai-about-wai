@@ -197,7 +197,7 @@ We are particularly seeking the following contributions:
 ## Updates to this page (changelog)
 
 * 30 May 2023
-  * Added [Specific Invitations](https://deploy-preview-204--wai-about-wai.netlify.app/update/#specific-invitations) with call for participation in EOWG work and FAST TF.
+  * Added [Specific Invitations](https://www.w3.org/WAI/update/#specific-invitations) with call for participation in EOWG work and FAST TF.
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 28 April 2023
   * Updated W3C WAI staff roles under [Who is We](https://www.w3.org/WAI/update/#who-is-we): [Kevin White](https://www.w3.org/People#kevin) (Accessibility Development and Operations Lead), [Michael Cooper](https://www.w3.org/People#cooper) (Accessibility Strategy and Technical Lead), [Ruoxi Ran](https://www.w3.org/People#ran) (Accessibility Engineer), [Daniel Montalvo](https://www.w3.org/People#dmontalvo) (Accessibility Harmonization and Testing Specialist), and [Shawn Lawton Henry](https://www.w3.org/People#shawn) (Accessibility Education and Communications Lead)
