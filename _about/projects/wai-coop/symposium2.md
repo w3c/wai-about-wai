@@ -85,7 +85,7 @@ Artificial intelligence systems can make many decisions more efficiently, accura
 - Shivam Singh (mavQ, India)
 - Michael Cooper (W3C, US)
 
-This panel aims to discuss the current state of computer vision techniques focused on image recognition, supporting the identification and recognition of elements and text in web images and media, potentially considering the different usage contexts of the web. This discussion will be focused on aspects such as quality and accuracy of current computer vision techniques, as well as on opportunities and future directions for computer vision for media accessibility.
+This panel aimed to discuss the current state of computer vision techniques focused on image recognition, supporting the identification and recognition of elements and text in web images and media, potentially considering the different usage contexts of the web. This discussion focused on aspects such as quality and accuracy of current computer vision techniques, as well as on opportunities and future directions for computer vision for media accessibility.
 
 #### Panel 2: Natural Language Processing for Media Accessibility
 - Amy Pavel (University of Texas, US)
@@ -93,7 +93,7 @@ This panel aims to discuss the current state of computer vision techniques focus
 - Michael Cooper (W3C, US)
 - Shaomei Wu (AImpower.org, US)
 
-This panel aims to discuss the current state of natural language processing techniques employed, for example, to generate textual descriptions for images and other visual media present on web pages. This discussion will be focused on aspects such as text adaptation, and providing understandable text to better meet web user needs and contexts, as well as potential avenues for natural language processing for media accessibility.
+This panel aimed to discuss the current state of natural language processing techniques employed, for example, to generate textual descriptions for images and other visual media present on web pages. This discussion focused on aspects such as text adaptation, and providing understandable text to better meet web user needs and contexts, as well as potential avenues for natural language processing for media accessibility.
 
 ### Day 2
 #### Panel 1: Machine Learning for Web accessibility evaluation
@@ -102,20 +102,20 @@ This panel aims to discuss the current state of natural language processing tech
 - Sheng Zhou (Zhejiang University, CN)
 - Fabio Paternò (CNR-IST, HIIS Laboratory, IT)
 
-This panel aims to discuss the current state of machine learning algorithms to support and improve methodologies for assessing web accessibility. This discussion will be focused on web accessibility metrics, web pages sampling, evaluation of dynamic web pages, as well as on opportunities and future directions for machine learning for web accessibility evaluation.
+This panel aimed to discuss the current state of machine learning algorithms to support and improve methodologies for assessing web accessibility. This discussion focused on web accessibility metrics, web pages sampling, evaluation of dynamic web pages, as well as on opportunities and future directions for machine learning for web accessibility evaluation.
 
 #### Panel 2: Natural Language Processing for Accessible Communication
 - Chaohai Ding (University of Southampton, UK)
 - Lourdes Moreno (Universidad Carlos III de Madrid, ES)
 - Vikas Ashok (Old Dominion University, US)
 
-This panel aims to discuss the current state of natural language processing techniques to enhance accessible communication on the web. This discussion will be focused on machine translation techniques supporting localization of web contents, speech to text and text to speech techniques, technology-mediated communication, as well as on opportunities and future directions for natural language processing for accessible communication.
+This panel aimed to discuss the current state of natural language processing techniques to enhance accessible communication on the web. This discussion focused on machine translation techniques supporting localization of web contents, speech to text and text to speech techniques, technology-mediated communication, as well as on opportunities and future directions for natural language processing for accessible communication.
 
 
 #### Closing Keynote: Shari Trewin
 ##### Where next for assistive AI?
 
-Digital accessibility barriers remain common despite clear standards, ample guidance, and many free tools. AI is starting to give individuals a way to bridge some of this gap, by interpreting and generating speech, language and images. However, the burden of access shouldn’t fall on people with disabilities. For the best quality, most equitable solutions, AI needs to shift left, and meet creators as they work. I’ll explore some important directions for future work and argue that markup still matters, if we want to get the best out of AI and move the needle on digital accessibility. 
+Digital accessibility barriers remain common despite clear standards, ample guidance, and many free tools. AI is starting to give individuals a way to bridge some of this gap, by interpreting and generating speech, language and images. However, the burden of access shouldn’t fall on people with disabilities. For the best quality, most equitable solutions, AI needs to shift left, and meet creators as they work. Shari explored some important directions for future work and argue that markup still matters, if we want to get the best out of AI and move the needle on digital accessibility. 
 
 
 **[Dr Shari Trewin](https://www.linkedin.com/in/sharitrewin/)** is an Engineering Manager at Google, leading a team that develops new assistive technologies and features. Her background is in research, with 21 patents and 70 peer-reviewed articles including AI fairness, accessibility tools for designers and developers, web accessibility, access to virtual worlds, and self-adaptive input devices. Shari is a Distinguished Scientist of the Association of Computing Machinery (ACM), where she has chaired the ACM Special Interest Group on Accessible Computing (SIGACCESS), sat on ACM’s Diversity and Inclusion Council, and helped develop ACM’s accessibility guidance for authors and conference organizers. As Program Director of the IBM Accessibility team, she worked to elevate IBM’s product accessibility through the open source [Equal Access toolkit](https://ibm.com/able/toolkit).
@@ -123,7 +123,7 @@ Digital accessibility barriers remain common despite clear standards, ample guid
 ## Logistics and Accessibility
 {:#logistics}
 
-This meeting will take place on the Zoom teleconference system with real-time captioning, and International Sign Language. Connection details will be sent by email to registered participants.
+This meeting took place on the Zoom teleconference system with real-time captioning, and International Sign Language. Connection details were sent by email to registered participants.
 
 
 
@@ -154,4 +154,4 @@ This meeting will take place on the Zoom teleconference system with real-time ca
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
 
-This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/).
+This research symposium was organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/).
