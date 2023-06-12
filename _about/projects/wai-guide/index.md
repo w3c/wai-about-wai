@@ -39,6 +39,78 @@ This page provides information on the Web Accessibility Initiative - Authoritati
 -   Launch of [Online Course: Introduction to Web Accessibility](https://www.w3.org/blog/2019/12/free-online-course-introduction-to-web-accessibility/) based on the curriculum developed through WAI-Guide
 -   Release of [WAI Curricula](https://www.w3.org/WAI/curricula/) with foundation, developer, and designer modules. ([Content Author Modules(https://wai-curricula.netlify.app/curricula/content-author-modules/) in development)
 
+## Project Results
+
+### Supplemental resource framework redesign
+
+New styling was developed for use in Supplemental resources to:
+
+* improve the visual design for readability
+* improve navigation within a pages
+* improve navigation between related documents
+* make it easier for readers new to WCAG to get information about the page they land on
+* improve consistency across all resources
+
+This was applied to:
+
+* [Understanding for WCAG 2](/WAI/WCAG21/Understanding/)
+* [Techniques for WCAG 2](/WAI/WCAG21/Techniques/)
+* [ARIA Authoring Practices Guide](/WAI/ARIA/apg/)
+* [Accessibility Conformance Testing Rules](/WAI/standards-guidelines/act/rules/)
+* [Cognitive Accessibility Guidance](/WAI/WCAG2/supplemental/#cognitiveaccessibilityguidance)
+
+### Expanded Technical Guidance
+
+Technical guidance was expanded to better address current and emerging technologies. The specific areas covered were:
+
+* [Design Guide for Cognitive Accessibility](/WAI/WCAG2/supplemental/#cognitiveaccessibilityguidance)
+* [Immersive Environment requirements in WCAG3](/TR/xaur/)
+* [Functional Needs in WCAG3](https://w3c.github.io/fast/)
+
+### Video Training Materials
+
+Created four sets of videos to support training of accessibility skills.
+
+* [Web Accessibility Evaluation](/WAI/test-evaluate/) - Five animated videos that help explain the topic 'web accessibility evaluation'.
+* [Stories of Web Users](https://www.youtube.com/watch?v=Z5dMdJzUy7w&list=PLhDEeYUfW02SJU-GQ1tagtChv7YmzSoQT) - Eight videos presenting stories of how people with disabilities use digital technology.
+* [Diverse Abilities and Barriers](https://www.youtube.com/watch?v=4UaUSbyVFjk&list=PLhDEeYUfW02SyKyI4cq-kpeGIBH6aTFHb) - Five videos that present the wide range of diversity of people and abilities, and highlights some of the types of barriers that people commonly encounter due to inaccessible design.
+* [Tools and Techniques](https://www.youtube.com/watch?v=4xF23iGIAPE&list=PLhDEeYUfW02QfCwXHtNKyqi31UPuuaAlO) - Four videos that present techniques and tools that people with disabilities use to interact with the Web.
+
+### Accessibility Curricula
+
+Created a framework to support the development of courses on digital accessibility. The curricula covered four core modules:
+
+* [Foundation Modules](/WAI/curricula/foundation-modules/) - designed to provide a general introduction to web accessibility to any students with a basic understanding of computers and the Web.
+* [Developer Modules](/WAI/curricula/developer-modules/) - provides guidance on creating courses that explain accessible coding for developers.
+* [Designer Modules](/WAI/curricula/designer-modules/) - provides guidance on creating courses that explain how design principles and practices relate to accessibility.
+* [Content Author Modules](/WAI/curricula/content-author-modules/) - provides guidance on creating courses that explains how to create clear content and accessible authoring techniques.
+
+### Authoring Tool Briefs
+
+Created three short briefs framing the importance of the [Authoring Tool Accessibility Guidelines](/WAI/standards-guidelines/atag/) to key authoring tool domains.
+
+* [For LMS](/WAI/standards-guidelines/atag/education/) - provides an introduction to help make learning management systems (LMS) and other education tools accessible to people with disabilities.
+* [For No-Code Tools](/WAI/standards-guidelines/atag/no-code/) - provides an introduction to help make no-code website tools accessible to creators, designers, and end users with disabilities.
+* [For Social Media Platforms](/WAI/standards-guidelines/atag/social-media/) - provides an introduction to help make social media platforms accessible to creators and users with disabilities
+
+### Authoring Tools List
+
+[Authoring Tools List](/WAI/tools-list/authoring/) - Provides a resource that lists authoring tool vendor submitted information about the accessibility of their tools.
+
+### AuthoringTools Conformance Evaluation Report Tool
+
+[ATAG Report Tool](/WAI/atag/report-tool/) leads the user step-by-step through the requirements defined by the W3C Authoring Tool Accessibility Guidelines and allows the user to record the results for each requirement. The tool generates a report based on this input by the user in HTML and in JSON formats.
+
+### New User Needs
+
+Identified and explored accessibility gaps in new standards for emerging technologies. This work developed four new user requirements documents:
+
+* [XR Accessibility User Requirements](/TR/xaur/) - covers user needs and requirements for people with disabilities when using virtual reality or immersive environments, augmented or mixed reality and other related technologies (XR).
+* [Natural Language Accessibility User Requirements](/TR/naur/) - outlines accessibility-related user needs, requirements and scenarios for natural language interfaces.
+* [Synchronized Media Accessibility User Requirements](/TR/saur/) - identifies and summarizes relevant research regarding the synchronization of resources presented in multimedia content.
+* [Framework for Accessible Specification of Technology](https://w3c.github.io/fast/) - advises creators of technical specifications how to ensure that their technology meets the needs of users with disabilities.
+
+
 ## Project Deliverables
 {:#deliverables}
 
@@ -58,23 +130,21 @@ Technical project deliverables include:
 
 These deliverables are complemented by project management, dissemination, and engagement efforts.
 
-## How To Participate
+## Participation
 {:#participate}
 
-Most of the project work listed above is developed through or in coordination with:
+Most of the project work listed above was developed through or in coordination with:
 
 -   [Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/)
 -   [Accessibility Guidelines Working Group (AGWG)](https://www.w3.org/WAI/GL/)
 -   [Accessible Platform Architectures Working Group (APA)](https://www.w3.org/WAI/APA/)
 
-We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
-
-See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
+See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [KevinWhite](http://www.w3.org/People/kevin/) (Scientific Coordinator).
 
 ## About the Project
 {:#about}
 
-WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, is an Support Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project started on 1 January 2019 for a duration of three years. WAI-Guide aims to:
+WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, is a Support Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project started on 1 January 2019 for a duration of three years. WAI-Guide aims to:
 
 -   Provide authoritative implementation guidance and training, thereby growing capacities of available accessibility experts;
 -   Accelerate tooling support for accessible content authoring, thereby making it more cost efficient to create accessible content;
@@ -82,4 +152,4 @@ WAI-Guide, Authoritative Implementation Guidance and International Cooperation t
 
 WAI-Guide achieves this by conducting its work as an integral part of the vendor-neutral environment of the World Wide Web Consortium (W3C). WAI-Guide draws together expertise from industry, end-user representation, public bodies, research, and other fields, to develop core accessibility solutions that are internationally consensed and recognized as authoritative references.
 
-See [project deliverables](#deliverables) above and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) for more information.
+See [project deliverables](#deliverables) above and contact [Kevin White](http://www.w3.org/People/kevin/) (Scientific Coordinator) for more information.
