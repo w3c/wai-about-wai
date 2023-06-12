@@ -8,6 +8,38 @@ lang: en
 github:
   repository: w3c/wai-about-wai
   path: '_about/projects/wai-coop/symposium2_summary.md'
+
+playlist:
+  - title: "First, Do No Harm: Jutta Treviranus"
+    youtube-id: cRdfU-H0o6I
+    default-lang: en
+    captions:
+      en: /about/projects/wai-coop/symposium2-captions/do_no_harm.vtt
+  - title: "Natural Language Processing for Media Accessibility: Panel"
+    youtube-id: 9Zub3Xs-wpw
+    default-lang: en
+    captions:
+      en: /about/projects/wai-coop/symposium2-captions/media_accessibility.vtt
+  - title: "Computer Vision for Media Accessibility: Panel"
+    youtube-id: Po4q5HrMQfY
+    default-lang: en
+    captions:
+      en: /about/projects/wai-coop/symposium2-captions/computer_vision.vtt
+  - title: "Machine Learning for Web accessibility evaluation: Panel"
+    youtube-id: dxV9niaotrk
+    default-lang: en
+    captions:
+      en: /about/projects/wai-coop/symposium2-captions/machine_learning.vtt
+  - title: "Natural Language Processing for Accessible Communication: Panel"
+    youtube-id: YkJNOlywBZ0
+    default-lang: en
+    captions:
+      en: /about/projects/wai-coop/symposium2-captions/accessible_communication.vtt
+  - title: "Where next for assistive AI?: Shari Trewin"
+    youtube-id: DICDDBHAngs
+    default-lang: en
+    captions:
+      en: /about/projects/wai-coop/symposium2-captions/where_next.vtt
 ---
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
@@ -60,7 +92,9 @@ The closing keynote of the symposium by Shari Trewin focused on the digital capa
 ## Conclusions and Future Directions
 The symposium on AI and digital accessibility highlighted the potential of AI to enhance digital accessibility and empower stakeholders. Embedding accessibility considerations early in technology development is more than ever necessary. However, data challenges, including collection, labeling, regulation, and protection, influence disability bias in AI systems. Diversifying and reevaluating automation and acceleration is crucial. Laws and policies must be developed promptly for accountability and to address discriminatory decisions. Several opportunities rise with the emergence of Explainable AI and user involvement has the potential to promote fairness and ethical practices. AI can improve media accessibility by guiding authors and automating web accessibility evaluation. Challenges remain in accessible communication due to limited diverse data. Dialog systems offer solutions across domains. Prioritizing user and data diversity and integrating accessibility during content authoring are essential. Ethical discussions and standards are needed to ensure fair and ethical use of AI in digital accessibility.
 
+## Session Videos
 
+{% include video-playlist.html %}
 
 ## Acknowledgements
 {:#acknowledgements}
