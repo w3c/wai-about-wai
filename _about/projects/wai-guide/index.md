@@ -105,7 +105,7 @@ Created three short briefs framing the importance of the [Authoring Tool Accessi
 
 Identified and explored accessibility gaps in new standards for emerging technologies. This work developed four new user requirements documents:
 
-* [XR Accessibility User Requirements](/TR/xaur/) - covers user needs and requirements for people with disabilities when using virtual reality or immersive environments, augmented or mixed reality and other related technologies (XR).
+* [XR Accessibility User Requirements](/TR/xaur/) - covers user needs and requirements for people with disabilities when using virtual reality or immersive environments, augmented or mixed reality, and other related technologies (XR).
 * [Natural Language Accessibility User Requirements](/TR/naur/) - outlines accessibility-related user needs, requirements and scenarios for natural language interfaces.
 * [Synchronized Media Accessibility User Requirements](/TR/saur/) - identifies and summarizes relevant research regarding the synchronization of resources presented in multimedia content.
 * [Framework for Accessible Specification of Technology](https://w3c.github.io/fast/) - advises creators of technical specifications how to ensure that their technology meets the needs of users with disabilities.
