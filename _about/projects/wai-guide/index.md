@@ -46,7 +46,7 @@ This page provides information on the Web Accessibility Initiative - Authoritati
 New styling was developed for use in Supplemental resources to:
 
 * improve the visual design for readability
-* improve navigation within a pages
+* improve navigation within pages
 * improve navigation between related documents
 * make it easier for readers new to WCAG to get information about the page they land on
 * improve consistency across all resources
