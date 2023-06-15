@@ -81,7 +81,7 @@ Created four sets of videos to support training of accessibility skills.
 Created a framework to support the development of courses on digital accessibility, as well as the inclusion of digital accessibility in courses for related areas. The curricula covered four core modules:
 
 * [Foundation Modules](/WAI/curricula/foundation-modules/) - helps introducing web accessibility to any students with a basic understanding of computers and the Web.
-* [Developer Modules](/WAI/curricula/developer-modules/) - provides guidance on creating courses that explain accessible coding for developers.
+* [Developer Modules](/WAI/curricula/developer-modules/) - helps create courses that explain accessible coding for developers.
 * [Designer Modules](/WAI/curricula/designer-modules/) - provides guidance on creating courses that explain how design principles and practices relate to accessibility.
 * [Content Author Modules](/WAI/curricula/content-author-modules/) - provides guidance on creating courses that explains how to create clear content and accessible authoring techniques.
 
