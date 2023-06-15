@@ -73,7 +73,7 @@ Created four sets of videos to support training of accessibility skills.
 
 * [Web Accessibility Evaluation](/WAI/test-evaluate/) - Five animated videos that help explain the topic 'web accessibility evaluation'.
 * [Stories of Web Users](https://www.youtube.com/watch?v=Z5dMdJzUy7w&list=PLhDEeYUfW02SJU-GQ1tagtChv7YmzSoQT) - Eight videos presenting stories of how people with disabilities use digital technology.
-* [Diverse Abilities and Barriers](https://www.youtube.com/watch?v=4UaUSbyVFjk&list=PLhDEeYUfW02SyKyI4cq-kpeGIBH6aTFHb) - Five videos that present the wide range of diversity of people and abilities, and highlights some of the types of barriers that people commonly encounter due to inaccessible design.
+* [Diverse Abilities and Barriers](https://www.youtube.com/watch?v=4UaUSbyVFjk&list=PLhDEeYUfW02SyKyI4cq-kpeGIBH6aTFHb) - Five videos that present the wide range of diversity of people and abilities, and highlight some of the types of barriers that people commonly encounter due to inaccessible design.
 * [Tools and Techniques](https://www.youtube.com/watch?v=4xF23iGIAPE&list=PLhDEeYUfW02QfCwXHtNKyqi31UPuuaAlO) - Four videos that present techniques and tools that people with disabilities use to interact with the Web.
 
 ### Accessibility Curricula
