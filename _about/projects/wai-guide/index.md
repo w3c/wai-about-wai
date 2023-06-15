@@ -78,7 +78,7 @@ Created four sets of videos to support training of accessibility skills.
 
 ### Accessibility Curricula
 
-Created a framework to support the development of courses on digital accessibility. The curricula covered four core modules:
+Created a framework to support the development of courses on digital accessibility, as well as the inclusion of digital accessibility in courses for related areas. The curricula covered four core modules:
 
 * [Foundation Modules](/WAI/curricula/foundation-modules/) - designed to provide a general introduction to web accessibility to any students with a basic understanding of computers and the Web.
 * [Developer Modules](/WAI/curricula/developer-modules/) - provides guidance on creating courses that explain accessible coding for developers.
