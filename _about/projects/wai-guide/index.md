@@ -37,7 +37,7 @@ This page provides information on the Web Accessibility Initiative - Authoritati
 -   W3C Group Notes for [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/), [RTC Accessibility User Requirements](https://www.w3.org/TR/raur/), and [Synchronization Accessibility User Requirements](https://www.w3.org/TR/saur/), to help address accessibility of immersive environments , real-time communication, and audio and visual media synchronization
 -   On-going development of [ATAG Report Tool (ART)](https://www.w3.org/WAI/atag/report-tool/) to help promote accessibility of authoring tools
 -   Launch of [Online Course: Introduction to Web Accessibility](https://www.w3.org/blog/2019/12/free-online-course-introduction-to-web-accessibility/) based on the curriculum developed through WAI-Guide
--   Release of [WAI Curricula](https://www.w3.org/WAI/curricula/) with foundation, developer, and designer modules. ([Content Author Modules(https://wai-curricula.netlify.app/curricula/content-author-modules/) in development)
+-   Release of [WAI Curricula](https://www.w3.org/WAI/curricula/) with foundation, developer, and designer modules. [Content Author Modules](https://wai-curricula.netlify.app/curricula/content-author-modules/) in development)
 
 ## Project Results
 
@@ -97,7 +97,7 @@ Created three short briefs framing the importance of the [Authoring Tool Accessi
 
 [Authoring Tools List](/WAI/tools-list/authoring/) - Provides a resource that lists authoring tool vendor submitted information about the accessibility of their tools.
 
-### AuthoringTools Conformance Evaluation Report Tool
+### Authoring Tools Conformance Evaluation Report Tool
 
 [ATAG Report Tool](/WAI/atag/report-tool/) leads the user step-by-step through the requirements defined by the W3C Authoring Tool Accessibility Guidelines and allows the user to record the results for each requirement. The tool generates a report based on this input by the user in HTML and in JSON formats.
 
@@ -139,17 +139,17 @@ Most of the project work listed above was developed through or in coordination w
 -   [Accessibility Guidelines Working Group (AGWG)](https://www.w3.org/WAI/GL/)
 -   [Accessible Platform Architectures Working Group (APA)](https://www.w3.org/WAI/APA/)
 
-See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [KevinWhite](http://www.w3.org/People/kevin/) (Scientific Coordinator).
+See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Kevin White](http://www.w3.org/People/kevin/) (Scientific Coordinator).
 
 ## About the Project
 {:#about}
 
-WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, is a Support Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project started on 1 January 2019 for a duration of three years. WAI-Guide aims to:
+WAI-Guide, Authoritative Implementation Guidance and International Cooperation to Support Training, Awareness Raising, and Capacity Building, was a Support Action project, co-funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). The project started on 1 January 2019 and completed in December 2022. WAI-Guide aimed to:
 
 -   Provide authoritative implementation guidance and training, thereby growing capacities of available accessibility experts;
 -   Accelerate tooling support for accessible content authoring, thereby making it more cost efficient to create accessible content;
 -   Identify and address gaps in accessibility standardization, thereby increasing the coverage of digital accessibility requirements.
 
-WAI-Guide achieves this by conducting its work as an integral part of the vendor-neutral environment of the World Wide Web Consortium (W3C). WAI-Guide draws together expertise from industry, end-user representation, public bodies, research, and other fields, to develop core accessibility solutions that are internationally consensed and recognized as authoritative references.
+WAI-Guide achieved this by conducting its work as an integral part of the vendor-neutral environment of the World Wide Web Consortium (W3C). WAI-Guide drew together expertise from industry, end-user representation, public bodies, research, and other fields, to develop core accessibility solutions that are internationally consensed and recognized as authoritative references.
 
 See [project deliverables](#deliverables) above and contact [Kevin White](http://www.w3.org/People/kevin/) (Scientific Coordinator) for more information.
