@@ -31,14 +31,6 @@ This page provides information on the Web Accessibility Initiative - Authoritati
 {% include toc.html type="end" %}
 {:/}
 
-## Announcements
-
--   Release of [5 animated videos](https://www.w3.org/WAI/test-evaluate/) that explain different aspects of web accessibility evaluation, including easy initial checks, using tools, conformance evaluation, and involving users
--   W3C Group Notes for [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/), [RTC Accessibility User Requirements](https://www.w3.org/TR/raur/), and [Synchronization Accessibility User Requirements](https://www.w3.org/TR/saur/), to help address accessibility of immersive environments , real-time communication, and audio and visual media synchronization
--   On-going development of [ATAG Report Tool (ART)](https://www.w3.org/WAI/atag/report-tool/) to help promote accessibility of authoring tools
--   Launch of [Online Course: Introduction to Web Accessibility](https://www.w3.org/blog/2019/12/free-online-course-introduction-to-web-accessibility/) based on the curriculum developed through WAI-Guide
--   Release of [WAI Curricula](https://www.w3.org/WAI/curricula/) with foundation, developer, and designer modules. [Content Author Modules](https://wai-curricula.netlify.app/curricula/content-author-modules/) in development)
-
 ## Project Results
 
 ### Supplemental resource framework redesign
@@ -111,10 +103,10 @@ Identified and explored accessibility gaps in new standards for emerging technol
 * [Framework for Accessible Specification of Technology](https://w3c.github.io/fast/) - advises creators of technical specifications how to ensure that their technology meets the needs of users with disabilities.
 
 
-## Project Deliverables
+## Initial Project Deliverables
 {:#deliverables}
 
-Technical project deliverables include:
+Technical project deliverables included:
 
 -   **Provide Implementation and Training Guidance**
     -   **Revise and Expand Implementation Guidance** — support the revision and expansion of the [Techniques](https://www.w3.org/TR/WCAG20-TECHS/) and [Understanding](https://www.w3.org/TR/UNDERSTANDING-WCAG20/) documents.
@@ -128,7 +120,7 @@ Technical project deliverables include:
     -   **Develop Accessibility User Needs and Use Cases** — research, analyze, and communicate accessibility of emerging digital technologies.
     -   **Promote Harmonized Accessibility Standards** — coordinate with relevant standards bodies and groups to promote harmonization.
 
-These deliverables are complemented by project management, dissemination, and engagement efforts.
+These deliverables were complemented by project management, dissemination, and engagement efforts.
 
 ## Participation
 {:#participate}
