@@ -21,7 +21,6 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 {% include box.html type="end" %}
 {:/}
 
-
 {::options toc_levels="2,3,4" /}
 
 {::nomarkdown}
@@ -36,11 +35,6 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 {:/}
 
 *Recent **[Publications](#pubs)**, **[Current Work](#deliv)** and **[Participation](#participation)** are listed lower on this page.*
-
-@@ this is an example comment:
-* one
-* two
-* three
 
 ## Announcements and Meetings for EOWG Participants
 
