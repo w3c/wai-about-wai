@@ -38,7 +38,7 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 *Recent **[Publications](#pubs)**, **[Current Work](#deliv)** and **[Participation](#participation)** are listed lower on this page.*
 
 @@ this is an example comment:
-* one
+* one - Michele was here
 * two
 * three
 
