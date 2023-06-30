@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, June 2023</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, July 2023</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 6 June 2023. First published March 2022.<!-- CHANGELOG. --></p>
+   <p><strong>Date:</strong> Updated 30 June 2023. First published March 2022.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -63,7 +63,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2 Draft** is available for final review. We plan to publish the completed standard in 2023. Get the latest up-to-date information from [What's New in WCAG 2.2 Working Draft](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** is in the W3C approval process. We expect to publish WCAG 2.2 as a ‘W3C Recommendation’ web standard in August 2023. Get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3** is an early draft of a few aspects of a potential new standard. We're exploring different approaches. It's years away from being finalized. [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
@@ -99,6 +99,8 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and publishing new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
 
+* **Artificial Intelligence and Accessibility Research Symposium** explored current challenges and opportunities raised by the increasing use of AI, and how ongoing AI research can leverage and hinder digital accessibility. We are refining the [draft AI Accessibility symposium report](https://deploy-preview-193--wai-about-wai.netlify.app/about/projects/wai-coop/symposium2/).
+
 ### Testing Accessibility, Evaluation Tools
 
 * **ACT Rules** (Accessibility Conformance Testing (ACT), also known as "WCAG 2 Test Rules") describe ways to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
@@ -106,11 +108,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Upcoming Publications
 
-We plan to publish the following documents in June 2023. <!--"Q3", which is July, August, September.--> To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), "Recommendation", and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents in July and August 2023. <!--"Q3", which is July, August, September.--> To learn about <!--"Candidate Recommendation" (**CR**), -->"Proposed Recommendation" (**PR**), "Recommendation", and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-* [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to PR
-* [Digital Publishing WAI-ARIA Module 1.1](https://www.w3.org/TR/dpub-aria-1.1/) and [Digital Publishing Accessibility API Mappings 1.1](https://www.w3.org/TR/dpub-aam-1.1/) to CR
+* [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to PR in July and to Recommendation in August _(get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/))_
 * [WCAG 3 Working Draft](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/) update
+* Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT) draft update
 
 Recent publications and other announcements are listed on the **[News page](/news/)**.
 
@@ -195,6 +197,10 @@ We are particularly seeking the following contributions:
 
 ## Updates to this page (changelog)
 
+* 30 June 2023
+  * Updated the Upcoming Publications list, including adding WCAG2ICT
+  * Updated the WCAG 2.2 item under "Current Work Highlights"
+  * Added AI Accessibility Symposium under "Defining User Requirements (AUR) and Emerging Technologies"
 * 6 June 2023 &mdash; From the Upcoming Publications list, removed [ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/) because we published it today as a W3C Reccommendation, Web Standard.
 * 31 May 2023 &mdash; Edits and updates in [Specific Invitations](https://www.w3.org/WAI/update/#specific-invitations)
 * 30 May 2023
