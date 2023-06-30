@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, June 2023</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, July 2023</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
