@@ -2,6 +2,10 @@
 title: "Artificial Intelligence and Accessibility Research Symposium 10 - 11 January 2023"
 title_html: "Artificial Intelligence and Accessibility Research Symposium <br /> 10 - 11 January 2023"
 nav_title: Symposium 2
+
+doc-note-type: draft
+doc-note-message-md: This is an unpublished draft preview that might include content that is not yet approved.
+
 permalink: /about/projects/wai-coop/symposium2/
 ref: /about/projects/wai-coop/symposium2/
 lang: en
