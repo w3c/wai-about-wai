@@ -42,9 +42,9 @@ This page provides information on the Web Accessibility Initiative - Expanding W
 
 ## About the Project
 
-The WAI Expanding Access Project provides support for accessibility work at W3C WAI to broaden outreach and engagement on web and mobile accessibility for people with disabilities in low and middle income countries (LMIC), and in indigenous communities in developing and developed countries.
+The WAI Expanding Access Project provided support for accessibility work at W3C WAI to broaden outreach and engagement on web and mobile accessibility for people with disabilities in low and middle income countries (LMIC), and in indigenous communities in developing and developed countries.
 
-People with disabilities in low resource regions and communities and communities, including in developing countries and indigenous communities, have benefited less from progress on accessibility of digital technologies than people in more developed regions. The proposed work aims to address several factors that contribute to this digital divide, and to set a foundation for more equitable accessibility development in the future, through work that will enhance the overall quality of W3C WAI work, while also supporting the mission of W3C.
+People with disabilities in low resource regions and communities and communities, including in developing countries and indigenous communities, have benefited less from progress on accessibility of digital technologies than people in more developed regions. The work aimed to address several factors that contribute to this digital divide, and to set a foundation for more equitable accessibility development in the future, through work that will enhance the overall quality of W3C WAI work, while also supporting the mission of W3C.
 
 ## Main Areas of Work
 
@@ -58,7 +58,6 @@ People with disabilities in low resource regions and communities and communities
 
 * Re-energize advisory and strategic planning functions for accessibility work in W3C, including through the WAI Steering Council, and increased focus on W3C WAI visioning, strategic planning, and development. 
 
-
 ## How to Participate
 
 Much of this project work is being developed with input from the [Education and Outreach Working Group (EOWG)]( http://www.w3.org/WAI/EO/). We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of resources and actively participating in the Working Group to help develop these resources. See:
@@ -66,11 +65,11 @@ Much of this project work is being developed with input from the [Education and 
 * [Participating in WAI](https://www.w3.org/WAI/about/participating/) to learn about contributing to WAI work.
 * [Get WAI News](https://www.w3.org/WAI/news/subscribe/) to subscribe to get announcements of drafts for review and completed work.
 
-If you have any questions, contact [Judy Brewer](http://www.w3.org/People/Brewer/).
+If you have any questions, contact [Shawn Lawton Henry](http://www.w3.org/People/Shawn/).
 
 ## Project Staff
 
-The following W3C staff are supported in part by WAI Expanding Access funds:
+The following W3C staff were supported in part by WAI Expanding Access funds:
 
 * [Judy Brewer](http://www.w3.org/People/Brewer/)
 * [Shawn Lawton Henry](https://www.w3.org/People/Shawn/)
