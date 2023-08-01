@@ -60,12 +60,12 @@ WAI-Core work is developed through [W3C/WAI Working Groups](http://www.w3.org/WA
 
 In addition to participation opportunities, everyone is welcome to review drafts. Draft in progress are highlighted on the [WAI home page](http://www.w3.org/WAI/). To get notifications of drafts for review, see [Getting WAI Announcements](http://www.w3.org/WAI/about/announcements) for links to WAI tweets, RSS feed, and WAI Interest Group (WAI IG) emails.
 
-For more information on the WAI-Core Project and other WAI work, see [Getting Involved with WAI](http://www.w3.org/WAI/about-links.html) and [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Judy Brewer](http://www.w3.org/People/Brewer/).
+For more information on the WAI-Core Project and other WAI work, see [Getting Involved with WAI](http://www.w3.org/WAI/about-links.html) and [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Shawn Lawton Henry](http://www.w3.org/People/Shawn/).
 
 ## Project Staff
 
 The following W3C staff are supported in part by WAI-Core funds:
 
-*   Judy Brewer
-*   Michael Cooper
-*   Shawn Henry
+*   [Shawn Lawton Henry](http://www.w3.org/People/Shawn/)
+*   Judy Brewer (through December 2022)
+*   Michael Cooper (through July 2023)
