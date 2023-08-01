@@ -1,6 +1,6 @@
 ---
-title: "Artificial Intelligence and Accessibility Research Symposium 10 - 11 January 2023"
-title_html: "Artificial Intelligence and Accessibility Research Symposium <br /> 10 - 11 January 2023"
+title: "Artificial Intelligence (AI) and Accessibility Research Symposium January 2023"
+title_html: "Artificial Intelligence (AI) and Accessibility Research Symposium January 2023"
 nav_title: Symposium 2
 
 doc-note-type: draft
@@ -46,9 +46,9 @@ playlist:
       en: /about/projects/wai-coop/symposium2-captions/where_next.vtt
 
 footer: >
-   <p><strong>Date:</strong> Updated 4 July 20213. First published July 2023.</p>
-   <p><strong>Editors:</strong> Letícia Seixas Pereira, Carlos Duarte, <a href="https://www.w3.org/People/kevin/">Kevin White</a>, <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Accessible Platform Architectures Working Group <a href="https://www.w3.org/WAI/APA/">(APA WG)</a>.</p>
-   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
+   <p><strong>Date:</strong> Updated 01 August 2023. First published August 2023.</p>
+   <p><strong>Editors:</strong> Letícia Seixas Pereira and Carlos Duarte. Contributors: <a href="https://www.w3.org/People/kevin/">Kevin White</a>, <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/groups/wg/apa/participants">participants of the APA WG</a>.</p>
+   <p>Developed under the Research Questions Task Force (<a href="https://www.w3.org/groups/tf/rqtf/">RQTF</a>) of the Accessible Platform Architectures Working Group (<a href="https://www.w3.org/groups/wg/apa/">APA WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
@@ -72,36 +72,11 @@ footer: >
 
 The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invited researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
 
-This online symposium brought together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, artificial intelligence. This symposium aimed to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
+This online symposium took place on 10 and 11 January 2023 and brought together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, artificial intelligence. The symposium aimed to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
 
-- Symposium date: **10 - 11 January 2023**
 
 ## Program
 {:#program}
-
-- [Introduction](#introduction)
-- [Program](#program)
-  - [Opening Keynote: Jutta Treviranus](#opening-keynote-jutta-treviranus)
-    - [First, Do No Harm](#first-do-no-harm)
-  - [Panel: Computer Vision for Media Accessibility](#panel-computer-vision-for-media-accessibility)
-  - [Panel: Natural Language Processing for Media Accessibility](#panel-natural-language-processing-for-media-accessibility)
-  - [Panel: Machine Learning for Web accessibility evaluation](#panel-machine-learning-for-web-accessibility-evaluation)
-  - [Panel: Natural Language Processing for Accessible Communication](#panel-natural-language-processing-for-accessible-communication)
-  - [Closing Keynote: Shari Trewin](#closing-keynote-shari-trewin)
-    - [Where next for assistive AI?](#where-next-for-assistive-ai)
-- [Session Videos](#session-videos)
-- [Sesssion Transcripts](#sesssion-transcripts)
-  - [Opening Keynote: Jutta Treviranus](#opening-keynote-jutta-treviranus-1)
-  - [Computer Vision for Media Accessibility](#computer-vision-for-media-accessibility)
-  - [Natural Language Processing for Media Accessibility](#natural-language-processing-for-media-accessibility)
-  - [Machine Learning for Web accessibility evaluation](#machine-learning-for-web-accessibility-evaluation)
-  - [Natural Language Processing for Accessible Communication](#natural-language-processing-for-accessible-communication)
-  - [Closing Keynote: Shari Trewin](#closing-keynote-shari-trewin-1)
-- [Conclusions and Future Directions](#conclusions-and-future-directions)
-- [Organizing Committee](#organizing-committee)
-  - [Symposium Chairs](#symposium-chairs)
-  - [Scientific Committee](#scientific-committee)
-- [Acknowledgements](#acknowledgements)
 
 ### Opening Keynote: Jutta Treviranus
 
@@ -110,59 +85,9 @@ This online symposium brought together researchers, academics, industry, governm
 #### First, Do No Harm
 In this symposium, Jutta Treviranus delivers an opening keynote that sheds light on the harms of AI specific to people with disabilities. She addresses ethical concerns surrounding AI, such as lack of representation, human bigotry, manipulative practices, unfair value extraction, exploitation, and disinformation. Jutta emphasizes the significance of considering the impact of AI on people with disabilities, as they are often at the margins of justice-deserving groups, making them more vulnerable to both existing and emerging harms. She discusses the increasing complexity of decision-making processes and the growing appeal and usefulness of AI decision tools. Jutta also highlights the challenges of data diversity, predictive accuracy, data privacy, and the need for transparency in data usage. The discussion expands to include topics such as ethics, bias, and the efforts being made globally to address AI ethics. Jutta concludes by exploring the potential of AI and the opportunity it presents to reassess what we want to automate, what we mean by concepts such as best, optimal, and fairness, and how we can include marginalized individuals in the development and use of AI technologies.
 
-
-### Panel: Computer Vision for Media Accessibility
-
-- Amy Pavel (University of Texas, US)
-- Shivam Singh (mavQ, India)
-- Michael Cooper (W3C, US)
-
-This session began with panelists addressing the quality of automated image description, specifically focusing on how to define quality and train AI models to identify aspects like identity, emotion, and appearance in personal images. Different viewpoints were shared, including the recognition of emotions and specific characteristics by current systems, the importance of considering the context and user preferences, and the need for diverse training data. Responsibility and agency were also discussed, highlighting the roles of content creators and users in generating and consuming media descriptions. The impact of AI tools on user agency, the challenge of maintaining diversity in automated descriptions, and the role of the Web Accessibility Initiative (WAI) were examined. The legal and ethical issues related to AI-generated descriptions, including copyright, liability, and fair use, were explored. The potential uses of AI beyond generating alternative descriptions were considered, such as identifying functional and complex images and allowing authors to focus on those that require more attention. The challenges of explainable AI and the potential for improving augmented content were addressed, emphasizing the importance of ethics, transparency, and user understanding. Finally, the panelists discussed the value of richer alternative descriptions, the risks of errors with more detailed descriptions, and the need for a balance between concise and explanatory information.
-
-### Panel: Natural Language Processing for Media Accessibility
-- Amy Pavel (University of Texas, US)
-- Shivam Singh (mavQ, India)
-- Michael Cooper (W3C, US)
-- Shaomei Wu (AImpower.org, US)
-
-During the second panel of the symposium, the focus shifted to media accessibility from a natural language processing perspective. Shaomei Wu discussed the importance of accuracy and richness in these descriptions, emphasizing the need to provide more details, particularly about people. The challenge lies in sharing personal and physical attributes accurately and conscientiously. Shivam highlighted the significance of data diversity and the quality of generated data, advocating for categorizing data carefully to ensure clearer descriptions. Amy emphasized the role of context in improving description quality and suggested using language understanding and question-answering approaches. The panelists also discussed the potential of Large Language Models (LLMs) in reducing bias and emphasized the need for inclusive workflows, careful handling of social identities, and considering the trade-off between providing comprehensive information and efficiency. They addressed biases in recognition, application, and the impact of disability bias. The future perspectives included NLP for personalization, rewriting descriptions, and using NLP in academic textbooks, context sharing, augmenting media descriptions, and supporting visually impaired individuals in media creation.
-
-### Panel: Machine Learning for Web accessibility evaluation
-
-- Willian Massami Watanabe (Universidade Tecnológica Federal do Paraná, BR)
-- Yeliz Yesilada (Middle East Technical University, TR)
-- Sheng Zhou (Zhejiang University, CN)
-- Fabio Paternò (CNR-IST, HIIS Laboratory, IT)
-
-This panel featured researchers discussing web accessibility assessment and the challenges it presents. The panelists highlighted various obstacles, including the diversity and fast-changing nature of dynamic elements on web pages, the complexity of data collection and user requirements, and the subjectivity of some current evaluation rules. They emphasized the need for datasets specifically designed for accessibility and the incorporation of additional factors into the sampling process. The panelists also discussed how AI can support conformance assessment to accessibility guidelines, such as selecting representative samples and evaluating them using machine learning algorithms. AI was seen as a valuable tool for repairing accessibility issues, distinguishing complex web structures, and supporting developers in creating accessible products. The panelists envisioned future applications of machine learning techniques in web accessibility evaluation, including user interaction classification, simulating user interactions, and efficient page sampling. They emphasized the importance of scalability, automating evaluations, and generalizing approaches to integrate accessibility more easily. The development of automated testing and problem fixing, along with the availability and sharing of datasets, were seen as crucial for advancing research in AI and accessibility. Addressing bias in media accessibility was also highlighted as an important consideration for inclusive development and assessment.
-
-### Panel: Natural Language Processing for Accessible Communication
-
-- Chaohai Ding (University of Southampton, UK)
-- Lourdes Moreno (Universidad Carlos III de Madrid, ES)
-- Vikas Ashok (Old Dominion University, US)
-
-The last panel of the symposium focused on NLP for accessible communication. The panelists discussed the challenges hindering breakthroughs in this field. Chaohai Ding highlighted the lack of data availability for AAC systems, as they require large amounts of user data and AAC data. Another challenge is the lack of data interoperability in AAC symbol sets. Cultural differences and personalization are also important considerations. Lourdes Moreno emphasized the need to address bias, particularly disability bias, in language models. She also highlighted the scarcity of datasets related to accessibility. Vikas Ashok discussed the understandability of social media content for blind individuals and the challenges of bias in natural language models. The panelists explored the issues of disability bias, accountability, and personalization in NLP tools. They discussed the importance of considering the target audience's knowledge and the need for data management. Future perspectives included the exploration of NLP metrics for accessibility, advancements in dialog systems, personalized communication, accessible modal communication, and AI assistant communication. Language simplification, data integration, and evolving apps were also mentioned as opportunities. The panelists addressed the challenge of collecting more data for accessible communication, suggesting approaches such as creating larger datasets, data repositories, and involving human experts in data generation.
-
-
-### Closing Keynote: Shari Trewin
-
-**[Dr Shari Trewin](https://www.linkedin.com/in/sharitrewin/)** is an Engineering Manager at Google, leading a team that develops new assistive technologies and features. Her background is in research, with 21 patents and 70 peer-reviewed articles including AI fairness, accessibility tools for designers and developers, web accessibility, access to virtual worlds, and self-adaptive input devices. Shari is a Distinguished Scientist of the Association of Computing Machinery (ACM), where she has chaired the ACM Special Interest Group on Accessible Computing (SIGACCESS), sat on ACM’s Diversity and Inclusion Council, and helped develop ACM’s accessibility guidance for authors and conference organizers. As Program Director of the IBM Accessibility team, she worked to elevate IBM’s product accessibility through the open source [Equal Access toolkit](https://ibm.com/able/toolkit).
-
-#### Where next for assistive AI?
-
-The closing keynote of the symposium by Shari Trewin focused on the digital capabilities of AI and its potential for assistive AI. Shari discussed the transformative power of AI in improving digital accessibility for people with disabilities and provided examples of how AI can contribute to this goal. She also highlighted the limitations and challenges of AI, such as biases in training data and inaccuracies in predictions. Shari emphasized the importance of research and innovation in moving digital accessibility forward with AI. She explored the concept of AI at source, where AI tools can assist content creators in generating accurate descriptions and making written content more accessible. Shari also discussed the use of AI in text-to-speech applications and the benefits of applying AI at authoring time. She highlighted the potential of AI in generating accessible code but stressed the need for training AI models on accessible code to avoid propagating past accessibility issues. Shari concluded by emphasizing the need for AI integration with authoring tools and processes to improve accessibility standards. The keynote ended with a discussion on the role of big companies in AI research, the challenges of personalization, and the importance of democratizing access to AI tools.
-
-## Session Videos
-
-{% include video-playlist.html%}
-
-## Sesssion Transcripts
-{:#transcripts}
-
 {% include excol.html type="start" id="opening-keynote-transcription" %}
 
-### Opening Keynote: Jutta Treviranus
+#### Transcript of Opening Keynote
 {:#opening-keynote-transcript}
 
 {% include excol.html type="middle" %}
@@ -302,10 +227,17 @@ The closing keynote of the symposium by Shari Trewin focused on the digital capa
 
 {% include excol.html type="end" %}
 
+### Panel: Computer Vision for Media Accessibility
+
+- Amy Pavel (University of Texas, US)
+- Shivam Singh (mavQ, India)
+- Michael Cooper (W3C, US)
+
+This session began with panelists addressing the quality of automated image description, specifically focusing on how to define quality and train AI models to identify aspects like identity, emotion, and appearance in personal images. Different viewpoints were shared, including the recognition of emotions and specific characteristics by current systems, the importance of considering the context and user preferences, and the need for diverse training data. Responsibility and agency were also discussed, highlighting the roles of content creators and users in generating and consuming media descriptions. The impact of AI tools on user agency, the challenge of maintaining diversity in automated descriptions, and the role of the Web Accessibility Initiative (WAI) were examined. The legal and ethical issues related to AI-generated descriptions, including copyright, liability, and fair use, were explored. The potential uses of AI beyond generating alternative descriptions were considered, such as identifying functional and complex images and allowing authors to focus on those that require more attention. The challenges of explainable AI and the potential for improving augmented content were addressed, emphasizing the importance of ethics, transparency, and user understanding. Finally, the panelists discussed the value of richer alternative descriptions, the risks of errors with more detailed descriptions, and the need for a balance between concise and explanatory information.
 
 {% include excol.html type="start" id="panel1-transcription" %}
 
-### Computer Vision for Media Accessibility
+#### Transcription of Computer Vision for Media Accessibility
 {:#cv-media-transcript}
 
 {% include excol.html type="middle" %}
@@ -441,10 +373,17 @@ CARLOS DUARTE: Okay. Thank you so much. And I want to thank the three of you onc
 
 {% include excol.html type="end" %}
 
+### Panel: Natural Language Processing for Media Accessibility
+- Amy Pavel (University of Texas, US)
+- Shivam Singh (mavQ, India)
+- Michael Cooper (W3C, US)
+- Shaomei Wu (AImpower.org, US)
+
+During the second panel of the symposium, the focus shifted to media accessibility from a natural language processing perspective. Shaomei Wu discussed the importance of accuracy and richness in these descriptions, emphasizing the need to provide more details, particularly about people. The challenge lies in sharing personal and physical attributes accurately and conscientiously. Shivam highlighted the significance of data diversity and the quality of generated data, advocating for categorizing data carefully to ensure clearer descriptions. Amy emphasized the role of context in improving description quality and suggested using language understanding and question-answering approaches. The panelists also discussed the potential of Large Language Models (LLMs) in reducing bias and emphasized the need for inclusive workflows, careful handling of social identities, and considering the trade-off between providing comprehensive information and efficiency. They addressed biases in recognition, application, and the impact of disability bias. The future perspectives included NLP for personalization, rewriting descriptions, and using NLP in academic textbooks, context sharing, augmenting media descriptions, and supporting visually impaired individuals in media creation.
 
 {% include excol.html type="start" id="panel2-transcription" %}
 
-### Natural Language Processing for Media Accessibility
+#### Transcript of Natural Language Processing for Media Accessibility
 {:#nlp-media-transcript}
 
 {% include excol.html type="middle" %}
@@ -535,9 +474,18 @@ Thanks, everyone who attended. We'll be back tomorrow starting at the same time,
 
 {% include excol.html type="end" %}
 
+### Panel: Machine Learning for Web Accessibility Evaluation
+
+- Willian Massami Watanabe (Universidade Tecnológica Federal do Paraná, BR)
+- Yeliz Yesilada (Middle East Technical University, TR)
+- Sheng Zhou (Zhejiang University, CN)
+- Fabio Paternò (CNR-IST, HIIS Laboratory, IT)
+
+This panel featured researchers discussing web accessibility assessment and the challenges it presents. The panelists highlighted various obstacles, including the diversity and fast-changing nature of dynamic elements on web pages, the complexity of data collection and user requirements, and the subjectivity of some current evaluation rules. They emphasized the need for datasets specifically designed for accessibility and the incorporation of additional factors into the sampling process. The panelists also discussed how AI can support conformance assessment to accessibility guidelines, such as selecting representative samples and evaluating them using machine learning algorithms. AI was seen as a valuable tool for repairing accessibility issues, distinguishing complex web structures, and supporting developers in creating accessible products. The panelists envisioned future applications of machine learning techniques in web accessibility evaluation, including user interaction classification, simulating user interactions, and efficient page sampling. They emphasized the importance of scalability, automating evaluations, and generalizing approaches to integrate accessibility more easily. The development of automated testing and problem fixing, along with the availability and sharing of datasets, were seen as crucial for advancing research in AI and accessibility. Addressing bias in media accessibility was also highlighted as an important consideration for inclusive development and assessment.
+
 {% include excol.html type="start" id="panel2-transcription" %}
 
-### Machine Learning for Web accessibility evaluation
+#### Transcript of Machine Learning for Web Accessibility Evaluation
 {:#ml-evaluation-transcript}
 
 {% include excol.html type="middle" %}
@@ -661,10 +609,17 @@ We will now have a shorter break than the ten minutes. And we will be back in 5 
 
 {% include excol.html type="end" %}
 
+### Panel: Natural Language Processing for Accessible Communication
+
+- Chaohai Ding (University of Southampton, UK)
+- Lourdes Moreno (Universidad Carlos III de Madrid, ES)
+- Vikas Ashok (Old Dominion University, US)
+
+The last panel of the symposium focused on NLP for accessible communication. The panelists discussed the challenges hindering breakthroughs in this field. Chaohai Ding highlighted the lack of data availability for AAC systems, as they require large amounts of user data and AAC data. Another challenge is the lack of data interoperability in AAC symbol sets. Cultural differences and personalization are also important considerations. Lourdes Moreno emphasized the need to address bias, particularly disability bias, in language models. She also highlighted the scarcity of datasets related to accessibility. Vikas Ashok discussed the understandability of social media content for blind individuals and the challenges of bias in natural language models. The panelists explored the issues of disability bias, accountability, and personalization in NLP tools. They discussed the importance of considering the target audience's knowledge and the need for data management. Future perspectives included the exploration of NLP metrics for accessibility, advancements in dialog systems, personalized communication, accessible modal communication, and AI assistant communication. Language simplification, data integration, and evolving apps were also mentioned as opportunities. The panelists addressed the challenge of collecting more data for accessible communication, suggesting approaches such as creating larger datasets, data repositories, and involving human experts in data generation.
 
 {% include excol.html type="start" id="panel2-transcription" %}
 
-### Natural Language Processing for Accessible Communication
+#### Transcript of Natural Language Processing for Accessible Communication
 {:#nlp-communication-transcript}
 
 {% include excol.html type="middle" %}
@@ -780,10 +735,17 @@ CARLOS DUARTE: Okay. Thank you so much, Lourdes. And thanks, a very big thank yo
 
 {% include excol.html type="end" %}
 
+### Closing Keynote: Shari Trewin
+
+**[Dr Shari Trewin](https://www.linkedin.com/in/sharitrewin/)** is an Engineering Manager at Google, leading a team that develops new assistive technologies and features. Her background is in research, with 21 patents and 70 peer-reviewed articles including AI fairness, accessibility tools for designers and developers, web accessibility, access to virtual worlds, and self-adaptive input devices. Shari is a Distinguished Scientist of the Association of Computing Machinery (ACM), where she has chaired the ACM Special Interest Group on Accessible Computing (SIGACCESS), sat on ACM’s Diversity and Inclusion Council, and helped develop ACM’s accessibility guidance for authors and conference organizers. As Program Director of the IBM Accessibility team, she worked to elevate IBM’s product accessibility through the open source [Equal Access toolkit](https://ibm.com/able/toolkit).
+
+#### Where next for assistive AI?
+
+The closing keynote of the symposium by Shari Trewin focused on the digital capabilities of AI and its potential for assistive AI. Shari discussed the transformative power of AI in improving digital accessibility for people with disabilities and provided examples of how AI can contribute to this goal. She also highlighted the limitations and challenges of AI, such as biases in training data and inaccuracies in predictions. Shari emphasized the importance of research and innovation in moving digital accessibility forward with AI. She explored the concept of AI at source, where AI tools can assist content creators in generating accurate descriptions and making written content more accessible. Shari also discussed the use of AI in text-to-speech applications and the benefits of applying AI at authoring time. She highlighted the potential of AI in generating accessible code but stressed the need for training AI models on accessible code to avoid propagating past accessibility issues. Shari concluded by emphasizing the need for AI integration with authoring tools and processes to improve accessibility standards. The keynote ended with a discussion on the role of big companies in AI research, the challenges of personalization, and the importance of democratizing access to AI tools.
 
 {% include excol.html type="start" id="optional-id" %}
 
-### Closing Keynote: Shari Trewin
+### Transcript of Closing Keynote
 {:#closing-keynote-transcript}
 
 {% include excol.html type="middle" %}
@@ -933,7 +895,14 @@ Okay. Thank you so much, and see you in the next opportunity.
 
 {% include excol.html type="end" %}
 
-Complete transcripts of the symposium are also available at:
+
+## Session Videos
+
+{% include video-playlist.html%}
+
+## Symposium Full Transcripts
+{:#transcripts}
+
 - [Transcriptions of the first day](../symposium2_day1_transcript.html)
 - [Transcriptions of the second day](../symposium2_day2_transcript.html)
 
