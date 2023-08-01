@@ -80,11 +80,9 @@ You can submit comments on the overall WAI Web site (www.w3.org/WAI/) either to 
 Comments on other parts of the W3C Web site (www.w3.org) go to: <site-comments@w3.org>
 
 ## WAI Staff
-
-* <a href="https://www.w3.org/People/kevin/">Kevin White</a>, Accessibility Development and Operations Lead
-* <a href="https://www.w3.org/People/cooper/">Michael Cooper</a>, Accessibility Strategy and Technical Lead
-* <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Accessibility Education and Communications Lead
-* <a href="https://www.w3.org/People#ran">Ruoxi Ran</a>, Accessibility Engineer
-* <a href="https://www.w3.org/People#dmontalvo">Daniel Montalvo</a>, Accessibility Harmonization and Testing Specialist
+* [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) leads accessibility communication, education, and WAI’s collaborative strategic planning.
+* [Kevin White](https://www.w3.org/staff/#kevin) leads technical accessibility work, including oversight of accessibility Working Groups.
+* [Roy Ruoxi Ran](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
+* [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
 
 If you don't know who to contact, or to reach all WAI staff, you can e-mail <wai@w3.org>
