@@ -237,7 +237,7 @@ This session began with panelists addressing the quality of automated image desc
 
 {% include excol.html type="start" id="panel1-transcription" %}
 
-#### Transcription of Computer Vision for Media Accessibility
+#### Transcript of Computer Vision for Media Accessibility
 {:#cv-media-transcript}
 
 {% include excol.html type="middle" %}
@@ -745,7 +745,7 @@ The closing keynote of the symposium by Shari Trewin focused on the digital capa
 
 {% include excol.html type="start" id="optional-id" %}
 
-### Transcript of Closing Keynote
+#### Transcript of Closing Keynote
 {:#closing-keynote-transcript}
 
 {% include excol.html type="middle" %}
