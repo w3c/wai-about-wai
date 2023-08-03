@@ -46,7 +46,7 @@ playlist:
       en: /about/projects/wai-coop/symposium2-captions/where_next.vtt
 
 footer: >
-   <p><strong>Date:</strong> Updated 01 August 2023. First published August 2023.</p>
+   <p><strong>Date:</strong> Updated 03 August 2023. First published August 2023.</p>
    <p><strong>Editors:</strong> Letícia Seixas Pereira and Carlos Duarte. Contributors: <a href="https://www.w3.org/People/kevin/">Kevin White</a>, <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, and <a href="https://www.w3.org/groups/wg/apa/participants">participants of the APA WG</a>.</p>
    <p>Developed under the Research Questions Task Force (<a href="https://www.w3.org/groups/tf/rqtf/">RQTF</a>) of the Accessible Platform Architectures Working Group (<a href="https://www.w3.org/groups/wg/apa/">APA WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -898,28 +898,34 @@ Okay. Thank you so much, and see you in the next opportunity.
 
 ## Session Videos
 
+
+
 {% include video-playlist.html%}
 
-## Symposium Full Transcripts
-{:#transcripts}
+Full transcripts for each day are provided below:
 
-- [Transcriptions of the first day](../symposium2_day1_transcript.html)
-- [Transcriptions of the second day](../symposium2_day2_transcript.html)
+
+- [Transcripts of the first day](../symposium2_day1_transcript.html)
+- [Transcripts of the second day](../symposium2_day2_transcript.html)
 
 
 ## Conclusions and Future Directions
 The symposium on AI and digital accessibility highlighted the potential of AI to enhance digital accessibility and empower stakeholders. Embedding accessibility considerations early in technology development is more than ever necessary. However, data challenges, including collection, labeling, regulation, and protection, influence disability bias in AI systems. Diversifying and reevaluating automation and acceleration is crucial. Laws and policies must be developed promptly for accountability and to address discriminatory decisions. Several opportunities rise with the emergence of Explainable AI and user involvement has the potential to promote fairness and ethical practices. AI can improve media accessibility by guiding authors and automating web accessibility evaluation. Challenges remain in accessible communication due to limited diverse data. Dialog systems offer solutions across domains. Prioritizing user and data diversity and integrating accessibility during content authoring are essential. Ethical discussions and standards are needed to ensure fair and ethical use of AI in digital accessibility.
 
-## Organizing Committee 
+
+## Acknowledgements
+{:#acknowledgements}
+
+### Organizing Committee 
 {:#organizing}
 
-### Symposium Chairs
+#### Symposium Chairs
 {:#chairs}
 
 - Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Letícia Seixas Pereira (LASIGE, Faculty of Sciences of the University of Lisbon)
 
-### Scientific Committee
+#### Scientific Committee
 {:#scientific}
 
 - Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
@@ -929,10 +935,6 @@ The symposium on AI and digital accessibility highlighted the potential of AI to
 - Matthew Atkinson (TPGi)
 - Michael Cooper (W3C)
 - Scott Hollier (University of South Australia)
-
-
-## Acknowledgements
-{:#acknowledgements}
 
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
