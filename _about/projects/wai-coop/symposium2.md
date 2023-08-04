@@ -51,7 +51,6 @@ footer: >
    <p>Developed under the Research Questions Task Force (<a href="https://www.w3.org/groups/tf/rqtf/">RQTF</a>) of the Accessible Platform Architectures Working Group (<a href="https://www.w3.org/groups/wg/apa/">APA WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
-![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
 
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" class="full" %}
@@ -896,36 +895,28 @@ Okay. Thank you so much, and see you in the next opportunity.
 {% include excol.html type="end" %}
 
 
+## Conclusions and Future Directions
+The symposium on AI and digital accessibility highlighted the potential of AI to enhance digital accessibility and empower stakeholders. Embedding accessibility considerations early in technology development is more than ever necessary. However, data challenges, including collection, labeling, regulation, and protection, influence disability bias in AI systems. Diversifying and reevaluating automation and acceleration is crucial. Laws and policies must be developed promptly for accountability and to address discriminatory decisions. Several opportunities rise with the emergence of Explainable AI and user involvement has the potential to promote fairness and ethical practices. AI can improve media accessibility by guiding authors and automating web accessibility evaluation. Challenges remain in accessible communication due to limited diverse data. Dialog systems offer solutions across domains. Prioritizing user and data diversity and integrating accessibility during content authoring are essential. Ethical discussions and standards are needed to ensure fair and ethical use of AI in digital accessibility.
+
 ## Session Videos
-
-
 
 {% include video-playlist.html%}
 
 Full transcripts for each day are provided below:
-
-
 - [Transcripts of the first day](../symposium2_day1_transcript.html)
 - [Transcripts of the second day](../symposium2_day2_transcript.html)
 
 
-## Conclusions and Future Directions
-The symposium on AI and digital accessibility highlighted the potential of AI to enhance digital accessibility and empower stakeholders. Embedding accessibility considerations early in technology development is more than ever necessary. However, data challenges, including collection, labeling, regulation, and protection, influence disability bias in AI systems. Diversifying and reevaluating automation and acceleration is crucial. Laws and policies must be developed promptly for accountability and to address discriminatory decisions. Several opportunities rise with the emergence of Explainable AI and user involvement has the potential to promote fairness and ethical practices. AI can improve media accessibility by guiding authors and automating web accessibility evaluation. Challenges remain in accessible communication due to limited diverse data. Dialog systems offer solutions across domains. Prioritizing user and data diversity and integrating accessibility during content authoring are essential. Ethical discussions and standards are needed to ensure fair and ethical use of AI in digital accessibility.
-
-
-## Acknowledgements
-{:#acknowledgements}
-
-### Organizing Committee 
+## Organizing Committee 
 {:#organizing}
 
-#### Symposium Chairs
+**Symposium Chairs**
 {:#chairs}
 
 - Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
 - Letícia Seixas Pereira (LASIGE, Faculty of Sciences of the University of Lisbon)
 
-#### Scientific Committee
+**Scientific Committee**
 {:#scientific}
 
 - Carlos Duarte (LASIGE, Faculty of Sciences of the University of Lisbon)
@@ -935,10 +926,3 @@ The symposium on AI and digital accessibility highlighted the potential of AI to
 - Matthew Atkinson (TPGi)
 - Michael Cooper (W3C)
 - Scott Hollier (University of South Australia)
-
-
-![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
-
-This research symposium was organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/).
-
-
