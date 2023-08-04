@@ -51,8 +51,6 @@ footer: >
    <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
-![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
-
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" class="full" %}
 {:/}
@@ -70,7 +68,7 @@ footer: >
 ## Introduction
 {:#introduction}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invited researchers, practitioners, and users with disabilities to participate in an international online symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
+Researchers, practitioners, and users with disabilities participated in an international online symposium exploring the positive and negatives impact of artificial intelligence (AI) in digital accessibility.
 
 This online symposium brought together researchers, academics, industry, government, and people with disabilities, to explore one the most pressing emerging technologies, artificial intelligence. This symposium aimed to identify current challenges and opportunities raised by the increasing use of AI regarding digital accessibility and explore how ongoing research can leverage and hinder digital accessibility.
 
