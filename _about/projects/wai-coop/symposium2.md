@@ -3,9 +3,6 @@ title: "Artificial Intelligence (AI) and Accessibility Research Symposium Januar
 title_html: "Artificial Intelligence (AI) and Accessibility Research Symposium January 2023"
 nav_title: Symposium 2
 
-doc-note-type: draft
-doc-note-message-md: This is an unpublished draft preview that might include content that is not yet approved.
-
 permalink: /about/projects/wai-coop/symposium2/
 ref: /about/projects/wai-coop/symposium2/
 lang: en
