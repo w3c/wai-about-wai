@@ -460,7 +460,7 @@ This panel featured researchers discussing web accessibility assessment and the 
   <video id="video-machine-learning" data-able-player preload="metadata" data-youtube-id="dxV9niaotrk" data-youtube-nocookie="true" data-description-audible="false" width="450"><track src="{{ '/about/projects/wai-coop/symposium2-captions/machine_learning.vtt' | relative_url }}" label="English" kind="captions" srclang="en" /></video>
 </div>
 
-{% include excol.html type="start" id="panel2-transcription" %}
+{% include excol.html type="start" id="panel3-transcription" %}
 
 ### Transcript of Machine Learning for Web Accessibility Evaluation
 {:#ml-evaluation-transcript}
@@ -598,7 +598,7 @@ The last panel of the symposium focused on NLP for accessible communication. The
   <video id="video-accessible-communication" data-able-player preload="metadata" data-youtube-id="YkJNOlywBZ0" data-youtube-nocookie="true" data-description-audible="false" width="450"><track src="{{ '/about/projects/wai-coop/symposium2-captions/accessible_communication.vtt' | relative_url }}" label="English" kind="captions" srclang="en" /></video>
 </div>
 
-{% include excol.html type="start" id="panel2-transcription" %}
+{% include excol.html type="start" id="panel4-transcription" %}
 
 ### Transcript of Natural Language Processing for Accessible Communication
 {:#nlp-communication-transcript}
