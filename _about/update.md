@@ -91,15 +91,15 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 * **WCAG2ICT** describes how Web Content Accessibility Guidelines (WCAG) 2 can be applied to non-web information and communications technologies (ICT). We are updating it to include WCAG 2.1 and WCAG 2.2. [[WCAG2ICT Overview]](/standards-guidelines/wcag/non-web-ict/) _[AG WG, WCAG2ICT TF]_
 
-### Defining User Requirements (AUR) <!-- and Exploring Emerging Technologies @@ add back with link to -aur page & research page-->
+### Defining User Requirements (AUR) and Exploring Emerging Technologies
 
-Documenting the user needs of people with disabilities helps develop standards to meet those needs. It also helps designers, developers, and others better understand and meet user needs in order to support accessibility.
+Documenting the user needs of people with disabilities helps develop standards to meet those needs. It also helps designers, developers, and others better understand and meet user needs in order to support accessibility. <cite>XR Accessibility User Requirements</cite> and more listed at [Digital Accessibility User Requirements](https://www.w3.org/WAI/research/user-requirements/). 
 
-* **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Draft](https://www.w3.org/TR/naur)  _[APA WG, Research TF]_
+* **Natural Language Interface Accessibility User Requirements ("NAUR")** is a Working Draft. A natural language interface is a user interface in which the user and the system communicate via a natural (human) language. The user provides input as sentences via speech or other input, and the system generates responses as sentences delivered by speech, text, or another modality. [About NAUR](https://www.w3.org/blog/2021/10/natural-language-interface-accessibility-user-requirements-call-for-review/), [NAUR Editor's Draft](https://w3c.github.io/naur/)  _[APA WG, Research TF]_
+
+* **Collaboration Tools Accessibility User Requirements ("CTAUR")** is a Working Draft. It describes user needs in tools that provide support for one or more specific collaborative features. These features include real-time editing of content by multiple authors, the use of comments or annotations, and revision control. [CTAUR Editor's Draft](https://w3c.github.io/ctaur/)  _[APA WG, Research TF]_
 
 * **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and publishing new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/) _[EOWG]_
-
-* **Artificial Intelligence and Accessibility Research Symposium** explored current challenges and opportunities raised by the increasing use of AI, and how ongoing AI research can leverage and hinder digital accessibility. We are refining the [draft AI Accessibility symposium report](https://deploy-preview-193--wai-about-wai.netlify.app/about/projects/wai-coop/symposium2/).
 
 ### Testing Accessibility, Evaluation Tools
 
@@ -112,7 +112,6 @@ We plan to publish the following documents in 2023. <!--"Q3", which is July, Aug
 
 * [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to W3C Recommendation web standard  _(get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/))_
 * [WCAG 2.1](https://www.w3.org/TR/WCAG21/) to include the [errata](https://www.w3.org/WAI/WCAG21/errata/)
-* Artificial Intelligence and Accessibility Research Symposium Report
 * [Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT) Draft](https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/) updates
 
 Recent publications and other announcements are listed on the **[News page](/news/)**.
@@ -200,12 +199,18 @@ We are particularly seeking the following contributions:
   </div>
 </section>
 
+{% include_cached excol.html type="start" id="changelog" %}
+
 ## Updates to this page (changelog)
 
-* 30 August 2023 **_note, more updates coming later today_**
+{% include_cached excol.html type="middle" %}
+
+* 30 August 2023
   * Updated the WCAG 2.2 item under "Current Work Highlights" to change "August 2023" to "2023"
-  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
-  * Added links to new WCAG2ICT draft.
+  * Removed [Artificial Intelligence (AI) and Accessibility Research Symposium report](https://www.w3.org/WAI/research/ai2023/) from current work and upcoming publications, because we published it today
+  * Added links to new WCAG2ICT draft
+  * Updated "Defining User Requirements (AUR) and Exploring Emerging Technologies" section with link to [Digital Accessibility User Requirements](https://www.w3.org/WAI/research/user-requirements/) and information on "Collaboration Tools Accessibility User Requirements"
+  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications)
   * Added W3C WAI staff titles under [Who is We](https://www.w3.org/WAI/update/#who-is-we)
 * 31 July 2023
   * Updated W3C WAI staff roles under [Who is We](https://www.w3.org/WAI/update/#who-is-we):
@@ -255,3 +260,5 @@ We are particularly seeking the following contributions:
 * 30 June 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). Updated 'Personalization' to 'WAI-Adapt'.
 * 5 May 2022 &mdash; Just a few little language edits.
 * 30 April 2022 &mdash; Minor updates shown in [GitHub diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files), [rich text diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
+
+{% include_cached excol.html type="end" %}
