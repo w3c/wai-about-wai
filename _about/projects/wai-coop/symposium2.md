@@ -906,20 +906,6 @@ The symposium on AI and digital accessibility highlighted the potential of AI to
 - Scott Hollier (University of South Australia)
 
 
-
-
-{::nomarkdown}
-{% include box.html type="start" title="Alternate Videos and Transcripts" class="simple" %}
-{:/}
-
-For those who cannot access YouTube, the videos are also available from the [W3C media server as mp4 files](https://media.w3.org/wai/wai-coop-project/).
-The transcripts together are available in [day 1 transcripts](https://www.w3.org/WAI/about/projects/wai-coop/symposium2/symposium2_day1_transcript.html) and [day 2 transcripts](https://www.w3.org/WAI/about/projects/wai-coop/symposium2/symposium2_day2_transcript.html).
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
 <script src="{{ "/assets/ableplayer/thirdparty/modernizr.custom.js" | relative_url }}"></script>
 <script src="{{ "/assets/scripts/jquery.min.js" | relative_url }}"></script>
 <script src="{{ "/assets/ableplayer/thirdparty/js.cookie.js" | relative_url }}"></script>
