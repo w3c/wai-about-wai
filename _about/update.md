@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 31 July 2023. First published March 2022.</p>
+   <p><strong>Date:</strong> Updated 30 August 2023. First published March 2022.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -63,7 +63,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **Web Content Accessibility Guidelines (WCAG) 2.2** is in the W3C approval process. We expect to publish WCAG 2.2 as a ‘W3C Recommendation’ web standard in August 2023. Get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/).  _[AG WG]_
+* **Web Content Accessibility Guidelines (WCAG) 2.2** is in the W3C review and approval process. We expect to publish WCAG 2.2 as a ‘W3C Recommendation’ web standard in 2023. **Get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/)**.  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3** is in an exploratory phase, and will change substantially. It's years away from being finalized. Please see [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
@@ -91,7 +91,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 * **WCAG2ICT** describes how Web Content Accessibility Guidelines (WCAG) 2 can be applied to non-web information and communications technologies (ICT). We are updating it to include WCAG 2.1 and WCAG 2.2. [[WCAG2ICT Overview]](/standards-guidelines/wcag/non-web-ict/) _[AG WG, WCAG2ICT TF]_
 
-### Defining User Requirements (AUR) and Emerging Technologies
+### Defining User Requirements (AUR) <!-- and Exploring Emerging Technologies @@ add back with link to -aur page & research page-->
 
 Documenting the user needs of people with disabilities helps develop standards to meet those needs. It also helps designers, developers, and others better understand and meet user needs in order to support accessibility.
 
@@ -108,12 +108,12 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Upcoming Publications
 
-We plan to publish the following documents in August 2023. <!--"Q3", which is July, August, September.--> To learn about <!-- "Candidate Recommendation" (**CR**), -->"Proposed Recommendation" (**PR**), "Recommendation", and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents in 2023. <!--"Q3", which is July, August, September.--> To learn about <!-- "Candidate Recommendation" (**CR**), -->"Proposed Recommendation" (**PR**), "Recommendation", and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 * [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to W3C Recommendation web standard  _(get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/))_
-* WCAG 2.1 to include the errata
+* [WCAG 2.1](https://www.w3.org/TR/WCAG21/) to include the [errata](https://www.w3.org/WAI/WCAG21/errata/)
 * Artificial Intelligence and Accessibility Research Symposium Report
-* Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT) draft update
+* [Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT) Draft](https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/) updates
 
 Recent publications and other announcements are listed on the **[News page](/news/)**.
 
@@ -170,10 +170,10 @@ We are particularly seeking the following contributions:
 
 * [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/))
 * W3C WAI Staff _([July 2023 Update e-mail](https://lists.w3.org/Archives/Public/public-wai-cc/2023Jul/0014.html))_:
-  * [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) leads accessibility communication, education, and WAI’s collaborative strategic planning.
-  * [Kevin White](https://www.w3.org/staff/#kevin) leads technical accessibility work, including oversight of accessibility Working Groups.
-  * [Roy Ruoxi Ran](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
-  * [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
+  * [Shawn Lawton Henry](https://www.w3.org/staff/#shawn), Web Accessibility Initiative (WAI) Program Lead, leads accessibility communication, education, and WAI’s collaborative strategic planning.
+  * [Kevin White](https://www.w3.org/staff/#kevin), Accessibility Technical Lead, leads technical accessibility work, including oversight of accessibility Working Groups.
+  * [Roy Ruoxi Ran](https://www.w3.org/staff/#ran), Accessibility Engineer, supports accessibility Working Groups and accessibility in China.
+  * [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo), Accessibility Specialist, supports accessibility Working Groups and standards harmonization in Europe.
   * We plan to open a new accessibility specialist position in August 2023.
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other [W3C groups](https://www.w3.org/groups/)
 
@@ -202,6 +202,11 @@ We are particularly seeking the following contributions:
 
 ## Updates to this page (changelog)
 
+* 30 August 2023 **_note, more updates coming later today_**
+  * Updated the WCAG 2.2 item under "Current Work Highlights" to change "August 2023" to "2023"
+  * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
+  * Added links to new WCAG2ICT draft.
+  * Added W3C WAI staff titles under [Who is We](https://www.w3.org/WAI/update/#who-is-we)
 * 31 July 2023
   * Updated W3C WAI staff roles under [Who is We](https://www.w3.org/WAI/update/#who-is-we):
     * [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) leads accessibility communication, education, and WAI’s collaborative strategic planning.
