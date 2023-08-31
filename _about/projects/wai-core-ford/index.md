@@ -2,7 +2,7 @@
 title: "WAI-Core Ford"
 nav_title: "WAI-Core Ford"
 lang: en 
-last_updated: 2022-12-16
+last_updated: 2023-07-27
 permalink: /about/projects/wai-core-ford/
 ref: /about/projects/wai-core-ford/
 layout: default
@@ -37,7 +37,7 @@ This page provides information on the Web Accessibility Initiative WAI-Core Ford
 
 ## About the Project
 
-Current Ford Foundation funding seeks to strengthen WAI work overall including through the continual process of updating our technical guidance supporting accessibility for the Web community. In addition, we seek to continue our work to extend the benefits of WAI to people with disabilities in low resource regions. This includes work to expand ccess to the Web and mobile for people with disabilities in low resource regions, in order to increase their ability to participate in all aspects of the information society, through work that will enhance the overall quality of WAI work while also supporting the missions of W3C and MIT.
+Current Ford Foundation funding seeks to strengthen WAI work overall including through the continual process of updating our technical guidance supporting accessibility for the Web community. In addition, we seek to continue our work to extend the benefits of WAI to people with disabilities in low resource regions. This includes work to expand access to the Web and mobile for people with disabilities in low resource regions, in order to increase their ability to participate in all aspects of the information society, through work that will enhance the overall quality of WAI work while also supporting the missions of W3C and MIT.
 
 ## Main Areas of Work
 
@@ -51,23 +51,23 @@ Expand the set of technical and educational resources to update, reflecting impr
 Complete revision of the Policy for Authorized W3C Translations; scale up recruitment of translators to cover some low-incidence languages, and translations of more sets of key WAI documents.
 
 4. Improve resources and support for remote accessible participation in international digital accessibility work.<br>
-Promote accessible videoconferencing and telepresence as options for  remote participation, to facilitate cost-effective and carbon-conserving participation and engagement in international W3C WAI work and the work of other standards organizations.
+Promote accessible videoconferencing and telepresence as options for remote participation, to facilitate cost-effective and carbon-conserving participation and engagement in international W3C WAI work and the work of other standards organizations.
 
 5. Increase advisory and strategic planning functions for accessibility work in W3C.<br>
 Convene an annual international face-to-face or in-depth virtual meeting of the WAI Steering Council, with increased engagement in strategic planning; W3C roadmap tools and/or alternative approaches; engage organizational consultant(s) to address specific areas of growth, including development.
 
 ## How to Participate
 
-Much of this project work is being developed with input from the [Education and Outreach Working Group (EOWG)]( http://www.w3.org/WAI/EO/). We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of resources and actively participating in the Working Group to help develop these resources. See:
+Much of this project work is being developed with input from the [Education and Outreach Working Group (EOWG)](http://www.w3.org/WAI/EO/). We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of resources and actively participating in the Working Group to help develop these resources. See:
 
 * [Participating in WAI](https://www.w3.org/WAI/about/participating/) to learn about contributing to WAI work.
 * [Get WAI News](https://www.w3.org/WAI/news/subscribe/) to subscribe to get announcements of drafts for review and completed work.
 
-If you have any questions, contact [Judy Brewer](http://www.w3.org/People/Brewer/).
+If you have any questions, contact [Shawn Lawton Henry](http://www.w3.org/People/shawn/).
 
 ## Project Staff
 
 The following W3C staff are supported in part by WAI-Core Ford Project funds:
 
-* [Judy Brewer](http://www.w3.org/People/Brewer/)
 * [Shawn Lawton Henry](https://www.w3.org/People/Shawn/)
+* [Judy Brewer](http://www.w3.org/People/Brewer/) through December 2022

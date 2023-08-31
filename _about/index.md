@@ -6,7 +6,7 @@ lang: en
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 31 January 2023.</p>
+  <p><strong>Date:</strong> Updated 1 August 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 github:
@@ -88,3 +88,12 @@ You can subscribe to get news announcements via e-mail, Atom/RSS feed, or Twitte
 ## Current Work
 
 Current work is introduced in [What We're Working On - Accessibility Activities and Publications](https://www.w3.org/WAI/update/).
+
+## WAI Staff
+
+* [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) leads accessibility communication, education, and WAI’s collaborative strategic planning.
+* [Kevin White](https://www.w3.org/staff/#kevin) leads technical accessibility work, including oversight of accessibility Working Groups.
+* [Roy Ruoxi Ran](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
+* [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
+
+If you don't know who to contact, or to reach all WAI staff, you can e-mail <wai@w3.org>

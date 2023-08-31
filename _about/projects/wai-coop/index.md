@@ -34,7 +34,6 @@ This page provides information on the Web Accessibility Initiative - Communities
 ## Current Announcements
 {:#announcements}
 
--   **7 March 2023:** [WAI-CooP Open Online Meeting](https://www.edf-feph.org/events-slug/wai-coop-open-meeting-7-march-2023)
 -   **Sign-Up:** to [receive WAI-CooP Project Updates by e-mail](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
 -   WAI-CooP Project started on 1 January 2021
 
@@ -54,8 +53,9 @@ Current project activities include:
 
 Completed project deliverables include:
 * [Artificial Intelligence and Accessibility Research Symposium, 10-11 January 2023](https://www.w3.org/WAI/about/projects/wai-coop/symposium2/)
-* [WAI-CooP Open Online Meeting, 19 April 2022](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
 * [Online Research Symposium "Shape the Future", 10 November 2021](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+* [WAI-CooP Open Online Meeting, 7 March 2023](https://www.edf-feph.org/events-slug/wai-coop-open-meeting-7-march-2023)
+* [WAI-CooP Open Online Meeting, 19 April 2022](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
 * [Open Meeting on EU Web Accessibility Directive (WAD), 28 September 2021](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
 * [WAI-CooP Open Online Meeting, 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
 
@@ -91,7 +91,7 @@ Most of the project work listed above is developed through or in coordination wi
 
 We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
 
-See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Judy Brewer](https://www.w3.org/People/Brewer/).
+See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Kevin White](https://www.w3.org/staff/#kevin).
 
 ## About the Project
 {:#about}

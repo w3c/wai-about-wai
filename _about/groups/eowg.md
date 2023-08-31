@@ -21,7 +21,6 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 {% include box.html type="end" %}
 {:/}
 
-
 {::options toc_levels="2,3,4" /}
 
 {::nomarkdown}
@@ -203,7 +202,7 @@ EOWG primarily conducts work through:
 
 ### Chair and Contacts
 
--   EOWG Co-Chairs: Brent Bakken, Sharron Rush, Kris Anne Kinney
+-   EOWG Co-Chairs: Brian Elton, Kris Anne Kinney
 -   W3C Team Contact: [Shawn Henry](http://www.w3.org/People/Shawn/)
     &lt; shawn @ w3.org &gt;
 
