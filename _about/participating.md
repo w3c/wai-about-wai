@@ -1,4 +1,3 @@
----
 title: Participating in WAI
 nav_title: "Participating"
 github:
