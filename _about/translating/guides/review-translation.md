@@ -174,7 +174,7 @@ A technique for proof-reading is to listen to the translation being read aloud, 
 - Consider different dialects. Where possible, the translation should use words and phrases that will be best understood across different areas.
 - The translator and reviewer(s) might want to work together to consider different options for some wording. If you have any questions about the wording, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org).\
 We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
-- When you decide on translation of unclear words and phrases that will likely be in other resources, feel free to add them to the Glossary for your language. <mark>[Add link to Glossaries section]</mark>
+- When you decide on translation of unclear words and phrases that will likely be in other resources, feel free to add them to the [Glossary for your language]({{ "/about/translating/glossaries/" | relative_url }}).
 
 ## For people who do _not_ know the translated language
 
@@ -190,10 +190,3 @@ You can also help find missing content or potential issues with the specific wor
 - The English original
 - The translation for review
 - A machine translation of the translation back into English (of course, this will be very inaccurate, yet sometimes it still works to spot issues)
-
-## Video Subtitles and Descriptions
-
-If the page you are reviewing has videos, check the video subtitles and/or descriptions.
-
-<mark>TO DO: Add some checks</mark>
-

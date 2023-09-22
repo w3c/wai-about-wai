@@ -15,7 +15,6 @@ image: /content-images/wai-about-wai/social-translations.png
 feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 18 September 2023.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
 {::options toc_levels="2,3" /}
