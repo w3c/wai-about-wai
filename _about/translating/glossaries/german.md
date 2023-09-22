@@ -36,7 +36,7 @@ you
   
     For example: 
     - English version: <q>You may use this video if you include a link to this page.</q> ([in context](https://www.w3.org/WAI/videos/standards-and-benefits/#permission))<br>
-    - French translation: <q>Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufügen.</q>
+    - German translation: <q>Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufügen.</q>
     
     _Background:_ [GitHub issue: "you" translate formal](https://github.com/w3c/wai-website/issues/123)
 
