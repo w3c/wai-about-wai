@@ -17,6 +17,31 @@ feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 14 September 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
+
+translations_priorities:
+- url: "/videos/standards-and-benefits/"
+- url: "/fundamentals/accessibility-intro/"
+- url: "/perspective-videos/"
+  pages:
+    - url: "/perspective-videos/keyboard/"
+    - url: "/perspective-videos/contrast/"
+    - url: "/perspective-videos/layout/"
+    - url: "/perspective-videos/speech/"
+    - url: "/perspective-videos/controls/"
+    - url: "/perspective-videos/captions/"
+    - url: "/perspective-videos/customizable/"
+    - url: "/perspective-videos/voice/"
+    - url: "/perspective-videos/understandable/"
+    - url: "/perspective-videos/notifications/"
+- url: "/tips/writing/"
+- url: "/tips/designing/"
+- url: "/tips/developing/"
+- url: "/tutorials/images/decision-tree/"
+- url: "/fundamentals/accessibility-principles/"
+- url: "/about/participating/"  #For testing only
+- url: "/about/sponsoring/"  #For testing only
+- url: "/about/contacting/"  #For testing only
+
 ---
 
 {::nomarkdown}
@@ -45,14 +70,6 @@ To get announcements related to WAI translations, subscribe to the WAI Translati
 {% include_cached toc.html type="end" %}
 {:/}
 
-## What can I do to help?
-
-There are several opportunities to contribute to WAI Resources translation efforts:
-
-- [Translating new pages](#translating-resources)
-- <mark>TO DO</mark> Updating existing translations
-- [Reviewing translations](#reviewing-translations)
-
 ## GitHub
 
 We encourage you to use GitHub, especially if you intend to become a regular translator. 
@@ -64,7 +81,6 @@ Discussions, collaboration with reviewers and progress tracking are more easily 
 [Introduction to GitHub {% include_cached external.html %}](https://github.com/skills/introduction-to-github).
 - Then, for more specific guidance during the translation process, you can deep dive with our [Using Github]({{ "/about/translating/guides/using-github/" | relative_url }}) guide.
 
-If you are not comfortable with GitHub, tell us by email and we will send you a zipped package containing a subset of the files.
 
 {::nomarkdown}
 {% include box.html type="start" title="Important note" class="simple" %}
@@ -72,15 +88,16 @@ If you are not comfortable with GitHub, tell us by email and we will send you a 
 
 We hope you find benefits in using GitHub to contribute. That said, we do not expect translators to be or become GitHub experts. 
 
-If you are unsure how to proceed and need guidance, we are happy to help.\
-Please send e-mail to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org) (publicly archived).
+If you are unsure how to proceed and need guidance; or if you are not comfortable with GitHub at all: please send e-mail to [group-wai-translations@w3.org](mailto:group-wai-translations@w3.org) [^1].
+
+We will be happy to guide you through GitHub or look for alternatives more suitable for you.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 
-## Translating resources
+## Translating resources {#translating}
 
 {% include excol.html type="all" %}
 
@@ -92,9 +109,7 @@ Please send e-mail to [public-wai-translations@w3.org](mailto:public-wai-transla
 
 #### Have a look at our priorities
 
-For suggestions on which to translate first, see Priorities for Translations.
-
-<mark>TO DO: Detail this part</mark>
+For suggestions on which to translate first, see [Priorities for Translations](#priorities).
 
 #### Or pick a resource according to your preference
 
@@ -133,17 +148,17 @@ If there is no sitemap for your language, it generally means no resources have b
 {:/}
  Thank you so much for your interest in translating W3C WAI Resources! 
 
-To begin your journey, send an email to the publicly-archived [WAI translations list](public-wai-translations@w3.org) <mark>or staff-archived group-wai-translations@w3.org ?</mark> to express your interest in joining the WAI translator volunteers community.
+To begin your journey, send an email to [group-wai-translations@w3.org](group-wai-translations@w3.org) (not publicly archived&nbsp;[^1]) to express your interest in joining the WAI translator volunteers community.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-When you have found a resource to translate, you must indicate your interest, and wait for a reply from WAI staff. We'll check that the file isn't currently being translated by someone else, and that it isn't about to be updated. 
+When you have found a resource to translate, you must indicate your interest, and wait for a reply from WAI team. We'll check that the file isn't currently being translated by someone else, and that it isn't about to be updated. 
 
-Please wait for reply from WAI staff before starting a translation.
+Please wait for reply from WAI team before starting a translation.
 
-#### Recommended / quickest way
+#### Recommended / quickest way {#translation-issue}
 
 From the translations sitemap in your language, click on the `"Volunteer to translate this page"` link, displayed next to the resource you intend to translate.
   - It will automatically pre-fill a GitHub issue with some useful information.
@@ -163,18 +178,16 @@ From the translations sitemap in your language, click on the `"Volunteer to tran
 #### Initial setup
 
 - Log in to your existing GitHub account, or create one. [See GitHub section](#github)
-- Get to the repository of the resource you will translate.  
-Near the bottom of each page on the WAI website, there is a "Help improve this page" box. The middle button is "Fork & Edit in GitHub". That gets you to the repository. 
-- Fork the repository.
-- Create a new branch.
-{:.checkbox}
+- Get to the repository of the resource you will translate. 
+  - Near the bottom of each page on the WAI website, there is a "Help improve this page" box. The middle button is "Fork & Edit in GitHub". That gets you to the repository. 
+  - If you have followed the [recommended way](#translation-issue) to declare your intent, you can directly see that info in the GitHub issue.
+- You can directly work from there. When committing changes, a [forked repository {% include_cached external.html %}](https://docs.github.com/get-started/quickstart/fork-a-repo) will automatically be created. Alternatively, you can fork the repository first.
 
 #### Translate the resource
 
 - Refer to [Creating a Translation]({{ "/about/translating/guides/new-translation/" | relative_url }}) guide
 - If the page you are translating has videos, also refer to [Creating Video Subtitles/Descriptions]({{ "/about/translating/guides/video-subtitles/" | relative_url }})
 - Read the [Translating Guidance]({{ "/about/translating/guides/translation-guidance/" | relative_url }}).
-{:.checkbox}
 
 {% include excol.html type="end" %}
 
@@ -184,12 +197,14 @@ Near the bottom of each page on the WAI website, there is a "Help improve this p
 
 {% include excol.html type="middle" %}
 
-- Open a Pull Request in the GitHub repository of the resource, with `[IN-PROGRESS]` at the beginning of the title.
+We have enabled a preview with Netlify so you can check your file and make edits.
 
-- Check the Netlify preview from GitHub.
+- Open a [draft Pull Request {% include_cached external.html %}](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) in the GitHub repository of the resource, with `[IN-PROGRESS]` at the beginning of the title.
+
+- After you submit the pull request, a preview will be generated. At first it will say "Some checks haven't completed yet.".
   - Check everything listed in [Reviewer Guidance]({{ "/about/translating/guides/review-translation/" | relative_url }}#initial-things-to-check)
   - Eventually, commit some fixes.
-  - At this point, if you encounter some technical problems, ask for help from WAI staff.
+  - At this point, if you encounter some technical problems, ask for help from WAI team.
 
 - When your auto-review is done, go to the next step.
 
@@ -215,14 +230,43 @@ Translations are reviewed before they are published.
 
 {% include excol.html type="middle" %}
 
-WAI staff is responsible for publishing translations.
+WAI team is responsible for publishing translations.
 
 {% include excol.html type="end" %}
 
 
-## Reviewing Translations
+## Priorities for Translating WAI Resources {#priorities}
 
-Translations are reviewed by volunteers and WAI staff before they are published.
+{% include ednote.html note="Pages listed below are examples + translated pages need to be deleted before final publication" %}
+
+{% assign alldocs=site.documents | concat: site.pages %}
+{%- if page.translations_priorities -%}
+  <ul>
+  {%- for prio in page.translations_priorities -%}
+    {% assign original=alldocs | where_exp:"item", "item.lang == 'en' or item.lang == nil" | where_exp:"item", "item.ref == prio.url or item.url == prio.url" | first %}
+    {% assign allt=alldocs | where_exp:"item", "item.lang != 'en' and item.lang != nil" | where_exp:"item", "item.ref == prio.url" %}
+    {%- if original -%}
+      <li>
+      {%- if original.title -%}
+        <a href="{{ original.url | relative_url }}">{{ original.title }}</a>
+      {%- endif -%}
+      {%- if allt.size > 0 -%}
+        <br />
+        Completed translations:
+        {%- for t in allt -%}
+          {%- capture url -%}{{ t.url | relative_url }}{%- endcapture -%}
+          {% include resource-link.html noicon="true" label=t.lang href=url %}
+        {%- endfor -%}
+      {%- endif -%}
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+{%- endif -%}
+
+## Reviewing Translations  {#reviewing}
+
+Translations are reviewed by volunteers and WAI team before they are published.
 
 {% include excol.html type="all" %}
 
@@ -237,7 +281,7 @@ Translations are reviewed by volunteers and WAI staff before they are published.
 {:/}
 Thank you so much for your interest in reviewing W3C WAI Resources!
 
-First and foremost, send an email to the publicly-archived [WAI translations list](public-wai-translations@w3.org) <mark>or staff-archived group-wai-translations@w3.org ?</mark> to express your interest in joining the WAI translator volunteers community.
+First and foremost, send an email to [group-wai-translations@w3.org](group-wai-translations@w3.org) (not publicly archived&nbsp;[^1]) to express your interest in joining the WAI translator volunteers community.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -245,7 +289,7 @@ First and foremost, send an email to the publicly-archived [WAI translations lis
 
 1. Explore the [WAI Translations GitHub project {% include_cached external.html %}](https://github.com/orgs/w3c/projects/46/views/2)
   - Look into the "Ready for review" column to find translations ready for review.
-  - You can filter the view by clicking on your language in the "Language" column on your left.
+  - You can filter the view by clicking on your language in the "Language" column.
   - If you have trouble using this _board_ view, you can look at the [equivalent table view {% include_cached external.html %}](https://github.com/orgs/w3c/projects/46/views/3)
 
 2. Communicate you are volunteering to review, by leaving a comment in the corresponding issue.
@@ -261,3 +305,5 @@ First and foremost, send an email to the publicly-archived [WAI translations lis
 Follow [Reviewing translations]({{ "/about/translating/guides/review-translation/" | relative_url }}) step-by-step guide.
 
 {% include excol.html type="end" %}
+
+[^1]: Emails sent to `group-wai-translations@w3.org` are not publicly visible.

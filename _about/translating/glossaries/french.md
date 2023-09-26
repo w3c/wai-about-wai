@@ -91,6 +91,10 @@ Level A, AA, AAA
 : <span lang="fr">Niveau A, AA, AAA</span>\
   _Reference:_ [WCAG 2.1 Authorized Translation](https://www.w3.org/TR/WCAG21/#wcag-2-layers-of-guidance)
 
+machine learning
+: <span lang="fr">apprentissage automatique</span>\
+_Reference:_ [Business case translation review](https://github.com/w3c/wai-bcase/pull/121#discussion_r1330456132)
+
 methodology
 : <span lang="fr">méthodologie</span>\
   _Reference:_ [WCAG 2.1 Authorized Translation](https://www.w3.org/Translations/WCAG21-fr/#later-versions-of-accessibility-guidelines)
