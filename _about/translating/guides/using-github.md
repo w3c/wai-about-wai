@@ -17,6 +17,16 @@ feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 13 September 2023.</p>
    <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
+
+inline_css: |
+   figure.screenshot {
+      margin-block-start: 1em;   
+   }
+   
+   figure.screenshot img {
+      box-shadow: 3px 3px 3px #ddd;
+   }
+
 ---
 
 {::nomarkdown}
@@ -44,11 +54,74 @@ Here are some guidance to use GitHub.
 We encourage you to use GitHub.
 If you are not comfortable with it, we can work with text files.
 
-## Getting to the repository: 
+## Creating a translation in GitHub - A step by step guide
 
-Near the bottom of each page on the WAI website, there is a "Help improve this page" box. The middle button is "Fork & Edit in GitHub". That gets you to the repository.
+### Create the translation file
 
-You can fork and edit from the main repository.
+<ol>
+   <li>
+   Near the bottom of each page on the WAI website, there is a "Help improve this page" box. The middle button is "Fork & Edit in GitHub". That gets you to the repository.
+   <figure class="screenshot">
+      {% include image.html src="translating/fork-edit-link.jpg" alt="Screenshot of the “Help improve this page” box. The “Fork & Edit in Github” middle button is outlined in dark orange." %}
+   </figure>
+   </li>
+   <li>
+   From there, select all the original file code and copy it to your clipboard (<kbd><kbd>Ctrl</kbd>+<kbd>C</kbd></kbd> or <kbd><kbd>⌘</kbd>+<kbd>C</kbd></kbd>).
+   </li>
+   <li>
+   Click on the expand icon, next to the secondary breadcrumb, to show the repository file tree.
+   <figure class="screenshot">
+      {% include image.html src="translating/expand-file-tree.jpg" alt="Screenshot of the edit view in GitHub: the Expand icon is outlined in dark orange next to the secondary breadcrumb." %}
+   </figure>
+   </li>
+   <li>
+   Click on the "+" icon to create a new file.
+   <figure class="screenshot">
+      {% include image.html src="translating/new-file.jpg" alt="Screenshot of the edit view in GitHub, with the file tree expanded. The “+” icon with a “Add file” label on hover is outlined in dark orange." %}
+   </figure>
+   </li>
+   <li>
+   <p>Name the new file according to instructions on <a href="/wai-about-wai/about/translating/guides/new-translation/#create-file">Creating a New Translation</a> page.</p>
+   <figure class="screenshot">
+      {% include image.html src="translating/name-new-file.jpg" alt="Screenshot of the edit view in GitHub. The “File name” field, at the end of the secondary breadcrumb, is outlined in dark orange." %}
+   </figure>
+   </li>
+   <li>
+   Paste the original content from step 2 in the edit field (<kbd><kbd>Ctrl</kbd>+<kbd>V</kbd></kbd> or <kbd><kbd>⌘</kbd>+<kbd>V</kbd></kbd>).
+   <p>&#127881; <strong>Congrats! You have now created the translation file to work with.</strong></p>
+   </li>
+</ol>
+
+### Work on your translation
+
+<ol start="7">
+   <li>
+   Edit the file with the necessary changes, following guidance from <a href="/wai-about-wai/about/translating/guides/new-translation/">Creating a New Translation</a> page.
+   </li>
+   <li>
+   When you are ready, click on "Commit changes..." to save your work
+   <figure class="screenshot">
+      {% include image.html src="translating/commit-changes.jpg" alt="Screenshot of the edit view in GitHub. The “Commit changes...” button, next to the “Cancel changes” button, is outlined in dark orange." %}
+   </figure>
+   </li>
+   <li>
+   In the "Propose changes" modal window, you can rename your commit message to better reflect what you have changed. Then, click on "Propose changes".
+   <figure class="screenshot">
+      {% include image.html src="translating/propose-changes.jpg" alt="Screenshot of the “Propose changes” modal window in GitHub. The “Commit message” field says “Create french translation for Tips in Designing page”. The “Propose changes” button, next to the “Cancel” button, is outlined in dark orange." %}
+   </figure>
+   </li>
+</ol>
+
+### Submit your Pull Request
+
+<ol start="10">
+   <li>
+   You have been redirected to a pre-filled "Open a pull request" form.
+   </li>
+   <li>Add [In Progress] atht the beginning of the Pull Request title
+   </li>
+</ol>
+
 
 ## Translations Ready for Review
 

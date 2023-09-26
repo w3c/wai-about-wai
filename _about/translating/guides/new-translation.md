@@ -46,7 +46,7 @@ Here are some guidance to create a new translation of a resource.
 Before starting:
 - Find the language short code "subtag" from [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). You will use it at multiple times during the translation.
 
-## Step 1: Create a new file
+## Step 1: Create a new file {#create-file}
 
 Duplicate the file used by the original version, with the language shortcode added to the middle of the filename, as follows:
 
@@ -61,7 +61,7 @@ Duplicate the file used by the original version, with the language shortcode add
 {% include box.html type="end" %}
 {:/}
 
-## Step 2: Update "front matter" metadata
+## Step 2: Update "front matter" metadata 
 
 {::nomarkdown}
 {% include box.html type="start" class="highlighted" %}
