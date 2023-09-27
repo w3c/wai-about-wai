@@ -152,7 +152,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 **We look forward to your contributions to making the web more accessible to people with disabilities!**
 
-<--
+<!--
 ### Specific Invitations
 
 We are particularly seeking the following contributions:
