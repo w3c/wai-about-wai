@@ -106,9 +106,9 @@ If you are not comfortable with it, we can work with text files.
 
 <ol start="10">
    <li>
-   You have been redirected to a pre-filled "Open a pull request" form.
+   From last step, you are redirected to a pre-filled "Open a pull request" form.
    </li>
-   <li>Add [In Progress] atht the beginning of the Pull Request title
+   <li>Add [In Progress] at the beginning of the Pull Request title
    </li>
 </ol>
 
@@ -117,20 +117,6 @@ If you are not comfortable with it, we can work with text files.
 
 
 ## Pull Request Status & Title
-
-To help us keep track of the pull requests and status, please use this for your Pull Request Titles:
-
-`[status] Language - Resource Title`
-
-with status of `IN-PROGRESS` or `Ready for Review` or `Ready to Publish` (after it is reviewed and ready for publication)
-
-For example:
-
-~~~
-[IN-PROGRESS] Spanish - Accessibility Principles
-[Ready for Review] Spanish - Accessibility Principles
-[Ready to Publish] Spanish - Accessibility Principles
-~~~
 
 To let others know that your translation is ready for review, please send e-mail to public-wai-translations@w3.org with subject:
 
