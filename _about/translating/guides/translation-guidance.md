@@ -8,7 +8,7 @@ permalink: /about/translating/guides/translation-guidance/
 ref: /about/translating/guides/translation-guidance/
 lang: en
 doc-note-type: draft
-doc-note-message-md: This page is a draft documentation to guide volunteer translators. **It needs some edits/addings, especially at the end (resource-specific information)**
+doc-note-message-md: This page is a draft documentation to guide volunteer translators. **It welcomes feebacks.**
 last_updated: 2023-09-18
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
@@ -91,29 +91,40 @@ The markdown files are very sensitive to indentation, commas, quotes, and specia
 - Read the [General Translation Glossary]({{ "/about/translating/glossaries/general/" | relative_url }}).
 - See if there is a [glossary for your language]({{ "/about/translating/glossaries/" | relative_url }}).
 
-## Resource-Specific Information <mark>To Update</mark>
+## Resource-Specific Information
 
-See if there are Translation Notes for the resource you are translating.
+Some resources have specific Translations notes. 
 
-- Go to the page on the WAI website.
-- Near the bottom, click the "New GitHub Issue" button.
-- Click on the “Code” tab/link (before the selected "Issues" near the top left of the window).
-- Scroll down to the "README.md" box.
-- Read the "Translation Notes".
+{::nomarkdown}
+<ul>
+<li>
+{:/}
 
-<mark>TO DO: Find a Better way of dealing with it? Inside code or in this doc?</mark>
+At the top of the resource file (in the ["front matter" metadata]({{ "/about/translating/guides/new-translation" | relative_url }}#frontmatter)), see if there is a comment like this one:
 
-<mark>Editor note: List of repos with Translation notes</mark>
-- https://github.com/w3c/wai-wcag-quickref
-- https://github.com/w3c/wai-intro-wcag
-- https://github.com/w3c/wai-std-gl-overview
-- https://github.com/w3c/wai-bcase
-- https://github.com/w3c/wai-atag-report-tool
-- https://github.com/w3c/wai-wcag-em-report-tool
-- https://github.com/w3c/wai-statements
-- https://github.com/w3c/wai-people-use-web
-- https://github.com/w3c/wai-video-standards-and-benefits
+{::nomarkdown}
+{% include box.html type="start" %}
+{:/}
+```
+# Read Translations Notes at https://github.com/w3c/path-to-repository#readme
+```
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+In that case, follow the link and read the specific guidance.
+
+{::nomarkdown}
+</li>
+<li>
+{:/}
+
+If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read the [specific guidance in its repository](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
+
+{::nomarkdown}
+</li>
+</ul>
+{:/}
 
 ## We are here to help
 

@@ -61,7 +61,7 @@ Duplicate the file used by the original version, with the language shortcode add
 {% include box.html type="end" %}
 {:/}
 
-## Step 2: Update "front matter" metadata 
+## Step 2: Update "front matter" metadata {#frontmatter}
 
 {::nomarkdown}
 {% include box.html type="start" class="highlighted" %}
