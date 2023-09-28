@@ -29,16 +29,6 @@ inline_css: |
 
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-Here are some guidance to use GitHub.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 {::options toc_levels="2,3" /}
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}

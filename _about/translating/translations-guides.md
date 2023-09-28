@@ -17,16 +17,6 @@ footer: |
   <p><strong>Editor:</strong> Rémi Bétin.</p>
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-List of guides for translators.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 ## Guides
 
 - [Translation Guidance](/about/translating/guides/translation-guidance/)

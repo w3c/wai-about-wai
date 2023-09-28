@@ -17,16 +17,6 @@ footer: |
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-Apply to multiple languages.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 {::options toc_levels="2,3" /}
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" %}

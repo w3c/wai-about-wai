@@ -16,16 +16,6 @@ footer: |
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-List of glossaries for translators.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 ## Glossaries
 
 - [General Glossary]({{ "/about/translating/glossaries/general/" | relative_url }})

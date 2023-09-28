@@ -17,16 +17,6 @@ footer: |
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-Here are some guidance to translate video subtitles.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 {::options toc_levels="2" /}
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
@@ -38,10 +28,6 @@ Here are some guidance to translate video subtitles.
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
-
-## Terminology
-
-<mark>To Do: Explain differences between captions, subtitles, descriptions.</mark>
 
 ## Step 1: Create the subtitles file
 
