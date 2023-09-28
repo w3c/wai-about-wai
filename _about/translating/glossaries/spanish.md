@@ -8,6 +8,7 @@ permalink: /about/translating/glossaries/spanish/
 ref: /about/translating/glossaries/spanish/
 lang: en
 doc-note-type: draft
+doc-note-message-md: This page is a never-ending work in progress document. It is used by volunteers to iterate internally on the most appropriate terms to translate sensitive, difficult or common words and phrases used in WAI resources.
 last_updated: 2023-09-18
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png

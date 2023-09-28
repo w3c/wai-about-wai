@@ -7,8 +7,6 @@ github:
 permalink: /about/translating/guides/review-translation/
 ref: /about/translating/guides/review-translation/
 lang: en
-doc-note-type: draft
-doc-note-message-md: This page is a first draft documentation to guide volunteer translators. **It welcomes feedbacks.**
 last_updated: 2023-09-13
 translators:
   - name: Translator 1

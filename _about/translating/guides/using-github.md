@@ -8,7 +8,7 @@ permalink: /about/translating/guides/using-github/
 ref: /about/translating/guides/using-github/
 lang: en
 doc-note-type: draft
-doc-note-message-md: This page is a **work-in-progress draft needing extensive edits.**
+doc-note-message-md: This page is a **work-in-progress draft.**
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png

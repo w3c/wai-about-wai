@@ -8,9 +8,6 @@ github:
 permalink: /about/translating/
 ref: /about/translating/
 lang: en
-doc-note-type: draft
-doc-note-message-md: This page is **actively edited to complement new resources created in this section.**
-
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 

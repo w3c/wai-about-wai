@@ -7,8 +7,6 @@ github:
 permalink: /about/translating/guides/translation-guidance/
 ref: /about/translating/guides/translation-guidance/
 lang: en
-doc-note-type: draft
-doc-note-message-md: This page is a draft documentation to guide volunteer translators. **It welcomes feebacks.**
 last_updated: 2023-09-28
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
