@@ -9,13 +9,13 @@ ref: /about/translating/guides/translation-guidance/
 lang: en
 doc-note-type: draft
 doc-note-message-md: This page is a draft documentation to guide volunteer translators. **It welcomes feebacks.**
-last_updated: 2023-09-18
+last_updated: 2023-09-28
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 18 September 2023.</p>
+  <p><strong>Date:</strong> Updated 28 September 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
@@ -48,15 +48,58 @@ Here are some general guidance for translators.
 
 ## Markdown/Code
 
-- Please leave the code, HTML, and markdown as is without changing it.
+Please leave the code, HTML, and markdown as is without changing it.
 
 Make sure to:
-- Translate titles in the markdown such as "Summary" in <br />  {% raw %}`{% include box.html type="start" title="Summary" class="" %}`{% endraw %}
-- Translate image alternative text. For example, "mouse crossed out"<br />
-  - in Markdown: ```![mouse crossed out](`https://www.w3.org/WAI/intro/no-mouse.png`)```<br />
-  - in HTML: ```<img src="`https://www.w3.org/WAI/intro/no-mouse.png`" alt="mouse crossed out" />```
 
-- Make sure that the quote marks stay as is, and are not converted to "smart quotes" by word processing software.
+{::nomarkdown}
+<ul>
+<li>
+{:/}
+
+Translate titles in the markdown, such as "Summary" in:
+
+{::nomarkdown}
+{% include box.html type="start" %}
+{:/}
+```liquid
+{% raw %}{% include box.html type="start" title="Summary" class="" %}{% endraw %}
+```
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+
+{::nomarkdown}
+</li>
+<li>
+{:/}
+
+Translate image alternative text, such as “mouse crossed out” in:
+
+{::nomarkdown}
+{% include box.html type="start" %}
+{:/}
+
+- in Markdown: `![mouse crossed out](https://www.w3.org/WAI/intro/no-mouse.png)`
+- in HTML: `<img src="https://www.w3.org/WAI/intro/no-mouse.png" alt="mouse crossed out" />`
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+</li>
+<li>
+{:/}
+
+Make sure that the quote marks stay as is, and are not converted to "smart quotes" by word processing software.
+
+{::nomarkdown}
+</li>
+</ul>
+{:/}
 
 ### Links
 
@@ -73,23 +116,29 @@ Most links are formatted with single or double brackets and parentheses; for exa
 {% include box.html type="end" %}
 {:/}
 
+Just so you know:
+- When we want the system to use the title of the linked-to page as link text, we use `[[double brackets]]`. 
+  - That way, when the linked-to page is translated, the system will use the translated page's title.
+  - If the linked-to page is not translated, the system will use your translated text between the brackets, and add `(in English)` in the translated language at the end of the link.
+- When we want to use custom link text, we use `[single brackets]`.
+
 Make sure to:
-- Keep these together, with no space between the closing `]` and the opening `(`.
+- Keep brackets and parentheses together, with no space between the closing `]` and the opening `(`.
 - Keep double `[[` or single brackets `[` as they are.
 - Translate the text in the links, including document titles.
+- Do not manually add `(in English)`, even for external links.
 
-If the link text is exactly the same as the linked-to page title, then the link should use `[[double brackets]]`.
-- When a linked-to page is translated, the system will use the translated page's title.
-- If the linked-to page is not translated, the system will add `(in English)` in the translated language at the end of the link.
 
 ## Text Editor
 
-The markdown files are very sensitive to indentation, commas, quotes, and special characters. We recommend that you use a markdown editor or a simple text editor — and not a document editor like Microsoft Word that often changes quotes and indentation.
+The markdown files are very sensitive to indentation, commas, quotes, and special characters. 
+
+We recommend that you use a markdown editor or a simple text editor (including GitHub interface) — and not a document editor like Microsoft Word that often changes quotes and indentation.
 
 ## Glossaries
 
-- Read the [General Translation Glossary]({{ "/about/translating/glossaries/general/" | relative_url }}).
-- See if there is a [glossary for your language]({{ "/about/translating/glossaries/" | relative_url }}).
+- Read the [General Translation Glossary](/about/translating/glossaries/general/).
+- See if there is a [glossary for your language](/about/translating/glossaries/).
 
 ## Resource-Specific Information
 
@@ -100,7 +149,7 @@ Some resources have specific Translations notes.
 <li>
 {:/}
 
-At the top of the resource file (in the ["front matter" metadata]({{ "/about/translating/guides/new-translation" | relative_url }}#frontmatter)), see if there is a comment like this one:
+At the top of the resource file (in the ["front matter" metadata](/about/translating/guides/new-translation#frontmatter)), see if there is a comment like this one:
 
 {::nomarkdown}
 {% include box.html type="start" %}
@@ -119,7 +168,7 @@ In that case, follow the link and read the specific guidance.
 <li>
 {:/}
 
-If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read the [specific guidance in its repository](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
+If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
 
 {::nomarkdown}
 </li>
@@ -128,5 +177,8 @@ If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/r
 
 ## We are here to help
 
-If you have any questions about the translation, please send e-mail to [mailto:public-wai-translations@w3.org](public-wai-translations@w3.org) (publicly archived). We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
+If you have any questions about the translation, please report them in the related GitHub issue so that WAI team and other volunteers can help. Alternatively, send an e-mail to [group-wai-translations@w3.org](mailto:group-wai-translations@w3.org)[^1].
 
+We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
+
+[^1]: Emails sent to `group-wai-translations@w3.org` are not publicly visible.
