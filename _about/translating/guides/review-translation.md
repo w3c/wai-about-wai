@@ -47,12 +47,6 @@ Here are some guidance to review a translation.
 {% include toc.html type="end" %}
 {:/}
 
-## How to add comments to a draft translation in GitHub
-
-A <6 minute video:
-* on [YouTube {% include_cached external.html %}](https://www.youtube.com/watch?v=oP0PZtHlhiU)
-* on [Zoom (unedited captions) {% include_cached external.html %}](https://mit.zoom.us/rec/share/ED-utGMCqDnP3fmECnhd5mFYTekeTa4WOEohnxEd8MFaZ0GVZszNtdN52sLHm8Me.ksOapg8FA6jvXJp1)
-
 ## Initial things to check
 
 {::nomarkdown}
