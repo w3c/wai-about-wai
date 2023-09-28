@@ -56,7 +56,13 @@ If you are not comfortable with it, we can work with text files.
    </figure>
    </li>
    <li>
-   From there, select all the original file code and copy it to your clipboard (<kbd><kbd>Ctrl</kbd>+<kbd>C</kbd></kbd> or <kbd><kbd>⌘</kbd>+<kbd>C</kbd></kbd>).
+   From there, you will be asked to Fork the repository, meaning creating a copy of the repository, so you can make changes without affecting the original W3C repository. Click on "Fork this repository"
+   <figure class="screenshot">
+      {% include image.html src="translating/fork-repo.jpg" alt="TBD" %}
+   </figure>
+   </li>
+   <li>
+   On the next screen, select all the original file code and copy it to your clipboard (<kbd><kbd>Ctrl</kbd>+<kbd>C</kbd></kbd> or <kbd><kbd>⌘</kbd>+<kbd>C</kbd></kbd>).
    </li>
    <li>
    Click on the expand icon, next to the secondary breadcrumb, to show the repository file tree.
@@ -84,7 +90,7 @@ If you are not comfortable with it, we can work with text files.
 
 ### Work on your translation
 
-<ol start="7">
+<ol start="8">
    <li>
    Edit the file with the necessary changes, following guidance from <a href="/wai-about-wai/about/translating/guides/new-translation/">Creating a New Translation</a> page.
    </li>
@@ -104,11 +110,39 @@ If you are not comfortable with it, we can work with text files.
 
 ### Submit your Pull Request
 
-<ol start="10">
+<ol start="11">
    <li>
    From last step, you are redirected to a pre-filled "Open a pull request" form.
    </li>
    <li>Add [In Progress] at the beginning of the Pull Request title
+   <figure class="screenshot">
+      {% include image.html src="translating/create-draft-pull-request.jpg" alt="TBD" %}
+   </figure>
+   </li>
+   <li>Click on "Draft pull request" to confirm the submission of the pull request.
+   <figure class="screenshot">
+      {% include image.html src="translating/draft-button.jpg" alt="TBD" %}
+   </figure>
+   </li>
+   <li>Congratulations ! Your pull request is now created. Wait for the creation of the preview.
+   <figure class="screenshot">
+      {% include image.html src="translating/preview-processing.jpg" alt="TBD" %}
+   </figure>
+   </li>
+   <li>When the preview is generated, the notification content will change to "Deploy Preview ready". Click on the Deploy Preview link to access the preview.
+   <figure class="screenshot">
+      {% include image.html src="translating/preview-ready.jpg" alt="TBD" %}
+   </figure>
+   </li>
+   <li>When you are ready, click on "Ready for review" button, at the bottom of the Pull request view.
+   <figure class="screenshot">
+      {% include image.html src="translating/ready-for-review-button.jpg" alt="TBD" %}
+   </figure>
+   </li>
+   <li>Congratulations, your pull request is now ready for review. You can see it is marked as "Open" with a green label at the top of the Pull request view.
+   <figure class="screenshot">
+      {% include image.html src="translating/ready-for-review-state.jpg" alt="TBD" %}
+   </figure>
    </li>
 </ol>
 
