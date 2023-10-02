@@ -90,6 +90,8 @@ https://github.com/w3c/wai-translations/labels/initial-translation
         <a href="{{ t.permalink | relative_url }}"> {{ t.title }} ({{ pagedata.title }})
       {%- elsif t == nil and pagedata.permalink != nil -%}
         <a href="{{ pagedata.permalink | relative_url }}">{{ pagedata.title }}
+      {%- elsif t == nil and pagedata.permalink == nil and page.name.en != nil -%}
+        <a href="{{ page.url | relative_url }}">{{ page.name.en }}
       {%- else -%}
         <a href="{{ page.url | relative_url }}">{{ page.name }}
       {%- endif -%}
