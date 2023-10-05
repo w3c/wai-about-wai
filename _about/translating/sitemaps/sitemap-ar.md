@@ -67,9 +67,9 @@ This page lists the status of {{ tlangname }} translations for most pages on the
   </h3>
   {% include excol.html type="middle" %}
   {% assign pages=section.pages | where_exp:"item", "item.mainnav != false and item.hide != true" -%}
-  {%- for page in pages -%}
-    {%- include t-status.html page=page h="4" -%}
-    {% assign subpages=page.pages | where_exp:"item", "item.mainnav != false and item.hide != true" -%}
+  {%- for p in pages -%}
+    {%- include t-status.html page=p h="4" -%}
+    {% assign subpages=p.pages | where_exp:"item", "item.mainnav != false and item.hide != true" -%}
     {%- for subpage in subpages -%}
       {%- include t-status.html page=subpage h="5" -%}
     {% include box.html type="end" %}
