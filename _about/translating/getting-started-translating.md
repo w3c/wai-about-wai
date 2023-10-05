@@ -16,31 +16,6 @@ feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated 26 September 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
-
-translations_priorities:
-- url: "/videos/standards-and-benefits/"
-- url: "/fundamentals/accessibility-intro/"
-- url: "/perspective-videos/"
-  pages:
-    - url: "/perspective-videos/keyboard/"
-    - url: "/perspective-videos/contrast/"
-    - url: "/perspective-videos/layout/"
-    - url: "/perspective-videos/speech/"
-    - url: "/perspective-videos/controls/"
-    - url: "/perspective-videos/captions/"
-    - url: "/perspective-videos/customizable/"
-    - url: "/perspective-videos/voice/"
-    - url: "/perspective-videos/understandable/"
-    - url: "/perspective-videos/notifications/"
-- url: "/tips/writing/"
-- url: "/tips/designing/"
-- url: "/tips/developing/"
-- url: "/tutorials/images/decision-tree/"
-- url: "/fundamentals/accessibility-principles/"
-- url: "/about/participating/"  #For testing only
-- url: "/about/sponsoring/"  #For testing only
-- url: "/about/contacting/"  #For testing only
-
 ---
 
 {::nomarkdown}
@@ -114,25 +89,11 @@ For suggestions on which to translate first, see [Priorities for Translations](#
 
 You are welcome to translate any current WAI resource that you think would be useful in your language.
 
-The easiest way to find a resource to translate is to head over to the dedicated translation sitemap for your language.
+The easiest way to find a resource to translate is to head over to the dedicated [translation sitemap for your language](/about/translating/sitemaps/).
 
 Translation sitemaps display the structure of WAI website, and indicate for each page:
 - If a translation has been published for this language + its current status ({% include_cached icon.html name="check-circle" %} Up-to-date / {% include_cached icon.html name="warning" %} Needs update).
 - If a page has no translation available in this language, and therefore welcomes a volunteer translation.
-
-##### List of current translations sitemaps:
-
-- [French translations sitemap]({{ "/about/translating/sitemaps/sitemap-fr/" | relative_url }})
-
-{::nomarkdown}
-{% include box.html type="start" title="Note" class="simple" %}
-{:/}
-
-If there is no sitemap for your language, it generally means no resources have been translated in this language.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 {% include excol.html type="end" %}
 
@@ -254,12 +215,10 @@ Please note these steps may take some time depending on other ongoing priorities
 
 ## Priorities for Translating WAI Resources {#priorities}
 
-{% include ednote.html note="Pages listed below are examples + translated pages need to be deleted before final publication" %}
-
 {% assign alldocs=site.documents | concat: site.pages %}
-{%- if page.translations_priorities -%}
+{%- if site.data.translations-priorities -%}
   <ul>
-  {%- for prio in page.translations_priorities -%}
+  {%- for prio in site.data.translations-priorities -%}
     {% assign original=alldocs | where_exp:"item", "item.lang == 'en' or item.lang == nil" | where_exp:"item", "item.ref == prio.url or item.url == prio.url" | first %}
     {% assign allt=alldocs | where_exp:"item", "item.lang != 'en' and item.lang != nil" | where_exp:"item", "item.ref == prio.url" %}
     {%- if original -%}
@@ -275,6 +234,29 @@ Please note these steps may take some time depending on other ongoing priorities
           {% include resource-link.html noicon="true" label=t.lang href=url %}
         {%- endfor -%}
       {%- endif -%}
+      {% if prio.pages.size > 0 %}
+        <ul>
+          {%- for subpage in prio.pages -%}
+            {% assign original2=alldocs | where_exp:"item", "item.lang == 'en' or item.lang == nil" | where_exp:"item", "item.ref == subpage.url or item.url == subpage.url" | first %}
+            {% assign allt2=alldocs | where_exp:"item", "item.lang != 'en' and item.lang != nil" | where_exp:"item", "item.ref == subpage.url" %}
+            {%- if original2 -%}
+              <li>
+              {%- if original2.title -%}
+                <a href="{{ original2.url | relative_url }}">{{ original2.title }}</a>
+              {%- endif -%}
+              {%- if allt2.size > 0 -%}
+                <br />
+                Completed translations:
+                {%- for t2 in allt2 -%}
+                  {%- capture url -%}{{ t2.url | relative_url }}{%- endcapture -%}
+                  {% include resource-link.html noicon="true" label=t2.lang href=url %}
+                {%- endfor -%}
+              {%- endif -%}
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      {% endif %}
       </li>
     {%- endif -%}
   {%- endfor -%}

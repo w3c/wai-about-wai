@@ -1,11 +1,11 @@
 ---
-title: "French Translations Progress"
-nav_title: French Translations Progress
+title: "Russian Translations Progress"
+nav_title: Russian Translations Progress
 github:
   repository: w3c/wai-about-wai
-  path: '_about/sitemaps/sitemap-fr.md'
-permalink: /about/translating/sitemaps/sitemap-fr/
-ref: /about/translating/sitemaps/sitemap-fr/
+  path: '_about/sitemaps/sitemap-ru.md'
+permalink: /about/translating/sitemaps/sitemap-ru/
+ref: /about/translating/sitemaps/sitemap-ru/
 lang: en
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
@@ -14,7 +14,7 @@ image: /content-images/wai-about-wai/social-translations.png
 feedbackmail: wai@w3.org
 
 #Custom frontmatter for this page
-tlang: fr
+tlang: ru
 ---
 {% assign tlangname=site.data.lang[page.tlang].name %}
 {% assign alldocs=site.documents | concat: site.pages %}
