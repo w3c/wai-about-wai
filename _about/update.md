@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 17 September 2023. First published March 2022.</p>
+   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 5 October 2023. First published March 2022.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -62,8 +62,6 @@ We hope you'll find accessibility work on this page that you are interested in c
 ## Current Work Highlights
 
 ### Updating Core Guidelines and Other Standards
-
-* **Web Content Accessibility Guidelines (WCAG) 2.2** is in the W3C publication approval process. We expect to publish WCAG 2.2 as a ‘W3C Recommendation’ web standard in 2023. **Get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/)**.  _[AG WG]_
 
 * **W3C Accessibility Guidelines (WCAG) 3** is in an exploratory phase, and will change substantially. It's years away from being finalized. Please see [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
@@ -108,9 +106,8 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ## Upcoming Publications
 
-We plan to publish the following documents in October 2023. <!--"Q3", which is July, August, September.--> To learn about <!-- "Candidate Recommendation" (**CR**), -->"Proposed Recommendation" (**PR**), "Recommendation", and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents in 2023. <!--"Q3", which is July, August, September.--> <!-- To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), "Recommendation", and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/). -->
 
-* [WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) to W3C Recommendation web standard  _(get the latest up-to-date information from [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/))_
 * [Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT) Draft](https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/) updates
 
 Recent publications and other announcements are listed on the **[News page](/news/)**.
@@ -151,18 +148,6 @@ Links to each Working Group's "How to Participate" page are in the [Participatin
 We also offer ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
 
 **We look forward to your contributions to making the web more accessible to people with disabilities!**
-
-<!--
-### Specific Invitations
-
-We are particularly seeking the following contributions:
-* EOWG (Accessibilty Education and Outreach Working Group) welcomes contributions on the next iteration of the following resources. **To comment on current work, please see [EOWG Work for this Week](https://www.w3.org/WAI/EO/wiki/EOWG_Meetings#Work_for_this_week).**
-  * [How People with Disabilities use the Web (preview of draft in progress)](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/) &mdash; complete drafts for review
-  * [Easy Checks – A First Review of Web Accessibility (old version)](https://www.w3.org/WAI/test-evaluate/preliminary/) &mdash; significant revision and update in-progress
-  * [Accessibility Tutorials (current version)](https://www.w3.org/WAI/tutorials/) &mdash; minor updates in-progress
-  * [Digital Accessibility Foundations / Introduction to Web Accessibility](https://www.w3.org/WAI/courses/foundations-course/) free online course &mdash; later in 2023
-* Framework for Accessible Specification of Technologies (FAST) Task Force &mdash; FAST advises technical specification creators how to ensure their technology meets the needs of users with disabilities. The newly-forming FAST Task Force will collect user and functional needs, develop guidance to meet those needs in technologies, and work with other groups to develop this guidance for content developers. To participate in the FAST Task Force, see [FAST TF, How to Comment, Contribute, and Participate](https://www.w3.org/WAI/APA/task-forces/fast/#contribute).
--->
   
 ### Who is We
 
@@ -206,6 +191,8 @@ We are particularly seeking the following contributions:
 
 {% include_cached excol.html type="middle" %}
 
+* 5 October 2023
+  * Removed WCAG 2.2 from Current Work Highlights and Upcoming Publications, because we published it today.
 * 27 September 2023
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications)
 * 30 August 2023
