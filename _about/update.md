@@ -192,7 +192,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 {% include_cached excol.html type="middle" %}
 
 * 5 October 2023
-  * Removed WCAG 2.2 from Current Work Highlights and Upcoming publications, because we published it today.
+  * Removed WCAG 2.2 from Current Work Highlights and Upcoming Publications, because we published it today.
 * 27 September 2023
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications)
 * 30 August 2023
