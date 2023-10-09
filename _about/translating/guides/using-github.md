@@ -60,7 +60,7 @@ inline_css: |
    From there, you will be asked to “Fork the repository” – that is, creating a copy of the repository so you can make changes without affecting the original one.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".fork-repo" %}
    <figure class="fork-repo screenshot">
-      {% include image.html src="translating/fork-repo.jpg" alt="TBD" %}
+      {% include image.html src="translating/fork-repo.jpg" alt="Screenshot of a page in GitHub, stating “You need to fork this repository” to propose changes". The “Fork this repository” button is outlined in dark orange." %}
    </figure>
    </li>
    <li>
@@ -70,7 +70,7 @@ inline_css: |
    Click on the expand icon, next to the editor breadcrumb, to show the repository file tree.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".expand-file-tree" %}
    <figure class="expand-file-tree screenshot">
-      {% include image.html src="translating/expand-file-tree.jpg" alt="Screenshot of the edit view in GitHub: the Expand icon is outlined in dark orange next to the secondary breadcrumb." %}
+      {% include image.html src="translating/expand-file-tree.jpg" alt="Screenshot of the edit view in GitHub: the Expand icon, next to the secondary breadcrumb, is outlined in dark orange." %}
    </figure>
    </li>
    <li>
@@ -122,20 +122,20 @@ inline_css: |
    <p>You are now in the "Comparing changes" view, between the "base" repository (the original W3C repository, beginning with w3c) and the "head" repository (your forked repository, beginning with your username).</p>
    <p>Click on "Create pull request", meaning that you propose to apply your changes to the official repository. If the button does not appear, you may need to refresh the page.    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".compare-changes" %}</p>
    <figure class="compare-changes screenshot">
-      {% include image.html src="translating/compare-changes.jpg" alt="TBD" %}
+      {% include image.html src="translating/compare-changes.jpg" alt="Screenshot of the “Comparing changes” view in GitHub. The “Create pull request” button is outlined in dark orange." %}
    </figure>
    </li>
    <li><p>Set the title of the Pull request using the following format: <strong>[IN-PROGRESS] Language - Resource Title.</strong></p>
    <p>Then, in the "Create pull request" button, select the drop-down arrow and select "Create draft pull request in the drop-down options. {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".create-draft-pull-request" %}
 </p>
    <figure class="create-draft-pull-request screenshot">
-      {% include image.html src="translating/create-draft-pull-request.jpg" alt="TBD" %}
+      {% include image.html src="translating/create-draft-pull-request.jpg" alt="Screenshot of the “Open a pull request” form in GitHub. The pull request title is “[IN-PROGRESS] French - Tips for Designing”. The drop-down arrow in the “Create pull request” button is selected: the second option “Create draft pull request” is visible." %}
    </figure>
    </li>
    <li><p>Click on the "Draft pull request" button to confirm the submission of the pull request.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".draft-button" %}</p>
    <figure class="draft-button screenshot">
-      {% include image.html src="translating/draft-button.jpg" alt="TBD" %}
+      {% include image.html src="translating/draft-button.jpg" alt="Screenshot extract showing the main button of the form is now “Draft pull request"." %}
    </figure>
    <p>&#127881; <strong>Congrats! Your draft pull request is now created!</strong></p>
    </li>
@@ -147,13 +147,13 @@ inline_css: |
    <li>After you submit the pull request, it will create a preview so you can check your file and make edits. At first, a notification comment will say <strong>"👷 Deploy Preview for <em>wai-repo-name</em> processing."</strong>
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".preview-processing" %}
    <figure class="preview-processing screenshot">
-      {% include image.html src="translating/preview-processing.jpg" alt="TBD" %}
+      {% include image.html src="translating/preview-processing.jpg" alt="Screenshot of the Pull request view in GitHub. A comment created by netlify starts with “👷 Deploy Preview for wai-quick-start processing.”" %}
    </figure>
    </li>
    <li><p>After a few minutes, the notification comment will change to <strong>“✅ Deploy Preview for <em>wai-repo-name</em> ready!”</strong>.</p>
    <p>To see your preview, click on the "Deploy Preview" link. {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".preview-ready" %}</p>
    <figure class="preview-ready screenshot">
-      {% include image.html src="translating/preview-ready.jpg" alt="TBD" %}
+      {% include image.html src="translating/preview-ready.jpg" alt="Screenshot of the Pull request view in GitHub. The netlify comment now starts with “✅ Deploy Preview for wai-quick-start ready!”. A Deploy Preview link is visible, outlined in dark orange." %}
    </figure>
    </li>
 </ol>
@@ -164,14 +164,14 @@ inline_css: |
 <li><p>When you have done all your checks and edits, click on the "Edit" button at the top of the Pull request view, to change the title prefix "[IN-PROGRESS]" to <strong>"[Ready for Review]"</strong></p>
    <p>Then, click on the "Ready for review" button, at the bottom of the Pull request view. {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".ready-for-review-button" %}</p>
    <figure class="ready-for-review-button screenshot">
-      {% include image.html src="translating/ready-for-review-button.jpg" alt="TBD" %}
+      {% include image.html src="translating/ready-for-review-button.jpg" alt="Screenshot of a section of the Pull request view. Next to “This pull request is still a work in progress”, the “Ready for review” button is outlined in orange." %}
    </figure>
    </li>
    <li><p>&#127881; <strong>Congratulations, your pull request is now ready for review!</strong></p>
    <p>You can see it is marked as "Open" with a green label at the top of the Pull request view.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".ready-for-review-state" %}</p>
    <figure class="ready-for-review-state screenshot">
-      {% include image.html src="translating/ready-for-review-state.jpg" alt="TBD" %}
+      {% include image.html src="translating/ready-for-review-state.jpg" alt="Screenshot of an open pull request in GitHub. The title of the pull request is “[Ready for review] French - Tips for Designing”. A green label “Open” is present below the title." %}
    </figure>
    </li>
 </ol>
