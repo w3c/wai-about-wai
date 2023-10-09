@@ -60,7 +60,7 @@ inline_css: |
    From there, you will be asked to “Fork the repository” – that is, creating a copy of the repository so you can make changes without affecting the original one.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".fork-repo" %}
    <figure class="fork-repo screenshot">
-      {% include image.html src="translating/fork-repo.jpg" alt="Screenshot of a page in GitHub, stating “You need to fork this repository” to propose changes". The “Fork this repository” button is outlined in dark orange." %}
+      {% include image.html src="translating/fork-repo.jpg" alt="Screenshot of a page in GitHub, stating “You need to fork this repository to propose changes”. The “Fork this repository” button is outlined in dark orange." %}
    </figure>
    </li>
    <li>
@@ -135,7 +135,7 @@ inline_css: |
    <li><p>Click on the "Draft pull request" button to confirm the submission of the pull request.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".draft-button" %}</p>
    <figure class="draft-button screenshot">
-      {% include image.html src="translating/draft-button.jpg" alt="Screenshot extract showing the main button of the form is now “Draft pull request"." %}
+      {% include image.html src="translating/draft-button.jpg" alt="Screenshot showing the main button of the form is now “Draft pull request”." %}
    </figure>
    <p>&#127881; <strong>Congrats! Your draft pull request is now created!</strong></p>
    </li>
