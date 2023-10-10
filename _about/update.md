@@ -148,7 +148,7 @@ Links to each Working Group's "How to Participate" page are in the [Participatin
 We also offer ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
 
 **We look forward to your contributions to making the web more accessible to people with disabilities!**
-  
+
 ### Who is We
 
 "We" is:
@@ -252,3 +252,10 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 * 30 April 2022 &mdash; Minor updates shown in [GitHub diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files), [rich text diff 30 Apr](https://github.com/w3c/wai-about-wai/pull/141/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
 
 {% include_cached excol.html type="end" %}
+
+{#townhall}
+_If you heard about W3C WAI strategic plannning, you can get more info from:_
+* [Draft W3C Accessibility Mission, Vision, Objectives](https://wai-mission.netlify.app/draft/)
+* [Discussion topics in GitHub](https://github.com/w3c/wai-mission/discussions)
+* Background: [Draft W3C Accessibility 2023 Context](https://wai-mission.netlify.app/2023/)
+* [Presentation to W3C Members September 2023](https://www.w3.org/2023/09/TPAC/ac-activities-wai.html)  - video, slides with links, transcript
