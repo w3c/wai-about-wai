@@ -28,11 +28,11 @@ github:
 ## Invitation
 {:#invitation}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring best practices and challenges in accessibility evaluation and monitoring.
+The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project invites researchers, practitioners, and users with disabilities to participate in an international online symposium exploring best practices and challenges in accessibility evaluation and monitoring.
 
 - Symposium date: **16 November 2023**
 
-Participation at the event is free of charge, but [registration]() is compulsory. The registration deadline is 31 October 2023. 
+Participation at the event is free of charge, but [registration]() is compulsory. The registration deadline is 7 November 2023. 
 
 ## Introduction
 {:#introduction}
@@ -47,25 +47,35 @@ After the symposium, the WAI-CooP project will publish a report, consolidating t
 ## Important Dates
 {:#dates}
 
--	**31 October 2023:** Deadline for registration
+-	**7 November 2023:** Deadline for registration
 -	**16 November 2023:** Online symposium event
 
 ## Registration
 {:#registration}
 
-Participation is free, and you must **[register by 31 October 2023](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**.
+Participation is free, and you must **[register by 7 November 2023](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**.
 
 
 ## Program
 {:#program}
 
 ### Session 1: Digital Accessibility Training and Education
+- Moderator: Jade Matos Carew (The Open University, UK)
+- Sarah Lewthwaite (University of Southampton, UK)
+
 This session aims to explore the present landscape of digital accessibility training. We will discuss current challenges related to course offerings, scope, and regional focus, and explore opportunities for further integration into university curricula. 
 
 ### Session 2: Mobile Accessibility
+- André Pimenta Freire (Universidade Federal de Lavras, BR)
+- Paul van Workum (Abra, NL)
+
 This session aims to discuss current challenges on evaluating mobile applications. We will explore current standards and guidelines coverage, as well as discuss the role of automatic tools in mobile accessibility evaluations.
 
 ### Session 3: Artificial Intelligence for Accessibility Evaluation
+- Moderator: Matthew Atkinson (Samsung R&D Institute, UK)
+- Yeliz Yesilada (Middle East Technical University, TR)
+- Alain Vagner (SIP, LU)
+
 This session aims to discuss the growing role of Artificial Intelligence in digital accessibility evaluation and monitoring. We will explore opportunities and considerations to ensure responsible and effective use of Artificial Intelligence for assessing digital accessibility.
 
 
