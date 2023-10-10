@@ -253,9 +253,9 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 {% include_cached excol.html type="end" %}
 
-{#townhall}
-_If you heard about W3C WAI strategic plannning, you can get more info from:_
-* [Draft W3C Accessibility Mission, Vision, Objectives](https://wai-mission.netlify.app/draft/)
-* [Discussion topics in GitHub](https://github.com/w3c/wai-mission/discussions)
+
+_If you heard about W3C WAI strategic plannning, you can get more info from:_ {#townhall}
+* **[Draft W3C Accessibility Mission, Vision, Objectives](https://wai-mission.netlify.app/draft/)**
+* **[Discussion topics in GitHub](https://github.com/w3c/wai-mission/discussions)**
 * Background: [Draft W3C Accessibility 2023 Context](https://wai-mission.netlify.app/2023/)
 * [Presentation to W3C Members September 2023](https://www.w3.org/2023/09/TPAC/ac-activities-wai.html)  - video, slides with links, transcript
