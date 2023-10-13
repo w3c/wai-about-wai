@@ -62,6 +62,7 @@ Participation is free, and you must **[register by 7 November 2023](https://www.
 ### Session 1: Digital Accessibility Training and Education
 - Moderator: Jade Matos Carew (The Open University, UK)
 - Sarah Lewthwaite (University of Southampton, UK)
+- Audrey Maniez (Access42, FR)
 
 This session aims to explore the present landscape of digital accessibility training. We will discuss current challenges related to course offerings, scope, and regional focus, and explore opportunities for further integration into university curricula. 
 
