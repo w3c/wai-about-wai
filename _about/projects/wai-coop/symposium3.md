@@ -60,22 +60,14 @@ Participation is free, and you must **[register by 7 November 2023](https://www.
 {:#program}
 
 ### Session 1: Digital Accessibility Training and Education
-- Moderator: Jade Matos Carew (The Open University, UK)
-- Sarah Lewthwaite (University of Southampton, UK)
-- Audrey Maniez (Access42, FR)
 
 This session aims to explore the present landscape of digital accessibility training. We will discuss current challenges related to course offerings, scope, and regional focus, and explore opportunities for further integration into university curricula. 
 
 ### Session 2: Mobile Accessibility
-- André Pimenta Freire (Universidade Federal de Lavras, BR)
-- Paul van Workum (Abra, NL)
 
 This session aims to discuss current challenges on evaluating mobile applications. We will explore current standards and guidelines coverage, as well as discuss the role of automatic tools in mobile accessibility evaluations.
 
 ### Session 3: Artificial Intelligence for Accessibility Evaluation
-- Moderator: Matthew Atkinson (Samsung R&D Institute, UK)
-- Yeliz Yesilada (Middle East Technical University, TR)
-- Alain Vagner (SIP, LU)
 
 This session aims to discuss the growing role of Artificial Intelligence in digital accessibility evaluation and monitoring. We will explore opportunities and considerations to ensure responsible and effective use of Artificial Intelligence for assessing digital accessibility.
 
@@ -84,7 +76,7 @@ This session aims to discuss the growing role of Artificial Intelligence in digi
 ## Agenda
 {:#agenda}
 
-The following times are in CET (UTC+1). [Check your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Shape+the+Future+Research+Symposium&iso=20211110T14&p1=195&ah=3).
+The following times are in CET (UTC+1). [Check your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Evaluating+Accessibility%3A+Meeting+Key+Challenges&iso=20231116T14&p1=195&ah=3&am=40).
 
 - **14:00** Start of Meeting
 - **14:00** - 14:15 Welcome Session
