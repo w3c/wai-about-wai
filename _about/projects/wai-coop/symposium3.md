@@ -32,7 +32,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 
 - Symposium date: **16 November 2023**
 
-Participation at the event is free of charge, but [registration]() is compulsory. The registration deadline is 7 November 2023. 
+Participation at the event is free of charge, but registration is compulsory. The registration deadline is 7 November 2023. 
 
 ## Introduction
 {:#introduction}
@@ -53,21 +53,30 @@ After the symposium, the WAI-CooP project will publish a report, consolidating t
 ## Registration
 {:#registration}
 
-Participation is free, and you must **[register by 7 November 2023](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium1/)**.
+Participation is free, and you must register by 7 November 2023.
 
 
 ## Program
 {:#program}
 
 ### Session 1: Digital Accessibility Training and Education
+- Moderator: Jade Matos Carew (The Open University, UK)
+- Sarah Lewthwaite (University of Southampton, UK)
+- Audrey Maniez (Access42, FR)
 
 This session aims to explore the present landscape of digital accessibility training. We will discuss current challenges related to course offerings, scope, and regional focus, and explore opportunities for further integration into university curricula. 
 
 ### Session 2: Mobile Accessibility
+- Moderator: Detlev Fischer (DIAS GmbH, DE)
+- André Pimenta Freire (Universidade Federal de Lavras, BR)
+- Paul van Workum (Abra, NL)
 
 This session aims to discuss current challenges on evaluating mobile applications. We will explore current standards and guidelines coverage, as well as discuss the role of automatic tools in mobile accessibility evaluations.
 
 ### Session 3: Artificial Intelligence for Accessibility Evaluation
+- Moderator: Matthew Atkinson (Samsung R&D Institute, UK)
+- Yeliz Yesilada (Middle East Technical University, TR)
+- Alain Vagner (SIP, LU)
 
 This session aims to discuss the growing role of Artificial Intelligence in digital accessibility evaluation and monitoring. We will explore opportunities and considerations to ensure responsible and effective use of Artificial Intelligence for assessing digital accessibility.
 
