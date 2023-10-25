@@ -69,7 +69,7 @@ This session aims to explore the present landscape of digital accessibility trai
 ### Session 2: Mobile Accessibility
 - Moderator: Detlev Fischer (DIAS GmbH, DE)
 - André Pimenta Freire (Universidade Federal de Lavras, BR)
-- Paul van Workum (Abra, NL)
+- Paul van Workum (Digitoegankelijk / Abra / Appt foundation, NL)
 
 This session aims to discuss current challenges on evaluating mobile applications. We will explore current standards and guidelines coverage, as well as discuss the role of automatic tools in mobile accessibility evaluations.
 
