@@ -32,7 +32,7 @@ The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://w
 
 - Symposium date: **16 November 2023**
 
-Participation at the event is free of charge, but registration is compulsory. The registration deadline is 7 November 2023. 
+Participation at the event is free of charge, but [registration](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium3/) is compulsory. The [registration](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium3/) deadline is 7 November 2023. 
 
 ## Introduction
 {:#introduction}
@@ -47,13 +47,13 @@ After the symposium, the WAI-CooP project will publish a report, consolidating t
 ## Important Dates
 {:#dates}
 
--	**7 November 2023:** Deadline for registration
+-	**7 November 2023:** Deadline for [registration](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium3/)
 -	**16 November 2023:** Online symposium event
 
 ## Registration
 {:#registration}
 
-Participation is free, and you must register by 7 November 2023.
+Participation is free, and you must [register](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium3/) by 7 November 2023.
 
 
 ## Program
