@@ -15,7 +15,7 @@ image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 28 September 2023.</p>
+  <p><strong>Date:</strong> Updated 31 October 2023.</p>
    <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 
 inline_css: |
@@ -74,10 +74,10 @@ inline_css: |
    </figure>
    </li>
    <li>
-   Click on the "+" icon to create a new file.
+   Click on the "+" or "Add file" button to create a new file.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".new-file" %}
    <figure class="new-file screenshot">
-      {% include image.html src="translating/new-file.jpg" alt="Screenshot of the edit view in GitHub, with the file tree expanded. The “+” icon with a “Add file” label on hover is outlined in dark orange." %}
+      {% include image.html src="translating/new-file.jpg" alt="Screenshot of the edit view in GitHub, with the file tree expanded. The “+” or “Add file” button is outlined in dark orange." %}
    </figure>
    </li>
    <li>Name the new file according to instructions on <a href="/wai-about-wai/about/translating/guides/new-translation/#create-file">Creating a New Translation</a> page.

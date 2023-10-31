@@ -19,8 +19,8 @@ footer: |
 
 ## Guides
 
+- [Creating a Translation](/about/translating/guides/new-translation/)
+- [Translating Subtitiles/Descriptions](/about/translating/guides/video-subtitles/)
+- [Reviewing a Translation](/about/translating/guides/review-translation/)
 - [Translation Guidance](/about/translating/guides/translation-guidance/)
 - [Using GitHub](/about/translating/guides/using-github/)
-- [Creating a Translation](/about/translating/guides/new-translation/)
-- [Reviewing a Translation](/about/translating/guides/review-translation/)
-- [Translating Subtitiles/Descriptions](/about/translating/guides/video-subtitles/)
