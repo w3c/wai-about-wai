@@ -47,7 +47,7 @@ After the symposium, the WAI-CooP project will publish a report, consolidating t
 ## Important Dates
 {:#dates}
 
--	**7 November 2023:** Deadline for [registration](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium3/)
+-	**12 November 2023:** Deadline for [registration](https://www.w3.org/2002/09/wbs/1/WAI-CooP_symposium3/)
 -	**16 November 2023:** Online symposium event
 
 ## Registration
