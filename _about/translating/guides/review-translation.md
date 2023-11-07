@@ -1,25 +1,30 @@
 ---
 title: "Reviewing a Translation"
 nav_title: Reviewing a translation
-github:
-  repository: w3c/wai-about-wai
-  path: '_about/translating/guides/review-translation.md'
-permalink: /about/translating/guides/review-translation/
-ref: /about/translating/guides/review-translation/
 lang: en
-last_updated: 2023-09-13
+last_updated: 2023-11-06
+
+# Do not delete the following translators/contributors lines, used to display an example in the page.
 translators:
   - name: Translator 1
   - name: Translator 2
 contributors:
   - name: Contributor 1
   - name: Contributor 2
+
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/translating/guides/review-translation.md'
+
+permalink: /about/translating/guides/review-translation/
+ref: /about/translating/guides/review-translation/
+
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 14 September 2023.</p>
+  <p><strong>Date:</strong> Updated 7 November 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
@@ -42,7 +47,7 @@ footer: |
   <li>
 {:/}
 
-The language codes are correct, per [frontmatter](/about/translating/guides/new-translation/#specific-inline-instructions-for-front-matter).
+The language codes are correct, per [frontmatter](/about/translating/guides/new-translation/#frontmatter).
 
 {::nomarkdown}
   </li>
@@ -139,7 +144,7 @@ For example:
 
 For any videos on the page, the `[CC]` defaults to the translated language.
 
-If not, some [video subtitles steps]({{ "/about/translating/guides/video-subtitles/" | relative_url }}) are probably missing.
+If not, some [video subtitles steps](/about/translating/guides/video-subtitles/) are probably missing.
 
 {::nomarkdown}
   </li>
@@ -154,9 +159,10 @@ A technique for proof-reading is to listen to the translation being read aloud, 
 
 **Specific wording:**
 - Consider different dialects. Where possible, the translation should use words and phrases that will be best understood across different areas.
-- The translator and reviewer(s) might want to work together to consider different options for some wording. If you have any questions about the wording, please e-mail them to [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org).\
-We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
-- When you decide on translation of unclear words and phrases that will likely be in other resources, feel free to add them to the [Glossary for your language]({{ "/about/translating/glossaries/" | relative_url }}).
+- The translator and reviewer(s) might want to work together to consider different options for some wording.\
+If you have any questions about the wording, please report them in the GitHub issue so that WAI team and other volunteers can help.\
+Alternatively, send email to the publicly-archived [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org) mailing-list. We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
+- When you decide on translation of unclear words and phrases that will likely be in other resources, feel free to add them to the [Glossary for your language {% include_cached external.html %}](https://github.com/w3c/translation-glossaries).
 
 ## For people who do _not_ know the translated language
 
