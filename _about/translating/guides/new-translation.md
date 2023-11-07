@@ -7,13 +7,14 @@ github:
 permalink: /about/translating/guides/new-translation/
 ref: /about/translating/guides/new-translation/
 lang: en
+last_updated: 2023-11-06
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 14 September 2023.</p>
+  <p><strong>Date:</strong> Updated 6 November 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
@@ -72,11 +73,13 @@ Your first step into the file is to update this section.
 ---
 title: Evaluation Tools Overview
 lang: en
-permalink: /test-evaluate/tools/
+last_updated: 2020-04-28
+
 github:
   repository: w3c/wai-eval-tools-overview
-last_updated: 2020-04-28
-layout: default
+  path: "content/index.md"
+
+permalink: /test-evaluate/tools/
 ref: /test-evaluate/tools/
 
 footer: >
@@ -89,38 +92,22 @@ footer: >
 {% include box.html type="end" %}
 {:/}
 
-### Specific inline instructions for front matter 
-
-The following resources currently have comments inline for what to translate and change:
-
-- [Video Introduction to Web Accessibility and W3C Standards]({{ "/videos/standards-and-benefits/" | relative_url }})
-- [W3C Accessibility Standards Overview]({{ "/standards-guidelines/" | relative_url }})
-- [Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }})
-- [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }})
-
 ### General instructions for front matter
-
-{::nomarkdown}
-{% include box.html type="start" class="highlighted" %}
-{:/}
-
-These instructions apply to all other resources not listed under [2.1. Specific inline instructions for front matter](#specific-inline-instructions-for-front-matter) above.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 #### 2.1. Update the following front matter values:
 
 `lang`
 - Replace the original value (`en`) with the language shortcode of your translation.  
 
-`permalink`
-- Add the language shortcode at the end of the permalink, with no `/` at the end.
-
 `last_updated`
 - Change `last_updated: 2000-00-00` to the date you finish the translation.  
   Use the format: YYYY-MM-DD (with month in the middle).
+
+`path` (below `github`)
+- Add the language shortcode at the middle of the filename.
+
+`permalink`
+- Add the language shortcode at the end of the permalink, with no `/` at the end.
 
 `footer` (not always present)
 - If this attribute is present, translate its content.
@@ -163,16 +150,19 @@ Show example
 ---
 title: Evaluation Tools Overview
 lang: fr
-permalink: /test-evaluate/tools/fr
-github:
-  repository: w3c/wai-eval-tools-overview
 last_updated: 2023-09-13
+
 translators:
   - name: "Your Name"
 contributors:
-- name: "Other Name"
-- name: "Other Name"
-layout: default
+  - name: "Other Name"
+  - name: "Other Name"
+
+github:
+  repository: w3c/wai-eval-tools-overview
+  path: "content/index.fr.md"
+
+permalink: /test-evaluate/tools/fr
 ref: /test-evaluate/tools/
 
 footer: >
@@ -182,16 +172,16 @@ footer: >
 ---
 ```
 
-
 {% include excol.html type="end" %}
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-### Do not change remaining front matter
+### Follow additional inline instructions
 
-Front matter without inline instructions, or instructions from [General instructions for front matter](#general-instructions-for-front-matter) should not be updated nor translated.
+Many resources have inline instructions in the front matter (after the "`#`" character). 
 
+Please follow these instructions. It will help you know what to translate/update and what to not change.
 
 ## Step 3: Translate main content
 
