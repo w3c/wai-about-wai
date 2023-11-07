@@ -7,12 +7,13 @@ github:
 permalink: /about/translating/sitemaps/
 ref: /about/translating/sitemaps/
 lang: en
+last_updated: 2023-11-06
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 5 October 2023.</p>
+  <p><strong>Date:</strong> Updated 6 November 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
@@ -20,17 +21,7 @@ Translation sitemaps display the structure of WAI website, and indicate for each
 - If a translation has been published for this language + its current status ({% include_cached icon.html name="check-circle" %} Up-to-date / {% include_cached icon.html name="warning" %} Needs update).
 - If a page has no translation available in this language, and therefore welcomes a volunteer translation.
 
-{::nomarkdown}
-{% include box.html type="start" title="Note" class="simple" %}
-{:/}
-
-We will add more sitemaps in October 2023.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-## List of current translations sitemaps
+## Current Translations Sitemaps
   - [Arabic (ar)](/about/translating/sitemaps/sitemap-ar/)
   - [Spanish (es)](/about/translating/sitemaps/sitemap-es/)
   - [French (fr)](/about/translating/sitemaps/sitemap-fr/)

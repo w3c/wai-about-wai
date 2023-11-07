@@ -7,13 +7,13 @@ github:
 permalink: /about/translating/guides/
 ref: /about/translating/guides/
 lang: en
-last_updated: 2023-09-13
+last_updated: 2023-11-06
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 14 September 2023.</p>
+  <p><strong>Date:</strong> Updated 6 November 2023.</p>
   <p><strong>Editor:</strong> Rémi Bétin.</p>
 ---
 

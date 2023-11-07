@@ -1,19 +1,19 @@
 ---
-title: "Translation guidance"
-nav_title: Translation guidance
+title: "Translation Guidance"
+nav_title: Translation Guidance
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating/guides/translation-guidance.md'
 permalink: /about/translating/guides/translation-guidance/
 ref: /about/translating/guides/translation-guidance/
 lang: en
-last_updated: 2023-09-28
+last_updated: 2023-11-07
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 28 September 2023.</p>
+  <p><strong>Date:</strong> Updated 7 November 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
@@ -56,8 +56,6 @@ Translate titles in the markdown, such as "Summary" in:
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
-
 
 {::nomarkdown}
 </li>
@@ -116,7 +114,6 @@ Make sure to:
 - Translate the text in the links, including document titles.
 - Do not manually add `(in English)`, even for external links.
 
-
 ## Text Editor
 
 The markdown files are very sensitive to indentation, commas, quotes, and special characters. 
@@ -125,8 +122,8 @@ We recommend that you use a markdown editor or a simple text editor (including G
 
 ## Glossaries
 
-- Read the [General Translation Glossary](/about/translating/glossaries/general/).
-- See if there is a [glossary for your language](/about/translating/glossaries/).
+- Read the [General Translation Glossary {% include_cached external.html %}](https://github.com/w3c/translation-glossaries/blob/main/general.md).
+- See if there is a [glossary for your language {% include_cached external.html %}](https://github.com/w3c/translation-glossaries#readme).
 
 ## Resource-Specific Information
 
@@ -137,7 +134,7 @@ Some resources have specific Translations notes.
 <li>
 {:/}
 
-At the top of the resource file (in the ["front matter" metadata](/about/translating/guides/new-translation#frontmatter)), see if there is a comment like this one:
+At the top of the resource file (in the ["front matter" metadata](/about/translating/guides/new-translation/#frontmatter)), see if there is a comment like this one:
 
 {::nomarkdown}
 {% include box.html type="start" %}
@@ -156,7 +153,7 @@ In that case, follow the link and read the specific guidance.
 <li>
 {:/}
 
-If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
+If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance {% include_cached external.html %}](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
 
 {::nomarkdown}
 </li>
@@ -165,8 +162,6 @@ If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/r
 
 ## We are here to help
 
-If you have any questions about the translation, please report them in the related GitHub issue so that WAI team and other volunteers can help. Alternatively, send an e-mail to [group-wai-translations@w3.org](mailto:group-wai-translations@w3.org)[^1].
+If you have any questions about the translation, please report them in the related GitHub issue so that WAI team and other volunteers can help. Alternatively, send an e-mail to the publicly-archived [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org) mailing-list.
 
 We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
-
-[^1]: Emails sent to `group-wai-translations@w3.org` are not publicly visible.

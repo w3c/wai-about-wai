@@ -7,8 +7,7 @@ github:
 permalink: /about/translating/guides/using-github/
 ref: /about/translating/guides/using-github/
 lang: en
-doc-note-type: draft
-doc-note-message-md: This page is a draft. **It welcomes feedbacks.**
+last_updated: 2023-11-06
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
