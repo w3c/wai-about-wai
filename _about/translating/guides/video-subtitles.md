@@ -7,13 +7,14 @@ github:
 permalink: /about/translating/guides/video-subtitles/
 ref: /about/translating/guides/video-subtitles/
 lang: en
+last_updated: 2023-11-07
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 13 September 2023.</p>
+  <p><strong>Date:</strong> Updated 7 November 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
 ---
 
