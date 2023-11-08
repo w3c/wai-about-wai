@@ -7,7 +7,7 @@ github:
 permalink: /about/translating/guides/using-github/
 ref: /about/translating/guides/using-github/
 lang: en
-last_updated: 2023-11-07
+last_updated: 2023-11-08
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
@@ -79,7 +79,7 @@ inline_css: |
       {% include image.html src="translating/new-file.jpg" alt="Screenshot of the edit view in GitHub, with the file tree expanded. The “+” or “Add file” button is outlined in dark orange." %}
    </figure>
    </li>
-   <li>Name the new file according to instructions on <a href="/about/translating/guides/new-translation/#create-file">Creating a New Translation</a> page.
+   <li>Name the new file according to instructions on <a href="/WAI/about/translating/guides/new-translation/#create-file">Creating a New Translation</a> page.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".name-new-file" %}
    <figure class="name-new-file screenshot">
       {% include image.html src="translating/name-new-file.jpg" alt="Screenshot of the edit view in GitHub. The “File name” field, at the end of the secondary breadcrumb, is outlined in dark orange." %}
@@ -95,7 +95,7 @@ inline_css: |
 
 <ol start="8">
    <li>
-   Edit the content to translate the file, following guidance from <a href="/about/translating/guides/new-translation/">Creating a New Translation</a> page.
+   Edit the content to translate the file, following guidance from <a href="/WAI/about/translating/guides/new-translation/">Creating a New Translation</a> page.
    </li>
    <li>
    When you are happy with your work, click on "Commit changes..." to save the changes.
