@@ -7,15 +7,16 @@ github:
 permalink: /about/translating/guides/using-github/
 ref: /about/translating/guides/using-github/
 lang: en
-last_updated: 2023-11-07
+last_updated: 2023-11-09
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 7 November 2023.</p>
-   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
+  <p><strong>Date:</strong> Updated 9 November 2023.</p>
+  <p><strong>Editors:</strong> Rémi Bétin and <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 
 inline_css: |
    figure.screenshot {
