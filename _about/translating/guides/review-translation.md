@@ -2,7 +2,7 @@
 title: "Reviewing a Translation"
 nav_title: Reviewing a translation
 lang: en
-last_updated: 2023-11-06
+last_updated: 2023-11-09
 
 # Do not delete the following translators/contributors lines, used to display an example in the page.
 translators:
@@ -24,8 +24,9 @@ image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 7 November 2023.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
+  <p><strong>Date:</strong> Updated 9 November 2023.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
+  <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
 {::options toc_levels="2,3" /}
