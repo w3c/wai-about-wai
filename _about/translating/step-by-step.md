@@ -1,12 +1,12 @@
 ---
-title: "Getting Started with Translating WAI Resources"
-nav_title: Getting Started
+title: "Step-by-Step Guide to Translating WAI Resources"
+nav_title: Step-by-Step
 github:
   repository: w3c/wai-about-wai
-  path: '_about/getting-started-translating.md'
-permalink: /about/translating/getting-started/
-last_updated: 2023-11-06
-ref: /about/translating/getting-started/
+  path: '_about/translating/step-by-step.md'
+permalink: /about/translating/step-by-step/
+last_updated: 2023-11-09
+ref: /about/translating/step-by-step/
 lang: en
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
@@ -14,8 +14,9 @@ image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 6 November 2023.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Rémi Bétin.</p>
+  <p><strong>Date:</strong> Updated 9 November 2023.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
+  <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
 {::nomarkdown}
@@ -43,6 +44,12 @@ To get announcements related to WAI translations, subscribe to the WAI Translati
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
+
+Thank you for taking the time to contribute to WAI accessibility resources translations! 
+
+This resource will guide you through the important steps to creating and reviewing translations. 
+
+Before starting your work, please take the time to read the information in [[Translating WAI Resources]](/about/translating/), and verify that you are willing to contribute under these policies.
 
 ## GitHub
 
@@ -165,8 +172,8 @@ We have enabled a preview with Netlify so you can check your file and make edits
   - When done, it will say **"✅ Deploy Preview for _wai-repo-name_ ready!"** and a "Deploy Preview" link will appear.
 
 3. Click on the preview link:
-  - Check everything listed in [Reviewer Guidance]({{ "/about/translating/guides/review-translation/" | relative_url }}#initial-things-to-check)
-  - Eventually, commit some fixes.
+  - Check everything listed in [Reviewer Guidance](/about/translating/guides/review-translation/#initial-things-to-check);
+  - Eventually, commit some fixes;
   - At this point, if you encounter some technical problems, ask for help from WAI team.
 
 4. When your auto-review is done, go to the next step.
@@ -201,8 +208,7 @@ If you have any questions about the wording, please report them in the GitHub is
 When the review is done, WAI team will:
 - do some final checks;
 - merge the Pull Request;
-- publish the translation on WAI website;
-- announce the publication in the publicly-archived [public-wai-translations@w3.org](mailto:ublic-wai-translations@w3.org) mailing list.
+- publish the translation on WAI website.
 
 Please note these steps may take some time depending on other ongoing priorities.
 
@@ -296,7 +302,7 @@ First and foremost, send an email to [group-wai-translations@w3.org](group-wai-t
 
 {% include excol.html type="middle" %}
 
-Follow [Reviewing translations]({{ "/about/translating/guides/review-translation/" | relative_url }}) step-by-step guide.
+Follow [Reviewing translations](/about/translating/guides/review-translation/) step-by-step guide.
 
 {% include excol.html type="end" %}
 
