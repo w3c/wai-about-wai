@@ -120,7 +120,7 @@ To get news via e-mail, Twitter, or Atom/RSS feed when these and other accessibi
 
 This page _only lists about half_ of the active work on accessibility at W3C. Much of the work happens in the accessibility groups that are introduced in the [W3C Working Groups page](https://www.w3.org/groups/wg/#wg-list).
 
-To learn more about what that the Working Groups are working on right now, see:
+To learn more about what the Working Groups are working on right now, see:
 
 * [EOWG Current Work](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) - lists over 20 current and upcoming projects of the Accessibility Education and Outreach (EO) Working Group
 * [APA Current Work](https://www.w3.org/WAI/APA/#work) - Accessible Platform Architectures (APA) Working Group
