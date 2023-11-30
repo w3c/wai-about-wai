@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, November 2023</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, December 2023</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 30 October 2023. First published March 2022.</p>
+   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 30 November 2023. First published March 2022.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -157,16 +157,17 @@ _If you heard about W3C WAI strategic plannning, you can get more info from:_
 * [Presentation to W3C Members September 2023](https://www.w3.org/2023/09/TPAC/ac-activities-wai.html)  - video, slides with links, transcript
 
 ### Who is We
+<img src="https://www.w3.org/cms-uploads/imported-assets/blog/wai-team-collage-2023-11.png" alt="Collage of WAI Team photos. Shawn Henry, Kevin White, Roy Ran, Daniel Montalvo, Kosi Asebere">
 
 "We" is:
 
 * [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/))
-* W3C WAI Staff _([July 2023 Update e-mail](https://lists.w3.org/Archives/Public/public-wai-cc/2023Jul/0014.html))_:
-  * [Shawn Lawton Henry](https://www.w3.org/staff/#shawn), Web Accessibility Initiative (WAI) Program Lead, leads accessibility communication, education, and WAI’s collaborative strategic planning.
-  * [Kevin White](https://www.w3.org/staff/#kevin), Accessibility Technical Lead, leads technical accessibility work, including oversight of accessibility Working Groups.
-  * [Roy Ruoxi Ran](https://www.w3.org/staff/#ran), Accessibility Engineer, supports accessibility Working Groups and accessibility in China.
-  * [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo), Accessibility Specialist, supports accessibility Working Groups and standards harmonization in Europe.
-  * We plan to fill a new accessibility specialist position in 2023.
+* W3C WAI Staff:
+  * [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) is Web Accessibility Initiative (WAI) Program Lead; Accessibility Education and Communications Lead.
+  * [Kevin White](https://www.w3.org/staff/#kevin) is Accessibility Technical Lead and supports the Accessibility Guidelines Working Group that develops Web Content Accessibility Guidelines (WCAG).
+  * [Roy Ruoxi Ran (冉若曦)](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
+  * [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
+  * [Akosua “Kosi” Asabere](https://www.w3.org/staff/#kosi) recently joined the W3C Team and brings first-hand experience with mobile accessibility in Africa. 
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other [W3C groups](https://www.w3.org/groups/)
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
