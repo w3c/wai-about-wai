@@ -167,7 +167,7 @@ _If you heard about W3C WAI strategic plannning, you can get more info from:_
 "We" is:
 
 * [W3C](https://www.w3.org/Consortium/) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/about/))
-* W3C WAI Staff:
+* W3C WAI Team:
   * [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) is Web Accessibility Initiative (WAI) Program Lead; Accessibility Education and Communications Lead.
   * [Kevin White](https://www.w3.org/staff/#kevin) is Accessibility Technical Lead and supports the Accessibility Guidelines Working Group that develops Web Content Accessibility Guidelines (WCAG).
   * [Roy Ruoxi Ran (冉若曦)](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
@@ -175,7 +175,8 @@ _If you heard about W3C WAI strategic plannning, you can get more info from:_
   * [Akosua “Kosi” Asabere](https://www.w3.org/staff/#kosi) joined the W3C Team in November 2023 and brings first-hand experience with mobile accessibility in Africa. 
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other [W3C groups](https://www.w3.org/groups/)
 
-<img src="https://www.w3.org/cms-uploads/imported-assets/blog/wai-team-collage-2023-11.png" alt="Collage of WAI Team photos. Shawn Henry, Kevin White, Roy Ran, Daniel Montalvo, Kosi Asebere">
+_W3C WAI Team photos:_
+<img src="https://www.w3.org/cms-uploads/imported-assets/blog/wai-team-collage-2023-11.png" alt="Collage of WAI Team photos. Shawn Henry, Kevin White, Roy Ran, Daniel Montalvo, Kosi Asabere">
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
