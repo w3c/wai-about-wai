@@ -164,7 +164,7 @@ _If you heard about W3C WAI strategic plannning, you can get more info from:_
 
 ### Who is We
 
-{% include image.html src="https://www.w3.org/cms-uploads/imported-assets/blog/wai-team-collage-2023-11.png" alt="Collage of WAI Team photos. Shawn Henry, Kevin White, Roy Ran, Daniel Montalvo, Kosi Asebere" class="small" %}
+<img src="https://www.w3.org/cms-uploads/imported-assets/blog/wai-team-collage-2023-11.png" alt="Collage of WAI Team photos. Shawn Henry, Kevin White, Roy Ran, Daniel Montalvo, Kosi Asebere">
 
 "We" is:
 
