@@ -91,9 +91,12 @@ Current work is introduced in [What We're Working On - Accessibility Activities 
 
 ## WAI Staff
 
-* [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) leads accessibility communication, education, and WAI’s collaborative strategic planning.
-* [Kevin White](https://www.w3.org/staff/#kevin) leads technical accessibility work, including oversight of accessibility Working Groups.
-* [Roy Ruoxi Ran](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
-* [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
+To reach all WAI staff, you can e-mail <wai@w3.org>
 
-If you don't know who to contact, or to reach all WAI staff, you can e-mail <wai@w3.org>
+* [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) is Web Accessibility Initiative (WAI) Program Lead; Accessibility Education and Communications Lead.
+* [Kevin White](https://www.w3.org/staff/#kevin) is Accessibility Technical Lead and supports the Accessibility Guidelines Working Group that develops Web Content Accessibility Guidelines (WCAG).
+* [Roy Ruoxi Ran (冉若曦)](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
+* [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
+* [Akosua “Kosi” Asabere](https://www.w3.org/staff/#kosi) joined the W3C Team in November 2023 and brings first-hand experience with mobile accessibility in Africa. 
+
+<img src="https://www.w3.org/cms-uploads/imported-assets/blog/wai-team-collage-2023-11.png" alt="Collage of WAI Team photos. Shawn Henry, Kevin White, Roy Ran, Daniel Montalvo, Kosi Asabere">
