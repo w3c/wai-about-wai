@@ -7,14 +7,14 @@ github:
 permalink: /about/translating/guides/video-subtitles/
 ref: /about/translating/guides/video-subtitles/
 lang: en
-last_updated: 2023-11-09
+last_updated: 2023-12-06
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 9 November 2023.</p>
+  <p><strong>Date:</strong> Updated 6 December 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -31,24 +31,178 @@ footer: |
 {% include toc.html type="end" %}
 {:/}
 
-## Step 1: Create the subtitles file
+## Step 1: Find the related video identifier {#find-video-id}
 
-Captions, subtitles and descriptions of WAI videos are stored in WebVTT (`.vtt`) files.
+If you want to create new subtitles/translated descriptions for a video, you have probably seen the video in a W3C WAI resource.
 
-To create the subtitles file, duplicate the English captions file, with language shortcode added to the middle of the filename, as follows:
+You now need to find the video identifier. 
+
+Look for the embedded video player **in the code of the English version of the page**. It looks similar to this:
 
 {::nomarkdown}
-{% include box.html type="start" title="Example for a translation into Arabic" %}
+{% include box.html type="start" title='Video player example' %}
 {:/}
 
-- Original English file: `VTT_FILE_NAME.vtt`
-- New Arabic file: `VTT_FILE_NAME.ar.vtt`
+```liquid
+{% raw %}{% include video-player-data.html
+   yt-id="20SHvU2PKsM"
+   video-id="keyboard"
+%}{% endraw %}
+```
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-## Step 2: Translate the file
+**The value of `video-id` is the video identifier you need.**
+
+
+## Step 2: Edit video-metadata.yml {#video-metadata}
+
+WAI videos captions, subtitles and descriptions metadata are stored in "video-metadata.yml" in ["wai-website-data" repository {% include_cached external.html %}](https://github.com/w3c/wai-website-data/)
+
+{::nomarkdown}
+{% include box.html type="start" title="Video-metadata.yml example" %}
+{:/}
+{% include excol.html type="start" id="optional-id" %}
+
+Show example
+
+{% include excol.html type="middle" %}
+
+```yaml
+- id: keyboard
+  name:
+    en: "Web Accessibility Perspectives: Keyboard Compatibility"
+    fr: "L'accessibilité Web illustrée : Compatibilité avec le clavier"
+  main-page: /perspective-videos/keyboard/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+    - zh-hans
+  subtitles-ad:
+    - fr
+    - zh-hans
+  descriptions-ad:
+    - en
+    - fr
+    - zh-hans
+```
+{% include excol.html type="end" %}
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+<ol>
+  <li>
+{:/}
+Navigate to the [wai-website-data repository {% include_cached external.html %}](https://github.com/w3c/wai-website-data/).
+{::nomarkdown}
+    </li>
+    <li>
+{:/}
+  In "video-metadata.yml", look for the `id` that matches the `video-id` found in previous step.
+{::nomarkdown}
+    </li>
+    <li>
+{:/}
+Update the following video attributes
+  
+- `name`: name of the video.\
+Add your translated version to the list.
+  
+- `subtitles`: available subtitles languages.\
+Add your language subtag to the list.
+  
+- `subtitles-ad`: available subtitles languages for the audio-described version of the video.\
+Add your language subtag to the list.
+  
+- `descriptions-ad`: available descriptions languages for the audio-described version of the video.\
+Add your language subtag to the list.
+
+{::nomarkdown}
+  </li>
+  <li>
+{:/}
+
+Do not change the following attributes
+  
+- `main-page`
+- `path`
+- `lang-folder`
+- `captions`
+- `captions-ad`
+
+{::nomarkdown}
+  </li>
+</ol>
+{:/}
+
+## Step 3: Create the subtitles/descriptions file(s) {#create-vtt}
+
+Captions, subtitles and descriptions are stored in WebVTT (`.vtt`) files. VTT files are located in "wai-videos" folder, in ["wai-website-data" repository {% include_cached external.html %}](https://github.com/w3c/wai-website-data/).
+
+{::nomarkdown}
+<ol>
+  <li>
+{:/}
+To find the path to the VTT files to translate, look at `path` and `lang-folder` attributes in ["video-metadata.yml"](#video-metadata).
+
+- `path`: path to VTT files, from "wai-videos" folder.
+- `lang-folder` (not always present): when set to `true`, means VTT files for a language are located in a subfolder named after the language shortcode.
+
+{::nomarkdown}
+{% include box.html type="start" title="Example" %}
+{:/}
+In this example, English VTT files are located into "/wai-folders/perspective-videos/en/"
+
+```yaml
+- id: keyboard
+  (...)
+  path: perspective-videos
+  lang-folder: true
+```
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+</li>
+<li>
+{:/}
+Duplicate the English VTT file, with language shortcode added to the middle of the filename.
+
+{::nomarkdown}
+{% include box.html type="start" title="Example for a translation into Arabic" %}
+{:/}
+
+- Original English files:
+  - Captions: `keyboard.en.vtt`
+  - Captions (audio-described version): `keyboard_ad.en.vtt`
+  - Description (audio-described version): `keyboard_ad_desc.en.vtt`
+
+- New files translated into Arabic:
+  - Subtitles: `keyboard.ar.vtt`
+  - Subtitles (audio-described version): `keyboard_ad.ar.vtt`
+  - Description (audio-described version): `keyboard_ad_desc.ar.vtt`
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+If files are stored into lang subfolders, create a subfolder for your language.
+{::nomarkdown}
+  </li>
+</ol>
+{:/}
+
+## Step 3: Translate the VTT file(s) {#translate-vtt}
 
 1. Translate all text segments
 2. Keep the first line (`WEBVTT`)
@@ -80,76 +234,6 @@ new accessibility barriers.
 {% include box.html type="end" %}
 {:/}
 
-## Step 3: Add the new subtitles to the video player
+## Step 4: Commit your changes {#commit-changes}
 
-In the English version of the page, the embedded video player looks similar to this:
-
-{::nomarkdown}
-{% include box.html type="start" title='Video player example' %}
-{:/}
-
-```liquid
-{% raw %}{% include video-player.html
-   yt-id="20SHvU2PKsM"
-   path="/path/to/vtt/files/"
-   captions="VTT_FILE_NAME.vtt|en|default"
-   subtitles="VTT_FILE_NAME.es.vtt|es"
-%}{% endraw %}
-```
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-### Actions needed in the translated page
-
-1. Delete `|default` from: `captions="VTT_FILE_NAME.vtt|en|default"` <br />so it's:
-   `captions="VTT_FILE_NAME.vtt|en"`
-
-2. Add your subtitles file name in `subtitles` parameter, along with the translated language shortcode.\
-Add `|default`, so that subtitle will be the default selected one when opening the translated page.
-
-If no subtitles have been added yet, you may have to create the `subtitles` parameter.
-
-{::nomarkdown}
-{% include box.html type="start" title='Example (snippet): Arabic translation added' %}
-{:/}
-
-```liquid
-   captions="VTT_FILE_NAME.vtt|en"
-   subtitles="VTT_FILE_NAME.es.vtt|es,VTT_FILE_NAME.ar.vtt|ar|default"
-```
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-#### More information
-
-The video player may contain additional parameters:
-
-- `subtitles-ad` \
-  Audio described version of the subtitles.
-
-- `descriptions-ad` \
-  Text of the audio description.
-
-In that case, apply the same logic as described above:
-- Delete `|default` when specified next to the English version.
-- Add your translated file in the parameter, along with the translated language shortcode and `|default`.
-
-{::nomarkdown}
-{% include box.html type="start" title='Example (snippet): Arabic translation added' %}
-{:/}
-
-```liquid
-   captions="VTT_FILE_NAME.vtt|en"
-   subtitles="VTT_FILE_NAME.ar.vtt|ar|default"
-   subtitles-ad="VTT_FILE_NAME_ad.en.vtt|en,VTT_FILE_NAME_ad.ar.vtt|ar|default"
-   descriptions-ad="VTT_FILE_NAME_ad_desc.en|en,TT_FILE_NAME_ad_desc.ar.vtt|ar|default"
-```
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+Include the updated "video-metadata.yml" and the new translated VTT files.
