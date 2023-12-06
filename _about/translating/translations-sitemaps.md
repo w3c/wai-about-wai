@@ -22,20 +22,14 @@ Translation sitemaps display the structure of WAI website, and indicate for each
 - If a translation has been published for this language + its current status ({% include_cached icon.html name="check-circle" %} Up-to-date / {% include_cached icon.html name="warning" %} Needs update).
 - If a page has no translation available in this language, and therefore welcomes a volunteer translation.
 
-{::nomarkdown}
-{% include box.html type="start" title="Note" class="simple" %}
-{:/}
-
-We will add more sitemaps in November 2023.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 ## Current Translations Sitemaps
   - [Arabic (ar)](/about/translating/sitemaps/sitemap-ar/)
+  - [Czech (cs)](/about/translating/sitemaps/sitemap-cs/)
+  - [Deutsch (de)](/about/translating/sitemaps/sitemap-de/)
+  - [Greek (el)](/about/translating/sitemaps/sitemap-el/)
   - [Spanish (es)](/about/translating/sitemaps/sitemap-es/)
   - [French (fr)](/about/translating/sitemaps/sitemap-fr/)
+  - [Indonesian (id)](/about/translating/sitemaps/sitemap-id/)
   - [Russian (ru)](/about/translating/sitemaps/sitemap-ru/)
   - [Simplified Chinese (zh-hans)](/about/translating/sitemaps/sitemap-zh-hans/)
 
