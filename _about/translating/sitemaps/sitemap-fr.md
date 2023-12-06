@@ -1,15 +1,17 @@
 ---
 title: "French Translations Progress"
 nav_title: French Translations Progress
+lang: en
+last_updated: 2023-12-06
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+
 github:
   repository: w3c/wai-about-wai
   path: '_about/sitemaps/sitemap-fr.md'
+
 permalink: /about/translating/sitemaps/sitemap-fr/
 ref: /about/translating/sitemaps/sitemap-fr/
-lang: en
-last_updated: 2023-11-06
 
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org

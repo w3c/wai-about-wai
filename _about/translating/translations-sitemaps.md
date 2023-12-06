@@ -23,12 +23,17 @@ Translation sitemaps display the structure of WAI website, and indicate for each
 - If a page has no translation available in this language, and therefore welcomes a volunteer translation.
 
 ## Current Translations Sitemaps
-  - [Arabic (ar)](/about/translating/sitemaps/sitemap-ar/)
-  - [Chinese (Simplified) (zh-hans)](/about/translating/sitemaps/sitemap-zh-hans/)
-  - [Czech (cs)](/about/translating/sitemaps/sitemap-cs/)
-  - [French (fr)](/about/translating/sitemaps/sitemap-fr/)
-  - [German (de)](/about/translating/sitemaps/sitemap-de/)
-  - [Greek (el)](/about/translating/sitemaps/sitemap-el/)
-  - [Indonesian (id)](/about/translating/sitemaps/sitemap-id/)
-  - [Russian (ru)](/about/translating/sitemaps/sitemap-ru/)
-  - [Spanish (es)](/about/translating/sitemaps/sitemap-es/)
+
+_Languages are listed alphabetically by language code. For example, “Chinese” is sorted by “zh”, thus it is near the bottom of this page._
+
+{% assign sitemaps=site.about | where_exp:"item", "item.ref contains '/about/translating/sitemaps/sitemap-'" %}
+
+{::nomarkdown}
+<ul>
+  {% for sitemap in sitemaps %}
+    {% assign langname=site.data.lang[sitemap.tlang].name %}
+    {% assign langnativename=site.data.lang[sitemap.tlang].nativeName %}
+    <li><a href="{{ sitemap.permalink | relative_url }}">{{ langnativename }} ({{ langname }})</a></li>
+  {% endfor %}
+</ul>
+{:/}

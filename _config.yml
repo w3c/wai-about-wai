@@ -41,7 +41,7 @@ collections:
     name: "About WAI"
     shortname: "About WAI"
     # icon: "book" # TODO
-    repostitory: w3c/wai-about-wai
+    repository: w3c/wai-about-wai
     output: true
     acknowledgements: false
     permalink: /:collection/:path/

@@ -1,20 +1,23 @@
 ---
 title: "Greek Translations Progress"
 nav_title: Greek Translations Progress
+lang: en
+last_updated: 2023-12-06
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+
 github:
   repository: w3c/wai-about-wai
   path: '_about/sitemaps/sitemap-el.md'
+
 permalink: /about/translating/sitemaps/sitemap-el/
 ref: /about/translating/sitemaps/sitemap-el/
-lang: en
-last_updated: 2023-12-06
 
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
+
 
 #Custom frontmatter for this page
 tlang: el

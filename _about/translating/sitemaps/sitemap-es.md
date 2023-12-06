@@ -1,15 +1,17 @@
 ---
 title: "Spanish Translations Progress"
 nav_title: Spanish Translations Progress
+lang: en
+last_updated: 2023-12-06
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+
 github:
   repository: w3c/wai-about-wai
   path: '_about/sitemaps/sitemap-es.md'
+
 permalink: /about/translating/sitemaps/sitemap-es/
 ref: /about/translating/sitemaps/sitemap-es/
-lang: en
-last_updated: 2023-11-06
 
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org

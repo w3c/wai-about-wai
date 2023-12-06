@@ -1,15 +1,17 @@
 ---
 title: "Russian Translations Progress"
 nav_title: Russian Translations Progress
+lang: en
+last_updated: 2023-12-06
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+
 github:
   repository: w3c/wai-about-wai
   path: '_about/sitemaps/sitemap-ru.md'
+
 permalink: /about/translating/sitemaps/sitemap-ru/
 ref: /about/translating/sitemaps/sitemap-ru/
-lang: en
-last_updated: 2023-11-06
 
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
