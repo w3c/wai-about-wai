@@ -24,12 +24,11 @@ Translation sitemaps display the structure of WAI website, and indicate for each
 
 ## Current Translations Sitemaps
   - [Arabic (ar)](/about/translating/sitemaps/sitemap-ar/)
+  - [Chinese (Simplified) (zh-hans)](/about/translating/sitemaps/sitemap-zh-hans/)
   - [Czech (cs)](/about/translating/sitemaps/sitemap-cs/)
-  - [Deutsch (de)](/about/translating/sitemaps/sitemap-de/)
-  - [Greek (el)](/about/translating/sitemaps/sitemap-el/)
-  - [Spanish (es)](/about/translating/sitemaps/sitemap-es/)
   - [French (fr)](/about/translating/sitemaps/sitemap-fr/)
+  - [German (de)](/about/translating/sitemaps/sitemap-de/)
+  - [Greek (el)](/about/translating/sitemaps/sitemap-el/)
   - [Indonesian (id)](/about/translating/sitemaps/sitemap-id/)
   - [Russian (ru)](/about/translating/sitemaps/sitemap-ru/)
-  - [Simplified Chinese (zh-hans)](/about/translating/sitemaps/sitemap-zh-hans/)
-
+  - [Spanish (es)](/about/translating/sitemaps/sitemap-es/)

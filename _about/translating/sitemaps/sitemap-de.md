@@ -1,6 +1,6 @@
 ---
-title: "Deutsch Translations Progress"
-nav_title: Deutsch Translations Progress
+title: "German Translations Progress"
+nav_title: German Translations Progress
 github:
   repository: w3c/wai-about-wai
   path: '_about/sitemaps/sitemap-de.md'
