@@ -9,7 +9,7 @@ github:
   repository: w3c/wai-about-wai
   path: '_about/projects/wai-coop/symposium3.md'
 footer: >
-# <p><strong>Alternate videos and transcripts</strong>: For those who cannot access YouTube, the videos are also available from the <a href="https://media.w3.org/wai/wai-coop-project/">W3C media server as mp4 files</a>. The transcripts are available in <a href="https://www.w3.org/WAI/about/projects/wai-coop/symposium3/symposium3_transcript.html">transcripts</a>.</p>
+# ... Alternate videos and transcripts... href="https://www.w3.org/WAI/about/projects/wai-coop/symposium3/symposium3_transcript.html
    <p><strong>Date:</strong> Updated 12 December 2023.</p>
    <p><strong>Editors:</strong> Letícia Seixas Pereira and Carlos Duarte. Contributors: <a href="https://www.w3.org/People/kevin/">Kevin White</a>, and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
    Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
