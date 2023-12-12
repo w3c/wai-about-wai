@@ -12,7 +12,7 @@ footer: >
 # ... Alternate videos and transcripts... href="https://www.w3.org/WAI/about/projects/wai-coop/symposium3/symposium3_transcript.html
    <p><strong>Date:</strong> Updated 12 December 2023.</p>
    <p><strong>Editors:</strong> Letícia Seixas Pereira and Carlos Duarte. Contributors: <a href="https://www.w3.org/People/kevin/">Kevin White</a>, and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-   Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
+   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
