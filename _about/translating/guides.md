@@ -25,3 +25,4 @@ footer: |
 - [Reviewing a Translation](/about/translating/guides/review-translation/)
 - [Translation Guidance](/about/translating/guides/translation-guidance/)
 - [Using GitHub](/about/translating/guides/using-github/)
+- [Translating WCAG](/about/translating/guides/wcag/)
