@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, January 2024</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, February 2024</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 22 December 2023. First published March 2022.</p>
+   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 1 February 2024. First published March 2022.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
    <p>Developed with the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -110,7 +110,6 @@ We plan to publish the following documents in Q1 2024, which is January, Februar
 
 * More [WAI Translations](/translations/)
 * [Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT) Draft](https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/) updates
-* [ARIA](/standards-guidelines/aria/) 1.3 as a First Public Working Draft
 * [Core Accessibility API Mappings 1.2](https://www.w3.org/TR/core-aam-1.2/) as an updated CR
 * and some updated educational resources
 
@@ -207,6 +206,8 @@ _W3C WAI Team photos:_
 
 {% include_cached excol.html type="middle" %}
 
+* 1 February 2024
+  * Removed ARIA 1.3 from [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) since we published it in January
 * 22 December 2023
   * Just updated the dates in [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications)
 * 30 November 2023
