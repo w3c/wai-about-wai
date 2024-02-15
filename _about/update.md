@@ -95,12 +95,11 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **Collaboration Tools Accessibility User Requirements ("CTAUR")** is a Working Draft. It describes user needs in tools that provide support for one or more specific collaborative features. These features include real-time editing of content by multiple authors, the use of comments or annotations, and revision control. [CTAUR Editor's Draft](https://w3c.github.io/ctaur/)  _[APA WG, Research TF]_
 
-* **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and publishing new videos to go along with it. Previous version: [[How People with Disabilities Use the Web]](/people-use-web/)
+* **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and publishing new videos to go along with it. [[How People with Disabilities Use the Web - previous version]](/people-use-web/), [in-progress update of How People with Disabilities Use the Web]https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/)
 
 ### Testing Accessibility, Evaluation Tools
 
-* **[Easy Checks – A First Review of Web Accessibility](/test-evaluate/preliminary/)** helps you start to assess the accessibility of a web page. We are polishing up a new iteration of this popular resource. [Draft Easy Checks new version](/easy-checks/) 
-
+* **Easy Checks – A First Review of Web Accessibility** helps you start to assess the accessibility of a web page. We are polishing up a new iteration of this popular resource. [Easy Checks - previous version](/test-evaluate/preliminary/), [draft new version of Easy Checks](/easy-checks/)
 * **ACT Rules** (Accessibility Conformance Testing (ACT), also known as "WCAG 2 Test Rules") describe ways to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
 * ACT Rules implementation reports list how test tools or methodologies address test examples in ACT Rules. We invite evaluation tool developers to [submit implementation reports](https://act-rules.github.io/pages/implementations/reporting/). _[AG WG, ACT TF]_
 
@@ -204,8 +203,8 @@ _W3C WAI Team photos:_
 {% include_cached excol.html type="middle" %}
 
 * 14 February 2024
-  * Added [translations information](https://www.w3.org/WAI/update/#translating-resources).
-  * Added Easy Checks under the [Testing Accessibility section](https://www.w3.org/WAI/update/#testing-accessibility-evaluation-tools)
+  * Added [Translating Resources section](https://www.w3.org/WAI/update/#translating-resources) and more about translations under [How to Get Involved](https://www.w3.org/WAI/update/##participate).
+  * Added Easy Checks under the [Testing Accessibility section](https://www.w3.org/WAI/update/#testing-accessibility-evaluation-tools).
   * Removed inactive work.
 * 1 February 2024
   * Removed ARIA 1.3 from [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) since we published it in January
