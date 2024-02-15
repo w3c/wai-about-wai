@@ -95,7 +95,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 * **Collaboration Tools Accessibility User Requirements ("CTAUR")** is a Working Draft. It describes user needs in tools that provide support for one or more specific collaborative features. These features include real-time editing of content by multiple authors, the use of comments or annotations, and revision control. [CTAUR Editor's Draft](https://w3c.github.io/ctaur/)  _[APA WG, Research TF]_
 
-* **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and publishing new videos to go along with it. [[How People with Disabilities Use the Web - previous version]](/people-use-web/), [in-progress update of How People with Disabilities Use the Web]https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/)
+* **How People with Disabilities Use the Web** helps you understand user needs broadly. We're updating this resource and publishing new videos to go along with it. [[How People with Disabilities Use the Web - previous version]](/people-use-web/), [in-progress update of How People with Disabilities Use the Web](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/)
 
 ### Testing Accessibility, Evaluation Tools
 
