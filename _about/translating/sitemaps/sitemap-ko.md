@@ -17,7 +17,7 @@ footer: |
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 
 #Custom frontmatter for this page
-tlang: fr
+tlang: ko
 ---
 {% assign tlangname=site.data.lang[page.tlang].name %}
 {% assign alldocs=site.documents | concat: site.pages %}
