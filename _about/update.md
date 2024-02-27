@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, February 2024</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, March 2024</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,8 +24,8 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 14 February 2024. First published March 2022.</p>
-   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/groups/wg/eowg/participants">Participants of the EOWG</a> and others working on accessibility at W3C.</p>
+   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 27 February 2024. First published March 2022.</p>
+   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/WAI/update/#who-is-we">WAI staff, Working Group Co-Chairs</a>, and others working on accessibility at W3C.</p>
 
 inline_css: |
   h1 {
@@ -81,11 +81,11 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 * **Mobile Accessibility** work includes supporting on-going standards development, including supporting WCAG 3 exploration. [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) _[AG WG, Mobile TF]_
 
-### Updating Guidance on EPUB Accessibility and on Applying WCAG to ICT
-
-* **EPUB Fixed Layout Accessibility** aims to help publishers address challenges for people with cognitive disabilities and low vision. [EPUB Fixed Layout Accessibility Editor's Draft](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3 WG, FXL A11y TF]_
+### Updating Guidance on Applying WCAG to ICT and on EPUB Accessibility
 
 * **WCAG2ICT** describes how Web Content Accessibility Guidelines (WCAG) 2 can be applied to non-web information and communications technologies (ICT). We are updating it to include WCAG 2.1 and WCAG 2.2. [[WCAG2ICT Overview]](/standards-guidelines/wcag/non-web-ict/) _[AG WG, WCAG2ICT TF]_
+
+* **EPUB Fixed Layout Accessibility** aims to help publishers address challenges for people with cognitive disabilities and low vision. [EPUB Fixed Layout Accessibility Editor's Draft](https://w3c.github.io/epub-specs/epub33/fxl-a11y/) _[EPUB3 WG, FXL A11y TF]_
 
 ### Defining User Requirements (AUR) and Exploring Emerging Technologies
 
@@ -109,10 +109,9 @@ Existing translations of W3C accessibility resources are listed in [All WAI Tran
 
 ## Upcoming Publications
 
-We plan to publish the following documents in Q1 2024, which is January, February, March. To learn about "Candidate Recommendation" (**CR**)<!--, "Proposed Recommendation" (**PR**), "Recommendation",--> and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+We plan to publish the following documents in Q1 2024 (January, February, March) and Q2 (March, April, May). <!-- To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), "Recommendation",and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/). --> 
 
-* More [WAI Translations](/translations/) monthly
-* [Core Accessibility API Mappings 1.2](https://www.w3.org/TR/core-aam-1.2/) as an updated CR in Q1
+* More [WAI Translations](/translations/) - usually some each week
 * [Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT) Draft](https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/) updates in Q2
 * and some updated educational resources
 
@@ -167,11 +166,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
   * [Kevin White](https://www.w3.org/staff/#kevin) is Accessibility Technical Lead and supports the Accessibility Guidelines Working Group that develops Web Content Accessibility Guidelines (WCAG).
   * [Roy Ruoxi Ran (冉若曦)](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
   * [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
-  * [Akosua “Kosi” Asabere](https://www.w3.org/staff/#kosi) joined the W3C Team in November 2023 and brings first-hand experience with mobile accessibility in Africa. 
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), [EO](https://www.w3.org/groups/wg/eowg/participants), and other [W3C groups](https://www.w3.org/groups/)
-
-_W3C WAI Team photos:_
-<img src="https://www.w3.org/cms-uploads/imported-assets/blog/wai-team-collage-2023-11.png" alt="Collage of WAI Team photos. Shawn Henry, Kevin White, Roy Ran, Daniel Montalvo, Kosi Asabere">
 
 <section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
@@ -202,6 +197,10 @@ _W3C WAI Team photos:_
 
 {% include_cached excol.html type="middle" %}
 
+* 27 February 2024
+  * Removed [Digital Publishing WAI-ARIA Module 1.1](https://www.w3.org/TR/dpub-aria-1.1/) and [Digital Publishing Accessibility API Mappings 1.1](https://www.w3.org/TR/dpub-aam-1.1/)   from [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) since we published them today as "Candidate Recommendations"
+  * Updated W3C WAI Staff listing
+  * Swapped order of "Applying WCAG to ICT" and "EPUB Accessibility"
 * 14 February 2024
   * Added [Translating Resources section](https://www.w3.org/WAI/update/#translating-resources) and more about translations under [How to Get Involved](https://www.w3.org/WAI/update/##participate).
   * Added Easy Checks under the [Testing Accessibility section](https://www.w3.org/WAI/update/#testing-accessibility-evaluation-tools).
@@ -214,12 +213,7 @@ _W3C WAI Team photos:_
   * Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications)
   * To [Get Updated](https://www.w3.org/WAI/update/#get-updated) section: deleted Twitter; added Mastodon and LinkedIn
   * To [How to Get Involved](https://www.w3.org/WAI/update/#participate) section, added: <q>We welcome translations! If you might want to volunteer to contribute to translations, please see [Translating WAI resources](/about/translating/)</q>
-  * Updated W3C WAI Staff listing:
-    * [Shawn Lawton Henry](https://www.w3.org/staff/#shawn) is Web Accessibility Initiative (WAI) Program Lead; Accessibility Education and Communications Lead.
-    * [Kevin White](https://www.w3.org/staff/#kevin) is Accessibility Technical Lead and supports the Accessibility Guidelines Working Group that develops Web Content Accessibility Guidelines (WCAG).
-    * [Roy Ruoxi Ran (冉若曦)](https://www.w3.org/staff/#ran) supports accessibility Working Groups and accessibility in China.
-    * [Daniel Montalvo](https://www.w3.org/staff/#dmontalvo) supports accessibility Working Groups and standards harmonization in Europe.
-    * [Akosua “Kosi” Asabere](https://www.w3.org/staff/#kosi) joined the W3C Team in November 2023 and brings first-hand experience with mobile accessibility in Africa.
+  * Updated W3C WAI Staff listing
 * 30 October 2023 - no changes
 * 5 October 2023
   * Removed WCAG 2.2 from Current Work Highlights and Upcoming Publications, because we published it today.
