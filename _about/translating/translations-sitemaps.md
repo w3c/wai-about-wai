@@ -30,5 +30,8 @@ Translation sitemaps display the structure of WAI website, and indicate for each
   - [German (de)](/about/translating/sitemaps/sitemap-de/)
   - [Greek (el)](/about/translating/sitemaps/sitemap-el/)
   - [Indonesian (id)](/about/translating/sitemaps/sitemap-id/)
+  - [Japanese (ja)](/about/translating/sitemaps/sitemap-ja/)
+  - [Korean (ko)](/about/translating/sitemaps/sitemap-ko/)
+  - [Polish (pl)](/about/translating/sitemaps/sitemap-pl/)
   - [Russian (ru)](/about/translating/sitemaps/sitemap-ru/)
   - [Spanish (es)](/about/translating/sitemaps/sitemap-es/)
