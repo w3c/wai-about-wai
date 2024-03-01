@@ -14,27 +14,27 @@ github:
 <p>The <a href=".">Accessibility Conformance Testing Task Force (ACT TF)</a> is a task force of the <a href="https://www.w3.org/WAI/GL/">Accessibility Guidelines Working Group (AG WG)</a>. It assists this Working Group with the work identified below.</p>
 <section id="status">
 	<h2>Status</h2>
-	<p>This Work Statement was proposed to AGWG on xx xx 2024 and will be active if approved. The prior <a href="work-statement-2020">2020 work statement</a> is available. The <a href=".">Task Force home page</a> contains information about the operation and resources of this group. </p>
+	<p>This Work Statement was proposed to AG WG on xx xx 2024 and will be active if approved. The prior <a href="work-statement-2020">2020 work statement</a> is available. The <a href=".">Task Force home page</a> contains information about the operation and resources of this group. </p>
 </section>
 <section id="objective">
 	<h2>Objective</h2>
-	<p>The objective of the Accessibility Conformance Testing (ACT) Task Force is to evolve and maintain a repository of ACT Rules for <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG 2</a>, as well as for other W3C specifications, including <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA</a>, to promote a unified interpretation among different web accessibility test tools and methodologies. ACT Rules conform to the <a href="https://www.w3.org/WAI/standards-guidelines/act/">ACT Rules Format 1.0</a> to document different testing practices. The ACT TF reviews ACT Rules, and present them to AGWG when they meet stringent quality criteria. AGWG may publish such ACT Rules as non-normative W3C resources, as part of the supplemental guidance for WCAG 2.</p>
+	<p>ACT TF's objective is to evolve and maintain a repository of ACT Rules for <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines 2 (WCAG 2)</a>, as well as for other W3C specifications, including <a href="https://www.w3.org/WAI/standards-guidelines/aria/">Accessible Rich Internet Applications (WAI-ARIA)</a>, to promote a unified interpretation among different web accessibility test tools and methodologies. ACT Rules conform to the <a href="https://www.w3.org/WAI/standards-guidelines/act/">ACT Rules Format 1.0</a> to document different testing practices. ACT TF reviews ACT Rules, and present them to AG WG when they meet stringent quality criteria. AG WG may publish such ACT Rules as non-normative W3C resources, as part of the supplemental guidance for WCAG 2.</p>
 </section>
 <section id="scope">
 	<h2>Scope of Work</h2>
 	<p>The work of the Accessibility Conformance Testing (ACT) Task Force includes:</p>
 	<ul>
-		<li><strong>Repository of ACT Rules:</strong> Review ACT Rules contributed to W3C, such as from <a href="https://act-rules.github.io/">ACT Rules Community Group</a>, and maintain a repository of rules approved by W3C Working Groups, including AGWG and ARIA</li>
-		<li><strong>Implementations Monitoring:</strong> Encourage and gather implementation reports from accessibility test tools and methodologies for ACT Rules published by AGWG</li>
+		<li><strong>Repository of ACT Rules:</strong> Review ACT Rules contributed to W3C, such as from <a href="https://act-rules.github.io/">Accessibility Conformance Testing Rules Community Group (ACT-R CG</a>, and maintain a repository of rules approved by W3C Working Groups, including AG and ARIA</li>
+		<li><strong>Implementations Monitoring:</strong> Encourage and gather implementation reports from accessibility test tools and methodologies for ACT Rules published by AG WG</li>
 		<li><strong>Specification Maintenance:</strong> Maintain <a href="https://www.w3.org/WAI/GL/task-forces/conformance-testing/errata">Errata</a> for <a href="https://www.w3.org/TR/act-rules-format/">ACT Rules Format 1.0 specification</a>, and gather feature requests for future versions of this specification</li>
-		<li><strong>Silver Collaboration:</strong> Coordinate with <a href="https://www.w3.org/WAI/GL/">AGWG</a> and its <a href="https://www.w3.org/WAI/GL/task-forces/silver/">Silver Task Force</a> to exchange ideas for conformance testing and to integrate ACT in future guidelines</li>
+		<li><strong>Silver Collaboration:</strong> Coordinate with <a href="https://www.w3.org/WAI/GL/">AG WG</a> and its <a href="https://www.w3.org/WAI/GL/task-forces/silver/">Silver Task Force</a> to exchange ideas for conformance testing and to integrate ACT in future guidelines</li>
 		<li><strong>ACT Community Support:</strong> Promote the work of ACT within W3C and externally, and encourage participation and contribution by different key stakeholders</li>
 	</ul>
 </section>
 <section id="approach">
 	<h2>Approach</h2>
-	<p>This work builds on the earlier work carried out by ACT TF and on the work that continues to be carried out by the <a href="https://act-rules.github.io/">ACT Rules Community Group</a>. In particular, ACT Rules development continues to take place in the ACT-R CG with oversight by the Task Force. This is to maximize participation and leverage contribution by the broader community, while ensuring close coordination and harmonization with the Web Content Accessibility Guidelines (WCAG).</p>
-			<p>ACT TF will update the ACT-rules Format to version 1.1</p>
+	<p>This work builds on the earlier work carried out by ACT TF and on the work that continues to be carried out by the <a href="https://act-rules.github.io/">ACT-R CG</a>. In particular, ACT Rules development continues to take place in ACT-R CG with oversight by the Task Force. This is to maximize participation and leverage contribution by the broader community, while ensuring close coordination and harmonization with the Web Content Accessibility Guidelines (WCAG).</p>
+			<p>ACT TF will update the ACT rules Format to version 1.1</p>
 	<p>ACT TF will continue to gather implementation experience, including of the <a href="https://www.w3.org/TR/act-rules-format/">ACT Rules Format 1.0 specification</a>, <a href="https://www.w3.org/TR/act-rules-aspects/">Common Input Aspects note</a>, <a href="https://www.w3.org/WAI/standards-guidelines/earl/">Evaluation and Report Language (EARL)</a>, and related W3C guidance. ACT TF may update or develop additional non-normative guidance, for example to help explain ACT and its uses.</p>
 </section>
 <section id="dependencies">
@@ -54,7 +54,7 @@ github:
 		<li>Publicly archived mailing list;</li>
 		<li>Public GitHub and Wiki spaces;</li>
 		<li>Public group surveys and minutes;</li>
-		<li>Regular updates to the AGWG;</li>
+		<li>Regular updates to the AG WG;</li>
 		<li>Scheduled deliverable reviews.</li>
 	</ul>
 </section>
