@@ -78,13 +78,13 @@ Please send an email to [group-wai-translations@w3.org](mailto:group-wai-transla
 
 ### Regular volunteers:
 
-Indicate in the GitHub issue related to this translation that you are volunteering to review the translation, **and please always indicate the date by which you plan to review the translation.**
+Indicate that you are volunteering to review the translation in the related GitHub issue. 
 
-This way, we can ask other volunteers if you are unable to complete the review by this date.
+**Please always indicate the date by which you plan to review the translation.** This way, we can ask other volunteers if you are unable to complete the review by this date.
 
 ## Step 3: How to review a translation? {#review}
 
-Review discussions take place directly in the Pull Request(s) opened by the translator. These are listed in the GitHub issue about the translation. 
+Review discussions take place directly in the Pull Request(s) opened by the translator. These are listed in the GitHub issue related to the translation. 
 
 We encourage you to respectfully share your comments, suggested changes, spotted issues; and to work together with the translator(s) and other reviewer(s) to improve the translation.
 
@@ -92,7 +92,7 @@ The most important things for review are:
 - **helping accurately convey the meaning from the English version** in the translated language. Translations must not change or adapt or add to the meaning of the English version in their translation.
 - **using respectful disability terminology** in the target language and region.
 
-For that, you will need to read the English version and compare it to the translation. Often, it is best to have them open in side-by-side windows. A preview is included in most Pull Requests to see the rendered page.
+For that, you will need to read the English version and compare it to the translation. Often, it is best to have them open in side-by-side windows. A preview is included in most Pull Requests, to see the rendered page.
 
 {::nomarkdown}
 {% include box.html type="start" title="Helpful tip" %}
