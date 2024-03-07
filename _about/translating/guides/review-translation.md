@@ -185,7 +185,7 @@ In the footer, the dates are the same in the English version and the translated 
 {:/}
 
 For any videos on the page, the `[CC]` icon of the video player defaults to the translated language.\
-See for example [_Keyboard Compatibility_ video in French](/perspective-videos/keyboard/fr).
+See for example [_Keyboard Compatibility_ video in French](https://www.w3.org/WAI/perspective-videos/keyboard/fr).
 
 If not, some [video subtitles steps](/about/translating/guides/video-subtitles/) are probably missing.
 
