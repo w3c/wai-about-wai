@@ -24,7 +24,7 @@ github:
 	<h2>Scope of Work</h2>
 	<p>The work of the Accessibility Conformance Testing (ACT) Task Force includes:</p>
 	<ul>
-		<li><strong>Repository of ACT Rules:</strong> Review ACT Rules contributed to W3C, such as from <a href="https://act-rules.github.io/">Accessibility Conformance Testing Rules Community Group (ACT-R CG</a>, and maintain a repository of rules approved by W3C Working Groups, including AG and ARIA</li>
+		<li><strong>Repository of ACT Rules:</strong> Review ACT Rules contributed to W3C, such as from <a href="https://act-rules.github.io/">Accessibility Conformance Testing Rules Community Group (ACT-R CG)</a>, and maintain a repository of rules approved by W3C Working Groups, including AG and ARIA</li>
 		<li><strong>Implementations Monitoring:</strong> Encourage and gather implementation reports from accessibility test tools and methodologies for ACT Rules published by AG WG</li>
 		<li><strong>Specification Maintenance:</strong> Maintain <a href="https://www.w3.org/WAI/GL/task-forces/conformance-testing/errata">Errata</a> for <a href="https://www.w3.org/TR/act-rules-format/">ACT Rules Format 1.0 specification</a>, and gather feature requests for future versions of this specification</li>
 		<li><strong>Silver Collaboration:</strong> Coordinate with <a href="https://www.w3.org/WAI/GL/">AG WG</a> and its <a href="https://www.w3.org/WAI/GL/task-forces/silver/">Silver Task Force</a> to exchange ideas for conformance testing and to integrate ACT in future guidelines</li>
