@@ -7,14 +7,14 @@ github:
   
 permalink: /about/translating/
 ref: /about/translating/
-last_updated: 2023-11-09
+last_updated: 2024-04-09
 lang: en
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 9 November 2023.</p>
+  <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation. Updated as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -66,7 +66,10 @@ To avoid overlapping work:
 ### If you want to translate a WAI resource:
 
 - Follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/step-by-step/).
-- You will find more detailed guidance in [[Translations Guides]](/about/translating/guides/).
+
+### If you want to volunteer to review a translation:
+
+- Follow instructions in [[Reviewing a Translation]](/about/translating/guides/review-translation/).
 
 We encourage you to keep up on related translations work by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
    

@@ -4,7 +4,7 @@ nav_title: Reviewing a Translation
 lang: en
 last_updated: 2024-03-07
 
-# Do not delete the following translators/contributors lines, used to display an example in the page.
+# Do not delete the following translators/contributors lines: they are used to display an example in the page.
 translators:
   - name: Translator 1
   - name: Translator 2
