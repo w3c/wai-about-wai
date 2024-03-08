@@ -1,6 +1,5 @@
 ---
-title: Communication
-nav_title: Communication
+title: Meetings and Communication
 order: 3
 group: agwg
 permalink: /about/groups/agwg/communication/
@@ -10,14 +9,6 @@ github:
   repository: w3c/wai-about-wai
   path: '_about/groups/agwg/communication.md'
 ---
-
-{::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
-{:/}
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 {::options toc_levels="2..3" /}
 

@@ -1,6 +1,5 @@
 ---
 title: Decision Policy
-nav_title: Decision Policy
 order: 2
 group: agwg
 permalink: /about/groups/agwg/decision-policy/

@@ -1,10 +1,9 @@
 ---
-title: How to Join
-nav_title: How to Join
+title: Participating in the Accessibility Guidelines Working Group (AGWG) 
 order: 4
 group: agwg
-permalink: /about/groups/agwg/how-to-join/
-ref: /about/groups/agwg/how-to-join/
+permalink: /about/groups/agwg/participate/
+ref: /about/groups/agwg/participate/
 lang: en
 github:
   repository: w3c/wai-about-wai
