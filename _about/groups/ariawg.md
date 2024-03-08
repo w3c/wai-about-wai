@@ -65,10 +65,10 @@ The ARIA Working Group engages with stakeholders in a variety of ways. See the f
 The ARIA WG conducts its work using a variety of synchronous and asynchronous tools. The [communication](aria/communication) page provides details about:
 
 - Teleconferences of the Working Group and its task forces (also see [meeting minutes](aria/minutes));
-- Face to face meetings (also see face to face [meeting pages](aria/wiki/Meetings));
+- Face to face meetings (also see face to face [meeting pages](https://www.w3.org/WAI/ARIA/wiki/Meetings));
 - Email lists;
 - [ARIA source repository](https://github.com/w3c/aria/);
-- [Wiki](aria/wiki/);
+- [Wiki](https://www.w3.org/WAI/ARIA/wiki/);
 - [Web-Based Surveys (WBS)](/2002/09/wbs/83726/);
 - [Issue Tracker](track/);
 - [ARIA source repository issue tracker](https://github.com/w3c/aria/issues).
@@ -88,7 +88,7 @@ The chairs of the ARIA WG, responsible for overall leadership and management, ar
 The Accessible Rich Internet Applications Working Group maintains the following operational resources:
 
 - [Decision policy](aria/decision-policy);
-- [Record of decisions made by the WG](aria/wiki/Decisions);
+- [Record of decisions made by the WG](https://www.w3.org/WAI/ARIA/wiki/Decisions);
 - [Archives of past activity](aria/archive);
 - [meeting minutes](aria/minutes).
 
