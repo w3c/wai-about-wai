@@ -14,6 +14,16 @@ github:
 ---
 
 {::nomarkdown}
+{% include box.html type="start" class="" %}
+{:/}
+
+**Accessibility: Essential for some, useful for all.**
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
 {% include box.html type="start" h="2" title="Brief" class="full" %}
 {:/}
 
@@ -29,12 +39,11 @@ github:
 -   volunteers to review, implement, and promote guidelines
 -   dedicated participants in Working Groups
 
-
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="3" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" %}
