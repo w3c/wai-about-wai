@@ -50,15 +50,9 @@ github:
 
 ## W3C WAI
 
-The World Wide Web Consortium ([W3C](https://www.w3.org/about/) is an international [public-interest non-profit organization[(https://www.w3.org/news/2022/w3c-to-become-a-public-interest-non-profit-organization/) where Member organizations, a full-time staff, and the public work together to develop Web standards. Web Accessibility Initiative (WAI) is a key aspect of W3C's work for the benefit of humanity.
+The World Wide Web Consortium ([W3C](https://www.w3.org/about/)) is an international [public-interest non-profit organization](https://www.w3.org/news/2022/w3c-to-become-a-public-interest-non-profit-organization/) where Member organizations, a full-time staff, and the public work together to develop Web standards. Web Accessibility Initiative (WAI) is a key aspect of W3C's work for the benefit of humanity.
 
-The information below extends the [W3C Mission](https://www.w3.org/mission/) (vision, identity, design principles, strategic goals) to address accessibility specifics.
-
-## Mission
-
-W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and supporting resources to make the web accessible to people with disabilities.
-
-See [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) and [WAI Resources](https://www.w3.org/WAI/resources/).
+This information extends the [W3C Mission](https://www.w3.org/mission/) (vision, identity, design principles, strategic goals) to address accessibility specifics.
 
 <img src="https://www.w3.org/WAI/content-images/wai-fundamentals-overview/still-dog-outside.png" alt="" style="float:right; margin-left:1em; width:240px; clear:both;" />
 <div style="float:right; margin-left:1em; width:90px; clear:both;"><br><br>
@@ -78,7 +72,13 @@ See [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/acce
 <img src="https://www.w3.org/WAI/content-images/wai-media-guide/speech.svg" alt="" />
 </div>
 
-## Vision
+### Mission
+
+W3C's Web Accessibility Initiative (WAI) develops strategies, standards, and supporting resources to make the web accessible to people with disabilities.
+
+See [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) and [WAI Resources](https://www.w3.org/WAI/resources/).
+
+### Vision
 
 The W3C vision is that the Web and related technologies are accessible so that all people with disabilities around the globe can **participate equally** in the digital world. That includes:
 * Accessibility standards/guidelines are harmonized globally.
@@ -87,7 +87,7 @@ The W3C vision is that the Web and related technologies are accessible so that a
 * Everyone who creates or manages digital products has relevant accessibility knowledge.
 * New technologies, digital products, and content addresses accessibility from inception (“born accessible”).
 
-## High-Level Objectives
+### High-Level Objectives
 
 To contribute to realizing the vision, W3C addresses the following areas:
 
@@ -127,7 +127,7 @@ You can subscribe to get news announcements via e-mail, Atom/RSS feed, and socia
 
 To reach all WAI staff, you can e-mail <wai@w3.org>
 
-## WAI Groups
+## WAI Working Groups
 
 WAI includes the following Working Groups and Interest Group:
 
@@ -135,7 +135,7 @@ WAI includes the following Working Groups and Interest Group:
 -   [Accessible Platform Architectures (APA) Working Group](/APA/)
 -   [Accessible Rich Internet Applications (ARIA) Working Group](/ARIA/)
 -   [Education and Outreach Working Group (EOWG)](/about/groups/eowg/)
--   [WAI Interest Group (WAI IG)](/about/groups/waiig/)
+-   [WAI Interest Group (WAI IG)](/about/groups/waiig/) is an e-mail discussion list that is open to anyone
 
 Within the Working Groups, there are also [Task Forces](/about/groups/taskforces/).
 
