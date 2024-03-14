@@ -7,8 +7,7 @@ feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 13 March 2024.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors include: <a href="https://www.w3.org/People/kevin/">Kevin White</a>, <a href="https://www.w3.org/staff/#ran">Ruoxi Ran</a>, and <a href="https://www.w3.org/staff/#dmontalvo">Daniel Montalvo</a>.</p>
 github:
   repository: w3c/wai-about-wai
   path: '_about/index.md'
