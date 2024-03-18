@@ -2,12 +2,12 @@
 title: Group Task Forces
 order: 7
 group: groups
-permalink: /about/groups/taskforces/
-ref: /about/groups/taskforces/
+permalink: /about/groups/task-forces/
+ref: /about/groups/task-forces/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/groups/taskforces.md'
+  path: '_about/groups/task-forces.md'
 ---
 
 Task Forces operate under specific Working Groups.
@@ -15,7 +15,7 @@ Task Forces operate under specific Working Groups.
 This page lists some active Task Forces in [WAI Working Groups](/about/groups/). Other Task Forces, including inactive
 ones, are listed on each Working Group's home page.
 
-**[Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/)** under the [AG Working Group](/about/groups/agwg/)
+**[Accessibility Conformance Testing (ACT) Task Force](/about/groups/task-forces/conformance-testing/)** under the [AG Working Group](/about/groups/agwg/)
 :   Develop a framework and repository of test rules, to promote a
     unified interpretation of WCAG 2.0 among different web accessibility
     test tools. The framework will also allow the development of custom
