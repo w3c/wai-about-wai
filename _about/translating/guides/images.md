@@ -59,7 +59,7 @@ In accordance with the WAI Translations process, please always [declare your int
 When an image from our website can be translated, it is usually provided with an SVG source file.
 
 In general:
-- PNG images are located in the `content-images/` folder ot the repository
+- PNG images are located in the `content-images/` folder of the repository
 - SVG source files are located in the `content-images/source/` folder of the repository.
 
 **What you will need:**
@@ -151,7 +151,7 @@ Then click on the "Export" button.
 <li>
 {:/}
 
-Move the PNG file in the same location as the English version of the PNG file (generally at the root of the `content-images/` folder) 
+Move the PNG file in the same location as the English version (generally at the root of the `content-images/` folder) 
 
 {::nomarkdown}
 </li>
