@@ -7,7 +7,7 @@ github:
 permalink: /about/translating/guides/new-translation/
 ref: /about/translating/guides/new-translation/
 lang: en
-last_updated: 2024-03-07
+last_updated: 2024-03-19
 redirect_from:
   - /about/translating/guides/translation-guidance/
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
@@ -15,7 +15,7 @@ image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 7 March 2024.</p>
+  <p><strong>Date:</strong> Updated 19 March 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -44,12 +44,30 @@ For instructions on translating the Web Content Accessibility Guidelines (WCAG),
 {% include toc.html type="end" %}
 {:/}
 
+## Overview
+
+There are 4 main technical steps to create a new WAI resource translation:
+
+1. **[Create a new file](#create-file)**
+
+2. **[Update the "front matter" metadata](#frontmatter)**
+
+3. **[Translate the main content](#main-content)**
+
+4. **[Commit your changes and open a Pull Request](#commit-changes)**
+
 ## General guidance
 
-- Do not change or adapt or add to the meaning of the English version in your translation.
-- If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the “Help improve this page” box near the bottom of the page.
-- Before starting, find the language short code "subtag" from [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). You will use it at multiple times during the translation.
+- **Do not change or adapt or add to the meaning of the English version** in your translation.\
+If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the “Help improve this page” box near the bottom of the page.
+- **Before starting, find the language short code "subtag"** from [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). You will use it at multiple times during the translation.
+- The markdown files are very sensitive to indentation, commas, quotes, and special characters. **We recommend that you use a markdown editor or a simple text editor** (including GitHub interface) — and not a document editor like Microsoft Word that often changes quotes and indentation.
+- **Some resources have specific Translations notes.** If you see a comment such as "Read Translations Notes at" in the ["front matter" metadata](/about/translating/guides/new-translation/#frontmatter), follow the link and read the specific guidance.\
+If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance {% include_cached external.html %}](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
 
+## Initial step: Declare your intent
+
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
 
 ## Step 1: Create a new file {#create-file}
 
@@ -66,7 +84,7 @@ Duplicate the file used by the original version, with the language shortcode add
 {% include box.html type="end" %}
 {:/}
 
-## Step 2: Update "front matter" metadata {#frontmatter}
+## Step 2: Update the "front matter" metadata {#frontmatter}
 
 {::nomarkdown}
 {% include box.html type="start" class="highlighted" %}
@@ -199,7 +217,7 @@ Many resources have inline instructions in the front matter (after the "`#`" cha
 
 Please follow these instructions. It will help you know what to translate/update and what to not change.
 
-## Step 3: Translate main content
+## Step 3: Translate main content {#main-content}
 
 ### Markdown/Code
 
@@ -277,62 +295,12 @@ Make sure to:
 
 ### Specific wording {#specific-wording}
 - Check [other translations in your language](/translations) to see how similar words and concepts have been translated. In particular, [Authorized Translations](https://www.w3.org/Translations/authorized.html) have had significant review and input.
-- Read the [General Translation Glossary {% include_cached external.html %}](https://github.com/w3c/translation-glossaries/blob/main/general.md) and see if there is a [glossary for your language {% include_cached external.html %}](https://github.com/w3c/translation-glossaries#readme).
+- Read the [General Translation Glossary {% include_cached external.html %}](https://github.com/w3c/wai-translations/blob/main/glossaries/general.md) and see if there is a [glossary for your language {% include_cached external.html %}](https://github.com/w3c/wai-translations#list-of-glossaries).
 - Consider different dialects. Where possible, the translation should use words and phrases that will be best understood across different areas.
 
-{::nomarkdown}
-{% include box.html type="start" title="We are here to help" %}
-{:/}
+## Step 4: Commit your changes and open a Pull Request {#commit-changes}
 
-If you have any questions for us about the wording, you can report them in the GitHub issue or send email to [group-wai-translations@w3.org](mailto:group-wai-translations@w3.org)[^1].
-
-We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-## Text Editor
-
-The markdown files are very sensitive to indentation, commas, quotes, and special characters.
-
-We recommend that you use a markdown editor or a simple text editor (including GitHub interface) — and not a document editor like Microsoft Word that often changes quotes and indentation.
-
-## Resource-Specific Information
-
-Some resources have specific Translations notes.
-
-{::nomarkdown}
-<ul>
-<li>
-{:/}
-
-At the top of the resource file (in the ["front matter" metadata](/about/translating/guides/new-translation/#frontmatter)), see if there is a comment like this one:
-
-{::nomarkdown}
-{% include box.html type="start" %}
-{:/}
-```
-# Read Translations Notes at https://github.com/w3c/path-to-repository#readme
-```
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-In that case, follow the link and read the specific guidance.
-
-{::nomarkdown}
-</li>
-<li>
-{:/}
-
-If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance {% include_cached external.html %}](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
-
-{::nomarkdown}
-</li>
-</ul>
-{:/}
+Commit your changes and follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/step-by-step/#preview).
 
 ## We are here to help
 
