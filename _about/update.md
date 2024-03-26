@@ -197,6 +197,8 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 {% include_cached excol.html type="middle" %}
 
+* @@ March 2024
+  * Updated call for volunteer reviewers in [How to Get Involved](https://www.w3.org/WAI/update/##participate).
 * 27 February 2024
   * Removed [Digital Publishing WAI-ARIA Module 1.1](https://www.w3.org/TR/dpub-aria-1.1/) and [Digital Publishing Accessibility API Mappings 1.1](https://www.w3.org/TR/dpub-aam-1.1/)   from [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) since we published them today as "Candidate Recommendations"
   * Updated W3C WAI Staff listing
