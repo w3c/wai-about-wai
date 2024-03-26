@@ -1,5 +1,5 @@
 ---
-title: "Translating Video Subtitles and Descriptions"
+title: "How to Create Translated Video Subtitles and Descriptions"
 nav_title: Video Subtitles/Descriptions
 github:
   repository: w3c/wai-about-wai
@@ -7,21 +7,31 @@ github:
 permalink: /about/translating/guides/video-subtitles/
 ref: /about/translating/guides/video-subtitles/
 lang: en
-last_updated: 2023-12-06
+last_updated: 2024-03-07
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 6 December 2023.</p>
+  <p><strong>Date:</strong> Updated 7 March 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page guides you through the technical steps to create new subtitles and translated descriptions for Web Accessibility Initiative (WAI) videos.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 {::options toc_levels="2" /}
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
 -   TOC is created automatically.
@@ -30,6 +40,24 @@ footer: |
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
+
+## Overview
+
+There are 4 steps to create new subtitles or video descriptions in a new language:
+
+1. **[Find the related video identifier](#find-video-id)**
+
+2. **[Edit the video-metadata.yml file](#video-metadata)**
+
+3. **[Create the subtitles/descriptions file(s)](#create-vtt)**
+
+4. **[Translate the VTT file(s)](#translate-vtt)**
+
+5. **[Commit your changes and open a Pull Request](#commit-changes)**
+
+## Initial step: Declare your intent
+
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
 
 ## Step 1: Find the related video identifier {#find-video-id}
 
@@ -202,7 +230,7 @@ If files are stored into lang subfolders, create a subfolder for your language.
 </ol>
 {:/}
 
-## Step 3: Translate the VTT file(s) {#translate-vtt}
+## Step 4: Translate the VTT file(s) {#translate-vtt}
 
 1. Translate all text segments
 2. Keep the first line (`WEBVTT`)
@@ -234,6 +262,6 @@ new accessibility barriers.
 {% include box.html type="end" %}
 {:/}
 
-## Step 4: Commit your changes {#commit-changes}
+## Step 5: Commit your changes and open a Pull Request {#commit-changes}
 
 Include the updated "video-metadata.yml" and the new translated VTT files.

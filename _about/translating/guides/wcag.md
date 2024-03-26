@@ -27,7 +27,7 @@ footer: |
 This page guides you through the technical steps to translate the Web Content Accessibility Guidelines (WCAG) 2.2 and 2.1.
 
 
-For information on WCAG Translations of WCAG 2, see [Contributing to W3C Translations  {% include_cached external.html %}
+For general information on WCAG 2 Translations, see [Contributing to W3C Translations  {% include_cached external.html %}
 ](https://www.w3.org/Consortium/Translation/) and [Policy for Authorized W3C Translations {% include_cached external.html %}](https://www.w3.org/2005/02/TranslationPolicy.html).
 
 
