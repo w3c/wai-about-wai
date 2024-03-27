@@ -1,6 +1,6 @@
 ---
 title: "What We're Working On"
-title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, March 2024</span>"
+title_html: "What We're Working On<br><span style='font-style: italic; font-size: 0.625em;'> Accessibility Activities and Publications, April 2024</span>"
 # nav_title: "Short Title" # NEW: (I think not used yet, but in place for possible future use.)
 
 lang: en
@@ -24,7 +24,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 27 February 2024. First published March 2022.</p>
+   <p><strong>Date:</strong> <!-- @@@ also update month in title !!! -->Updated 26 March 2024. First published March 2022.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/WAI/update/#who-is-we">WAI staff, Working Group Co-Chairs</a>, and others working on accessibility at W3C.</p>
 
 inline_css: |
@@ -109,7 +109,7 @@ Existing translations of W3C accessibility resources are listed in [All WAI Tran
 
 ## Upcoming Publications
 
-We plan to publish the following documents in Q1 2024 (January, February, March) and Q2 (March, April, May). <!-- To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), "Recommendation",and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/). --> 
+We plan to publish the following documents in Q2 (March, April, May) 2024. <!-- To learn about "Candidate Recommendation" (**CR**), "Proposed Recommendation" (**PR**), "Recommendation",and other stages, see [How WAI Develops Accessibility Standards through the W3C Process: **Milestones** and Opportunities to Contribute](https://www.w3.org/WAI/standards-guidelines/w3c-process/). --> 
 
 * More [WAI Translations](/translations/) - usually some each week
 * [Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT) Draft](https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/) updates in Q2
@@ -152,7 +152,7 @@ Links to each Working Group's "How to Participate" page are in the [Participatin
 
 We also offer ideas for [Promoting and Implementing Web Accessibility](https://www.w3.org/WAI/about/participating/#promoting-and-implementing-web-accessibility).
 
-**Translations:** If you might want to volunteer to contribute to translations, please see [Translating WAI resources](/about/translating/). You can send questions via e-mail to [group-wai-translations@w3.org](group-wai-translations@w3.org) We are currently seeking translators in all languages and reviewers for draft translations in German and Japanese.
+**Translations:** If you might want to volunteer to contribute to translations, please see [Translating WAI resources](/about/translating/). You can send questions via e-mail to [group-wai-translations@w3.org](group-wai-translations@w3.org) We are currently seeking translators in all languages and reviewers for draft translations in Czech, Greek, Indonesian and Korean.
 
 **We look forward to your contributions to making the web more accessible to people with disabilities!**
 
@@ -197,6 +197,8 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
 
 {% include_cached excol.html type="middle" %}
 
+* 26 March 2024
+  * Updated call for volunteer reviewers in [How to Get Involved](https://www.w3.org/WAI/update/##participate).
 * 27 February 2024
   * Removed [Digital Publishing WAI-ARIA Module 1.1](https://www.w3.org/TR/dpub-aria-1.1/) and [Digital Publishing Accessibility API Mappings 1.1](https://www.w3.org/TR/dpub-aam-1.1/)   from [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications) since we published them today as "Candidate Recommendations"
   * Updated W3C WAI Staff listing
