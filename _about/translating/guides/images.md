@@ -7,14 +7,14 @@ github:
 permalink: /about/translating/guides/images/
 ref: /about/translating/guides/images/
 lang: en
-last_updated: 2024-03-19
+last_updated: 2024-03-26
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 19 March 2024.</p>
+  <p><strong>Date:</strong> Updated 26 March 2024.</p>
   <p><strong>Editor:</strong> Rémi Bétin.</p>
 ---
 
@@ -161,3 +161,14 @@ Move the PNG file in the same location as the English version (generally at the 
 ## Step 3: Commit your changes and open a Pull Request {#commit-changes}
 
 Include the PNG and the SVG source file.
+
+
+{::nomarkdown}
+{% include box.html type="start" title="Disclaimer" %}
+{:/}
+
+W3C does not endorse specific products. Inclusion of products in this resource does not indicate endorsement by W3C.
+
+{::nomarkdown}
+{% include box.html type="end" title="Disclaimer" %}
+{:/}
