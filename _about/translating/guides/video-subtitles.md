@@ -7,14 +7,14 @@ github:
 permalink: /about/translating/guides/video-subtitles/
 ref: /about/translating/guides/video-subtitles/
 lang: en
-last_updated: 2024-03-07
+last_updated: 2024-04-12
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 7 March 2024.</p>
+  <p><strong>Date:</strong> Updated 12 April 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -188,7 +188,7 @@ To find the path to the VTT files to translate, look at `path` and `lang-folder`
 {::nomarkdown}
 {% include box.html type="start" title="Example" %}
 {:/}
-In this example, English VTT files are located into "/wai-folders/perspective-videos/en/"
+In this example, English VTT files are located into "/wai-videos/perspective-videos/en/"
 
 ```yaml
 - id: keyboard
