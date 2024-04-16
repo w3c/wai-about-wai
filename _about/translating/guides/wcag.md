@@ -2,7 +2,7 @@
 title: How to Translate WCAG 2
 nav_title: "How to Translate WCAG 2"
 lang: en
-last_updated: 2024-01-16
+last_updated: 2024-04-09
 
 github:
   repository: w3c/wai-about-wai
@@ -16,7 +16,7 @@ image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Published 16 January 2024.</p>
+  <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editor:</strong> Rémi Bétin.</p>
 ---
 
@@ -27,7 +27,7 @@ footer: |
 This page guides you through the technical steps to translate the Web Content Accessibility Guidelines (WCAG) 2.2 and 2.1.
 
 
-For information on WCAG Translations of WCAG 2, see [Contributing to W3C Translations  {% include_cached external.html %}
+For general information on WCAG 2 Translations, see [Contributing to W3C Translations  {% include_cached external.html %}
 ](https://www.w3.org/Consortium/Translation/) and [Policy for Authorized W3C Translations {% include_cached external.html %}](https://www.w3.org/2005/02/TranslationPolicy.html).
 
 
@@ -53,20 +53,20 @@ For information on WCAG Translations of WCAG 2, see [Contributing to W3C Transla
 Web Content Accessibility Guidelines (WCAG) 2.1/2.2 are currently [available in more than 14 languages](/standards-guidelines/wcag/translations/)!
 
 There are 5 main steps to create a new translation:
-1. Get the source files from [`w3c/wcag/` {% include_cached external.html %}](https://github.com/w3c/wcag/) repository
-2. Translate WCAG source files
-3. Export in HTML
-4. Edit the HTML files to complete the translation
-5. Deliver the final files to W3C
+1. **[Get the source files](#get-source-files)** from [`w3c/wcag/` {% include_cached external.html %}](https://github.com/w3c/wcag/) repository
+2. **[Translate WCAG source files](#translate-source-files)**
+3. **[Export in HTML](#preview-export)**
+4. **[Edit the HTML files](#edit-html)** to complete the translation
+5. **[Deliver the final files to W3C](#deliver-files)**
 
-## Step 1: Get the source files
+## Step 1: Get the source files {#get-source-files}
 
 1. Clone [`w3c/wcag` {% include_cached external.html %}](https://github.com/w3c/wcag/) repository (you can [fork {% include_cached external.html %}](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) it first)
 2. Base your translation on the following branch:
 - [`main` branch {% include_cached external.html %}](https://github.com/w3c/wcag/tree/main) to translate WCAG 2.2
 - [`WCAG-2.1` branch {% include_cached external.html %}](https://github.com/w3c/wcag/tree/WCAG-2.1) to translate WCAG 2.1
 
-## Step 2: Translate WCAG source files
+## Step 2: Translate WCAG source files {#translate-source-files}
 
 The repository contains numerous folders and files. Only some of them are relevant to your WCAG translation.
 
@@ -87,7 +87,7 @@ Make sure to follow these translation guidelines:
 - Add `hreflang="en"` to links when needed, and `lang="en"` where needed.
 - Follow the guidelines of the [W3C Internationalization Activity {% include_cached external.html %}](https://www.w3.org/International/): for example, the proper usage of language tags, encoding declarations, handling bidirectional text, etc.
 
-## Step 3: Preview your changes and export in HTML
+## Step 3: Preview your changes and export in HTML {#preview-export}
 
 To preview your changes, open the `index.html` file in a modern browser, on a local server. Without a server, the success criteria and glossary terms will not be included. 
 
@@ -101,7 +101,7 @@ Allow the script to compile and format the content.
 - Activate the "Respec Menu" link in the top right corner
 - Choose "Export...", then the "HTML" option.
 
-## Step 4: Edit the resulting HTML file and complete the translation
+## Step 4: Edit the resulting HTML file and complete the translation {#edit-html}
 
 Rename the exported HTML file to `index.html` and make the following changes.
 
@@ -131,7 +131,7 @@ Download [`fixup.js` {% include_cached external.html %}](https://www.w3.org/scr
 - "Pop Out Sidebar"
 - "Jump to Table of Contents”
 
-## Step 5: Deliver the final files to W3C
+## Step 5: Deliver the final files to W3C {#deliver-files}
 
 In conformance with step 6.3 of the [Policy for Authorized W3C Translations {% include_cached external.html %}](https://www.w3.org/2005/02/TranslationPolicy.html), deliver the following files to W3C for publication:
 - `index.html`

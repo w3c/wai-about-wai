@@ -1,20 +1,20 @@
 ---
-title: "Translating Images"
-nav_title: Translating Images
+title: "How to Translate Images"
+nav_title: Images
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating/guides/images.md'
 permalink: /about/translating/guides/images/
 ref: /about/translating/guides/images/
 lang: en
-last_updated: 2024-03-26
+last_updated: 2024-04-09
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 26 March 2024.</p>
+  <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editor:</strong> Rémi Bétin.</p>
 ---
 
