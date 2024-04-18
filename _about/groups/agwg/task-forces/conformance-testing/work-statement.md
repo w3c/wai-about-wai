@@ -1,7 +1,7 @@
 ---
 title: Accessibility Conformance Testing (ACT) Task Force Work Statement (2024)
 # nav_title:
-# order: 5
+# order: 2
 # group: groups
 permalink: /about/groups/agwg/task-forces/conformance-testing/work-statement/
 ref: /about/groups/agwg/task-forces/conformance-testing/work-statement/
