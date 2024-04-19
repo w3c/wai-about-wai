@@ -44,11 +44,11 @@ The Working Group has established a [road map](roadmap) for upcoming work. This 
 - Accessibility API Mappings for ARIA, Digital Publishing, HTML, and SVG, and
 - WAI-ARIA Authoring Practices.
 
-The [ARIA Project Plan](aria/project) details intended timeline and milestones for this work and proceeds according to the [ARIA Working Group Work Flow](aria/workflow).
+The [ARIA Project Plan](project) details intended timeline and milestones for this work and proceeds according to the [ARIA Working Group Work Flow](workflow).
 
 ## Task Forces
 
-The ARIA WG uses [task forces](aria/task-forces) to focus work on specific projects. Current task forces include:
+The ARIA WG uses [task forces](task-forces) to focus work on specific projects. Current task forces include:
 
 - ARIA Authoring Practices Task Force: focuses on ARIA Authoring Practices.
 - CSS Accessibility Task Force; focuses on accessibility of CSS, ARIA role is to explore ARIA and accessibility API mapping features.
@@ -57,8 +57,8 @@ The ARIA WG uses [task forces](aria/task-forces) to focus work on specific proje
 
 The ARIA Working Group engages with stakeholders in a variety of ways. See the following resources for information on:
 
-- [How to contribute to the Working Group, file comments, and contribute to the source code repositories](aria/contribute);
-- [How to participate in (join) the Working Group](aria/participation).
+- [How to contribute to the Working Group, file comments, and contribute to the source code repositories](contribute);
+- [How to participate in (join) the Working Group](https://www.w3.org/groups/wg/aria/instructions/).
 
 ## Meetings and Communication
 
