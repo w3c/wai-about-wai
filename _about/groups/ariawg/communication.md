@@ -10,16 +10,38 @@ github:
   path: '_about/groups/ariawg/communication.md'
 ---
 
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
 The ARIA Working Group uses the following tools and procedures to perform its work.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2,3,4" /}
+
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
 
 ## Teleconferences
 
-The ARIA WG and its task forces participate in the following teleconferences. Unless otherwise mentioned, times are given in Boston time because the UTC time floats with U.S. Daylight Savings Time changes. Follow the link to convert to local time. Meetings take place on [WebEx](https://www.w3.org/2006/tools/wiki/Category:WebEx), using the link given on the meeting name. [IRC](https://www.w3.org/wiki/IRC) is used for text chat and [minute taking](http://dev.w3.org/cvsweb/~checkout~/2002/scribe/scribedoc.htm?content-type=text/html). It is not expected that participants will join all meetings; instead please strive to be a regular participant in the meeting(s) of greatest relevance to your work in the group.
+The ARIA WG and its task forces participate in the following teleconferences. Unless otherwise mentioned, times are given in Boston time because the UTC time floats with U.S. Daylight Savings Time changes. Follow the link to convert to local time. Meetings take place on [Zoom](https://zoom.us), using the link given on the meeting name. [IRC](https://www.w3.org/wiki/IRC) is used for text chat and [minute taking](http://dev.w3.org/cvsweb/~checkout~/2002/scribe/scribedoc.htm?content-type=text/html). It is not expected that participants will join all meetings; instead please strive to be a regular participant in the meeting(s) of greatest relevance to your work in the group.
 
-- **[ARIA Authoring Practices](https://www.w3.org/2017/08/telecon-info_apg)**: Tuesdays at 14:00 until 15:00 Boston time
-- **[ARIA Editors](https://www.w3.org/2017/08/telecon-info_aria-editors)**: alternate Mondays at 12:00 until 12:30 Boston time
-- **[ARIA Plan](https://www.w3.org/2017/08/telecon-info_aria-plan)**: Tuesdays at 13:00 until 14:00 Boston time
-- **[ARIA Working Group](https://www.w3.org/2017/08/telecon-info_aria)**: Thursdays at 12:00 until 14:00 Boston time
+- **[ARIA Authoring Practices](https://www.w3.org/groups/tf/aria-practices/calendar)**: Tuesdays at 14:00 until 15:00 Boston time
+- **[ARIA Editors](https://www.w3.org/groups/tf/aria-editors/calendar)**: alternate Mondays at 12:00 until 12:30 Boston time
+- **ARIA Plan**: Tuesdays at 13:00 until 14:00 Boston time
+- **[ARIA Working Group](https://www.w3.org/groups/wg/aria/calendar)**: Thursdays at 12:00 until 14:00 Boston time
 
 [Minutes of past teleconferences](https://www.w3.org/WAI/ARIA/minutes) are available.
 
@@ -37,14 +59,15 @@ The ARIA WG and its task forces participate in the following teleconferences. Un
 
 ## Source repository
 
-Publications under development are maintained in the [ARIA GitHub repository](https://github.com/w3c/pfwg/). This distributed source control system allows multiple people to edit simultaneously, public view of changes as they are committed, and "pull requests" to enable people without direct commit access to suggest contributions. Publication editors are designated by the WG chair and have direct commit access. Editors commit to execute the group consensus, request review of non-editorial changes, process conflicting input (from issues, pull requests, and discussions) in a neutral manner, and maintain document quality.
+Publications under development are maintained in the [ARIA GitHub repository](https://github.com/w3c/aria/). This distributed source control system allows multiple people to edit simultaneously, public view of changes as they are committed, and "pull requests" to enable people without direct commit access to suggest contributions. Publication editors are designated by the WG chair and have direct commit access. Editors commit to execute the group consensus, request review of non-editorial changes, process conflicting input (from issues, pull requests, and discussions) in a neutral manner, and maintain document quality.
 
 ## IRC
 
 W3C Working Groups use [IRC](https://www.w3.org/wiki/IRC) for synchronous text chat and, with the aid of some IRC bots, to record minutes of teleconferences. The ARIA WG uses the following IRC channels. They are available at any time but are only routinely logged during teleconferences.
 
 - [#aria](irc://irc.w3.org/aria) for the main Working Group.
-- [#personalization](irc://irc.w3.org/personalization) for the Personalization Accessibility Task Force.
+- [#aria-apg](irc://irc.w3.org/aria-apg) for the ARIA Practices Task Force.
+- [#aria-editors](irc://irc.w3.org/aria-editors) for the ARIA Editors Task Force.
 
 ## Other
 

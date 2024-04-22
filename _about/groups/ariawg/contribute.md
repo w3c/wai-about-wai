@@ -10,7 +10,31 @@ github:
   path: '_about/groups/ariawg/contribute.md'
 ---
 
-There are a number of ways non-participants in the ARIA WG can contribute to the work. If you wish to be an active contributer, however, you should [join the Working Group](https://www.w3.org/WAI/ARIA/participation).
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+There are a number of ways non-participants in the ARIA WG can contribute to the work. If you wish to be an active contributer, however, you should [join the Working Group](https://www.w3.org/groups/wg/aria/instructions/).
+
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2,3,4" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+
 
 ## Public comments
 

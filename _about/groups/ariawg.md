@@ -10,7 +10,7 @@ permalink: /about/groups/ariawg/
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides basic information about ARIA.<br>**For more detailed information, see the [ARIA GitHub Repo](https://www.github.com/w3c/aria/).**
+This page provides basic information about ARIA.<br>**For more detailed information, see the [W3C ARIA Working Group page](https://www.w3.org/groups/wg/aria/).**
 
 {::nomarkdown}
 {% include box.html type="end" %}
