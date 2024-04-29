@@ -18,7 +18,7 @@ The APA WG accepts public comments on publications on the [public-apa](http://li
 
 ## Github issues and pull requests
 
-Much of the technical work is done in the [W3C PFWG repository on GitHub](https://github.com/w3c/apa/). A [GitHub account](http://github.com/) is required for the following functionality. In addition to using the comments list described above to submit input, you may:
+Much of the technical work is done in the [W3C APA WG repository on GitHub](https://github.com/w3c/apa/). A [GitHub account](http://github.com/) is required for the following functionality. In addition to using the comments list described above to submit input, you may:
 
 - [Watch the repository](https://help.github.com/articles/watching-repositories/);
 - [File issues](https://guides.github.com/features/issues/);
