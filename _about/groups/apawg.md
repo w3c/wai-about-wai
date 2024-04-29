@@ -22,11 +22,11 @@ No announcements at the moment.
 The APA WG is engaged on the following work:
 
 - Publications: The Working Group maintains a comprehensive list of [publications and status](https://www.w3.org/WAI/APA/deliverables), which include:
-    - Several [Accessibility User Requirements](https://www.w3.org/TR/?title=accessibility%20user%20requirements) guides for specific technologies;
+    - Several [Accessibility User Requirements](https://www.w3.org/TR/?filter-tr-name=accessibility+user+requirements) guides for specific technologies;
     - [Framework for Accessible Specification of Technologies](https://w3c.github.io/apa/fast/) plus [FAST checklist](https://w3c.github.io/apa/fast/checklist.html),
     - [Inaccessibility of CAPTCHA](https://w3c.github.io/apa/captcha/),
-    - [Pronunciation technology](https://www.w3.org/TR/?title=pronunciation) to provide for proper pronunciation in HTML content when using text to speech (TTS) synthesis,
-    - [Personalization technology](https://www.w3.org/TR/?title=personalization) to enable design of sites in a way that they can be personalized to the needs of each user allows more optimal accessibility.
+    - [Spoken Presentation technology](https://www.w3.org/TR/?filter-tr-name=spoken+presentation) to provide for proper pronunciation in HTML content when using text to speech (TTS) synthesis,
+    - [WAI-Adapt technology](https://www.w3.org/TR/?filter-tr-name=WAI-Adapt) to enable design of sites in a way that they can be personalized to the needs of each user allows more optimal accessibility.
 - Specification reviews: input is solicited on the [WAI Interest Group mailing list](http://lists.w3.org/Archives/Public/w3c-wai-ig/), tracked in the [APA specification review wiki pages](https://www.w3.org/WAI/APA/wiki/Category:Spec_Review)and comments are copied to the [public-apa mailing list](https://lists.w3.org/Archives/Public/public-apa/).
 - Community groups: the Working Group maintains a [list of community groups to track](https://www.w3.org/WAI/APA/wiki/Community_Groups).
 
@@ -61,7 +61,6 @@ The APA WG conducts its work using a variety of synchronous and asynchronous too
 - [Wiki](https://www.w3.org/WAI/APA/wiki/);
 - [Web-Based Surveys (WBS)](https://www.w3.org/2002/09/wbs/83907/);
 - [Issue Tracker](https://www.w3.org/WAI/APA/track/);
-- [Bugzilla](https://www.w3.org/Bugs/Public/);
 - [apa source repository issue tracker](https://github.com/w3c/apa/issues).
 
 These tools are used by participants of the Working Group. For ways non-participants can contribute, see [how to contribute to the Working Group and file comments](https://www.w3.org/WAI/APA/contribute).
@@ -72,7 +71,7 @@ These tools are used by participants of the Working Group. For ways non-particip
 
 ## Administrative Information
 
-Work of the APA WG is in accordance with the [W3C Process](http://www.w3.org/2015/Process-20150901/). APA work is funded in part by the [WAI Core 2015 Project](http://www.w3.org/WAI/Core2015/). The work of this group does not necessarily reflect the views or policies of the funders.
+Work of the APA WG is in accordance with the [W3C Process](https://www.w3.org/2023/Process-20231103/). APA work is funded in part by the [WAI Core 2015 Project](http://www.w3.org/WAI/Core2015/). The work of this group does not necessarily reflect the views or policies of the funders.
 
 The chairs of the APA WG, responsible for overall leadership and management, are [Matthew Atkinson](mailto:m.atkinson@samsung.com) and [Janina Sajka](mailto:janina@rednote.net). The staff contact, responsible for [W3C Process](http://www.w3.org/Consortium/Process/) and general support, is [Ruoxi (Roy) Ran](http://www.w3.org/People/Roy/). Administrative inquiries may be sent to [group-apa-chairs@w3.org](mailto:group-apa-chairs@w3.org).
 
@@ -83,6 +82,6 @@ The Accessible Platform Architectures maintains the following operational resour
 - [Archives of past activity](https://www.w3.org/WAI/APA/archive);
 - [meeting minutes](https://www.w3.org/WAI/APA/minutes).
 
-W3C maintains a [public list of any patent disclosures](http://www.w3.org/2004/01/pp-impl/83907/status) made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent.
+W3C maintains a [public list of any patent disclosures](https://www.w3.org/groups/wg/apa/ipr/) made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent.
 
-[Current participants in the APA WG](https://www.w3.org/2000/09/dbwg/details?group=83907&public=1).
+[Current participants in the APA WG](https://www.w3.org/groups/wg/apa/participants/).
