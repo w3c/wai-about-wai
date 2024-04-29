@@ -33,30 +33,32 @@ The [Working Group charter](https://www.w3.org/2015/10/apa-charter.html#mileston
 	</thead>
 	<tbody>
 		<tr>
-			<th><a href="https://w3c.github.io/personalization-semantics/content/">Personalization Semantics Content Module</a></th>
-			<td>FPWD published by ARIA WG; IP being transferred to APA.</td>
+			<th><a href="https://www.w3.org/TR/adapt-symbols/">WAI-Adapt: Symbols Module</a></th>
+			<td>CR on 05 January 2023</td>
 			<td>
 				<br>
 			</td>
-			<td>Feb 2019</td>
-			<td>Jun 2019</td>
-			<td>Sep 2019</td>
+			<td>Jan 2023</td>
+			<td>Jun 2024</td>
+			<td>Sep 2025</td>
 		</tr>
 		<tr>
-			<th><a href="https://w3c.github.io/personalization-semantics/help/">Personalization Semantics Help and Support Module</a></th>
-			<td>FPWD planned Q3 2018</td>
-			<td>Oct 2018</td>
-			<td>Nov 2019</td>
-			<td>Apr 2020</td>
-			<td>Dec 2020</td>
+			<th><a href="https://www.w3.org/TR/adapt-help/">WAI-Adapt Help and Support Module</a></th>
+			<td>WD 09 June 2022</td>
+			<td><br>
+				</td>
+			<td>Nov 2024</td>
+			<td>Apr 2025</td>
+			<td>Dec 2025</td>
 		</tr>
 		<tr>
-			<th><a href="https://w3c.github.io/personalization-semantics/tools/">Personalization Semantics Tools Module</a></th>
-			<td>FPWD planned Q3 2018</td>
-			<td>Oct 2018</td>
-			<td>Nov 2020</td>
-			<td>Apr 2021</td>
-			<td>Dec 2021</td>
+			<th><a href="https://www.w3.org/TR/spoken-html/">Specification for Spoken Presentation in HTML</a></th>
+			<td>WD 21 September 2021</td>
+			<td><br>
+				</td>
+			<td>Nov 2024</td>
+			<td>Apr 2025</td>
+			<td>Dec 2025</td>
 		</tr>
 	</tbody>
 </table>
