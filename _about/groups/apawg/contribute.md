@@ -28,7 +28,6 @@ Much of the technical work is done in the [W3C PFWG repository on GitHub](https:
 
 If you would like to monitor the work of the APA WG and contribute on-line, you may subscribe to the following mailing lists. You will not be considered a formal participant but may comment and contribute. The APA WG uses the following mailing lists:
 
-- [wai-xtech@w3.org](http://lists.w3.org/Archives/Public/wai-xtech/) is used for technical discussion. [Subscribe to wai-xtech](mailto:wai-xtech-request@w3.org?subject=subscribe) by sending mail to wai-xtech-request@w3.org with the subject "subscribe" or [Post to wai-xtech](mailto:wai-xtech@w3.org) by sending mail to wai-xtech@w3.org.
 - The [WAI Interest Group](http://www.w3.org/WAI/IG/) and its mailing lists is used for announcements of WG activity and to coordinate specification review.
 - [public-apa@w3.org](http://lists.w3.org/Archives/Public/public-apa/) is used for technical discussion of the WG.
 - [public-apa-admin@w3.org](http://lists.w3.org/Archives/Public/public-apa-admin/) is used for administrative coordination of the WG.
