@@ -9,7 +9,7 @@ ref: /about/participating/
 lang: en
 
 footer: >
-  <p><strong>Date:</strong> Updated 24 March 2022.</p>
+  <p><strong>Date:</strong> Updated 29 April 2024.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
@@ -50,7 +50,7 @@ accessibility.
 We encourage individuals and organizations around the world to
 participate in activities that help improve accessibility of the web.
 
-**_After you read this page_, if you have any questions about getting involved with WAI or would like more information, please send specific questions to Shawn at <shawn@w3.org> and CC <wai@w3.org>.**
+_After you read this page_, if you have any questions about getting involved with WAI or would like more information, please send specific questions to [Shawn@w3.org with CC to wai@w3.org](mailto:shawn@w3.org?cc=wai@w3.org&subject=Participating%20in%20WAI).
 
 ## Getting News of Drafts for Review  {#news}
 
