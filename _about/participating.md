@@ -9,7 +9,7 @@ ref: /about/participating/
 lang: en
 
 footer: >
-  <p><strong>Date:</strong> Updated 6 February 2023.</p>
+  <p><strong>Date:</strong> Updated 29 April 2024.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
   
