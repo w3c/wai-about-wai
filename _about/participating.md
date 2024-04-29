@@ -50,7 +50,7 @@ accessibility.
 We encourage individuals and organizations around the world to
 participate in activities that help improve accessibility of the web.
 
-_After you read this page_, if you have any questions about getting involved with WAI or would like more information, please send specific questions to [Shawn@w3.org CC:wai@w3.org](mailto:shawn@w3.org?cc=wai@w3.org&subject=Participating%20in%20WAI).
+_After you read this page_, if you have any questions about getting involved with WAI or would like more information, please send specific questions to [Shawn@w3.org with CC to wai@w3.org](mailto:shawn@w3.org?cc=wai@w3.org&subject=Participating%20in%20WAI).
 
 ## Getting News of Drafts for Review  {#news}
 
