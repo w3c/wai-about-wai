@@ -14,7 +14,7 @@ This page explains the requirements and procedures for becoming a participant in
 
 Participating in the Working Group requires a W3C account; you can [create an account](https://www.w3.org/accounts/request) if you do not already have one. Before applying to join, please read the [APA WG Charter](https://www.w3.org/WAI/APA/charter) to review the activity and commitments. When you join the group, you are automatically added to the [mailing lists](https://www.w3.org/WAI/APA/contribute#lists) and provide access to the WG [communication tools](https://www.w3.org/WAI/APA/communication).
 
-[Current participants in the APA WG](https://www.w3.org/2000/09/dbwg/details?group=83907&public=1).
+[Current participants in the APA WG](https://www.w3.org/groups/wg/apa/participants/).
 
 ## Employees of Member organizations
 
