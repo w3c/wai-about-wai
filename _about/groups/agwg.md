@@ -81,7 +81,7 @@ These tools are used by participants of the Working Group. For ways non-particip
 
 ### Meeting Minutes
 
-[Minutes from previous meetings](minutes) are available.
+[Minutes from previous meetings](https://www.w3.org/WAI/GL/minutes-history) are available.
 
 ## Administrative Information
 

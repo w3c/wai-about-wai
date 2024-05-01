@@ -1,7 +1,5 @@
 ---
 title: Accessibility Conformance Testing (ACT)
-order: 1
-group: task-forces
 permalink: /about/groups/task-forces/conformance-testing/
 ref: /about/groups/task-forces/conformance-testing/
 lang: en
@@ -10,48 +8,107 @@ github:
   path: '_about/groups/task-forces/conformance-testing.md'
 ---
 
-## Introduction
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
 
-Historically, the ARIA Working Group placed its primary focus on defining all of the features intended for authors, leaving platform accessibility API mappings, implementations, testing, and authoring guidance as tasks to be completed after those features had been defined and the associated specification entered Candidate Recommendation. This approach proved problematic:
+The WCAG Accessibility Conformance Testing (ACT) Task Force (ACT) is a Task Force of the [Accessibility Guidelines (AG) Working Group](/about/groups/agwg/). It assists the AG WG to produce specific deliverables as specified in the [work statement](/about/groups/task-forces/conformance-testing/work-statement/).
 
-- Discovering disconnects between what the feature developers want and what implementors want after the specification(s) had entered Candidate Recommendation.
-- Discovering critical bugs blocking implementation after the specification(s) had entered Candidate Recommendation.
-- Discovering mapping errors after the specification(s) had entered Candidate Recommendation.
-- Failing to achieve the milestones defined in the Working Group's charter.
-- Failing to ensure the Working Group has "buy in" from all stakeholders, including authors, user agent implementors, and assistive technology developers.
+Some information on this page is also shown on, and may be more current in, the [automatically generated Accessibility Conformance Testing (ACT) Task Force page](https://www.w3.org/groups/tf/wcag-act).
 
-In order to minimize the occurrence of such problems in the future, the ARIA Working Group agreed to adopt a work flow proposed at TPAC 2017 designed to see each proposed feature through to completion, with ARIA features, mappings, implementation, testing, and authoring guidance happening together. That agreed-upon work flow is described in this document.
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-## Work flow
+{::options toc_levels="2..3" /}
 
-For each ARIA feature:
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
 
-1. Create / modify a single ARIA feature in a [working branch](https://www.w3.org/WAI/ARIA/workflow#branching) of the specification repository.
-2. Obtain platform mappings for that feature from platform mapping maintainers and add in a working branch of the mappings repository.
-3. Create test file(s) for that feature and add to the [web-platform-tests repository](https://github.com/w3c/web-platform-tests).
-4. Execute tests and obtain test results for that feature and add to the [test-results repository](https://github.com/w3c/test-results).
-5. If tests report failures, double-check that the mapping, test file, and test methodology are correct. If so, file bugs against user agents for that feature and track progress via periodic retesting.
-6. Solicit assistive technology implementations for that feature.
-7. Write authoring guidance for that feature in a working branch of the authoring practices repository.
-8. When a feature meets the [criteria for readiness](https://www.w3.org/WAI/ARIA/workflow#readiness), merge working branch related to the feature into the stable branch of the respective repositories.
+-   TOC is created automatically.
+{:toc}
 
-## Criteria for "Readiness" of an ARIA Feature
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
 
-- Positive confirmation of acceptance by a sufficient number of user agent implementors in the form of a passing test result or a comment in a public issue tracker that they intend to implement as described in the specifications. "Sufficient" will depend on the anticipated exit criteria of the associated specification(s).
-- Positive confirmation of acceptance by multiple assistive technology vendors in the form of implementing support, or a comment in a public issue tracker that they intend to implement support.
-- Confirmation by the Authoring Practices task force that there are no unanticipated problems with the feature.
+## Facilitator and Contacts
 
-## Implications of the Work Flow on Drafts and Branches
+- **Task Force co-facilitators:**
+    - Wilco Fiers, Deque Systems
+    - Kathy Eng, Access Board
+- **Staff Contact:** [Daniel Montalvo](https://www.w3.org/People/#dmontalvo)
 
-Specifications and Notes should, as a general rule, follow this approach to including features and maintaining branches:
+## Announcements
 
-- Features still in development with respect solely to the document in which they are contained should be committed to a feature-specific branch in the repository for that document.
-- Features which are complete with respect solely to the document in which they are contained should be committed to the "master" branch in the repository for that document. The "master" branch serves as the source for Editor's Draft snapshots.
-- Features which are "ready" (as defined above) should be cherry-picked from the "master" branch to the "stable" branch in each of the relevant repositories (e.g. ARIA, Accessibility API Mappings, and Authoring Practices). The "stable" branch serves as the source for publishing Working Draft revisions.
-- When a given document becomes feature frozen due to entering Candidate Recommendation or becoming a Note, a branch for the version (e.g. "1.1") should be created so that work can continue on the next dot release of that document.
+No announcements at the moment.
 
-## Version Completion and Advancement to Candidate Recommendation
+## Meetings and Communication
 
-- The specification is ready to transition to Candidate Recommendation when all in-scope features have been completed OR a target milestone deadline has been reached.
-- The Candidate Recommendation will contain all features that have been incorporated into the stable branch at the time of transition.
-- Unless implementation problems are discovered during the Candidate Recommendation that were not caught in the initial development and testing workflow, the group will request transition to Proposed Recommendation after approximately 45 days.
+### Weekly Teleconferences
+
+ACT TF meets weekly on **[Thursdays from 09:00 to 10:00 AM ET](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T09&p1=43&ah=1)**:
+
+- Meeting materials
+    - [Meeting minutes](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Meeting_Minutes)
+    - [Availability for ACT TF Teleconferences](https://www.w3.org/2002/09/wbs/93339/availability/)
+    - [Scribe rotation list](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Scribe_Rotation_List)
+- IRC options
+    - [Join IRC channel](http://irc.w3.org/?channels=#wcag-act) (online using your browser)
+    - Server: irc.w3.org; Port 6665, 6667, 21, or 994; Channel: #wcag-act
+
+### Meeting Minutes
+
+[Minutes from previous meetings](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Meeting_Minutes) are available.
+
+### Mailing Lists
+
+The ACT TF uses the public-wcag-act@w3.org mailing list ([mailing list archives](http://lists.w3.org/Archives/Public/public-wcag-act/)) for email discussion. Participants are automatically added to the mailing list when they become a participant of the Task Force.
+
+### Tools and Information
+
+- [ACT TF Work Statement](/about/groups/task-forces/conformance-testing/work-statement)
+- [Wiki main page](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/)
+    - [ACT Overview](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/ACT_Overview_-_What_is_ACT)
+    - [Meeting minutes](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Meeting_Minutes) (also see [automatically collected minutes](https://www.w3.org/WAI/GL/task-forces/conformance-testing/minutes))
+    - [Availability for ACT TF Teleconferences](https://www.w3.org/2002/09/wbs/93339/availability/)
+- [Mailing list archive](http://lists.w3.org/Archives/Public/public-wcag-act/)
+- [Teleconference logistics](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Teleconference_Logistics)
+    - [Zoom and IRC setup](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Zoom_and_IRC_Setup)
+    - [Scribing instructions](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Scribing_Instructions)
+    - [Scribe rotation list](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Scribe_Rotation_List)
+- [Face-to-face meetings](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Face-to-Face_Meetings)
+- GitHub repositories
+    - [ACT Spec (main)](https://github.com/w3c/wcag-act/)
+    - [ACT Rules](https://github.com/w3c/wcag-act-rules/)
+- [Web-based surveys (WBS)](https://www.w3.org/2002/09/wbs/93339/)
+
+## Current Work
+
+See the [wiki for current planning and draft documents](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/).
+
+## Publications
+
+**Accessibility Conformance Testing (ACT) Rules Format 1.0**
+
+- W3C Standard: [https://www.w3.org/TR/act-rules-format/](https://www.w3.org/TR/act-rules-format/)
+- Errata: [https://www.w3.org/WAI/GL/task-forces/conformance-testing/errata](https://www.w3.org/WAI/GL/task-forces/conformance-testing/errata)
+- Editor draft: [https://w3c.github.io/wcag-act/act-rules-format.html](https://w3c.github.io/wcag-act/act-rules-format.html)
+
+**Accessibility Conformance Testing (ACT) Rules Repository**
+
+- Published rules: [https://www.w3.org/WAI/standards-guidelines/act/#act-rules-repository](https://www.w3.org/WAI/standards-guidelines/act/#act-rules-repository)
+- GitHub repository: [https://github.com/w3c/wcag-act-rules/](https://github.com/w3c/wcag-act-rules/)
+
+## How to Comment, Contribute, and Participate
+
+To join the ACT TF, individuals must be participants of the AG WG. Participants are expected to [actively contribute](https://www.w3.org/WAI/GL/task-forces/conformance-testing/work-statement#participation) to the work of the Task Force. If you are interested in participating in the ACT TF, please send e-mail to: [Daniel Montalvo](mailto:dmontalvo@w3.org?subject=ACT%20TF%20Enquiry) and include a little bit about what you're interested in and how you think that you may be able to contribute to the Task Force. Then follow the [AG Working Group participation](https://www.w3.org/WAI/GL/participation) procedures to join the Working Group, and once you have joined ask [Daniel Montalvo](mailto:dmontalvo@w3.org) to add you to the task force.
+
+To contribute without joining the task force, see the [AG Working Group contribute page](https://www.w3.org/WAI/GL/contribute) for general instructions. To contribute to documents under development, see [GitHub repository](https://github.com/w3c/wcag-act/) directly.
+
+[Current participants in the ACT TF](https://www.w3.org/2000/09/dbwg/details?group=93339&public=1).
+
+### Work Statement
+
+The [Accessibility Conformance Testing (ACT) Task Force Work Statement](/about/groups/task-forces/conformance-testing/work-statement/) defines the initial objective, scope, approach, and participation of the Task Force.
