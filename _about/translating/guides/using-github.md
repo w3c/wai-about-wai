@@ -1,5 +1,5 @@
 ---
-title: "Using GitHub"
+title: "How to Use GitHub to Translate WAI Resources"
 nav_title: Using GitHub
 github:
   repository: w3c/wai-about-wai
@@ -7,14 +7,14 @@ github:
 permalink: /about/translating/guides/using-github/
 ref: /about/translating/guides/using-github/
 lang: en
-last_updated: 2023-11-09
+last_updated: 2024-04-09
 
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 9 November 2023.</p>
+  <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editors:</strong> Rémi Bétin and <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 
@@ -28,6 +28,15 @@ inline_css: |
    }
 
 ---
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page guide you through the steps to translate WAI resources using GitHub.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2,3" /}
 {::nomarkdown}
@@ -41,11 +50,13 @@ inline_css: |
 {% include toc.html type="end" %}
 {:/}
 
-## Creating a translation in GitHub - A step by step guide
-
 {% include showhidebutton.html showtext="Show all screenshots" hidetext="Hide all screenshots" target=".screenshot" %}
 
-### Create the translation file
+## Initial step: Declare your intent
+
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
+
+## Create the translation file
 
 <ol>
    <li>
@@ -92,7 +103,7 @@ inline_css: |
    </li>
 </ol>
 
-### Work on your translation
+## Work on your translation
 
 <ol start="8">
    <li>
@@ -115,7 +126,7 @@ inline_css: |
    </li>
 </ol>
 
-### Prepare your draft Pull Request
+## Prepare your draft Pull Request
 
 <ol start="11">
    <li>
@@ -141,7 +152,7 @@ inline_css: |
    </li>
 </ol>
 
-### Preview your changes
+## Preview your changes
 
 <ol start="14">
    <li>After you submit the pull request, it will create a preview so you can check your file and make edits. At first, a notification comment will say <strong>"👷 Deploy Preview for <em>wai-repo-name</em> processing."</strong>
@@ -158,7 +169,7 @@ inline_css: |
    </li>
 </ol>
 
-### Mark your Pull request as ready for review
+## Mark your Pull request as ready for review
 
 <ol start="16">
 <li><p>When you have done all your checks and edits, click on the "Edit" button at the top of the Pull request view, to change the title prefix "[IN-PROGRESS]" to <strong>"[Ready for Review]"</strong></p>

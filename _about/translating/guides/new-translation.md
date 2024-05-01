@@ -1,5 +1,5 @@
 ---
-title: "Creating a New Translation"
+title: "How to Translate a WAI Resource"
 nav_title: New translation
 github:
   repository: w3c/wai-about-wai
@@ -7,21 +7,34 @@ github:
 permalink: /about/translating/guides/new-translation/
 ref: /about/translating/guides/new-translation/
 lang: en
-last_updated: 2023-11-09
-
+last_updated: 2024-04-09
+redirect_from:
+  - /about/translating/guides/translation-guidance/
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
 
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 9 November 2023.</p>
+  <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
 
-{::options toc_levels="2,3" /}
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page guides you through the technical steps to translate Web Accessibility Initiative (WAI) resources, and provides other important guidance.
+
+For instructions on translating the Web Content Accessibility Guidelines (WCAG), see [[How to Translate WCAG 2]](/about/translating/guides/wcag/).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2" /}
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
 -   TOC is created automatically.
@@ -31,10 +44,30 @@ footer: |
 {% include toc.html type="end" %}
 {:/}
 
-## Initial steps
+## Overview
 
-Before starting:
-- Find the language short code "subtag" from [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). You will use it at multiple times during the translation.
+There are 4 main technical steps to create a new WAI resource translation:
+
+1. **[Create a new file](#create-file)**
+
+2. **[Update the "front matter" metadata](#frontmatter)**
+
+3. **[Translate the main content](#main-content)**
+
+4. **[Commit your changes and open a Pull Request](#commit-changes)**
+
+## General guidance
+
+- **Do not change or adapt or add to the meaning of the English version** in your translation.\
+If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the “Help improve this page” box near the bottom of the page.
+- **Before starting, find the language short code "subtag"** from [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). You will use it at multiple times during the translation.
+- The markdown files are very sensitive to indentation, commas, quotes, and special characters. **We recommend that you use a markdown editor or a simple text editor** (including GitHub interface) — and not a document editor like Microsoft Word that often changes quotes and indentation.
+- **Some resources have specific Translations notes.** If you see a comment such as "Read Translations Notes at" in the ["front matter" metadata](/about/translating/guides/new-translation/#frontmatter), follow the link and read the specific guidance.\
+If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance {% include_cached external.html %}](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
+
+## Initial step: Declare your intent
+
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
 
 ## Step 1: Create a new file {#create-file}
 
@@ -51,7 +84,7 @@ Duplicate the file used by the original version, with the language shortcode add
 {% include box.html type="end" %}
 {:/}
 
-## Step 2: Update "front matter" metadata {#frontmatter}
+## Step 2: Update the "front matter" metadata {#frontmatter}
 
 {::nomarkdown}
 {% include box.html type="start" class="highlighted" %}
@@ -184,6 +217,98 @@ Many resources have inline instructions in the front matter (after the "`#`" cha
 
 Please follow these instructions. It will help you know what to translate/update and what to not change.
 
-## Step 3: Translate main content
+## Step 3: Translate main content {#main-content}
 
-Follow [Translation guidance]({{ "/about/translating/guides/translation-guidance/" | relative_url }}) to translate the main content of the page.
+### Markdown/Code
+
+Please leave the code, HTML, and markdown as is without changing it.
+
+Make sure to:
+
+{::nomarkdown}
+<ul>
+<li>
+{:/}
+
+Translate titles in the markdown, such as "Summary" in:
+
+{::nomarkdown}
+{% include box.html type="start" %}
+{:/}
+```liquid
+{% raw %}{% include box.html type="start" title="Summary" class="" %}{% endraw %}
+```
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+</li>
+<li>
+{:/}
+
+Translate image alternative text, such as “mouse crossed out” in:
+
+{::nomarkdown}
+{% include box.html type="start" %}
+{:/}
+
+- in Markdown: `![mouse crossed out](https://www.w3.org/WAI/intro/no-mouse.png)`
+- in HTML: `<img src="https://www.w3.org/WAI/intro/no-mouse.png" alt="mouse crossed out" />`
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+</li>
+<li>
+{:/}
+
+Make sure that the quote marks stay as is, and are not converted to "smart quotes" by word processing software.
+
+{::nomarkdown}
+</li>
+</ul>
+{:/}
+
+### Links
+
+Most links are formatted with single or double brackets and parentheses; for example:
+
+{::nomarkdown}
+{% include box.html type="start" %}
+{:/}
+```markdown
+[Text that is linked]({%raw%}/{%endraw%}path/to/filename/)
+[[Title of WAI Page]]({%raw%}/{%endraw%}path/to/filename/)
+```
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+Make sure to:
+- Keep brackets and parentheses together, with no space between the closing `]` and the opening `(`.
+- Keep double `[[` or single brackets `[` as they are.
+- Translate the text in the links, including document titles.
+- Do not manually add `(in English)`, even for external links.
+
+### Specific wording {#specific-wording}
+- Check [other translations in your language](/translations) to see how similar words and concepts have been translated. In particular, [Authorized Translations](https://www.w3.org/Translations/authorized.html) have had significant review and input.
+- Read the [General Translation Glossary {% include_cached external.html %}](https://github.com/w3c/wai-translations/blob/main/glossaries/general.md) and see if there is a [glossary for your language {% include_cached external.html %}](https://github.com/w3c/wai-translations#list-of-glossaries).
+- Consider different dialects. Where possible, the translation should use words and phrases that will be best understood across different areas.
+
+### Videos & Images
+
+- If the page has videos, refer to [[How to Create Translated Video Subtitles and Descriptions]](/about/translating/guides/video-subtitles/)
+- If the page has images with text, refer to [[How to Translate Images]](/about/translating/guides/images/)
+
+## Step 4: Commit your changes and open a Pull Request {#commit-changes}
+
+Commit your changes and follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/step-by-step/#preview).
+
+## We are here to help
+
+If you have any questions about the translation, please report them in the related GitHub issue so that WAI team and other volunteers can help. Alternatively, send an e-mail to the publicly-archived [public-wai-translations@w3.org](mailto:public-wai-translations@w3.org) mailing-list.
+
+We are happy to help you decide on the best translated wording by sharing the considerations and nuances that went into choosing the wording for the English page.
