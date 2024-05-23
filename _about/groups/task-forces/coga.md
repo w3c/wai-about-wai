@@ -1,5 +1,6 @@
 ---
 title: Cognitive and Learning Disabilities Accessibility Task Force (COGA)
+permalink: /about/groups/task-forces/coga/
 ref: /about/groups/task-forces/coga/
 lang: en
 github:

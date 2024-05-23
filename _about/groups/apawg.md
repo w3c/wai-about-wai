@@ -11,7 +11,31 @@ github:
   path: '_about/groups/apawg.md'
 ---
 
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
 The mission of the Accessible Platform Architectures Working Group (APA WG) is to ensure W3C specifications provide support for accessibility to people with disabilities. The group advances this mission through review of W3C specifications, development of technical support materials, collaboration with other Working Groups, and coordination of harmonized accessibility strategies within W3C.
+
+Some information on this page is also shown on, and may be more current in, the automatically generated [Accessible Platform Architectures Working Group page](https://www.w3.org/groups/wg/apa/).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2..3" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
 
 ## Announcements
 

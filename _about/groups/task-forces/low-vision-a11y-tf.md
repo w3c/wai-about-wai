@@ -1,5 +1,5 @@
 ---
-title: Accessibility Conformance Testing (ACT)
+title: Low Vision Accessibility Task Force (LVTF) of the AG WG
 permalink: /about/groups/task-forces/low-vision-a11y-tf/
 ref: /about/groups/task-forces/low-vision-a11y-tf/
 lang: en
@@ -12,7 +12,7 @@ github:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-The Low Vision Accessibility Task Force (LVTF) is a task force of the [Accessibility Guidelines Working Group (AG WG)](/about/groups/agwg). The objective of the Task Force is to address web accessibility issues specific to people with low vision.
+The Low Vision Accessibility Task Force (LVTF) is a task force of the [Accessibility Guidelines Working Group (AG WG)](/about/groups/agwg/). The objective of the Task Force is to address web accessibility issues specific to people with low vision.
 
 Some information on this page is also shown on, and may be more current in, the [automatically generated Low Vision Accessibility Task Force page](https://www.w3.org/groups/tf/low-vision-a11y-tf).
 
@@ -116,8 +116,6 @@ Participants are expected to actively contribute to the work of LVTF, including:
 - Participate in LVTF teleconferences, or record regrets in the [Availability for Upcoming LVTF Teleconferences Survey](https://www.w3.org/2002/09/wbs/81151/LVTF-telecons/)
 
 To become a participant of Low Vision Accessibility Task Force or if you have questions, contact [the Facilitators and Team contact via mailto:group-lvtf-plan@w3.org](mailto:group-lvtf-plan@w3.org?subject=Low Vision Accessibility Task Force Enquiry).
-
-[Low Vision Accessibility Task Force - Participants](https://www.w3.org/groups/tf/low-vision-a11y-tf/participants) lists curent and past participants.
 
 ### Patent Disclosures
 

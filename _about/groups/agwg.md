@@ -17,7 +17,7 @@ github:
 
 The mission of the Accessibility Guidelines Working Group is to develop specifications to support making implementations of web technologies accessible for people with disabilities, and to develop and maintain implementation support materials.
 
-Some information on this page is also shown on, and may be more current in, the automatically generated [Accessibility Guidelines Working Group page](https://www.w3.org/groups/wg/ag).
+Some information on this page is also shown on, and may be more current in, the automatically generated [Accessibility Guidelines Working Group page](https://www.w3.org/groups/wg/ag/).
 
 {::nomarkdown}
 {% include box.html type="end" %}

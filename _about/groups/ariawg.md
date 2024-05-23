@@ -10,7 +10,9 @@ permalink: /about/groups/ariawg/
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides basic information about ARIA.<br>**For more detailed information, see the [W3C ARIA Working Group page](https://www.w3.org/groups/wg/aria/).**
+The mission of the Accessible Rich Internet Applications Working Group (ARIA WG) is to develop technologies that enhance accessibility of web content for people with disabilities. This includes continued development of the Accessible Rich Internet Applications (WAI-ARIA) suite of technologies and other technical specifications when needed to bridge known gaps.
+
+Some information on this page is also shown on, and may be more current in, the automatically generated [ARIA Working Group page](https://www.w3.org/groups/wg/aria/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -28,8 +30,6 @@ This page provides basic information about ARIA.<br>**For more detailed informat
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-The mission of the Accessible Rich Internet Applications Working Group (ARIA WG) is to develop technologies that enhance accessibility of web content for people with disabilities. This includes continued development of the Accessible Rich Internet Applications (WAI-ARIA) suite of technologies and other technical specifications when needed to bridge known gaps.
 
 ## Announcements
 
