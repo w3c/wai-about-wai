@@ -52,7 +52,7 @@ Previous Groups:
 
 See also:
 
--   [**Task Forces**](/about/groups/taskforces/) - Lists some active Task Forces that
+-   [**Task Forces**](/about/groups/task-forces/) - Lists some active Task Forces that
     operate under WAI Working Groups, and/or jointly between WAI groups
     and other W3C groups.
 -   **[Participating in WAI](/get-involved/)** - Describes participation
