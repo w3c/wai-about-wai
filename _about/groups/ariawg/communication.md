@@ -25,24 +25,6 @@ github:
 
 The ARIA Working Group uses the following tools and procedures to perform its work.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{::options toc_levels="2,3,4" /}
-
-{::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
-{:/}
-
--   TOC is created automatically.
-
-{:toc}
-
-{::nomarkdown}
-{% include toc.html type="end" %}
-{:/}
-
 ## Teleconferences
 
 The ARIA WG and its task forces participate in the following teleconferences. Unless otherwise mentioned, times are given in Boston time because the UTC time floats with U.S. Daylight Savings Time changes. Follow the link to convert to local time. Meetings take place on [Zoom](https://zoom.us), using the link given on the meeting name. [IRC](https://www.w3.org/wiki/IRC) is used for text chat and [minute taking](http://dev.w3.org/cvsweb/~checkout~/2002/scribe/scribedoc.htm?content-type=text/html). It is not expected that participants will join all meetings; instead please strive to be a regular participant in the meeting(s) of greatest relevance to your work in the group.
