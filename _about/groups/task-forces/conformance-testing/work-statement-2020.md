@@ -5,7 +5,7 @@ ref: /about/groups/task-forces/conformance-testing/work-statement/
 lang: en
 github:
   repository: w3c/wai-about-wai
-  path: '_about/groups/task-forces/conformance-testing/work-statement.md'
+  path: '_about/groups/task-forces/conformance-testing/work-statement-2020.md'
 ---
 
 {::options toc_levels="2..3" /}
