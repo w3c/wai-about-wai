@@ -24,13 +24,13 @@ ones, are listed on each Working Group's home page.
     it provides more consistency and comparability of the resulting test
     rules.
     
-**[ARIA Authoring Practices Task Force](/about/groups/task-forces/practices/)** under the [ARIA Working Group](about/groups/aria)
+**[ARIA Authoring Practices Task Force](/about/groups/task-forces/practices/)** under the [ARIA Working Group](about/groups/ariawg)
 :   Develop WAI-ARIA Authoring Practices Guide (APG), which describes considerations that might 
     not be evident to most authors from the WAI-ARIA specification  alone and recommends 
     approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles,
     states, and properties.    
 
-**[Cognitive and Learning Disabilities Accessibility Task Force](/about/groups/task-forces/coga/)** (Cognitive A11Y TF) under the [APA Working Group](/about/groups/apa/) and the [AG Working Group](/about/groups/agwg/)
+**[Cognitive and Learning Disabilities Accessibility Task Force](/about/groups/task-forces/coga/)** (Cognitive A11Y TF) under the [APA Working Group](/about/groups/apawg/) and the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the cognitive space.
@@ -44,7 +44,7 @@ ones, are listed on each Working Group's home page.
     guidance documents, as well as updates to existing related W3C
     material that addresses the mobile space.
 
-**[Research Question Task Force](/about/groups/task-forces/research-questions/)** under the [APA Working Group](/about/groups/apa/)
+**[Research Question Task Force](/about/groups/task-forces/research-questions/)** under the [APA Working Group](/about/groups/apawg/)
 :   Identify accessibility knowledge gaps and barriers in emerging and
     future web technologies, and to identify research findings,
     researchers, and research opportunities to inform and fill those
@@ -61,10 +61,10 @@ ones, are listed on each Working Group's home page.
     cultural web accessibility requirements and provide a base for
     continued evolution of the guidelines.
     
-**[Spoken Pronunciation Task Force](/about/groups/task-forces/pronunciation/)** under the [APA Working Group](/about/groups/apa/)
+**[Spoken Pronunciation Task Force](/about/groups/task-forces/pronunciation/)** under the [APA Working Group](/about/groups/apawg/)
 :   The Spoken Pronunciation Task Force has been exploring technical options for content authors to provide pronunciation information.
 
-**[WAI-Adapt Task Force](/about/groups/task-forces/personalization/)** under the [APA Working Group](/about/groups/apa/)
+**[WAI-Adapt Task Force](/about/groups/task-forces/personalization/)** under the [APA Working Group](/about/groups/apawg/)
 :   WAI-Adapt specifications enable users to personalize how content is presented in order to meet their needs and preferences.
 
 **[WCAG2ICT Task Force](/about/groups/task-forces/wcag2ict/)** under the [AG Working Group](/about/groups/agwg/)
