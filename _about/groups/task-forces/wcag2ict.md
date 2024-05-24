@@ -43,12 +43,10 @@ The WCAG2ICT TF conducts its work using a variety of synchronous and asynchronou
 
 - [Email lists](https://www.w3.org/WAI/GL/task-forces/wcag2ict/#email);
 - [wcag2ict GitHub repository](https://github.com/w3c/wcag2ict/) and [GitHub draft document](https://w3c.github.io/wcag2ict/);
-- IRC options
-
-- IRC discussion on the
-- [#wcag2ict](http://irc.w3.org/?channels=#wcag2ict) IRC channel, used largely for minute-taking;
-- Server: irc.w3.org; Port 6665, 6667, 21, or 994; Channel: #wcag2ict
-
+- IRC discussion on the [#wcag2ict IRC channel](http://irc.w3.org/?channels=#wcag2ict), used largely for minute-taking. IF you use your own IRC client:
+  - Server: irc.w3.org;
+  - Port 6665, 6667, 21, or 994;
+  - Channel: #wcag2ict
 - [Web-Based Surveys (WBS)](https://www.w3.org/2002/09/wbs/55145/);
 - [Teleconferences of the task force](https://www.w3.org/groups/tf/wcag2ict/calendar) (also see [meeting minutes](https://www.w3.org/WAI/GL/task-forces/wcag2ict/minutes));
 - Face to face meetings;
