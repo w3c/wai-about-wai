@@ -50,16 +50,16 @@ The WCAG2ICT TF conducts its work using a variety of synchronous and asynchronou
 - Server: irc.w3.org; Port 6665, 6667, 21, or 994; Channel: #wcag2ict
 
 - [Web-Based Surveys (WBS)](https://www.w3.org/2002/09/wbs/55145/);
-- [Teleconferences of the task force](https://www.w3.org/WAI/GL/task-forces/wcag2ict/#teleconferences) (also see [meeting minutes](https://www.w3.org/WAI/GL/task-forces/wcag2ict/minutes));
+- [Teleconferences of the task force](https://www.w3.org/groups/tf/wcag2ict/calendar) (also see [meeting minutes](https://www.w3.org/WAI/GL/task-forces/wcag2ict/minutes));
 - Face to face meetings;
 
-These tools are used by participants of the Task Force. For ways you can contribute, see [How to Comment, Contribute, and Participate](https://www.w3.org/WAI/GL/task-forces/wcag2ict/#contribute).
+These tools are used by participants of the Task Force. For ways you can contribute, see [How to Comment, Contribute, and Participate](#contribute).
 
 ### Teleconferences
 
 Weekly teleconferences are being held on Thursdays at 10:00 AM Eastern (Boston time).
 
-- **[WCAG2ICT Task Force](https://www.w3.org/2017/08/telecon-info_wcag2ict)**: Thursdays at 10:00 until 11:00 Boston time
+- **[WCAG2ICT Task Force](https://www.w3.org/groups/tf/wcag2ict/calendar/)**: Thursdays at 10:00 until 11:00 Boston time
 
 ### Meeting Minutes
 
@@ -71,29 +71,29 @@ The WCAG2ICT TF uses the public-wcag2ict-tf@w3.org mailing list ([mailing list a
 
 ## Current Work
 
-[Editors' draft of Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)](https://w3c.github.io/wcag2ict/)
+[Editors' draft of Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)](https://w3c.github.io/wcag2ict/)
 
 ## Publications
 
-W3C Working Group Note [Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)](https://www.w3.org/TR/wcag2ict/)
+2013 W3C Working Group Note [Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)](https://www.w3.org/TR/wcag2ict/)
 
-## How to Comment, Contribute, and Participate
+## How to Comment, Contribute, and Participate {#contribute}
 
-To join the WCAG2ICT TF, individuals must be participants of the Accessibility Guidelines Working Group. Participants are expected to [actively contribute](https://www.w3.org/WAI/GL/task-forces/wcag2ict/work-statement#participation) to the work of the Task Force. If you are interested in participating in the WCAG2ICT TF, email the task force leadership and working group chairs at [group-ag-chairs@w3.org](mailto:group-ag-chairs@w3.org) and include a little bit about what you’re interested in and how you think that you may be able to contribute to the Task Force. Then follow the [participation procedures of the Accessibility Guidelines Working Group](https://www.w3.org/WAI/GL/participation), and once you have joined ask [Daniel Montalvo](mailto:dmontalvo@w3.org) to add you to the task force.
+To join the WCAG2ICT TF, individuals must be participants of the Accessibility Guidelines Working Group. Participants are expected to [actively contribute](/about/groups/task-forces/wcag2ict/work-statement#participation) to the work of the Task Force. If you are interested in participating in the WCAG2ICT TF, email the task force leadership and working group chairs at [group-ag-chairs@w3.org](mailto:group-ag-chairs@w3.org) and include a little bit about what you’re interested in and how you think that you may be able to contribute to the Task Force. Then follow the instructions on [How to join the Accessibility Guidelines Working Group](https://www.w3.org/groups/wg/ag/instructions/). Once you have joined ask [Daniel Montalvo](mailto:dmontalvo@w3.org) to add you to the task force.
 
 [Current participants in the WCAG2ICT TF](https://www.w3.org/groups/tf/wcag2ict/participants).
 
 ## Administrative Information
 
-The WCAG2ICT TF is a Task Force of the [Accessible Guidelines Working Group (AG WG)](https://www.w3.org/WAI/GL/).
+The WCAG2ICT TF is a Task Force of the [Accessible Guidelines Working Group (AG WG)](/about/groups/agwg/).
 
 ### Facilitator and Contacts
 
 - **Facilitator:** Mary Jo Mueller (IBM)
-- **Staff Contact:**[](https://www.w3.org/People/#dmontalvo)
+- **Staff Contact:**[Daniel Montalvo](https://www.w3.org/People/#dmontalvo)
 
 Contact the task force leadership and working group chairs via email at [group-ag-chairs@w3.org](mailto:group-ag-chairs@w3.org)
 
 ### Work Statement
 
-The [WCAG2ICT Task Force Work Statement](https://www.w3.org/WAI/GL/task-forces/wcag2ict/work-statement) defines the objectives, scope, approach, and participation of the Task Force. The work statement has been approved by the Accessibility Guidelines WG.
+The [WCAG2ICT Task Force Work Statement](/about/groups/task-forces/wcag2ict/work-statement) defines the objectives, scope, approach, and participation of the Task Force. The work statement has been approved by the Accessibility Guidelines WG.
