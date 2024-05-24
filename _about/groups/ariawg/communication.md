@@ -10,8 +10,17 @@ github:
   path: '_about/groups/ariawg/communication.md'
 ---
 
+{::options toc_levels="2..3" /}
+
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
 {:/}
 
 The ARIA Working Group uses the following tools and procedures to perform its work.
