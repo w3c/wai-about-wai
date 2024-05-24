@@ -14,8 +14,7 @@ github:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-There are a number of ways non-participants in the ARIA WG can contribute to the work. If you wish to be an active contributer, however, you should [join the Working Group](https://www.w3.org/groups/wg/aria/instructions/).
-
+There are a number of ways non-participants in the ARIA WG can contribute to the work. If you wish to be an active contributer you should [join the Working Group](https://www.w3.org/groups/wg/aria/instructions/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -36,11 +35,11 @@ There are a number of ways non-participants in the ARIA WG can contribute to the
 
 
 
-## Public comments
+## Public Comments
 
 The ARIA WG accepts public comments on publications on the [public-aria](http://lists.w3.org/Archives/Public/public-aria/) list. This is primarily used for input on formal publications.
 
-## Github issues and pull requests
+## Github Issues and pull requests
 
 Technical work is done in a set of GitHub repositories. Work on a given feature may take place in several repositories, and follows the [ARIA Working Group Work Flow](https://www.w3.org/WAI/ARIA/workflow). Repositories maintained by the ARIA Working Group include:
 
