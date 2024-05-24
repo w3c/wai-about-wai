@@ -64,33 +64,32 @@ The ARIA Working Group engages with stakeholders in a variety of ways. See the f
 
 The ARIA WG conducts its work using a variety of synchronous and asynchronous tools. The [communication](aria/communication) page provides details about:
 
-- Teleconferences of the Working Group and its task forces (also see [meeting minutes](aria/minutes));
+- Teleconferences of the Working Group and its task forces (also see [meeting minutes](https://www.w3.org/WAI/ARIA/minutes));
 - Face to face meetings (also see face to face [meeting pages](https://www.w3.org/WAI/ARIA/wiki/Meetings));
 - Email lists;
 - [ARIA source repository](https://github.com/w3c/aria/);
 - [Wiki](https://www.w3.org/WAI/ARIA/wiki/);
-- [Web-Based Surveys (WBS)](/2002/09/wbs/83726/);
-- [Issue Tracker](track/);
+- [Web-Based Surveys (WBS)](https://www.w3.org//2002/09/wbs/83726/);
+- [Issue Tracker](https://github.com/w3c/aria/issues);
 - [ARIA source repository issue tracker](https://github.com/w3c/aria/issues).
 
-These tools are used by participants of the Working Group. For ways non-participants can contribute, see [how to contribute to the Working Group and file comments](aria/contribute).
+These tools are used by participants of the Working Group. For ways non-participants can contribute, see [how to contribute to the Working Group and file comments](/about/groups/ariawg/contribute/).
 
 ### Meeting Minutes
 
-[Minutes from previous meetings](aria/minutes) are available.
+[Minutes from previous meetings](https://www.w3.org/WAI/ARIA/minutes) are available.
 
 ## Administrative Information
 
-Work of the ARIA WG is in accordance with the [W3C Process](http://www.w3.org/Process). ARIA WG work is funded in part by the [WAI Core 2015 Project](http://www.w3.org/WAI/Core2015/). The work of this group does not necessarily reflect the views or policies of the funders.
+Work of the ARIA WG is in accordance with the [W3C Process](https://www.w3.org/Process). ARIA WG work is funded in part by the [WAI Core 2015 Project](https://www.w3.org/WAI/Core2015/). The work of this group does not necessarily reflect the views or policies of the funders.
 
-The chairs of the ARIA WG, responsible for overall leadership and management, are James Nurthen and Valerie Young. The staff contact, responsible for [W3C Process](http://www.w3.org/Consortium/Process/) and general support, is [Daniel Montalvo](https://www.w3.org/staff#dmontalvo).
+The chairs of the ARIA WG, responsible for overall leadership and management, are James Nurthen and Valerie Young. The staff contact, responsible for [W3C Process](https://www.w3.org/Process/) and general support, is [Daniel Montalvo](https://www.w3.org/staff#dmontalvo).
 
 The Accessible Rich Internet Applications Working Group maintains the following operational resources:
 
-- [Decision policy](aria/decision-policy);
+- [Decision policy](/about/groups/aria/decision-policy);
 - [Record of decisions made by the WG](https://www.w3.org/WAI/ARIA/wiki/Decisions);
-- [Archives of past activity](aria/archive);
-- [meeting minutes](aria/minutes).
+- [meeting minutes](https://www.w3.org/WAI/ARIA/minutes).
 
 W3C maintains a [public list of any patent disclosures](http://www.w3.org/2004/01/pp-impl/83726/status) made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent.
 
