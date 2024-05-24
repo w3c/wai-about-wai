@@ -142,6 +142,6 @@ WAI includes the following Working Groups and Interest Group:
 -   [Education and Outreach Working Group (EOWG)](/about/groups/eowg/)
 -   [WAI Interest Group (WAI IG)](/about/groups/waiig/) is an e-mail discussion list that is open to anyone
 
-Within the Working Groups, there are also [Task Forces](/about/groups/taskforces/).
+Within the Working Groups, there are also [Task Forces](/about/groups/task-forces/).
 
 Learn more about [Participating in WAI](https://www.w3.org/WAI/about/participating/).
