@@ -10,6 +10,16 @@ github:
   path: '_about/groups/ariawg/communication.md'
 ---
 
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+The ARIA Working Group uses the following tools and procedures to perform its work.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 {::options toc_levels="2..3" /}
 
 {::nomarkdown}
@@ -22,8 +32,6 @@ github:
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-The ARIA Working Group uses the following tools and procedures to perform its work.
 
 ## Teleconferences
 
@@ -66,6 +74,6 @@ The ARIA WG uses the following web-based resources as well:
 
 - [Wiki](https://www.w3.org/WAI/ARIA/wiki/), to develop or record content not immediately intended for formal publication. This is writeable by WG members and publicly readable.
 - [Web-Based Surveys (WBS)](http://www.w3.org/2002/09/wbs/83726/), to measure aggregate group opinion. These can be completed by WG members with publicly readable results.
-- [Issue Tracker](https://www.w3.org/WAI/ARIA/track/), to track issues and action items. This is maintainable by WG members and publicly readable.
+- [Issue Tracker](https://www.github.com/w3c/aria/issues/), to track issues and action items. This is maintainable by WG members and publicly readable.
 - [Bugzilla](https://www.w3.org/Bugs/Public/), to track issues specific to publications. This shared tool allows some collaboration with other W3C groups, but in general is not actively used by the WG. Users with a [W3C Bugzilla account](https://www.w3.org/Bugs/Public/createaccount.cgi) can file or comment on issues, and bugs are publicly readable.
-- GitHub Issues, to track issues for publications maintained in the [GitHub repositories](https://www.w3.org/WAI/ARIA/contribute#github). Users with a [GitHub account](https://github.com/) can file or comment on issues, and issues are publicly readable.
+- GitHub Issues, to track issues for publications maintained in the [GitHub repositories](/about/groups/aria/contribute#github). Users with a [GitHub account](https://github.com/) can file or comment on issues, and issues are publicly readable.
