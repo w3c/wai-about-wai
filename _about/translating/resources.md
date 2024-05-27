@@ -1,20 +1,24 @@
 ---
 title: "Step-by-Step Guide to Translating WAI Resources"
 nav_title: Translating WAI Resources
+lang: en
+last_updated: 2024-05-27
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+
 github:
   repository: w3c/wai-about-wai
-  path: '_about/translating/step-by-step.md'
-permalink: /about/translating/step-by-step/
-last_updated: 2024-04-09
-ref: /about/translating/step-by-step/
-lang: en
+  path: '_about/translating/resources.md'
 
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+permalink: /about/translating/resources/
+ref: /about/translating/resources/
+redirect_from:
+  - /about/translating/step-by-step/
+
 image: /content-images/wai-about-wai/social-translations.png
-
 feedbackmail: wai@w3.org
+
 footer: |
-  <p><strong>Date:</strong> Updated 9 April 2024.</p>
+  <p><strong>Date:</strong> Updated 27 May 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -72,7 +76,7 @@ Discussions, collaboration with reviewers and progress tracking are more easily 
 - If you do not already have a GitHub Account, [sign up {% include_cached external.html %}](https://github.com/signup) for an account;
 - If you are new to GitHub, we recommend that you follow this interactive free course:\
 [Introduction to GitHub {% include_cached external.html %}](https://github.com/skills/introduction-to-github);
-- For more specific guidance during the translation process, you can deep dive with our [[Using Github]](/about/translating/guides/using-github/) guide.
+- For more specific guidance during the translation process, you can deep dive with our [[Using Github]](/about/translating/resources/using-github/) guide.
 
 {::nomarkdown}
 {% include box.html type="start" title="Important Note" class="simple" %}
@@ -156,13 +160,13 @@ Please wait for reply from WAI team before starting a translation.
   - If you have followed the [recommended way](#translation-issue) to declare your intent, the link to the repository has been automatically added in the GitHub issue description.
 3. You can directly work from there.
 
-For further guidance on using GitHub to translate a WAI resource, follow the [dedicated guide](/about/translating/guides/using-github/).
+For further guidance on using GitHub to translate a WAI resource, follow the [dedicated guide](/about/translating/resources/using-github/).
 
 ### Translate the resource
 
-- Refer to [[Creating a Translation]](/about/translating/guides/new-translation/) guide
-- If the page you are translating has videos, also refer to [[How to Create Translated Video Subtitles and Descriptions]](/about/translating/guides/video-subtitles/)
-- If the page you are translating has images with text, also refer to [[How to Translate Images]](/about/translating/guides/video-subtitles/)
+- Refer to [[How to Translate a WAI Resource]](/about/translating/resources/technical-steps/) guide
+  - If the page you are translating has videos, also refer to [[How to Create Translated Video Subtitles and Descriptions]](/about/translating/resources/video-subtitles/)
+  - If the page you are translating has images with text, also refer to [[How to Translate Images]](/about/translating/resources/video-subtitles/)
 - Commit your changes.
 
 {% include excol.html type="end" %}
@@ -180,7 +184,7 @@ For further guidance on using GitHub to translate a WAI resource, follow the [de
   - When done, it will say **"✅ Deploy Preview for _wai-repo-name_ ready!"** and a "Deploy Preview" link will appear.
 
 3. Click on the preview link:
-  - Check everything listed in [Reviewer Guidance](/about/translating/guides/review-translation/#initial-things-to-check);
+  - Check everything listed in [Reviewer Guidance](/about/translating/reviewing/#initial-things-to-check);
   - Eventually, commit some fixes;
   - At this point, if you encounter some technical problems, ask for help from WAI team.
 

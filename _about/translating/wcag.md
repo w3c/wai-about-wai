@@ -6,10 +6,12 @@ last_updated: 2024-04-09
 
 github:
   repository: w3c/wai-about-wai
-  path: '_about/translating/guides/wcag.md'
+  path: '_about/translating/translating-wcag.md'
 
-permalink: /about/translating/guides/wcag/
-ref: /about/translating/guides/wcag/
+permalink: /about/translating/wcag/
+ref: /about/translating/wcag/
+redirect_from:
+  - /about/translating/guides/wcag/
 
 description: Technical instructions on translating WCAG
 image: /content-images/wai-about-wai/social-translations.png
@@ -82,7 +84,7 @@ Translate user-oriented content in:
 
 Make sure to follow these translation guidelines:
 - Update <html> `lang` and `xml:lang` attributes in `index.html` and `relative-luminance.html`.\
-  Use the appropriate language "subtag" from [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
+  Use the appropriate "language tag" from the [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 - Do not translate IDs
 - Add `hreflang="en"` to links when needed, and `lang="en"` where needed.
 - Follow the guidelines of the [W3C Internationalization Activity {% include_cached external.html %}](https://www.w3.org/International/): for example, the proper usage of language tags, encoding declarations, handling bidirectional text, etc.

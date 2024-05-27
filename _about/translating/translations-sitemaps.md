@@ -49,14 +49,14 @@ Translations sitemaps help you easily find a WAI resource to translate in your l
 
 We currently have [{{ site.translations-sitemaps.size }} translations sitemaps](#list).
 
-_If you are a new volunteer_, please [send us an e-mail to express your interest](/about/translating/step-by-step/#intent) first.
+_If you are a new volunteer_, please [send us an e-mail to express your interest](/about/translating/resources/#intent) first.
 
 ## How to use a translation sitemap {#how-to-use}
 
 ### Browse the list {#browse}
 
 Resources are presented in two ways:
-- _Priorities_ only lists [priority resources](/about/translating/step-by-step/#priorities) identified by the WAI team.
+- _Priorities_ only lists [priority resources](/about/translating/resources/#priorities) identified by the WAI team.
 - _Sitemap_ lists all WAI resources for which translations are welcome, grouped by top-level pages.
 
 {::nomarkdown}

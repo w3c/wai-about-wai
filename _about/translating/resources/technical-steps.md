@@ -1,21 +1,25 @@
 ---
 title: "How to Translate a WAI Resource"
 nav_title: New translation
+lang: en
+last_updated: 2024-05-27
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+
 github:
   repository: w3c/wai-about-wai
-  path: '_about/translating/guides/new-translation.md'
-permalink: /about/translating/guides/new-translation/
-ref: /about/translating/guides/new-translation/
-lang: en
-last_updated: 2024-04-09
+  path: '_about/translating/resources/technical-steps.md'
+
+permalink: /about/translating/resources/technical-steps/
+ref: /about/translating/resources/technical-steps/
 redirect_from:
   - /about/translating/guides/translation-guidance/
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
-image: /content-images/wai-about-wai/social-translations.png
+  - /about/translating/guides/new-translation/
 
+image: /content-images/wai-about-wai/social-translations.png
 feedbackmail: wai@w3.org
+
 footer: |
-  <p><strong>Date:</strong> Updated 9 April 2024.</p>
+  <p><strong>Date:</strong> Updated 27 May 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
   <p>Developed as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 ---
@@ -26,7 +30,7 @@ footer: |
 
 This page guides you through the technical steps to translate Web Accessibility Initiative (WAI) resources, and provides other important guidance.
 
-For instructions on translating the Web Content Accessibility Guidelines (WCAG), see [[How to Translate WCAG 2]](/about/translating/guides/wcag/).
+For instructions on translating the Web Content Accessibility Guidelines (WCAG), see [[How to Translate WCAG 2]](/about/translating/wcag/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -60,14 +64,14 @@ There are 4 main technical steps to create a new WAI resource translation:
 
 - **Do not change or adapt or add to the meaning of the English version** in your translation.\
 If you have suggestions for changes to the English version, submit them via GitHub or e-mail using the links in the “Help improve this page” box near the bottom of the page.
-- **Before starting, find the language short code "subtag"** from [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). You will use it at multiple times during the translation.
+- **Before starting, find the relevant ["language tag"](https://www.w3.org/International/questions/qa-choosing-language-tags)** from the [Language Subtag Registry {% include_cached external.html %}](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). You will use it many times during the translation.
 - The markdown files are very sensitive to indentation, commas, quotes, and special characters. **We recommend that you use a markdown editor or a simple text editor** (including GitHub interface) — and not a document editor like Microsoft Word that often changes quotes and indentation.
-- **Some resources have specific Translations notes.** If you see a comment such as "Read Translations Notes at" in the ["front matter" metadata](/about/translating/guides/new-translation/#frontmatter), follow the link and read the specific guidance.\
-If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance {% include_cached external.html %}](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
+- **Some resources have specific instructions.** Please take a look at [[Resource-Specific Translation Instructions]](/about/translating/resources/resource-specific-instructions/) to see if this applies to your targeted resource, and follow these additional instructions if it does.
+- If you wish to translate the [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/), please read [this specific guidance {% include_cached external.html %}](https://github.com/w3c/wai-wcag-em-report-tool/wiki/How-to-add-a-language), as different steps have to be followed.
 
 ## Initial step: Declare your intent
 
-In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/resources/#intent) and wait for reply from WAI team _before_ starting a translation.
 
 ## Step 1: Create a new file {#create-file}
 
@@ -126,9 +130,7 @@ footer: >
 {% include box.html type="end" %}
 {:/}
 
-### General instructions for front matter
-
-#### 2.1. Update the following front matter values:
+### 2.1. Update the following front matter values:
 
 `lang`
 - Replace the original value (`en`) with the language shortcode of your translation.  
@@ -147,7 +149,7 @@ footer: >
 - If this attribute is present, translate its content.
 - Do not change the dates in this section. Those dates should be the same in your translation as in the English version.
 
-#### 2.2. Add translators & contributors names.
+### 2.2. Add translators & contributors names.
 
 After `last_updated`, add these lines, depending on how many translators there are and if there are contributors.  
 
@@ -168,8 +170,6 @@ contributors:
 {:/}
 
 Or, if the lines are there with "`#`" before them to comment them out: delete the # and the space.
-
-#### Updated Example
 
 {::nomarkdown}
 {% include box.html type="start" title="Updated front matter for a translation into French" %}
@@ -313,18 +313,18 @@ Example:
 ```
 
 ### Specific wording {#specific-wording}
-- Check [other translations in your language](/translations) to see how similar words and concepts have been translated. In particular, [Authorized Translations](https://www.w3.org/Translations/authorized.html) have had significant review and input.
+- Check [other translations in your language](/translations/) to see how similar words and concepts have been translated. In particular, [Authorized Translations](https://www.w3.org/Translations/authorized.html) have had significant review and input.
 - Read the [General Translation Glossary {% include_cached external.html %}](https://github.com/w3c/wai-translations/blob/main/glossaries/general.md) and see if there is a [glossary for your language {% include_cached external.html %}](https://github.com/w3c/wai-translations#list-of-glossaries).
 - Consider different dialects. Where possible, the translation should use words and phrases that will be best understood across different areas.
 
 ### Videos & Images
 
-- If the page has videos, refer to [[How to Create Translated Video Subtitles and Descriptions]](/about/translating/guides/video-subtitles/)
-- If the page has images with text, refer to [[How to Translate Images]](/about/translating/guides/images/)
+- If the page has videos, refer to [[How to Create Translated Video Subtitles and Descriptions]](/about/translating/resources/video-subtitles/)
+- If the page has images with text, refer to [[How to Translate Images]](/about/translating/resources/images/)
 
 ## Step 4: Commit your changes and open a Pull Request {#commit-changes}
 
-Commit your changes and follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/step-by-step/#preview).
+Commit your changes and follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/resources/#preview).
 
 ## We are here to help
 
