@@ -7,10 +7,10 @@ description: Help make the Web accessible to people with disabilities around the
 
 github:
   repository: w3c/wai-about-wai
-  path: '_about/translating/resources/video-subtitles.md'
+  path: '_about/translating/resources/subtitles.md'
 
-permalink: /about/translating/resources/video-subtitles/
-ref: /about/translating/resources/video-subtitles/
+permalink: /about/translating/resources/subtitles/
+ref: /about/translating/resources/subtitles/
 redirect_from:
   - /about/translating/guides/video-subtitles/
 

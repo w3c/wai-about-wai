@@ -65,15 +65,15 @@ Thank you for your interest in translating resources from the World Wide Web Con
 
 To avoid overlapping work:
 * please do **not** translate files from the web
-* follow the [step-by-step guide](/about/translating/step-by-step/) to _get the right file to translate_ and to ensure that the resource is ready for you to translate.
+* follow the [step-by-step guide](/about/translating/resources/) to _get the right file to translate_ and to ensure that the resource is ready for you to translate.
 
 ### If you want to translate a WAI resource:
 
-- Follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/step-by-step/).
+- Follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/resources/).
 
 ### If you want to volunteer to review a translation:
 
-- Follow instructions in [[Reviewing a Translation]](/about/translating/guides/review-translation/).
+- Follow instructions in [[Reviewing a Translation]](/about/translating/reviewing/).
 
 We encourage you to keep up on related translations work by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
    
