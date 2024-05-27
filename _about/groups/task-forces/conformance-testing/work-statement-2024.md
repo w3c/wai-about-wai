@@ -1,5 +1,5 @@
 ---
-title: Accessibility Conformance Testing (ACT) Work Statement (2020)
+title: Accessibility Conformance Testing (ACT) Work Statement (2024)
 permalink: /about/groups/task-forces/conformance-testing/work-statement-2024/
 ref: /about/groups/task-forces/conformance-testing/work-statement-2024/
 lang: en
