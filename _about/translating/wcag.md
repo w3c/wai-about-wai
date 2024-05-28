@@ -6,7 +6,7 @@ last_updated: 2024-04-09
 
 github:
   repository: w3c/wai-about-wai
-  path: '_about/translating/translating-wcag.md'
+  path: '_about/translating/wcag.md'
 
 permalink: /about/translating/wcag/
 ref: /about/translating/wcag/
