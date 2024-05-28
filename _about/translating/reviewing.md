@@ -3,6 +3,7 @@ title: "Reviewing a WAI Translation"
 nav_title: Reviewing a Translation
 lang: en
 last_updated: 2024-03-07
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 
 # Do not delete the following translators/contributors lines: they are used to display an example in the page.
 translators:
@@ -14,15 +15,16 @@ contributors:
 
 github:
   repository: w3c/wai-about-wai
-  path: '_about/translating/guides/review-translation.md'
+  path: '_about/translating/reviewing.md'
 
-permalink: /about/translating/guides/review-translation/
-ref: /about/translating/guides/review-translation/
+permalink: /about/translating/reviewing/
+ref: /about/translating/review/
+redirect_from:
+  - /about/translating/guides/review-translation/
 
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
 image: /content-images/wai-about-wai/social-translations.png
-
 feedbackmail: wai@w3.org
+
 footer: |
   <p><strong>Date:</strong> Updated 7 March 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
@@ -138,7 +140,7 @@ We are happy to help you decide on the best translated wording by sharing the co
   <li>
 {:/}
 
-The language codes in the [frontmatter](/about/translating/guides/new-translation/#frontmatter) are correct.
+The language codes in the [frontmatter](/about/translating/resources/technical-steps/#frontmatter) are correct.
 
 {::nomarkdown}
   </li>
@@ -187,7 +189,7 @@ In the footer, the dates are the same in the English version and the translated 
 For any videos on the page, the `[CC]` icon of the video player defaults to the translated language.\
 See for example [_Keyboard Compatibility_ video in French](https://www.w3.org/WAI/perspective-videos/keyboard/fr).
 
-If not, some [video subtitles steps](/about/translating/guides/video-subtitles/) are probably missing.
+If not, some [video subtitles steps](/about/translating/resources/video-subtitles/) are probably missing.
 
 {::nomarkdown}
   </li>

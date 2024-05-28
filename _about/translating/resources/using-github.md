@@ -1,18 +1,22 @@
 ---
 title: "How to Use GitHub to Translate WAI Resources"
 nav_title: Using GitHub
-github:
-  repository: w3c/wai-about-wai
-  path: '_about/translating/guides/using-github.md'
-permalink: /about/translating/guides/using-github/
-ref: /about/translating/guides/using-github/
 lang: en
 last_updated: 2024-04-09
-
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
-image: /content-images/wai-about-wai/social-translations.png
 
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/translating/resources/using-github.md'
+
+permalink: /about/translating/resources/using-github/
+ref: /about/translating/resources/using-github/
+redirect_from:
+  - /about/translating/guides/using-github/
+
+image: /content-images/wai-about-wai/social-translations.png
 feedbackmail: wai@w3.org
+
 footer: |
   <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editors:</strong> Rémi Bétin and <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
@@ -54,7 +58,7 @@ This page guide you through the steps to translate WAI resources using GitHub.
 
 ## Initial step: Declare your intent
 
-In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/resources/#intent) and wait for reply from WAI team _before_ starting a translation.
 
 ## Create the translation file
 
@@ -91,7 +95,7 @@ In accordance with the WAI Translations process, please always [declare your int
       {% include image.html src="translating/new-file.jpg" alt="Screenshot of the edit view in GitHub, with the file tree expanded. The “+” or “Add file” button is outlined in dark orange." %}
    </figure>
    </li>
-   <li>Name the new file according to instructions on <a href="/WAI/about/translating/guides/new-translation/#create-file">Creating a New Translation</a> page.
+   <li>Name the new file according to instructions on <a href="/WAI/about/translating/resources/technical-steps/#create-file">Creating a New Translation</a> page.
    {% include showhidebutton.html showtext="Show screenshot" hidetext="Hide screenshot" target=".name-new-file" %}
    <figure class="name-new-file screenshot">
       {% include image.html src="translating/name-new-file.jpg" alt="Screenshot of the edit view in GitHub. The “File name” field, at the end of the secondary breadcrumb, is outlined in dark orange." %}
@@ -107,7 +111,7 @@ In accordance with the WAI Translations process, please always [declare your int
 
 <ol start="8">
    <li>
-   Edit the content to translate the file, following guidance from <a href="/WAI/about/translating/guides/new-translation/">Creating a New Translation</a> page.
+   Edit the content to translate the file, following guidance from <a href="/WAI/about/translating/resources/technical-steps/">Creating a New Translation</a> page.
    </li>
    <li>
    When you are happy with your work, click on "Commit changes..." to save the changes.

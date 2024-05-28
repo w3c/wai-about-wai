@@ -1,18 +1,22 @@
 ---
 title: "How to Translate Images"
 nav_title: Images
-github:
-  repository: w3c/wai-about-wai
-  path: '_about/translating/guides/images.md'
-permalink: /about/translating/guides/images/
-ref: /about/translating/guides/images/
 lang: en
 last_updated: 2024-04-09
-
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
-image: /content-images/wai-about-wai/social-translations.png
 
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/translating/resources/images.md'
+
+permalink: /about/translating/resources/images/
+ref: /about/translating/resources/images/
+redirect_from:
+  - /about/translating/guides/images/
+
+image: /content-images/wai-about-wai/social-translations.png
 feedbackmail: wai@w3.org
+
 footer: |
   <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editor:</strong> Rémi Bétin.</p>
@@ -52,7 +56,7 @@ There are 3 steps to create translated versions of our resources' images:
 
 ## Initial step: Declare your intent
 
-In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/resources/#intent) and wait for reply from WAI team _before_ starting a translation.
 
 ## Step 1: Translate the SVG source file {#translate-svg}
 
@@ -73,7 +77,7 @@ In general:
 <li>
 {:/}
 
-Duplicate the SVG file and add your language subtag in the filename. Example: `bridge.fr.svg`
+Duplicate the SVG file and add your language tag in the filename. Example: `bridge.fr.svg`
 
 {::nomarkdown}
 </li>
@@ -106,7 +110,7 @@ Select the text objects and translate them. If necessary, you can slightly adjus
 <li>
 {:/}
 
-Change the language (`dc:language`) value of the file, with your language subtag. For example: `fr` instead of `en`.
+Change the language (`dc:language`) value of the file, with your language tag. For example: `fr` instead of `en`.
 
 In Inkscape, you can go to `File > Document Properties…`. Then, in the "Metadata" tab, change the value of the "Language" field.
 
@@ -133,7 +137,7 @@ Save the SVG file.
 <ol>
 <li>
 {:/}
-Export the file as a PNG image, with your language subtag in the middle. Example: `bridge.fr.png`.\
+Export the file as a PNG image, with your language tag in the middle. Example: `bridge.fr.png`.\
 
 In Inkscape, go to `File > Export…` and make sure:
 - the Export area is "Page" (not "Document")

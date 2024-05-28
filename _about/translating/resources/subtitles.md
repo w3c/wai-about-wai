@@ -1,18 +1,22 @@
 ---
 title: "How to Create Translated Video Subtitles and Descriptions"
 nav_title: Subtitles/Descriptions
-github:
-  repository: w3c/wai-about-wai
-  path: '_about/translating/guides/video-subtitles.md'
-permalink: /about/translating/guides/video-subtitles/
-ref: /about/translating/guides/video-subtitles/
 lang: en
 last_updated: 2024-04-12
-
 description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
-image: /content-images/wai-about-wai/social-translations.png
 
+github:
+  repository: w3c/wai-about-wai
+  path: '_about/translating/resources/subtitles.md'
+
+permalink: /about/translating/resources/subtitles/
+ref: /about/translating/resources/subtitles/
+redirect_from:
+  - /about/translating/guides/video-subtitles/
+
+image: /content-images/wai-about-wai/social-translations.png
 feedbackmail: wai@w3.org
+
 footer: |
   <p><strong>Date:</strong> Updated 12 April 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
@@ -57,7 +61,7 @@ There are 4 steps to create new subtitles or video descriptions in a new languag
 
 ## Initial step: Declare your intent
 
-In accordance with the WAI Translations process, please always [declare your intent](/about/translating/step-by-step/#intent) and wait for reply from WAI team _before_ starting a translation.
+In accordance with the WAI Translations process, please always [declare your intent](/about/translating/resources/#intent) and wait for reply from WAI team _before_ starting a translation.
 
 ## Step 1: Find the related video identifier {#find-video-id}
 
@@ -146,13 +150,13 @@ Update the following video attributes
 Add your translated version to the list.
   
 - `subtitles`: available subtitles languages.\
-Add your language subtag to the list.
+Add your language tag to the list.
   
 - `subtitles-ad`: available subtitles languages for the audio-described version of the video.\
-Add your language subtag to the list.
+Add your language tag to the list.
   
 - `descriptions-ad`: available descriptions languages for the audio-described version of the video.\
-Add your language subtag to the list.
+Add your language tag to the list.
 
 {::nomarkdown}
   </li>

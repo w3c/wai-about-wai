@@ -1,18 +1,22 @@
 ---
 title: "Translating WAI Resources"
 nav_title: Translating
+lang: en
+last_updated: 2024-04-09
+description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
+
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating.md'
-  
+
 permalink: /about/translating/
 ref: /about/translating/
-last_updated: 2024-04-09
-lang: en
-description: Help make the Web accessible to people with disabilities around the world. We appreciate your contributions to translating W3C WAI accessibility resources.
-image: /content-images/wai-about-wai/social-translations.png
+redirect_from:
+  - /about/translating/guides/
 
+image: /content-images/wai-about-wai/social-translations.png
 feedbackmail: wai@w3.org
+
 footer: |
   <p><strong>Date:</strong> Updated 9 April 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Rémi Bétin.</p>
@@ -61,15 +65,15 @@ Thank you for your interest in translating resources from the World Wide Web Con
 
 To avoid overlapping work:
 * please do **not** translate files from the web
-* follow the [step-by-step guide](/about/translating/step-by-step/) to _get the right file to translate_ and to ensure that the resource is ready for you to translate.
+* follow the [step-by-step guide](/about/translating/resources/) to _get the right file to translate_ and to ensure that the resource is ready for you to translate.
 
 ### If you want to translate a WAI resource:
 
-- Follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/step-by-step/).
+- Follow instructions in [[Step-by-Step Guide to Translating WAI Resources]](/about/translating/resources/).
 
 ### If you want to volunteer to review a translation:
 
-- Follow instructions in [[Reviewing a Translation]](/about/translating/guides/review-translation/).
+- Follow instructions in [[Reviewing a Translation]](/about/translating/reviewing/).
 
 We encourage you to keep up on related translations work by [subscribing to the WAI Translations mailing list](mailto:public-wai-translations-request@w3.org?subject=subscribe).
    
