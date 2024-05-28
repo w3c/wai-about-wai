@@ -64,11 +64,11 @@ The Accessibility Guidelines Working Group engages with stakeholders in a variet
 
 * [How to contribute to the Working Group and file comments](https://www.w3.org/WAI/WCAG20/comments/);
 * [How to contribute to the source repository directly](https://github.com/w3c/wcag/);
-* [How to participate in (join) the Working Group](participation).
+* [How to participate in (join) the Working Group](/about/groups/agwg/participate/).
 
 ## Meetings and Communication
 
-The AG WG conducts its work using a variety of synchronous and asynchronous tools. The [communication page](communication) provides details about:
+The AG WG conducts its work using a variety of synchronous and asynchronous tools. The [communication page](/about/groups/agwg/communication/) provides details about:
 
 * Teleconferences of the Working Group and its task forces (also see [upcoming agendas](2/WAI/GL/wiki/Upcoming_agendas), meeting minutes);
 * Face to face meetings (also see face-to-face [meeting pages](https://www.w3.org/WAI/GL/wiki/Meetings));

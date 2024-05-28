@@ -41,7 +41,7 @@ The [Low Vision Accessibility Task Force](/about/groups/task-forces/low-vision-a
 
 ## Mobile Accessibility Task Force
 
-The [Mobile Accessibility Task Force](/about/groups/mobile-a11y-tf/) produce techniques, understanding and guidance documents as well as updates to existing related W3C / WAI material that addresses the mobile space.
+The [Mobile Accessibility Task Force](/about/groups/task-forces/matf/) produce techniques, understanding and guidance documents as well as updates to existing related W3C / WAI material that addresses the mobile space.
 
 ## Silver Task Force
 

@@ -72,11 +72,11 @@ The APA Working Group engages with stakeholders in a variety of ways. See the fo
 
 - [How to contribute to the Working Group and file comments](/about/groups/apawg/contribute/);
 - [How to contribute to the source repository directly](https://github.com/w3c/apa/);
-- [How to participate in (join) the Working Group](/about/groups/apawg/participation/).
+- [How to participate in (join) the Working Group](/about/groups/apawg/participate/).
 
 ## Meetings and Communication
 
-The APA WG conducts its work using a variety of synchronous and asynchronous tools. The [communication](/about/groups/apawg/communication) page provides details about:
+The APA WG conducts its work using a variety of synchronous and asynchronous tools. The [communication](/about/groups/apawg/communication/) page provides details about:
 
 - Teleconferences of the Working Group and its task forces (also see [meeting minutes](https://www.w3.org/WAI/APA/minutes));
 - Face to face meetings (also see face to face [meeting pages](https://www.w3.org/WAI/APA/wiki/Meetings));

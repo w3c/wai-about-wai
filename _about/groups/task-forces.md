@@ -24,7 +24,7 @@ ones, are listed on each Working Group's home page.
     it provides more consistency and comparability of the resulting test
     rules.
     
-**[ARIA Authoring Practices Task Force](/about/groups/task-forces/practices/)** under the [ARIA Working Group](about/groups/ariawg)
+**[ARIA Authoring Practices Task Force](/about/groups/task-forces/practices/)** under the [ARIA Working Group](/about/groups/ariawg/)
 :   Develop WAI-ARIA Authoring Practices Guide (APG), which describes considerations that might 
     not be evident to most authors from the WAI-ARIA specification  alone and recommends 
     approaches to make widgets, navigation, and behaviors accessible using WAI-ARIA roles,
@@ -74,7 +74,7 @@ ones, are listed on each Working Group's home page.
     Technologies (ICT).
 
 If you would like to learn about participating in a Task Force, see:
--   [Participating in WAI](/get-involved/) for general
+-   [Participating in WAI](/about/participating/) for general
     information
 -   The Task Force's home page linked above, and the "How to Join
     (Participation)" link in the navigation area of the Working Group's

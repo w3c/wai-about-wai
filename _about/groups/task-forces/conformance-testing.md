@@ -68,7 +68,7 @@ The ACT TF uses the public-wcag-act@w3.org mailing list ([mailing list archives]
 
 ### Tools and Information
 
-- [ACT TF Work Statement](/about/groups/task-forces/conformance-testing/work-statement)
+- [ACT TF Work Statement](/about/groups/task-forces/conformance-testing/work-statement/)
 - [Wiki main page](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/)
     - [ACT Overview](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/ACT_Overview_-_What_is_ACT)
     - [Meeting minutes](https://www.w3.org/WAI/GL/task-forces/conformance-testing/wiki/Meeting_Minutes) (also see [automatically collected minutes](https://www.w3.org/WAI/GL/task-forces/conformance-testing/minutes))

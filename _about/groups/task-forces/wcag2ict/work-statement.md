@@ -2,8 +2,8 @@
 title: "WCAG2ICT Task Force Work Statement"
 order: 2
 group: agwg
-permalink: /groups/agwg/task-forces/wcag2ict/work-statement/
-ref: /groups/agwg/task-forces/wcag2ict/work-statement/
+permalink: /about/groups/task-forces/wcag2ict/work-statement/
+ref: /about/groups/task-forces/wcag2ict/work-statement/
 lang: en
 github:
   repository: w3c/wai-about-wai
