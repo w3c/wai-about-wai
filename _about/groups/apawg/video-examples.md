@@ -14,7 +14,7 @@ The following videos highlight the work being performed in APA and within our ta
 
 ## WAI-Adapt Video Example
 
-The [WAI-Adapt Task Force](https://www.w3.org/WAI/APA/task-forces/adapt/) created a video to demonstrate a semantic overlay approach to enable user driven personalization, eg. the association of user-preferred symbols with elements having those semantics.
+The [WAI-Adapt Task Force](/about/groups/task-forces/personalization/) created a video to demonstrate a semantic overlay approach to enable user driven personalization, eg. the association of user-preferred symbols with elements having those semantics.
 
 ### Video Recording
 

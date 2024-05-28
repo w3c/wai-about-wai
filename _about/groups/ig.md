@@ -123,7 +123,7 @@ The [scope of the WAI IG](/WAI/IG/20200804#scope)
 includes:
 
 -   reviewing and discussing deliverables being developed by [WAI
-    Working Groups](https://www.w3.org/WAI/groups.html)
+    Working Groups](/about/groups/)
 -   providing input into specification reviews, research topics, and
     educational materials development
 -   exploring web accessibility issues and solutions
