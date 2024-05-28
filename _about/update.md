@@ -99,7 +99,7 @@ Documenting the user needs of people with disabilities helps develop standards t
 
 ### Testing Accessibility, Evaluation Tools
 
-* **Easy Checks – A First Review of Web Accessibility** helps you start to assess the accessibility of a web page. We are polishing up a new iteration of this popular resource. [Easy Checks - previous version](/test-evaluate/preliminary/), [draft new version of Easy Checks](/easy-checks/)
+* **Easy Checks – A First Review of Web Accessibility** helps you start to assess the accessibility of a web page. We are polishing up a new iteration of this popular resource. [Easy Checks - previous version](/test-evaluate/preliminary/), [draft new version of Easy Checks](/test-evaluate/easy-checks/)
 * **ACT Rules** (Accessibility Conformance Testing (ACT), also known as "WCAG 2 Test Rules") describe ways to test conformance to WCAG success criteria. They are primarily for developers of evaluation tools and test methodologies. We're documenting more. [[About WCAG 2 Test Rules]](/standards-guidelines/act/rules/about/) _[AG WG, ACT TF]_
 * ACT Rules implementation reports list how test tools or methodologies address test examples in ACT Rules. We invite evaluation tool developers to [submit implementation reports](https://act-rules.github.io/pages/implementations/reporting/). _[AG WG, ACT TF]_
 
