@@ -56,10 +56,13 @@ This page provides specific translation instructions for some WAI resources.
 {% include excol.html type="middle" %}
 {:/}
 
-Check if the [player is available in your translated language {% include_cached external.html %}](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages).
+In [Audio Description](/videos/standards-and-benefits/#audio-description) section:
+- Do not translate the text in `{% raw %}{% include t.html t='Enable Audio Description' %}{% endraw %}`: it will be automatically translated.
+- After that code, please add `("<span lang='en'>Enable Audio Description</span>")`.
 
-Then, translate the ["Translations" section](/videos/standards-and-benefits/#translations) of the page accordingly:
-1. **If the player _is_ available in the translated language**:
+In [Translations](/videos/standards-and-benefits/#translations) section:
+
+1. **If [the player _is_ available in the translated language {% include_cached external.html %}](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages)**:
    * Translate the following words from the video player interface:
      * "Captions"
      * "Show transcript"
