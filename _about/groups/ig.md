@@ -137,7 +137,7 @@ Sponsors](http://www.w3.org/WAI/Sponsor).
 
 ### Chair and Contacts
 
--   The WAI IG Chair is Katie Haritos-Shea
+-   The WAI IG Chair is Ashley Abaragu (Knowbility)
 -   The W3C Staff Contact is [Shawn Lawton
     Henry](http://www.w3.org/People/Shawn/)
 
