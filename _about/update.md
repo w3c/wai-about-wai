@@ -62,8 +62,7 @@ We hope you'll find accessibility work on this page that you are interested in c
 
 ### Updating Core Guidelines and Other Standards
 
-* **W3C Accessibility Guidelines (WCAG) 3** is in an exploratory phase, and will change substantially. It's years away from being finalized. Please see [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
-  * An updated [Working Draft of WCAG 3](https://www.w3.org/TR/wcag-3.0/) was published on 16 May 2024. We welcome your [review of this draft](/standards-guidelines/wcag/wcag3-intro/#for-your-review).
+* **W3C Accessibility Guidelines (WCAG) 3** is in an exploratory phase, and will change substantially. It's years away from being finalized. Please see information on the latest draft and [review questions](/standards-guidelines/wcag/wcag3-intro/#for-your-review) in [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/) _[AG WG]_
 
 * **ARIA 1.3** &mdash; We're working on additional support for Braille and other [new features for ARIA 1.3](https://w3c.github.io/aria/#substantive-changes-targeted-for-the-1-3-release).  _[ARIA WG]_
 
