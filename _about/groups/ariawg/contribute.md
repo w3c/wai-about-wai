@@ -1,7 +1,5 @@
 ---
 title: ARIA Contribution 
-order: 8
-group: ariawg
 permalink: /about/groups/ariawg/contribute/
 ref: /about/groups/ariawg/contribute/
 lang: en

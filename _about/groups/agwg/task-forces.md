@@ -1,7 +1,5 @@
 ---
 title: Task Forces
-order: 1
-group: agwg
 permalink: /about/groups/agwg/task-forces/
 ref: /about/groups/agwg/task-forces/
 lang: en

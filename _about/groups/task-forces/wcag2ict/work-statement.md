@@ -1,7 +1,5 @@
 ---
 title: "WCAG2ICT Task Force Work Statement"
-order: 2
-group: agwg
 permalink: /about/groups/task-forces/wcag2ict/work-statement/
 ref: /about/groups/task-forces/wcag2ict/work-statement/
 lang: en

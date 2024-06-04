@@ -1,7 +1,5 @@
 ---
 title: Decision Policy
-order: 2
-group: agwg
 permalink: /about/groups/agwg/decision-policy/
 ref: /about/groups/agwg/decision-policy/
 lang: en

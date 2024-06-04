@@ -1,8 +1,6 @@
 ---
 title: Task Forces
 nav_title: Task Forces
-order: 1
-group: apawg
 permalink: /about/groups/apawg/task-forces/
 ref: /about/groups/apawg/task-forces/
 lang: en

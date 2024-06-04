@@ -1,7 +1,5 @@
 ---
 title: Communication
-order: 5
-group: apawg
 permalink: /about/groups/apawg/communication/
 ref: /about/groups/apawg/communication/
 lang: en

@@ -1,7 +1,5 @@
 ---
 title: APA Video Examples
-order: 4
-group: apawg
 permalink: /about/groups/apawg/video-examples/
 ref: /about/groups/apawg/video-examples/
 lang: en

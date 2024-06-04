@@ -1,7 +1,5 @@
 ---
 title: ARIA Communication
-order: 6
-group: ariawg
 permalink: /about/groups/ariawg/communication/
 ref: /about/groups/ariawg/communication/
 lang: en

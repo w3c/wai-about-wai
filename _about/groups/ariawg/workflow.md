@@ -1,7 +1,5 @@
 ---
 title: ARIA Working Group Work Flow
-order: 3
-group: ariawg
 permalink: /about/groups/ariawg/workflow/
 ref: /about/groups/ariawg/workflow/
 lang: en

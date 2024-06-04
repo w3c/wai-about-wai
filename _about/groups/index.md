@@ -1,8 +1,6 @@
 ---
 nav_title: "Overview"
 title: WAI Working Groups and Interest Groups
-order: 1
-group: groups
 permalink: /about/groups/
 ref: /about/groups/
 lang: en

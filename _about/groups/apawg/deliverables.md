@@ -1,6 +1,5 @@
 ---
 title: APA Project Plan
-group: apawg
 permalink: /about/groups/apawg/deliverables/
 ref: /about/groups/apawg/deliverables/
 lang: en

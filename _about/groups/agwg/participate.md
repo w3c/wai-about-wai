@@ -1,7 +1,5 @@
 ---
 title: Participating in the Accessibility Guidelines Working Group (AGWG) 
-order: 4
-group: agwg
 permalink: /about/groups/agwg/participate/
 ref: /about/groups/agwg/participate/
 lang: en

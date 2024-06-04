@@ -1,7 +1,5 @@
 ---
 title: ARIA Working Group Road Map
-order: 4
-group: ariawg
 permalink: /about/groups/ariawg/roadmap/
 ref: /about/groups/ariawg/roadmap/
 lang: en

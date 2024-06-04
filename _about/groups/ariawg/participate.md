@@ -1,7 +1,5 @@
 ---
 title: APA Participation 
-order: 9
-group: ariawg
 permalink: /about/groups/ariawg/participate/
 ref: /about/groups/ariawg/participate/
 lang: en

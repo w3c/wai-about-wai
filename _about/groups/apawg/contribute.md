@@ -1,7 +1,5 @@
 ---
 title: How to Contribute 
-order: 6
-group: apawg
 permalink: /about/groups/apawg/contribute/
 ref: /about/groups/apawg/contribute/
 lang: en

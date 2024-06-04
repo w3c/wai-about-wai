@@ -1,7 +1,5 @@
 ---
 title: Meetings and Communication
-order: 3
-group: agwg
 permalink: /about/groups/agwg/communication/
 ref: /about/groups/agwg/communication/
 lang: en

@@ -1,7 +1,5 @@
 ---
 title: APA Participation 
-order: 7
-group: apawg
 permalink: /about/groups/apawg/participate/
 ref: /about/groups/apawg/participate/
 lang: en

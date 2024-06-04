@@ -1,7 +1,5 @@
 ---
 title: ARIA Task Forces
-order: 1
-group: ariawg
 permalink: /about/groups/ariawg/task-forces/
 ref: /about/groups/ariawg/task-forces/
 lang: en

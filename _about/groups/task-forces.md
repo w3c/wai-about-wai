@@ -1,7 +1,5 @@
 ---
 title: Group Task Forces
-order: 7
-group: groups
 permalink: /about/groups/task-forces/
 ref: /about/groups/task-forces/
 lang: en
