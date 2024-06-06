@@ -41,7 +41,7 @@ Some information on this page is also shown on, and may be more current in, the 
 
 The WCAG2ICT TF conducts its work using a variety of synchronous and asynchronous tools. Work is being done via teleconference, email and GitHub issues.
 
-- [Email lists](https://www.w3.org/WAI/GL/task-forces/wcag2ict/#email);
+- [Email lists](#mailing-lists);
 - [wcag2ict GitHub repository](https://github.com/w3c/wcag2ict/) and [GitHub draft document](https://w3c.github.io/wcag2ict/);
 - IRC discussion on the [#wcag2ict IRC channel](http://irc.w3.org/?channels=#wcag2ict), used largely for minute-taking. IF you use your own IRC client:
   - Server: irc.w3.org;

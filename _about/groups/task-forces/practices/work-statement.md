@@ -52,7 +52,7 @@ The task force will work within the ARIA Working Group to develop and refine the
 APG Task Force communications and discussions are visible to the public. The [task force home page](/about/groups/task-forces/practices/) details communication mechanisms in use. The task force will:
 
 - Support synchronous (e.g., teleconferences, face-to-face meetings) and asynchronous (e.g., mailing list discussions, issue trackers, wiki, surveys, etc.) methods of communication;
-- Use the procedures of the [ARIA Working Group Decision Policy](/about/groups/ariawg/decision-policy) to make decisions;
+- Use the procedures of the [ARIA Working Group Decision Policy](/about/groups/ariawg/decision-policy/) to make decisions;
 - Provide updates and feedback to ARIA Working Group teleconferences, as appropriate. These liaisons are primarily the responsibility of the APG Task Force Facilitators;
 - Maintain information resulting from its activities (deliverables, participants, face-to-face meetings, teleconferences, etc.) on the [APG Task Force home page](/about/groups/task-forces/practices/).
 

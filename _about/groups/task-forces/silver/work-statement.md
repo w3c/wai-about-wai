@@ -12,7 +12,7 @@ github:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-The Silver Task Force is a task force of the [Accessibility Guidelines Working Group (AG WG)](/about/groups/agwg). It assists this Working Group with the work identified below.
+The Silver Task Force is a task force of the [Accessibility Guidelines Working Group (AG WG)](/about/groups/agwg/). It assists this Working Group with the work identified below.
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}

@@ -55,7 +55,7 @@ The [communication](https://www.w3.org/2017/08/telecon-info_maturity-model) page
 - [Web-Based Surveys (WBS)](https://www.w3.org/2002/09/wbs/141517/);
 - [Maturity Model source repository issue tracker](https://github.com/w3c/maturity-model/issues).
 
-These tools are used by participants of the Task Force. For ways non-participants can contribute, see [how to contribute to the Working Group and file comments](/about/groups/apawg/contribute).
+These tools are used by participants of the Task Force. For ways non-participants can contribute, see [how to contribute to the Working Group and file comments](/about/groups/apawg/contribute/).
 
 ### Teleconferences
 

@@ -12,7 +12,7 @@ github:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-The [Maturity Model Task Force (MMTF)](/about/groups/task-forces/maturity-model/) is a task force of the [Accessible Platform Architectures (APA) Working Group](/about/groups/apawg). It assists this Working Group with the work identified below.
+The [Maturity Model Task Force (MMTF)](/about/groups/task-forces/maturity-model/) is a task force of the [Accessible Platform Architectures (APA) Working Group](/about/groups/apawg/). It assists this Working Group with the work identified below.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -66,7 +66,7 @@ The MMTF will prepare brief reports summarizing its findings in response to Matu
 MMTF communications and discussions must be visible to the public. The [task force home page](/about/groups/task-forces/maturity-model/) details communication mechanisms in use. The task force will:
 
 - Support synchronous (e.g., teleconferences, face-to-face meetings) and asynchronous (e.g., mailing list discussions, issue trackers, wiki, surveys, etc.) methods of communication;
-- Use the procedures of the [APA Working Group Decision Policy](/about/groups/apawg/decision-policy) to make decisions;
+- Use the procedures of the [APA Working Group Decision Policy](/about/groups/apawg/decision-policy/) to make decisions;
 - Provide updates and feedback to APA Working Group teleconferences, as appropriate. These liaisons are primarily the responsibility of the Maturity Model Task Force Facilitators;
 - Maintain information resulting from its activities (deliverables, participants, face-to-face meetings, teleconferences, etc.) on the [Maturity Model Task Force home page](/about/groups/task-forces/maturity-model/).
 - Review minutes of meetings for mistakes and comment by email on any significant mistakes that need correction.

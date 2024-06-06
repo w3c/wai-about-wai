@@ -33,7 +33,7 @@ The ARIA Authoring Practices (APG) Task Force is a task force of the [Accessible
 
 ## Status
 
-The APG Task Force was [approved on 14 September 2017](https://lists.w3.org/Archives/Public/public-aria-admin/2017Sep/0025.html) and is now active. The [Task Force home page](/about/groups/ariawg/task-forces/practices/) contains information about the operation and resources of the group.
+The APG Task Force was [approved on 14 September 2017](https://lists.w3.org/Archives/Public/public-aria-admin/2017Sep/0025.html) and is now active. The [Task Force home page](/about/groups/task-forces/practices/) contains information about the operation and resources of the group.
 
 ## Objective
 
@@ -49,7 +49,7 @@ The task force will work within the ARIA Working Group to develop and refine the
 
 ## Communication
 
-APG Task Force communications and discussions are visible to the public. The [ARIA Authoring Practices task force home page](/about/groups/ariawg/task-forces/practices/) details communication mechanisms in use. The task force will:
+APG Task Force communications and discussions are visible to the public. The [ARIA Authoring Practices task force home page](/about/groups/task-forces/practices/) details communication mechanisms in use. The task force will:
 
 - Support synchronous (e.g., teleconferences, face-to-face meetings) and asynchronous (e.g., mailing list discussions, issue trackers, wiki, surveys, etc.) methods of communication;
 - Use the procedures of the [ARIA Working Group Decision Policy](/about/groups/ariawg/decision-policy/) to make decisions;

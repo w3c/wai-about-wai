@@ -12,7 +12,7 @@ github:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-The Spoken Presentation Task Force is a task force of the [Accessible Platform Architectures Working Group](/about/groups/apa/).
+The Spoken Presentation Task Force is a task force of the [Accessible Platform Architectures Working Group](/about/groups/apawg/).
 
 Some information on this page is also shown on, and may be more current in, the [Spoken Presentation Task Force page](https://www.w3.org/groups/tf/pronunciation-tf/).
 

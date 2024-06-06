@@ -12,7 +12,7 @@ github:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-The Research Questions Task Force (RQTF) is a task force of the [Accessible Platform Architectures Working Group](/about/groups/apa/).
+The Research Questions Task Force (RQTF) is a task force of the [Accessible Platform Architectures Working Group](/about/groups/apawg/).
 
 Some information on this page is also shown on, and may be more current in, the [Research Questions Task Force page](https://www.w3.org/groups/tf/rqtf/).
 

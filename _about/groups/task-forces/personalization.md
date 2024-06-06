@@ -108,4 +108,4 @@ The WAI-Adapt Task Force is a Task Force of the [Accessible Platform Architectur
 
 ### Work Statement
 
-The [WAI-Adapt Task Force Work Statement](https://www.w3.org/WAI/APA/task-forces/adapt/work-statement) defines the initial objective, scope, approach, and participation of the Task Force.
+The [WAI-Adapt Task Force Work Statement](/about/groups/task-forces/personalization/work-statement/) defines the initial objective, scope, approach, and participation of the Task Force.

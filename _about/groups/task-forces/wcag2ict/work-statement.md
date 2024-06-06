@@ -21,7 +21,7 @@ github:
 {% include_cached toc.html type="end" %}
 {:/}
 
-The WCAG2ICT Task Force is a task force of the [Accessibility Guidelines Working Group (AG WG)](/groups/agwg/). It assists this Working Group with the work identified below.
+The WCAG2ICT Task Force is a task force of the [Accessibility Guidelines Working Group (AG WG)](/about/groups/agwg/). It assists this Working Group with the work identified below.
 
 ## Status
 

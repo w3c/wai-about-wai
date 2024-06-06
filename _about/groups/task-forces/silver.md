@@ -98,4 +98,4 @@ Contact the task force leadership and working group chairs by email to [group-ag
 
 ### Work Statement
 
-The [Silver Task Force Work Statement](/about/groups/task-forces/silver/work-statement) defines the initial objective, scope, approach, and participation of the Task Force.
+The [Silver Task Force Work Statement](/about/groups/task-forces/silver/work-statement/) defines the initial objective, scope, approach, and participation of the Task Force.

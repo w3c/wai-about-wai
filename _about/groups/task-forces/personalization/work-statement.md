@@ -12,7 +12,7 @@ github:
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-The [WAI-Adapt Task Force](/about/groups/task-forces/personalization/) is a task force of the [Accessible Platform Architectures (APA) Working Group](/about/groups/apawg). It assists this Working Group with the work identified below.
+The [WAI-Adapt Task Force](/about/groups/task-forces/personalization/) is a task force of the [Accessible Platform Architectures (APA) Working Group](/about/groups/apawg/). It assists this Working Group with the work identified below.
 
 {::nomarkdown}
 {% include box.html type="end" %}
