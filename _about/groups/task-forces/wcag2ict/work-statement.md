@@ -117,12 +117,12 @@ The list of liaisons will be updated to show official organization representatio
 WCAG2ICT Task Force communications are publicly visible. Communication mechanisms for the WCAG2ICT Task Force include:
 
 1.  [WCAG2ICT Task Force public mailing list](mailto:public-wcag2ict-tf@w3.org), [mailing list archive](http://lists.w3.org/Archives/Public/public-wcag2ict-tf/), and [GitHub issue tracker](https://github.com/w3c/wcag2ict/issues);
-2.  [WCAG2ICT subpage](https://www.w3.org/WAI/GL/task-forces/wcag2ict/) off of the [AG Working Group](http://www.w3.org/WAI/GL/) home page;
+2.  [WCAG2ICT subpage](/about/groups/task-forces/wcag2ict/) off of the [AG Working Group](/about/groups/agwg/) home page;
 3.  Weekly (and at times twice-weekly) teleconferences, with teleconference minutes sent to AG WG mailing list and linked from the [WCAG2ICT TF minutes](https://www.w3.org/WAI/GL/task-forces/wcag2ict/minutes) page;
 4.  Regular updates and feedback to AG WG, and to the [WAI Coordination Group](http://www.w3.org/WAI/CG/) (WAI CG) as needed;
 5.  Regular submission of deliverables to the AG WG for approval;
 6.  Management of project information and schedule in the [WCAG2ICT wiki](https://github.com/w3c/wcag2ict/wiki);
-7.  Summary of current status and progress on the [WCAG2ICT Task Force home page](https://www.w3.org/WAI/GL/WCAG2ICT-TF).
+7.  Summary of current status and progress on the [WCAG2ICT Task Force home page](/about/groups/task-forces/wcag2ict/).
 
 ## Participation
 

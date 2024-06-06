@@ -127,9 +127,9 @@ These deliverables were complemented by project management, dissemination, and e
 
 Most of the project work listed above was developed through or in coordination with:
 
--   [Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/)
--   [Accessibility Guidelines Working Group (AGWG)](https://www.w3.org/WAI/GL/)
--   [Accessible Platform Architectures Working Group (APA)](https://www.w3.org/WAI/APA/)
+-   [Education and Outreach Working Group (EOWG)](/about/groups/eowg/)
+-   [Accessibility Guidelines Working Group (AGWG)](/about/groups/agwg/)
+-   [Accessible Platform Architectures Working Group (APA)](/about/groups/apawg/)
 
 See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Kevin White](http://www.w3.org/People/kevin/) (Scientific Coordinator).
 

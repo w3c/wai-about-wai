@@ -27,7 +27,7 @@ The [WAI-Adapt Task Force](/about/groups/task-forces/personalization/) created a
 
 ## Pronunciation Video Example
 
-The [Spoken Presentation Task Force](https://www.w3.org/WAI/APA/task-forces/pronunciation/) created a video to demonstrate proposed approaches for controlling pronunciation in spans of web content.
+The [Spoken Presentation Task Force](/about/groups/apawg/task-forces/pronunciation/) created a video to demonstrate proposed approaches for controlling pronunciation in spans of web content.
 
 ### Video Recording
 

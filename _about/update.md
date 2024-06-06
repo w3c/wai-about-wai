@@ -128,11 +128,11 @@ This page _only lists about half_ of the active work on accessibility at W3C. Mu
 To learn more about what the Working Groups are working on right now, see:
 
 <!-- * [EOWG Current Work](https://www.w3.org/WAI/EO/wiki/EOWG_Current_Projects) - lists over 20 current and upcoming projects of the Accessibility Education and Outreach (EO) Working Group   -->
-* [APA Current Work](https://www.w3.org/WAI/APA/#work) - Accessible Platform Architectures (APA) Working Group
+* [APA Current Work](/about/groups/apawg/#current-work) - Accessible Platform Architectures (APA) Working Group
 * ARIA - Accessible Rich Internet Applications (ARIA) Working Group
   * [ARIA Working Drafts](https://www.w3.org/groups/wg/aria/publications#WD)
-  * [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
-* [AG WG Current Work](https://www.w3.org/WAI/GL/#work) - Accessibility Guidelines (AG) Working Group
+  * [ARIA Authoring Practices Guide (APG)](/about/groups/task-forces/practices/)
+* [AG WG Current Work](/about/groups/agwg/#current-work) - Accessibility Guidelines (AG) Working Group
   * [COGA Current Work](https://www.w3.org/WAI/GL/task-forces/coga/wiki/Main_Page) - Cognitive and Learning Disabilities Accessibility Task Force (COGA)
   <!--  * [LVTF Current Work](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Main_Page) -  Low Vision Accessibility Task Force (LVTF) -->
   * [Mobile Current Work](https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Main_Page) - Mobile Accessibility Task Force
@@ -265,7 +265,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](https://w
   * Deleted "ARIA 1.2..." from Current Work Highlights because we completed documenting immplementations and are ready to go from CR to PR.
   * [GitHub diff 12 Sept](https://github.com/w3c/wai-about-wai/pull/156/files), [rich text diff 12 Sept](https://github.com/w3c/wai-about-wai/pull/156/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
 * 31 August 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
-* 24 August 2022 &mdash; Added [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/). Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). [GitHub diff 24 Aug](https://github.com/w3c/wai-about-wai/pull/154/files), [rich text diff 24 Aug](https://github.com/w3c/wai-about-wai/pull/154/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
+* 24 August 2022 &mdash; Added [ARIA Authoring Practices Guide (APG)](/about/groups/task-forces/practices/). Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). [GitHub diff 24 Aug](https://github.com/w3c/wai-about-wai/pull/154/files), [rich text diff 24 Aug](https://github.com/w3c/wai-about-wai/pull/154/files?short_path=a0b7030#diff-a0b70304b865682a8845dbdca495ffbbc8198d8e7fc20066ce55181ffe0d461c)
 * 1 August 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications).
 * 12 July 2022 &mdash; added: **WCAG2ICT** describes how Web Content Accessibility Guidelines (WCAG) 2 can be applied to non-web information and communications technologies (ICT). We are updating it to include WCAG 2.1 and WCAG 2.2. [[WCAG2ICT Overview]](/standards-guidelines/wcag/non-web-ict/) _[AG WG, WCAG2ICT TF]_
 * 30 June 2022 &mdash; Updated [Upcoming Publications list](https://www.w3.org/WAI/update/#upcoming-publications). Updated 'Personalization' to 'WAI-Adapt'.

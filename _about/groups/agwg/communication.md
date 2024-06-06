@@ -80,5 +80,4 @@ The ARIA WG uses the following web-based resources as well:
 
 - [Wiki](https://www.w3.org/WAI/GL/wiki/), to develop or record content not immediately intended for formal publication. This is writeable by WG members and publicly readable.
 - [Web-Based Surveys (WBS)](https://www.w3.org/2002/09/wbs/35422/), to measure aggregate group opinion. These can be completed by WG members with publicly readable results.
-- [Issue Tracker](https://www.w3.org/WAI/GL/track/), to track issues and action items. This is maintainable by WG members and publicly readable.
 - [WCAG 2 GitHub Issues](https://github.com/w3c/wcag/issues) to track issues for publications maintained in the GitHub repository. Users with a [GitHub account](https://github.com/) can file or comment on issues, and issues are publicly readable.

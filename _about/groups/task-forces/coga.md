@@ -60,7 +60,7 @@ The Coga TF conducts its work using a variety of synchronous and asynchronous to
 - Teleconferences of the task force (also see [meeting minutes](https://www.w3.org/WAI/GL/task-forces/coga/minutes));
 - Face to face meetings;
 
-These tools are used by participants of the Task Force. For ways non-participants can contribute, see how to [participate in the Working Group](https://www.w3.org/WAI/GL/participation) and [file comments](https://www.w3.org/WAI/WCAG20/comments/).
+These tools are used by participants of the Task Force. For ways non-participants can contribute, see how to [participate in the Working Group](/about/groups/agwg/participate/) and [file comments](https://www.w3.org/WAI/WCAG20/comments/).
 
 ### Meeting Minutes
 

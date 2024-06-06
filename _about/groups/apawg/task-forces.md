@@ -42,4 +42,4 @@ The [Spoken Presentation Task Force](/about/groups/task-forces/pronunciation/) w
 
 ## Maturity Model Task Force
 
-The [Maturity Model Task Force](/about/groups/task-forces/maturity-model/) is to craft an Accessibility Maturity Model (AMM) narrative and assessment tool in support of W3C standards and other related guidance, such as Web Content Accessibility Guidelines (WCAG) and Accessibility Rich Internet Applications (ARIA), in consultation with the APA Working Group. Specifically, the MMTF Accessibility Maturity Model will assist organizations in building capacity to develop, and maintain, accessible products or services.
+The [Maturity Model Task Force](/about/groups/task-forces/maturity-model/) is to create an Accessibility Maturity Model (AMM) narrative and assessment tool in support of W3C standards and other related guidance, such as Web Content Accessibility Guidelines (WCAG) and Accessibility Rich Internet Applications (ARIA), in consultation with the APA Working Group. The Accessibility Maturity Model will assist organizations in building capacity to develop, and maintain, accessible products or services.
