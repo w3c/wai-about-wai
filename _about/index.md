@@ -137,12 +137,12 @@ To reach all WAI staff, you can e-mail <wai@w3.org>
 
 WAI includes the following Working Groups and Interest Group:
 
--   [Accessibility Guidelines Working Group (AG WG)](/GL/) (formerly the Web Content Accessibility Guidelines Working Group)
--   [Accessible Platform Architectures (APA) Working Group](/APA/)
--   [Accessible Rich Internet Applications (ARIA) Working Group](/ARIA/)
+-   [Accessibility Guidelines Working Group (AG WG)](/about/groups/agwg/) (formerly the Web Content Accessibility Guidelines Working Group)
+-   [Accessible Platform Architectures (APA) Working Group](/about/groups/apawg/)
+-   [Accessible Rich Internet Applications (ARIA) Working Group](/about/groups/ariawg/)
 -   [Education and Outreach Working Group (EOWG)](/about/groups/eowg/)
 -   [WAI Interest Group (WAI IG)](/about/groups/waiig/) is an e-mail discussion list that is open to anyone
 
-Within the Working Groups, there are also [Task Forces](/about/groups/taskforces/).
+Within the Working Groups, there are also [Task Forces](/about/groups/task-forces/).
 
 Learn more about [Participating in WAI](https://www.w3.org/WAI/about/participating/).

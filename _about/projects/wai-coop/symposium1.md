@@ -29,7 +29,7 @@ github:
 ## Invitation
 {:#invitation}
 
-The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring research challenges and opportunities in digital accessibility.
+The Web Accessibility Initiative - Communities of Practice ([WAI-CooP](https://www.w3.org/WAI/about/projects/wai-coop/)) Project and the W3C Accessible Platform Architectures ([APA](/about/groups/apawg/)) Working Group invite researchers, practitioners, and users with disabilities to participate in an international online symposium exploring research challenges and opportunities in digital accessibility.
 
 - Symposium date: **10 November 2021**
 - Paper submission date: **6 October 2021**
@@ -183,6 +183,6 @@ Contributions will be reviewed by the Review Committee. Each paper will get at l
 
 ![An EU Project]({{ "/content-images/wai-about-wai/eu.svg" | relative_url }}){:.right.small}
 
-This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](https://www.w3.org/WAI/APA/). The conference management system is donated by [OpenConf](https://www.openconf.com/).
+This research symposium is organized by the [WAI-CooP Project](https://www.w3.org/WAI/about/projects/wai-coop/), an European Commission co-funded project, and the [W3C Accessible Platform Architectures (APA) Working Group](/about/groups/apawg/). The conference management system is donated by [OpenConf](https://www.openconf.com/).
 
 ![OpenConf logo]({{ "/content-images/wai-about-wai/logo-OpenConf.png" | relative_url }}){:.small}
