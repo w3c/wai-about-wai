@@ -1,15 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7594e39d-39ba-4589-b534-faf166e8527d/deploy-status)](https://app.netlify.com/sites/wai-about-wai/deploys)
-
-## In context:
-
-The wai-website repository imports this reposity as a git submodule, pages and content-images are symlinked so that Jekyll can take them up.
-
-```
-╔═════════════════════════╗                      ┌─────────────────────────┐
-║                         ║                      │                         │
-║                         ║    git submodule     │                         │
-║       wai-website       ║◀━━━━━━━━━━━━━━━━━━━━━│      wai-about-wai      │
-║          ┌──────────────╢                      ├──────────────┐          │
-║          │content-images║ ─  ─  symlink  ─  ─ ▶│content-images│          │
-╚══════════╧══════════════╝                      └──────────────┴──────────┘
-```
+> [!IMPORTANT]
+> This repository has been archived 13 June 2024.
+>
+> [About W3C WAI](https://www.w3.org/WAI/about/) section is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
