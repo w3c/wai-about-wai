@@ -33,7 +33,7 @@ The [Spoken Presentation Task Force](/about/groups/task-forces/pronunciation/) i
 
 ## Status
 
-The Spoken Presentation Task Force was [approved on 10 June 2016](https://lists.w3.org/Archives/Public/public-apa-admin/2018Oct/0008.html) and is now active. The [Task Force home page](https://www.w3.org/WAI/APA/task-forces/pronunciation/) contains information about the operation and resources of the group.
+The Spoken Presentation Task Force was [approved on 10 June 2016](https://lists.w3.org/Archives/Public/public-apa-admin/2018Oct/0008.html) and is now active. The [Task Force home page](/about/groups/task-forces/pronunciation/) contains information about the operation and resources of the group.
 
 ## Objective
 
